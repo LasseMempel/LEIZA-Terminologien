@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C4BCF8",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
   "type": "Concept",
   "prefLabel": {
     "de": "Zustandserfassung"
@@ -25,31 +25,31 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DBC278",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DBC278",
       "prefLabel": {
         "de": "Bisherige Lagerung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A4G52F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A4G52F",
       "prefLabel": {
         "de": "Einlieferungszustand"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D9G51G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G51G",
       "prefLabel": {
         "de": "Erhaltungszustand"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C2488A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2488A",
       "prefLabel": {
         "de": "Endzustand"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CA1BC5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA1BC5",
       "prefLabel": {
         "de": "Objektuntersuchung"
       }
@@ -57,49 +57,49 @@
   ],
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A18D95",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
       "prefLabel": {
         "de": "Konservierungskonzept"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C33D85",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85",
       "prefLabel": {
         "de": "Zustandsfoto"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CB7747",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
       "prefLabel": {
         "de": "Bildgebende Dokumentation"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D7D443",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D7D443",
       "prefLabel": {
         "de": "Zustandsbericht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D3AF3A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
       "prefLabel": {
         "de": "Zustandsdokumentation"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D9A6FA",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9A6FA",
       "prefLabel": {
         "de": "Zustandskartierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F58F6D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F58F6D",
       "prefLabel": {
         "de": "3D-Scan"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FD2B2B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD2B2B",
       "prefLabel": {
         "de": "Röntgenbild"
       }
@@ -112,17 +112,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -137,6 +137,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -267,6 +268,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

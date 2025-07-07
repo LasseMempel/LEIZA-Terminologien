@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D92DAG",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D92DAG",
   "type": "Concept",
   "prefLabel": {
     "de": "handaufgebaut"
@@ -14,32 +14,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AA5F82",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA5F82",
       "prefLabel": {
         "de": "Wulsttechnik"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G6FB44",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G6FB44",
       "prefLabel": {
         "de": "Plattentechnik"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AGG387",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AGG387",
     "prefLabel": {
       "de": "formgebende Technik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -54,6 +54,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -184,6 +185,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

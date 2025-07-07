@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AFD671",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671",
   "type": "Concept",
   "prefLabel": {
     "de": "Farbstoff"
@@ -20,51 +20,51 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C1G6C8",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C1G6C8",
       "prefLabel": {
         "de": "Blattsilber"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G5733B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G5733B",
       "prefLabel": {
         "de": "Dispersionsfarbe"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DBAD15",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DBAD15",
       "prefLabel": {
         "de": "Schlagmetall"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F49579",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F49579",
       "prefLabel": {
         "de": "Blattgold"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F64B9C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F64B9C",
       "prefLabel": {
         "de": "Pigment"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G5G1DC",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G5G1DC",
       "prefLabel": {
         "de": "Ölfarbe"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C364G1",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BD119A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BD119A",
       "prefLabel": {
         "de": "Retusche"
       }
@@ -72,12 +72,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -92,6 +92,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -222,6 +223,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

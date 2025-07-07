@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FC2113",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC2113",
   "type": "Concept",
   "prefLabel": {
     "de": "Lichtmikroskop"
@@ -26,62 +26,62 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A75779",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A75779",
       "prefLabel": {
         "de": "Stereomikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A7FA3B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A7FA3B",
       "prefLabel": {
         "de": "Polarisationsmikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A9611D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9611D",
       "prefLabel": {
         "de": "Durchlichtmikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A9F854",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9F854",
       "prefLabel": {
         "de": "Fluoreszenzmikroskopen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AG4G3C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG4G3C",
       "prefLabel": {
         "de": "Digitalmikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B7AF8G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B7AF8G",
       "prefLabel": {
         "de": "Konfokalmikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B94DCD",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B94DCD",
       "prefLabel": {
         "de": "Auflichtmikroskop"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B538AG",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B538AG",
     "prefLabel": {
       "de": "Mikroskop"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -96,6 +96,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -226,6 +227,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

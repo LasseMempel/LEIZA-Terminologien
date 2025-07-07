@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A1D125",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A1D125",
   "type": "Concept",
   "prefLabel": {
     "de": "synthetisches Polymer"
@@ -28,86 +28,86 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GFD582",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582",
       "prefLabel": {
         "de": "Acrylharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A3G356",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A3G356",
       "prefLabel": {
         "de": "Polyurethan"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DF5773",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773",
       "prefLabel": {
         "de": "Polyvinylacetat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AF31AG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG",
       "prefLabel": {
         "de": "Epoxidharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B572B5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5",
       "prefLabel": {
         "de": "Polyvinylbutyral"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CD13GA",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD13GA",
       "prefLabel": {
         "de": "Cyclododecan"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DF633G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G",
       "prefLabel": {
         "de": "Melamin-Formaldehydharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F89522",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F89522",
       "prefLabel": {
         "de": "Polyethylenglycol"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C838C1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C838C1",
       "prefLabel": {
         "de": "Polyvinylalkohol"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F8A93F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F8A93F",
       "prefLabel": {
         "de": "Polyesterharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D41661",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D41661",
       "prefLabel": {
         "de": "Cellulosederivat"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B7B8B6",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B7B8B6",
     "prefLabel": {
       "de": "[Adhäsivstoff]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -122,6 +122,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -252,6 +253,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

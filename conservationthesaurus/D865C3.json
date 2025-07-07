@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D865C3",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D865C3",
   "type": "Concept",
   "prefLabel": {
     "de": "Überarbeitung"
@@ -22,38 +22,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C6C3CF",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF",
       "prefLabel": {
         "de": "frühere Restaurierungsmaterialien entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DGF99C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DGF99C",
       "prefLabel": {
         "de": "Blockbergung aufgelöst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F57A2A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F57A2A",
       "prefLabel": {
         "de": "temporäre Stabilisierung entfernt"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C79561",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
     "prefLabel": {
       "de": "Restaurierung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -68,6 +68,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -198,6 +199,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

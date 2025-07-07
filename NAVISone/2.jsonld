@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/2",
   "type": "Concept",
   "prefLabel": {
     "de": "[Arbeitsumgebung]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2EA1AB",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/2EA1AB",
       "prefLabel": {
         "de": "See",
         "dk": "Hav",
@@ -21,14 +21,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/7D2D8B",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/7D2D8B",
       "prefLabel": {
         "de": "Küste",
         "en": "Coastal"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D800BA",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D800BA",
       "prefLabel": {
         "de": "Unbekannt",
         "dk": "Ukendt anvendelsesområde",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/E0984E",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/E0984E",
       "prefLabel": {
         "de": "Binnenland",
         "dk": "Indland",
@@ -58,17 +58,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -83,6 +83,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -213,6 +214,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B86G16",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B86G16",
   "type": "Concept",
   "prefLabel": {
     "de": "Materialhinzufügung"
@@ -24,68 +24,68 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BBF64G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBF64G",
       "prefLabel": {
         "de": "staubbedeckt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BA75DG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BA75DG",
       "prefLabel": {
         "de": "salzausblühend"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C3C616",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3C616",
       "prefLabel": {
         "de": "verkrustet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D48G16",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D48G16",
       "prefLabel": {
         "de": "rußbedeckt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F473B6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F473B6",
       "prefLabel": {
         "de": "abgelagert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F9F255",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9F255",
       "prefLabel": {
         "de": "fettverschmiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FC7715",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC7715",
       "prefLabel": {
         "de": "sedimentiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G57G31",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G57G31",
       "prefLabel": {
         "de": "biologisch bewachsen"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DAC996",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
     "prefLabel": {
       "de": "Schadensphänomen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -100,6 +100,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -230,6 +231,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

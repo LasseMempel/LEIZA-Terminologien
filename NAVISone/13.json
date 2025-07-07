@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/13",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/13",
   "type": "Concept",
   "prefLabel": {
     "de": "[Staken und treideln]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/4FF277",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/4FF277",
       "prefLabel": {
         "de": "Stakstange",
         "dk": "Stage",
@@ -23,17 +23,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -48,6 +48,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -178,6 +179,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

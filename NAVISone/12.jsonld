@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/12",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/12",
   "type": "Concept",
   "prefLabel": {
     "de": "[Rudern und paddeln]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/379A2E",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/379A2E",
       "prefLabel": {
         "de": "Ausleger",
         "dk": "Udrigger",
@@ -20,7 +20,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/3C3311",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/3C3311",
       "prefLabel": {
         "de": "Kanuausleger",
         "dk": "Udrigger (Dugout)",
@@ -33,7 +33,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/4B0A52",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/4B0A52",
       "prefLabel": {
         "de": "Keipe",
         "dk": "Kejpe",
@@ -47,7 +47,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/75D305",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/75D305",
       "prefLabel": {
         "de": "Paddel",
         "dk": "Padle",
@@ -61,7 +61,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/9A4CAE",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/9A4CAE",
       "prefLabel": {
         "de": "Duchtstütze",
         "dk": "Toftestander",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A1A0DE",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A1A0DE",
       "prefLabel": {
         "de": "Ruderducht (Sitz)",
         "dk": "Tofte",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A3C7CB",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A3C7CB",
       "prefLabel": {
         "de": "Riemenpforte",
         "dk": "årehul",
@@ -103,7 +103,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D8EF0C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D8EF0C",
       "prefLabel": {
         "de": "Dolle",
         "dk": "Tolle",
@@ -117,7 +117,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/DCA950",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/DCA950",
       "prefLabel": {
         "de": "Riemen",
         "dk": "åre",
@@ -133,17 +133,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -158,6 +158,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -288,6 +289,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

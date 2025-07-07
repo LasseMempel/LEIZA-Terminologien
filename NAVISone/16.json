@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/16",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/16",
   "type": "Concept",
   "prefLabel": {
     "de": "[Oberflächenbehandlung]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1EB740",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/1EB740",
       "prefLabel": {
         "de": "Dekoration",
         "dk": "Dekoration",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/88C1CD",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/88C1CD",
       "prefLabel": {
         "de": "Kalfat",
         "dk": "Kalfatring",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D59DA1",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D59DA1",
       "prefLabel": {
         "de": "Plankenbeschlag",
         "dk": "Forhudning",
@@ -51,17 +51,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -76,6 +76,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -206,6 +207,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

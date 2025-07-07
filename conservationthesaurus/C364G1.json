@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C364G1",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
   "type": "Concept",
   "prefLabel": {
     "de": "Konservierungs- und Restaurierungsmaterialien"
@@ -18,92 +18,92 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BB78D2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
       "prefLabel": {
         "de": "Füllstoff"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A2B746",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746",
       "prefLabel": {
         "de": "Base"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C421BF",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
       "prefLabel": {
         "de": "Lösungsmittel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FGF575",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
       "prefLabel": {
         "de": "Säure"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CCCC7G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CCCC7G",
       "prefLabel": {
         "de": "Öl"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D9G356",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G356",
       "prefLabel": {
         "de": "[Stütz- und Verpackungsmaterial]"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FBFFF5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FBFFF5",
       "prefLabel": {
         "de": "[Abform- und Ergänzungsmaterial]"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ACFF37",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ACFF37",
       "prefLabel": {
         "de": "Korrosionsinhibitor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BGGCA4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
       "prefLabel": {
         "de": "Verstärkungsfaser"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B3FCA1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1",
       "prefLabel": {
         "de": "Reduktionsmittel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ADD53A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ADD53A",
       "prefLabel": {
         "de": "Strahlmittel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AFD671",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671",
       "prefLabel": {
         "de": "Farbstoff"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F87124",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F87124",
       "prefLabel": {
         "de": "Komplexbildner"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B7B8B6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B7B8B6",
       "prefLabel": {
         "de": "[Adhäsivstoff]"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CFGDA3",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3",
     "prefLabel": {
       "de": "Maßnahme"
     }
@@ -118,12 +118,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -138,6 +138,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -268,6 +269,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DBC278",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DBC278",
   "type": "Concept",
   "prefLabel": {
     "de": "Bisherige Lagerung"
@@ -12,56 +12,56 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A8ABBA",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8ABBA",
       "prefLabel": {
         "de": "klimatisierte Lagerung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C7C3B7",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C7C3B7",
       "prefLabel": {
         "de": "Grabungsfrischer Fund"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F52262",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F52262",
       "prefLabel": {
         "de": "Depotlagerung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FC3322",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC3322",
       "prefLabel": {
         "de": "Ausstellungsentnahme"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G79CA9",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G79CA9",
       "prefLabel": {
         "de": "unklimatisierte Lagerung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GC6983",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC6983",
       "prefLabel": {
         "de": "Rückgabe aus Leihverkehr"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C4BCF8",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
     "prefLabel": {
       "de": "Zustandserfassung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -76,6 +76,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -206,6 +207,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

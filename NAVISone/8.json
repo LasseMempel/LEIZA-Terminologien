@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/8",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/8",
   "type": "Concept",
   "prefLabel": {
     "de": "[Decks und Weger]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/0BE8C2",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/0BE8C2",
       "prefLabel": {
         "de": "Decksbalken",
         "dk": "Bjælke",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/10E2CF",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/10E2CF",
       "prefLabel": {
         "de": "Laufplanke",
         "dk": "Gangbro",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/61AB9E",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/61AB9E",
       "prefLabel": {
         "de": "Deck",
         "dk": "Dæk",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/817F57",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/817F57",
       "prefLabel": {
         "de": "Decksplanke",
         "dk": "Dæksplanke",
@@ -62,7 +62,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/EF0C63",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/EF0C63",
       "prefLabel": {
         "de": "Lukendeckel",
         "dk": "Luge",
@@ -78,17 +78,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -103,6 +103,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -233,6 +234,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

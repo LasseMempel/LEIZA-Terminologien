@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G3D2F5",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G3D2F5",
   "type": "Concept",
   "prefLabel": {
     "de": "korrodiert"
@@ -22,92 +22,92 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BCDC47",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BCDC47",
       "prefLabel": {
         "de": "Bimetallkorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BFDB22",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFDB22",
       "prefLabel": {
         "de": "Spannungsrisskorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D2FD5A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D2FD5A",
       "prefLabel": {
         "de": "oxidiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D68BAA",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D68BAA",
       "prefLabel": {
         "de": "Flächenkorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F7F2A4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F7F2A4",
       "prefLabel": {
         "de": "Spaltkorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F9C118",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9C118",
       "prefLabel": {
         "de": "Lochkorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G2AFC3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G2AFC3",
       "prefLabel": {
         "de": "interkristalline Korrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B19D33",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B19D33",
       "prefLabel": {
         "de": "Pseudomorphose"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GC4CA7",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC4CA7",
       "prefLabel": {
         "de": "Patinabildung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B9C457",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9C457",
       "prefLabel": {
         "de": "Bronzekrankheit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DGC3A9",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DGC3A9",
       "prefLabel": {
         "de": "Glaskorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CFC44A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFC44A",
       "prefLabel": {
         "de": "Zinnpest"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C9D991",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C9D991",
     "prefLabel": {
       "de": "chemische Veränderung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -122,6 +122,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -252,6 +253,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

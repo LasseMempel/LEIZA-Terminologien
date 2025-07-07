@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/19",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/19",
   "type": "Concept",
   "prefLabel": {
     "de": "[Aufbauten]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/5EF232",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/5EF232",
       "prefLabel": {
         "de": "Reling",
         "dk": "Gelænder",
@@ -20,7 +20,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/644D77",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/644D77",
       "prefLabel": {
         "de": "Achterkastell",
         "dk": "Agerkastel",
@@ -33,7 +33,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/9DF75C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/9DF75C",
       "prefLabel": {
         "de": "Kabine",
         "dk": "Kahyt",
@@ -47,7 +47,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B6D026",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B6D026",
       "prefLabel": {
         "de": "Vorderkastell",
         "dk": "Forkastel",
@@ -62,17 +62,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -87,6 +87,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -217,6 +218,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

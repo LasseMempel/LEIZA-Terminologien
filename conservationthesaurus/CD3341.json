@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CD3341",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341",
   "type": "Concept",
   "prefLabel": {
     "de": "organisches Material"
@@ -26,32 +26,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G76A78",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76A78",
       "prefLabel": {
         "de": "Kaustobiolith"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F3G8D1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1",
       "prefLabel": {
         "de": "Materialien pflanzlichen Ursprungs"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A9A858",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9A858",
       "prefLabel": {
         "de": "Holz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F2A45F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F",
       "prefLabel": {
         "de": "Materialien tierischen Ursprungs"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B51DAF",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B51DAF",
     "prefLabel": {
       "de": "Material"
     }
@@ -71,12 +71,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -91,6 +91,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -221,6 +222,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

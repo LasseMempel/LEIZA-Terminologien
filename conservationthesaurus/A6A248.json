@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A6A248",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248",
   "type": "Concept",
   "prefLabel": {
     "de": "maschinelle Freilegung"
@@ -16,74 +16,74 @@
     "A6A248"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G814D2",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
     "prefLabel": {
       "de": "Freilegung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C5A318",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5A318",
       "prefLabel": {
         "de": "Ultraschallgerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C4C6B6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6",
       "prefLabel": {
         "de": "Schleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B2642A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2642A",
       "prefLabel": {
         "de": "Oberflächenbeschichtungen entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ADD53A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ADD53A",
       "prefLabel": {
         "de": "Strahlmittel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CA59C2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA59C2",
       "prefLabel": {
         "de": "Klebungen entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F57A2A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F57A2A",
       "prefLabel": {
         "de": "temporäre Stabilisierung entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FGBB54",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGBB54",
       "prefLabel": {
         "de": "Ergänzungsmaterialien entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BBB987",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBB987",
       "prefLabel": {
         "de": "Absauganlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C871CB",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C871CB",
       "prefLabel": {
         "de": "Ultraschallfeinmeißel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G487C2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G487C2",
       "prefLabel": {
         "de": "Feinstrahlgerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D8G747",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747",
       "prefLabel": {
         "de": "Mikromotor"
       }
@@ -91,12 +91,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -111,6 +111,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -241,6 +242,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

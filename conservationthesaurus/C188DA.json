@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C188DA",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C188DA",
   "type": "Concept",
   "prefLabel": {
     "de": "Substanzverlust"
@@ -22,56 +22,56 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A77283",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A77283",
       "prefLabel": {
         "de": "durchwurzelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A8588A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8588A",
       "prefLabel": {
         "de": "Fehlstellen aufweisend"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C36GDB",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C36GDB",
       "prefLabel": {
         "de": "abgerieben"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C5GCB6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5GCB6",
       "prefLabel": {
         "de": "zerfressen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D45638",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D45638",
       "prefLabel": {
         "de": "erodiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D99GD4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D99GD4",
       "prefLabel": {
         "de": "zerkratzt"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DAC996",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
     "prefLabel": {
       "de": "Schadensphänomen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -86,6 +86,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -216,6 +217,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

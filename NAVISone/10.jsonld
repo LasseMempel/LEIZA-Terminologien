@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/10",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
   "type": "Concept",
   "prefLabel": {
     "de": "[Besegelung]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/074F8A",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/074F8A",
       "prefLabel": {
         "de": "Gut (Stehend)",
         "dk": "Rig (Stående)",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/0E4547",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/0E4547",
       "prefLabel": {
         "de": "Segel (Sprit)",
         "dk": "Sejl",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1149D5",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/1149D5",
       "prefLabel": {
         "de": "Rah",
         "dk": "Rå",
@@ -49,7 +49,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/178A10",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/178A10",
       "prefLabel": {
         "de": "Jungfer-Block",
         "dk": "Jomfru",
@@ -63,7 +63,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1C43CA",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/1C43CA",
       "prefLabel": {
         "de": "Mastfisch",
         "dk": "Mastfisk",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1C9D25",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/1C9D25",
       "prefLabel": {
         "de": "Mastspant",
         "dk": "Mastespant",
@@ -91,7 +91,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1F4820",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/1F4820",
       "prefLabel": {
         "de": "Masttopp",
         "dk": "Mastetop",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2143CF",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/2143CF",
       "prefLabel": {
         "de": "Mastbalken",
         "dk": "Mastebjælke",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2AC165",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/2AC165",
       "prefLabel": {
         "de": "Treidelpfosten",
         "dk": "Mast (Slæbe)",
@@ -132,7 +132,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2B8C74",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/2B8C74",
       "prefLabel": {
         "de": "Mastspur",
         "dk": "Mastespor",
@@ -146,7 +146,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/411EC9",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/411EC9",
       "prefLabel": {
         "de": "Bug Sprit",
         "dk": "Bovspryd",
@@ -160,7 +160,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/441BAE",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/441BAE",
       "prefLabel": {
         "de": "Segel (Lateiner)",
         "dk": "Sejl (Latiner)",
@@ -174,7 +174,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/648E0B",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/648E0B",
       "prefLabel": {
         "de": "Toppsegel",
         "dk": "Sejl (Top)",
@@ -187,7 +187,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/655F73",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/655F73",
       "prefLabel": {
         "de": "Mast (Besanmast)",
         "dk": "Mast (Mesan)",
@@ -201,7 +201,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/69600C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/69600C",
       "prefLabel": {
         "de": "Mast (Vormast)",
         "dk": "Mast (Fokke)",
@@ -215,7 +215,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/71CB9C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/71CB9C",
       "prefLabel": {
         "de": "Vorsegel",
         "dk": "Sejl (For)",
@@ -228,7 +228,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/8C0C1B",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/8C0C1B",
       "prefLabel": {
         "de": "Gut (Laufend)",
         "dk": "Rig (Løbende)",
@@ -242,7 +242,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/AF5C8D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/AF5C8D",
       "prefLabel": {
         "de": "Mastbereich",
         "dk": "Masteområdet",
@@ -256,7 +256,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B0D70E",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B0D70E",
       "prefLabel": {
         "de": "Maststütze",
         "dk": "Mastestøtte",
@@ -269,7 +269,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D12C93",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D12C93",
       "prefLabel": {
         "de": "Mastducht",
         "dk": "Mastetofte",
@@ -283,7 +283,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/EDB704",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/EDB704",
       "prefLabel": {
         "de": "Rack",
         "dk": "Rakke",
@@ -297,7 +297,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/F4405C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/F4405C",
       "prefLabel": {
         "de": "Segel (Rah)",
         "dk": "Sejl (Råsejl)",
@@ -311,7 +311,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/FE0706",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/FE0706",
       "prefLabel": {
         "de": "Mast (Hauptmast)",
         "dk": "Mast",
@@ -327,17 +327,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -352,6 +352,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -482,6 +483,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

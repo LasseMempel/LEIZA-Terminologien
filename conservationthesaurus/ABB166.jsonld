@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ABB166",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ABB166",
   "type": "Concept",
   "prefLabel": {
     "de": "Metamorphit"
@@ -22,50 +22,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BAB939",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BAB939",
       "prefLabel": {
         "de": "Marmor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D6959D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6959D",
       "prefLabel": {
         "de": "Quarzit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DF1279",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF1279",
       "prefLabel": {
         "de": "Speckstein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F85G77",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F85G77",
       "prefLabel": {
         "de": "Amphibolit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G63684",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G63684",
       "prefLabel": {
         "de": "Serpentinit"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D866AD",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD",
     "prefLabel": {
       "de": "Gestein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -80,6 +80,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -210,6 +211,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

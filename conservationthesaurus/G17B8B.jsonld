@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G17B8B",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G17B8B",
   "type": "Concept",
   "prefLabel": {
     "de": "Analyse der chemischen Zusammensetzung"
@@ -12,50 +12,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C2DF6G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2DF6G",
       "prefLabel": {
         "de": "Fourier-Transform-Infrarotspektrometrie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DADDD6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DADDD6",
       "prefLabel": {
         "de": "Instrumentelle Neutronenaktivierungsanalyse"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DG129D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DG129D",
       "prefLabel": {
         "de": "energiedispersive Röntgenspektroskopie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G69G4B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G69G4B",
       "prefLabel": {
         "de": "Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GA6422",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GA6422",
       "prefLabel": {
         "de": "Laserinduzierte Plasmaspektroskopie"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G9B788",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
     "prefLabel": {
       "de": "Materialanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -70,6 +70,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -200,6 +201,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

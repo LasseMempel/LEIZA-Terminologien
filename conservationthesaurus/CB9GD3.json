@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CB9GD3",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB9GD3",
   "type": "Concept",
   "prefLabel": {
     "de": "Kohäsionsverlust"
@@ -17,128 +17,128 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A8C236",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8C236",
       "prefLabel": {
         "de": "pulvrig"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AF7CC8",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF7CC8",
       "prefLabel": {
         "de": "hohl"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B4C3B9",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B4C3B9",
       "prefLabel": {
         "de": "zerschnitten"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BC1DCG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC1DCG",
       "prefLabel": {
         "de": "verhärtet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FA14C2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FA14C2",
       "prefLabel": {
         "de": "rissig"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BFCC33",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFCC33",
       "prefLabel": {
         "de": "aufgeweicht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BFGD3B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFGD3B",
       "prefLabel": {
         "de": "Pitting"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BGA41C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGA41C",
       "prefLabel": {
         "de": "kollabiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D2364A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D2364A",
       "prefLabel": {
         "de": "abgeplatzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D9C8A4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9C8A4",
       "prefLabel": {
         "de": "zersetzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DDFG97",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DDFG97",
       "prefLabel": {
         "de": "versprödet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F6CG68",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F6CG68",
       "prefLabel": {
         "de": "fragmentiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F97BFF",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F97BFF",
       "prefLabel": {
         "de": "abschollend"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FA9B73",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FA9B73",
       "prefLabel": {
         "de": "delaminiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FGG2C4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGG2C4",
       "prefLabel": {
         "de": "gebrochen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G74A2D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G74A2D",
       "prefLabel": {
         "de": "gesprungen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G84156",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G84156",
       "prefLabel": {
         "de": "offene Fuge"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GB33C3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB33C3",
       "prefLabel": {
         "de": "gerissen"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DAC996",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
     "prefLabel": {
       "de": "Schadensphänomen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -153,6 +153,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -283,6 +284,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

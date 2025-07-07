@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FFA16B",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FFA16B",
   "type": "Concept",
   "prefLabel": {
     "de": "[Formtyp]"
@@ -17,62 +17,62 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A15D7G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A15D7G",
       "prefLabel": {
         "de": "Schwenkform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A2GC16",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2GC16",
       "prefLabel": {
         "de": "Galvanoform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ADCC8A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ADCC8A",
       "prefLabel": {
         "de": "Laminierform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B1DB9G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B1DB9G",
       "prefLabel": {
         "de": "Gussform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C369CB",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C369CB",
       "prefLabel": {
         "de": "Steiggussform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DC3F7A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DC3F7A",
       "prefLabel": {
         "de": "Quetschform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G967G1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G967G1",
       "prefLabel": {
         "de": "Spiegelform"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G52378",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G52378",
     "prefLabel": {
       "de": "analoge Abformung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -87,6 +87,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -217,6 +218,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

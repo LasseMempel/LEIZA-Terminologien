@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GF9C49",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49",
   "type": "Concept",
   "prefLabel": {
     "de": "technische Geräte"
@@ -12,116 +12,116 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C5A318",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5A318",
       "prefLabel": {
         "de": "Ultraschallgerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C4C6B6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6",
       "prefLabel": {
         "de": "Schleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C2112G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2112G",
       "prefLabel": {
         "de": "Gefriertrocknungsanlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C9G1B6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C9G1B6",
       "prefLabel": {
         "de": "Airbrush-System"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DAC482",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC482",
       "prefLabel": {
         "de": "Lötvorrichtung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C99F9G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C99F9G",
       "prefLabel": {
         "de": "Plasmaanlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FA9542",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FA9542",
       "prefLabel": {
         "de": "Schmelzofen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FG9C55",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FG9C55",
       "prefLabel": {
         "de": "Exsikkator"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GF3586",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GF3586",
       "prefLabel": {
         "de": "Druckluft"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A4G4G1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A4G4G1",
       "prefLabel": {
         "de": "Heißluftföhn"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D7GGGG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D7GGGG",
       "prefLabel": {
         "de": "Wärmeschrank"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F8323G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F8323G",
       "prefLabel": {
         "de": "industrielle Mikrowellenkammer"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BBB987",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBB987",
       "prefLabel": {
         "de": "Absauganlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C871CB",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C871CB",
       "prefLabel": {
         "de": "Ultraschallfeinmeißel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G487C2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G487C2",
       "prefLabel": {
         "de": "Feinstrahlgerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D8G747",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747",
       "prefLabel": {
         "de": "Mikromotor"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C93638",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C93638",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungswerkzeuge"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -136,6 +136,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -266,6 +267,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

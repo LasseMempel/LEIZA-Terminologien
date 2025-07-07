@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AGG387",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AGG387",
   "type": "Concept",
   "prefLabel": {
     "de": "formgebende Technik"
@@ -17,242 +17,242 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D18BBG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D18BBG",
       "prefLabel": {
         "de": "getrieben"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A8B581",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8B581",
       "prefLabel": {
         "de": "gedengelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A8C667",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8C667",
       "prefLabel": {
         "de": "geprägt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D92DAG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D92DAG",
       "prefLabel": {
         "de": "handaufgebaut"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AC319F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AC319F",
       "prefLabel": {
         "de": "gebohrt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ACA175",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ACA175",
       "prefLabel": {
         "de": "gewickelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ACG977",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ACG977",
       "prefLabel": {
         "de": "gepresst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ADB89D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ADB89D",
       "prefLabel": {
         "de": "gespalten"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B1B854",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B1B854",
       "prefLabel": {
         "de": "gespitzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B28G12",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B28G12",
       "prefLabel": {
         "de": "nachgedreht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B437A9",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B437A9",
       "prefLabel": {
         "de": "gebeilt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B4AFF6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B4AFF6",
       "prefLabel": {
         "de": "durchgeschlagen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B64825",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B64825",
       "prefLabel": {
         "de": "geschmiedet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BA73A2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BA73A2",
       "prefLabel": {
         "de": "gegossen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BA1BB6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BA1BB6",
       "prefLabel": {
         "de": "gemeißelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BAB7B3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BAB7B3",
       "prefLabel": {
         "de": "gezahnt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BC92AG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC92AG",
       "prefLabel": {
         "de": "gesägt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B4FD9B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B4FD9B",
       "prefLabel": {
         "de": "gerollt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C16778",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C16778",
       "prefLabel": {
         "de": "geschmolzen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C1A32C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C1A32C",
       "prefLabel": {
         "de": "geschnitten"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BGFD79",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGFD79",
       "prefLabel": {
         "de": "gebrannt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C3FGBG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3FGBG",
       "prefLabel": {
         "de": "gefeilt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C5F279",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5F279",
       "prefLabel": {
         "de": "modelliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C61723",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C61723",
       "prefLabel": {
         "de": "geschnitzt (Herstellungstechnik)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D44BAD",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D44BAD",
       "prefLabel": {
         "de": "gedreht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D642BC",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D642BC",
       "prefLabel": {
         "de": "geschabt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D75A3A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D75A3A",
       "prefLabel": {
         "de": "gebogen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F1751B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F1751B",
       "prefLabel": {
         "de": "geblasen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F22BD7",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F22BD7",
       "prefLabel": {
         "de": "gehobelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F6543A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F6543A",
       "prefLabel": {
         "de": "gedrückt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F94C34",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F94C34",
       "prefLabel": {
         "de": "geraspelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FFC35B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FFC35B",
       "prefLabel": {
         "de": "gedrechselt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FGF4G9",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF4G9",
       "prefLabel": {
         "de": "scheibengedreht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G29AD2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G29AD2",
       "prefLabel": {
         "de": "geglättet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G45985",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G45985",
       "prefLabel": {
         "de": "gezogen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G56825",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G56825",
       "prefLabel": {
         "de": "gefräst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G7497F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G7497F",
       "prefLabel": {
         "de": "geschliffen [Formgebung]"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F8F594",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F8F594",
     "prefLabel": {
       "de": "Herstellungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -267,6 +267,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -397,6 +398,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

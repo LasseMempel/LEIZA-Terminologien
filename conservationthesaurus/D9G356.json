@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D9G356",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G356",
   "type": "Concept",
   "prefLabel": {
     "de": "[Stütz- und Verpackungsmaterial]"
@@ -12,75 +12,75 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A33F4B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A33F4B",
       "prefLabel": {
         "de": "Seidenpapier"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BB8D78",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB8D78",
       "prefLabel": {
         "de": "Polycarbonat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F91427",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F91427",
       "prefLabel": {
         "de": "Polyethylen-Schaum"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F8ADGD",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F8ADGD",
       "prefLabel": {
         "de": "Folie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CBBF13",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CBBF13",
       "prefLabel": {
         "de": "Styrodur"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CCB66C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CCB66C",
       "prefLabel": {
         "de": "Styropor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DAG754",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAG754",
       "prefLabel": {
         "de": "Kartonage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DD3858",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD3858",
       "prefLabel": {
         "de": "Acrylglas"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F432G4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F432G4",
       "prefLabel": {
         "de": "Tyvek"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GDB246",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDB246",
       "prefLabel": {
         "de": "Adsorbens"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C364G1",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AC16G1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AC16G1",
       "prefLabel": {
         "de": "Verpacken"
       }
@@ -88,12 +88,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -108,6 +108,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -238,6 +239,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DA841D",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA841D",
   "type": "Concept",
   "prefLabel": {
     "de": "additionsvernetzender Silikonkautschuk"
@@ -24,44 +24,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AF6D7D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF6D7D",
       "prefLabel": {
         "de": "Smooth On Mold Star 30"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C5G53A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5G53A",
       "prefLabel": {
         "de": "Dentalsilikon"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C76568",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C76568",
       "prefLabel": {
         "de": "Smooth On Rebound 25"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GCDG5D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GCDG5D",
       "prefLabel": {
         "de": "Nedform Silikon Addition Transparent 25"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A44BG6",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A44BG6",
     "prefLabel": {
       "de": "Silikonkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -76,6 +76,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -206,6 +207,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

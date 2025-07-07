@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/15",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/15",
   "type": "Concept",
   "prefLabel": {
     "de": "[Kriegsführung]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/15087C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/15087C",
       "prefLabel": {
         "de": "Artillerie",
         "dk": "Artelleri",
@@ -20,7 +20,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/9416B4",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/9416B4",
       "prefLabel": {
         "de": "Waffen",
         "dk": "Bevæbning",
@@ -32,7 +32,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A3EBFA",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A3EBFA",
       "prefLabel": {
         "de": "Rammsporn",
         "dk": "Ramstævn",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/BE91AE",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/BE91AE",
       "prefLabel": {
         "de": "Obersporn",
         "dk": "øvre Ramstævn",
@@ -59,7 +59,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D060C4",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D060C4",
       "prefLabel": {
         "de": "Schildhalterung",
         "dk": "Skjoldliste",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/DB88D4",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/DB88D4",
       "prefLabel": {
         "de": "Schild",
         "dk": "Skjold",
@@ -88,17 +88,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -113,6 +113,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -243,6 +244,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

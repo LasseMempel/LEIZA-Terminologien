@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B3FCA1",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1",
   "type": "Concept",
   "prefLabel": {
     "de": "Reduktionsmittel"
@@ -23,63 +23,63 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B614CD",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B614CD",
       "prefLabel": {
         "de": "Natriumsulfit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A7C8CB",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A7C8CB",
       "prefLabel": {
         "de": "Plasma"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CB3941",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB3941",
       "prefLabel": {
         "de": "Natriumdithionit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D4A6D1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D4A6D1",
       "prefLabel": {
         "de": "Natriumborhydrid"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FCA8C9",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCA8C9",
       "prefLabel": {
         "de": "Natriumthiosulfat"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C364G1",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G8A626",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G8A626",
       "prefLabel": {
         "de": "nasschemische Freilegung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D3A484",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3A484",
       "prefLabel": {
         "de": "Oxalsäure"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F54686",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F54686",
       "prefLabel": {
         "de": "Ascorbinsäure"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G7BADF",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G7BADF",
       "prefLabel": {
         "de": "Thioglykolsäure"
       }
@@ -95,12 +95,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -115,6 +115,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -245,6 +246,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

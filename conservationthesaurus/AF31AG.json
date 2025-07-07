@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AF31AG",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG",
   "type": "Concept",
   "prefLabel": {
     "de": "Epoxidharz"
@@ -25,93 +25,93 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A57386",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A57386",
       "prefLabel": {
         "de": "Araldit BY 158"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A99485",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A99485",
       "prefLabel": {
         "de": "Biresin LS/LM"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BB9249",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB9249",
       "prefLabel": {
         "de": "EPO-TEK 301"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C3G438",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3G438",
       "prefLabel": {
         "de": "UHU Plus Schnellfest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D2D671",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D2D671",
       "prefLabel": {
         "de": "Araldite 2020"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D38147",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D38147",
       "prefLabel": {
         "de": "Hxtal NYL-1"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D5F7BC",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D5F7BC",
       "prefLabel": {
         "de": "Araldit AY 103"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D8B3D6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D8B3D6",
       "prefLabel": {
         "de": "Araldit XB 260"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DAA17A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAA17A",
       "prefLabel": {
         "de": "RenPaste™ SV/HV 427"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F5G8DB",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5G8DB",
       "prefLabel": {
         "de": "Ebalta AH 100"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G12F98",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G12F98",
       "prefLabel": {
         "de": "UHU Plus Endfest 300"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A1D125",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A1D125",
     "prefLabel": {
       "de": "synthetisches Polymer"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B689B6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B689B6",
       "prefLabel": {
         "de": "Kunstharzkopie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A9FF5A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A",
       "prefLabel": {
         "de": "Tränkung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A31C7C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
         "de": "Verstärkung"
       }
@@ -124,12 +124,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -144,6 +144,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -274,6 +275,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

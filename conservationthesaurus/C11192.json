@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C11192",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C11192",
   "type": "Concept",
   "prefLabel": {
     "de": "[Nachbildungsergebnisse]"
@@ -12,44 +12,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A7FC45",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A7FC45",
       "prefLabel": {
         "de": "Kopie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C5GA26",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5GA26",
       "prefLabel": {
         "de": "Reproduktion (Objekt)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D532GF",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D532GF",
       "prefLabel": {
         "de": "Rekonstruktion (Objekt)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F9549F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9549F",
       "prefLabel": {
         "de": "Modell"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C3A182",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3A182",
     "prefLabel": {
       "de": "Nachbildung für wissenschaftliche Zwecke"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -64,6 +64,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -194,6 +195,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CFGDA3",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3",
   "type": "Concept",
   "prefLabel": {
     "de": "Maßnahme"
@@ -19,37 +19,37 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F5G576",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576",
       "prefLabel": {
         "de": "präventive Konservierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G98FD4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4",
       "prefLabel": {
         "de": "Konservierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C3A182",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3A182",
       "prefLabel": {
         "de": "Nachbildung für wissenschaftliche Zwecke"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C93638",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C93638",
       "prefLabel": {
         "de": "Konservierungs- und Restaurierungswerkzeuge"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C364G1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
       "prefLabel": {
         "de": "Konservierungs- und Restaurierungsmaterialien"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C79561",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
       "prefLabel": {
         "de": "Restaurierung"
       }
@@ -57,13 +57,13 @@
   ],
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A8D3G1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8D3G1",
       "prefLabel": {
         "de": "Maßnahmenbericht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A18D95",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
       "prefLabel": {
         "de": "Konservierungskonzept"
       }
@@ -71,17 +71,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -96,6 +96,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -226,6 +227,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

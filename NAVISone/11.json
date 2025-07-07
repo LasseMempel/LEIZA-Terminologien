@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/11",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/11",
   "type": "Concept",
   "prefLabel": {
     "de": "[Ruderanlage]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/02A954",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/02A954",
       "prefLabel": {
         "de": "Ruderverblendung",
         "dk": "Rorvinge",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2D4862",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/2D4862",
       "prefLabel": {
         "de": "Steuerruder",
         "dk": "Ror",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/3A4334",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/3A4334",
       "prefLabel": {
         "de": "Ruderfassung",
         "dk": "Rorfæste",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/5F47CB",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/5F47CB",
       "prefLabel": {
         "de": "Ruder (Heck)",
         "dk": "Hækror",
@@ -61,7 +61,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/737BE7",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/737BE7",
       "prefLabel": {
         "de": "Ruderbalken Stütze",
         "dk": "Rorbjælke støtte",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/807A0F",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/807A0F",
       "prefLabel": {
         "de": "Ruderbalken",
         "dk": "Rorbjælke",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/FBE946",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/FBE946",
       "prefLabel": {
         "de": "Ruderpinne",
         "dk": "Rorpind",
@@ -104,17 +104,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -129,6 +129,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -259,6 +260,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

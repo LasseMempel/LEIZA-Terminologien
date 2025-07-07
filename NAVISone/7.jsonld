@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/7",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
   "type": "Concept",
   "prefLabel": {
     "de": "[Innenkonstruktion]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/06BE5F",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/06BE5F",
       "prefLabel": {
         "de": "Spant",
         "dk": "Spant",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/0D16A2",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/0D16A2",
       "prefLabel": {
         "de": "Kimmstringer",
         "dk": "Kimingsvæger",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/130F84",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/130F84",
       "prefLabel": {
         "de": "Seitensteven",
         "dk": "Sidestævn",
@@ -49,7 +49,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/20AB84",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/20AB84",
       "prefLabel": {
         "de": "Kielschwein",
         "dk": "Kølsvin",
@@ -63,7 +63,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2215C5",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/2215C5",
       "prefLabel": {
         "de": "Bilgerinne",
         "dk": "kølrende",
@@ -76,7 +76,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/3FBE29",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/3FBE29",
       "prefLabel": {
         "de": "Längsversteifung",
         "dk": "Langsgående forstærkning",
@@ -90,7 +90,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/434F04",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/434F04",
       "prefLabel": {
         "de": "Knie",
         "dk": "Knæ",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/5EEC61",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/5EEC61",
       "prefLabel": {
         "de": "Wrange",
         "dk": "Bundstok",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/5F88DE",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/5F88DE",
       "prefLabel": {
         "de": "Seitenspant",
         "dk": "Sidespant",
@@ -132,7 +132,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/7ED321",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/7ED321",
       "prefLabel": {
         "de": "Balken",
         "dk": "Bjælke",
@@ -146,7 +146,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/8AFF10",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/8AFF10",
       "prefLabel": {
         "de": "Dollbaum",
         "dk": "Essingstringer",
@@ -160,7 +160,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A1B3F9",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A1B3F9",
       "prefLabel": {
         "de": "Schott",
         "dk": "Skot",
@@ -174,7 +174,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/AF72E8",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/AF72E8",
       "prefLabel": {
         "de": "Stütze",
         "dk": "Stander",
@@ -188,7 +188,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B5BA3D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B5BA3D",
       "prefLabel": {
         "de": "Bünte",
         "dk": "Dam",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/C4B24F",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/C4B24F",
       "prefLabel": {
         "de": "Halbspant",
         "dk": "Halvspant",
@@ -216,7 +216,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D03311",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D03311",
       "prefLabel": {
         "de": "Wegerung",
         "dk": "Garnering",
@@ -230,7 +230,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D81709",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D81709",
       "prefLabel": {
         "de": "nüstergatt",
         "dk": "lænsehul",
@@ -243,7 +243,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/EB04DC",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/EB04DC",
       "prefLabel": {
         "de": "Stringer",
         "dk": "Stringer",
@@ -257,7 +257,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/F0F917",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/F0F917",
       "prefLabel": {
         "de": "Auflanger",
         "dk": "Oplænger",
@@ -271,7 +271,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/FE767B",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/FE767B",
       "prefLabel": {
         "de": "Querriegel",
         "dk": "Tvårtømmer",
@@ -287,17 +287,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -312,6 +312,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -442,6 +443,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

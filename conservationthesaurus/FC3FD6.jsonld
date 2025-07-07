@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FC3FD6",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC3FD6",
   "type": "Concept",
   "prefLabel": {
     "de": "Nadelholz"
@@ -19,50 +19,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A73FD7",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A73FD7",
       "prefLabel": {
         "de": "Kiefernholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F5GA47",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5GA47",
       "prefLabel": {
         "de": "Lärchenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FCA7DA",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCA7DA",
       "prefLabel": {
         "de": "Tannenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G2944B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G2944B",
       "prefLabel": {
         "de": "Fichtenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G356D5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G356D5",
       "prefLabel": {
         "de": "Eibenholz"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DFG875",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DFG875",
     "prefLabel": {
       "de": "[Holzart]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -77,6 +77,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -207,6 +208,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

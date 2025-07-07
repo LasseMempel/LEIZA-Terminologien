@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B14C4A",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B14C4A",
   "type": "Concept",
   "prefLabel": {
     "de": "emailliert"
@@ -24,56 +24,56 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CG8188",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CG8188",
       "prefLabel": {
         "de": "Zellenemail"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D27B9A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D27B9A",
       "prefLabel": {
         "de": "Emailmalerei"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DA226G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA226G",
       "prefLabel": {
         "de": "Grubenemail"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FB5C1F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FB5C1F",
       "prefLabel": {
         "de": "Fensteremail"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G1A3FB",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G1A3FB",
       "prefLabel": {
         "de": "Stegemail"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G53328",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G53328",
       "prefLabel": {
         "de": "Körperemail"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F2244D",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -88,6 +88,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -218,6 +219,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

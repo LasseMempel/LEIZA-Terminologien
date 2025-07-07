@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G9B788",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
   "type": "Concept",
   "prefLabel": {
     "de": "Materialanalyse"
@@ -17,74 +17,74 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CG676B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CG676B",
       "prefLabel": {
         "de": "Analyse der isotopischen Zusammensetzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C5BD13",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5BD13",
       "prefLabel": {
         "de": "Datierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BFGB1A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFGB1A",
       "prefLabel": {
         "de": "Laser Ablation – Inductively Coupled Plasma – Mass Spectrometry"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G17B8B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G17B8B",
       "prefLabel": {
         "de": "Analyse der chemischen Zusammensetzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A946B5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A946B5",
       "prefLabel": {
         "de": "chemische Untersuchung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DD4383",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD4383",
       "prefLabel": {
         "de": "Brennprobe"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F7AGD2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F7AGD2",
       "prefLabel": {
         "de": "Probennahme"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FCB7A5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCB7A5",
       "prefLabel": {
         "de": "Röntgenfluoresezenzanalyse"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G13A7B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G13A7B",
       "prefLabel": {
         "de": "Strukturanalyse"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D4A13D",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D4A13D",
     "prefLabel": {
       "de": "[Untersuchungsmethode]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -99,6 +99,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -229,6 +230,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

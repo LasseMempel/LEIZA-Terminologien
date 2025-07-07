@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AA6941",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA6941",
   "type": "Concept",
   "prefLabel": {
     "de": "[Untersuchungsgerät]"
@@ -20,38 +20,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A9A54D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9A54D",
       "prefLabel": {
         "de": "Spektrometer"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B538AG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B538AG",
       "prefLabel": {
         "de": "Mikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G8D62A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G8D62A",
       "prefLabel": {
         "de": "konventionelles Röntgengerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DG6841",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DG6841",
       "prefLabel": {
         "de": "Computertomograph"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G8C987",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G8C987",
       "prefLabel": {
         "de": "UV-Lampe"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CA1BC5",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA1BC5",
     "prefLabel": {
       "de": "Objektuntersuchung"
     }
@@ -63,12 +63,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -83,6 +83,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -213,6 +214,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

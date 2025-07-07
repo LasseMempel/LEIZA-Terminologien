@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/1",
   "type": "Concept",
   "prefLabel": {
     "de": "[Schiffsfunktion]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2FF7C7",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/2FF7C7",
       "prefLabel": {
         "de": "Funktion unbekannt",
         "dk": "Ukendt skibsfunktion",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/8B55C4",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/8B55C4",
       "prefLabel": {
         "de": "Militärfahrzeug",
         "dk": "Militærfartøj",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/8D23B1",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/8D23B1",
       "prefLabel": {
         "de": "Fischereifahrzeug",
         "dk": "Fiskefartøj",
@@ -49,14 +49,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/C4AA6D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/C4AA6D",
       "prefLabel": {
         "de": "Blockade",
         "en": "blockage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/C5A0B6",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/C5A0B6",
       "prefLabel": {
         "de": "Frachter",
         "dk": "Transportfartøj",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D7F183",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D7F183",
       "prefLabel": {
         "de": "Arbeitsboot",
         "dk": "Arbejdsbåd",
@@ -86,17 +86,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -111,6 +111,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -241,6 +242,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

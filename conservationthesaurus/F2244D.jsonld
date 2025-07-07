@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F2244D",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2244D",
   "type": "Concept",
   "prefLabel": {
     "de": "Verzierungstechnik"
@@ -17,272 +17,272 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F396G6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F396G6",
       "prefLabel": {
         "de": "bemalt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A2FA1B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2FA1B",
       "prefLabel": {
         "de": "nielliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A5C668",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A5C668",
       "prefLabel": {
         "de": "ziseliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A6FA7G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A6FA7G",
       "prefLabel": {
         "de": "inkrustiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A7D71D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A7D71D",
       "prefLabel": {
         "de": "aufgeraut"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D248A4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D248A4",
       "prefLabel": {
         "de": "versilbert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AF49C1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF49C1",
       "prefLabel": {
         "de": "patiniert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B2B9C8",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2B9C8",
       "prefLabel": {
         "de": "brüniert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B5A14G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B5A14G",
       "prefLabel": {
         "de": "eingeritzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B9835A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9835A",
       "prefLabel": {
         "de": "geätzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BF3639",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF3639",
       "prefLabel": {
         "de": "filigranverziert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BF6D19",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF6D19",
       "prefLabel": {
         "de": "gestempelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BA8198",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BA8198",
       "prefLabel": {
         "de": "Intarsieneinlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A41BGB",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A41BGB",
       "prefLabel": {
         "de": "eingedrückt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C61955",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C61955",
       "prefLabel": {
         "de": "Kerbschnittdekor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C8G54A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8G54A",
       "prefLabel": {
         "de": "verzinnt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C9C527",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C9C527",
       "prefLabel": {
         "de": "granuliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CB58C2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB58C2",
       "prefLabel": {
         "de": "damasziert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CC63FA",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CC63FA",
       "prefLabel": {
         "de": "plattiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F2AG55",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2AG55",
       "prefLabel": {
         "de": "glasiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B14C4A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B14C4A",
       "prefLabel": {
         "de": "emailliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D1636C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1636C",
       "prefLabel": {
         "de": "tordiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D1F5D3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1F5D3",
       "prefLabel": {
         "de": "gefasst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D4B599",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D4B599",
       "prefLabel": {
         "de": "gebläut"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DA2GD2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA2GD2",
       "prefLabel": {
         "de": "aufgefädelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DCF2A5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DCF2A5",
       "prefLabel": {
         "de": "gepicht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DF7759",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF7759",
       "prefLabel": {
         "de": "graviert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GC2F6A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC2F6A",
       "prefLabel": {
         "de": "vergoldet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F4BD7F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F4BD7F",
       "prefLabel": {
         "de": "graphiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F7F934",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F7F934",
       "prefLabel": {
         "de": "profiliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FBF2A3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FBF2A3",
       "prefLabel": {
         "de": "poliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FC926G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC926G",
       "prefLabel": {
         "de": "gesandet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FD6617",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD6617",
       "prefLabel": {
         "de": "punziert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FFFCB7",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FFFCB7",
       "prefLabel": {
         "de": "durchbrochen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G2FA26",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G2FA26",
       "prefLabel": {
         "de": "überzogen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G2FC47",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G2FC47",
       "prefLabel": {
         "de": "appliziert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G5D8C5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G5D8C5",
       "prefLabel": {
         "de": "broschiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G6841G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G6841G",
       "prefLabel": {
         "de": "geschliffen (Verzierungstechnik)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G73958",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G73958",
       "prefLabel": {
         "de": "gefärbt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G7F25F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G7F25F",
       "prefLabel": {
         "de": "bestickt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GD11CD",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GD11CD",
       "prefLabel": {
         "de": "geschnitzt (Verzierungstechnik)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G56866",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G56866",
       "prefLabel": {
         "de": "engobiert"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G76B7G",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G",
     "prefLabel": {
       "de": "Technologische Auswertung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -297,6 +297,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -427,6 +428,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DAA3F9",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9",
   "type": "Concept",
   "prefLabel": {
     "de": "zerstreutporiges Laubholz"
@@ -12,80 +12,80 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ABBFB5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ABBFB5",
       "prefLabel": {
         "de": "Obstholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B44F39",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B44F39",
       "prefLabel": {
         "de": "Lindenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B5C86F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B5C86F",
       "prefLabel": {
         "de": "Pappelholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B93452",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B93452",
       "prefLabel": {
         "de": "Buchenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BGG879",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGG879",
       "prefLabel": {
         "de": "Birkenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CAD229",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAD229",
       "prefLabel": {
         "de": "Ahornholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F1BD88",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F1BD88",
       "prefLabel": {
         "de": "Erlenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FA1B26",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FA1B26",
       "prefLabel": {
         "de": "Buchsbaumholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GAG81G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GAG81G",
       "prefLabel": {
         "de": "Haselholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GG1CG9",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GG1CG9",
       "prefLabel": {
         "de": "Weidenholz"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B7DD6B",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B7DD6B",
     "prefLabel": {
       "de": "Laubholz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -100,6 +100,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -230,6 +231,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

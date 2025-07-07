@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G4AG5C",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G4AG5C",
   "type": "Concept",
   "prefLabel": {
     "de": "Edelmetalllegierung"
@@ -17,33 +17,33 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F9F6DG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9F6DG",
       "prefLabel": {
         "de": "Elektrum"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AD789F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AD789F",
       "prefLabel": {
         "de": "Silberlegierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DC5B2B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DC5B2B",
       "prefLabel": {
         "de": "Goldlegierung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F9GB13",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13",
     "prefLabel": {
       "de": "Metalllegierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FGA46A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A",
       "prefLabel": {
         "de": "Edelmetall"
       }
@@ -51,12 +51,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -71,6 +71,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -201,6 +202,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

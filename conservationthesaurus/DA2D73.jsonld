@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DA2D73",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73",
   "type": "Concept",
   "prefLabel": {
     "de": "Glas"
@@ -22,44 +22,44 @@
     "DA2D73"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GB6DF3",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3",
     "prefLabel": {
       "de": "silikatisches Material"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B21C51",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B21C51",
       "prefLabel": {
         "de": "Obsidian"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B12CB4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B12CB4",
       "prefLabel": {
         "de": "Gesteinsglas"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CCBB4G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CCBB4G",
       "prefLabel": {
         "de": "Perlit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D51GA5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D51GA5",
       "prefLabel": {
         "de": "Bimsstein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BG987D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BG987D",
       "prefLabel": {
         "de": "weeping"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DGC3A9",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DGC3A9",
       "prefLabel": {
         "de": "Glaskorrosion"
       }
@@ -80,12 +80,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -100,6 +100,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -230,6 +231,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

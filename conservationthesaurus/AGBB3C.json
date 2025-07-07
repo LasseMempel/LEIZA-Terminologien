@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AGBB3C",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C",
   "type": "Concept",
   "prefLabel": {
     "de": "Festigkeit"
@@ -12,74 +12,74 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AF5C86",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF5C86",
       "prefLabel": {
         "de": "spröde"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BCG421",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BCG421",
       "prefLabel": {
         "de": "elastisch"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BF6339",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF6339",
       "prefLabel": {
         "de": "weich"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DB581C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DB581C",
       "prefLabel": {
         "de": "zugfest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FBG2B1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FBG2B1",
       "prefLabel": {
         "de": "hart"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G147AG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G147AG",
       "prefLabel": {
         "de": "schlagfest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G2A47C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G2A47C",
       "prefLabel": {
         "de": "druckfest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G2F586",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G2F586",
       "prefLabel": {
         "de": "biegefest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DG7A1D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DG7A1D",
       "prefLabel": {
         "de": "fragil"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GDF8C2",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
     "prefLabel": {
       "de": "Physischer Zustand"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -94,6 +94,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -224,6 +225,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

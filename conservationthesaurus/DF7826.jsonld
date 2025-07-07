@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DF7826",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF7826",
   "type": "Concept",
   "prefLabel": {
     "de": "Magmatit"
@@ -24,50 +24,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B14489",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B14489",
       "prefLabel": {
         "de": "Tuff"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B12CB4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B12CB4",
       "prefLabel": {
         "de": "Gesteinsglas"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CDB814",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDB814",
       "prefLabel": {
         "de": "Diorit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D9B246",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9B246",
       "prefLabel": {
         "de": "Basalt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F646B4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F646B4",
       "prefLabel": {
         "de": "Granit"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D866AD",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD",
     "prefLabel": {
       "de": "Gestein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -82,6 +82,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -212,6 +213,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

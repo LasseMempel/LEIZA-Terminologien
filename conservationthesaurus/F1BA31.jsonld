@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F1BA31",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31",
   "type": "Concept",
   "prefLabel": {
     "de": "Biomineral"
@@ -17,86 +17,86 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A3D91B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A3D91B",
       "prefLabel": {
         "de": "Muschel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AG8F3A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG8F3A",
       "prefLabel": {
         "de": "Perlmutt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B2F655",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2F655",
       "prefLabel": {
         "de": "Geweih"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F9D2A8",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9D2A8",
       "prefLabel": {
         "de": "Perle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B69747",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B69747",
       "prefLabel": {
         "de": "Schnecke"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B69F1G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B69F1G",
       "prefLabel": {
         "de": "Schildpatt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B77128",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B77128",
       "prefLabel": {
         "de": "Koralle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B8B69D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B8B69D",
       "prefLabel": {
         "de": "Bernstein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BBC26F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBC26F",
       "prefLabel": {
         "de": "Horn"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B59296",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B59296",
       "prefLabel": {
         "de": "Zahn"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B626A3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B626A3",
       "prefLabel": {
         "de": "Bein"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GB6DF3",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3",
     "prefLabel": {
       "de": "silikatisches Material"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -111,6 +111,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -241,6 +242,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

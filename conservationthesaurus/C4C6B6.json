@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C4C6B6",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6",
   "type": "Concept",
   "prefLabel": {
     "de": "Schleifkörper"
@@ -12,45 +12,45 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A22C84",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A22C84",
       "prefLabel": {
         "de": "Korundschleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A97F31",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A97F31",
       "prefLabel": {
         "de": "Gummischleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/ABF57G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ABF57G",
       "prefLabel": {
         "de": "Diamantschleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CDF423",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDF423",
       "prefLabel": {
         "de": "Metallfräser"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GF9C49",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49",
     "prefLabel": {
       "de": "technische Geräte"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A6A248",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248",
       "prefLabel": {
         "de": "maschinelle Freilegung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D8G747",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747",
       "prefLabel": {
         "de": "Mikromotor"
       }
@@ -58,12 +58,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -78,6 +78,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -208,6 +209,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

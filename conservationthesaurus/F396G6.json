@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F396G6",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F396G6",
   "type": "Concept",
   "prefLabel": {
     "de": "bemalt"
@@ -17,45 +17,45 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A21993",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A21993",
       "prefLabel": {
         "de": "kaltbemalt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B225DC",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B225DC",
       "prefLabel": {
         "de": "hintermalt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GB8544",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB8544",
       "prefLabel": {
         "de": "lackiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A19F86",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A19F86",
       "prefLabel": {
         "de": "Schlickermalerei"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F2244D",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CG1531",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CG1531",
       "prefLabel": {
         "de": "Unterglasurdekor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D691FG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D691FG",
       "prefLabel": {
         "de": "Aufglasurdekor"
       }
@@ -63,12 +63,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -83,6 +83,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -213,6 +214,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

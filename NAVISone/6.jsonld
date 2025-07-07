@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/6",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
   "type": "Concept",
   "prefLabel": {
     "de": "[Rumpf]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/0093DC",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/0093DC",
       "prefLabel": {
         "de": "Schale",
         "dk": "Skal",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/09BEBF",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/09BEBF",
       "prefLabel": {
         "de": "Kimmholz",
         "dk": "kimingsplanke",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/09DF17",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/09DF17",
       "prefLabel": {
         "de": "Bodenplanke",
         "dk": "Bundplanke",
@@ -49,7 +49,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/0B9A28",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/0B9A28",
       "prefLabel": {
         "de": "Totgang",
         "dk": "indskudt bord",
@@ -61,7 +61,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/20F045",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/20F045",
       "prefLabel": {
         "de": "Kiel",
         "dk": "Køl",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/29CBC9",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/29CBC9",
       "prefLabel": {
         "de": "Kielgang",
         "dk": "Kølbord",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/3A3C90",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/3A3C90",
       "prefLabel": {
         "de": "Boden",
         "dk": "Bund",
@@ -103,7 +103,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/4277CC",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/4277CC",
       "prefLabel": {
         "de": "Achterschiff",
         "dk": "Agterskib",
@@ -117,7 +117,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/45B061",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/45B061",
       "prefLabel": {
         "de": "Bugsporn",
         "dk": "Krigen",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/47191C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/47191C",
       "prefLabel": {
         "de": "Gang",
         "dk": "Bordgang",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/5E0D28",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/5E0D28",
       "prefLabel": {
         "de": "Kimm (Rund)",
         "dk": "Kiming",
@@ -158,7 +158,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/7F16E0",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/7F16E0",
       "prefLabel": {
         "de": "Kaffe",
         "dk": "Kaff",
@@ -172,7 +172,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/80B562",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/80B562",
       "prefLabel": {
         "de": "Vorschiff",
         "dk": "Forskib",
@@ -186,7 +186,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/87FFFB",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/87FFFB",
       "prefLabel": {
         "de": "Bug",
         "dk": "Bov",
@@ -200,7 +200,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/8CA594",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/8CA594",
       "prefLabel": {
         "de": "Mittelsteven",
         "dk": "Midterstævn",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/938B4F",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/938B4F",
       "prefLabel": {
         "de": "Achtersteven",
         "dk": "Agterstævn",
@@ -228,7 +228,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/977C4D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/977C4D",
       "prefLabel": {
         "de": "Kimm (Eckig)",
         "dk": "Kiming Skarp",
@@ -242,7 +242,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A00109",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A00109",
       "prefLabel": {
         "de": "Futterholz",
         "dk": "fyldtræ",
@@ -255,7 +255,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A7A73E",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A7A73E",
       "prefLabel": {
         "de": "Aussensteven (hinten)",
         "dk": "falsk agterstævn",
@@ -267,7 +267,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A9FE4D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A9FE4D",
       "prefLabel": {
         "de": "Scheuerleiste",
         "dk": "Fenderliste",
@@ -281,7 +281,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/AC3D96",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/AC3D96",
       "prefLabel": {
         "de": "Stevenschuh/Anlauf",
         "dk": "stævnknæ",
@@ -294,7 +294,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B00683",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B00683",
       "prefLabel": {
         "de": "falscher Kiel",
         "dk": "stråkøl",
@@ -308,7 +308,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B0535D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B0535D",
       "prefLabel": {
         "de": "Vordersteven",
         "dk": "Forstævn",
@@ -322,7 +322,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B0565D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B0565D",
       "prefLabel": {
         "de": "Bargholz",
         "dk": "Bergholt",
@@ -336,7 +336,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B61EB9",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B61EB9",
       "prefLabel": {
         "de": "Schanzkleid",
         "dk": "Skanseklædning",
@@ -349,7 +349,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/BCE269",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/BCE269",
       "prefLabel": {
         "de": "Sprung",
         "dk": "Spring",
@@ -363,7 +363,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/C71032",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/C71032",
       "prefLabel": {
         "de": "Planke",
         "dk": "Planke",
@@ -377,7 +377,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/CDC760",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/CDC760",
       "prefLabel": {
         "de": "Spiegel",
         "dk": "Spejl.",
@@ -391,7 +391,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D10A1D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D10A1D",
       "prefLabel": {
         "de": "Stevendekoration",
         "dk": "Stævnfigur",
@@ -405,7 +405,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D1CB84",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D1CB84",
       "prefLabel": {
         "de": "Dollbord",
         "dk": "Essing",
@@ -419,7 +419,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/DB6446",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/DB6446",
       "prefLabel": {
         "de": "Heck",
         "dk": "Hæk",
@@ -433,7 +433,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/DC8396",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/DC8396",
       "prefLabel": {
         "de": "Schandeckel",
         "dk": "skandæk",
@@ -445,7 +445,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/E9E384",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/E9E384",
       "prefLabel": {
         "de": "Bugholz",
         "dk": "stævnblok",
@@ -458,7 +458,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/F426DE",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/F426DE",
       "prefLabel": {
         "de": "Kielplanke",
         "dk": "Kølplanke",
@@ -472,7 +472,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/F71E8E",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/F71E8E",
       "prefLabel": {
         "de": "Beplankung",
         "dk": "Bordlægning",
@@ -488,17 +488,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -513,6 +513,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -643,6 +644,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

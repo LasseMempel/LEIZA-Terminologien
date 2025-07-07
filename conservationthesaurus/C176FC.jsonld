@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C176FC",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C176FC",
   "type": "Concept",
   "prefLabel": {
     "de": "Schellack"
@@ -18,68 +18,68 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B2F4F2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2F4F2",
       "prefLabel": {
         "de": "Mastix"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BA71DA",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BA71DA",
       "prefLabel": {
         "de": "Stärkeleim"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C143C4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C143C4",
       "prefLabel": {
         "de": "Dextrinleim"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C4AG61",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4AG61",
       "prefLabel": {
         "de": "Cellulose"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D769C3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D769C3",
       "prefLabel": {
         "de": "Dammarharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GD86C1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GD86C1",
       "prefLabel": {
         "de": "Proteinleim"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G379BF",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G379BF",
       "prefLabel": {
         "de": "Gummi arabicum"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GC7994",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC7994",
       "prefLabel": {
         "de": "Kanadabalsam"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AG2965",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965",
     "prefLabel": {
       "de": "natürliches Polymer"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -94,6 +94,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -224,6 +225,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

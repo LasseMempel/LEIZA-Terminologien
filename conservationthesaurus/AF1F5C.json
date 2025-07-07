@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AF1F5C",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF1F5C",
   "type": "Concept",
   "prefLabel": {
     "de": "Trocknung"
@@ -12,33 +12,33 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A44FD4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A44FD4",
       "prefLabel": {
         "de": "Gefriertrocknung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G98FD4",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4",
     "prefLabel": {
       "de": "Konservierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A4G4G1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A4G4G1",
       "prefLabel": {
         "de": "Heißluftföhn"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D7GGGG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D7GGGG",
       "prefLabel": {
         "de": "Wärmeschrank"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F8323G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F8323G",
       "prefLabel": {
         "de": "industrielle Mikrowellenkammer"
       }
@@ -46,12 +46,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -66,6 +66,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -196,6 +197,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

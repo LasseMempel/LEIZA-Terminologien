@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/4",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
   "type": "Concept",
   "prefLabel": {
     "de": "[Schiffstyp]",
@@ -7,28 +7,28 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/0234D3",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/0234D3",
       "prefLabel": {
         "de": "Utrecht 3",
         "en": "Utrecht 3"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/239F9C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/239F9C",
       "prefLabel": {
         "de": "Brigg",
         "en": "Brigg"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/26941E",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/26941E",
       "prefLabel": {
         "de": "Dover",
         "en": "Dover"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/3323FF",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/3323FF",
       "prefLabel": {
         "de": "Navis caudicaria",
         "dk": "Navis caudicaria",
@@ -42,28 +42,28 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/40D1A3",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/40D1A3",
       "prefLabel": {
         "de": "Mainz A",
         "en": "Mainz A"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/4EC602",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/4EC602",
       "prefLabel": {
         "de": "North Ferriby",
         "en": "North Ferriby"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/51C929",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/51C929",
       "prefLabel": {
         "de": "Zwammerdam 5",
         "en": "Zwammerdam 5"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/5472B2",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/5472B2",
       "prefLabel": {
         "de": "hulkähnlich",
         "dk": "Holktype",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/54E32C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/54E32C",
       "prefLabel": {
         "de": "wikingerschiffähnlich",
         "dk": "Vikingeskibslignende",
@@ -91,7 +91,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/63A6E4",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/63A6E4",
       "prefLabel": {
         "de": "koggenähnlich",
         "dk": "Koggetype",
@@ -105,14 +105,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/679A09",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/679A09",
       "prefLabel": {
         "de": "Woerden 1",
         "en": "Woerden 1"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/67C5EA",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/67C5EA",
       "prefLabel": {
         "de": "Typ Igel",
         "dk": "Igel",
@@ -126,14 +126,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/6A2A87",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/6A2A87",
       "prefLabel": {
         "de": "Utrecht 1",
         "en": "Utrecht 1"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/883E8D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/883E8D",
       "prefLabel": {
         "de": "Unbekannter Schiffstyp",
         "dk": "Udefineret skibstype",
@@ -147,7 +147,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/8E26B8",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/8E26B8",
       "prefLabel": {
         "de": "prahmähnlich",
         "dk": "Pramtype",
@@ -161,21 +161,21 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/96911B",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/96911B",
       "prefLabel": {
         "de": "Zwammerdam 3",
         "en": "Zwammerdam 3"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A21BCC",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A21BCC",
       "prefLabel": {
         "de": "Blackfriars",
         "en": "Blackfriars"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/AB5CBB",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/AB5CBB",
       "prefLabel": {
         "de": "galeerenähnlich",
         "dk": "Galej",
@@ -189,14 +189,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/ABFB76",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/ABFB76",
       "prefLabel": {
         "de": "Mainz B",
         "en": "Mainz B"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/AC906A",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/AC906A",
       "prefLabel": {
         "de": "Typ Neumagen",
         "dk": "Neumagen",
@@ -210,14 +210,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B02E91",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B02E91",
       "prefLabel": {
         "de": "Woerden 2",
         "en": "Woerden 2"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B0F013",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B0F013",
       "prefLabel": {
         "de": "Typ Portus",
         "dk": "Portus",
@@ -231,7 +231,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B2CF95",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B2CF95",
       "prefLabel": {
         "de": "Papyrusboot",
         "dk": "Papyrus boot",
@@ -245,7 +245,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/C42DC4",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/C42DC4",
       "prefLabel": {
         "de": "Navis oneraria",
         "dk": "Navis oneraria",
@@ -259,21 +259,21 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/C8BE01",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/C8BE01",
       "prefLabel": {
         "de": "Pommeroeul 1",
         "en": "Pommeroeul 1"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D6F501",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D6F501",
       "prefLabel": {
         "de": "Zwammerdam",
         "en": "Zwammerdam"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/DC89EB",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/DC89EB",
       "prefLabel": {
         "de": "Langschiff",
         "dk": "Langskib",
@@ -287,7 +287,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/EAD7A9",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/EAD7A9",
       "prefLabel": {
         "de": "Erweiterter Einbaum",
         "dk": "Udspændt stammebåd",
@@ -301,14 +301,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/ED5180",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/ED5180",
       "prefLabel": {
         "de": "Oberstimm",
         "en": "Oberstimm"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/F48592",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/F48592",
       "prefLabel": {
         "de": "Typ Blussus",
         "dk": "Blussus",
@@ -322,7 +322,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/FD7D75",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/FD7D75",
       "prefLabel": {
         "de": "Nordic",
         "en": "Nordic"
@@ -331,17 +331,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -356,6 +356,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -486,6 +487,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

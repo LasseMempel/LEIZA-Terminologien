@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GC7998",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC7998",
   "type": "Concept",
   "prefLabel": {
     "de": "Cellulosenitrat"
@@ -23,32 +23,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A5D2D1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A5D2D1",
       "prefLabel": {
         "de": "Archäocoll 2000 N"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C65F47",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C65F47",
       "prefLabel": {
         "de": "Mecosan L-TR"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FD8AG2",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD8AG2",
       "prefLabel": {
         "de": "Pantarol® Metallschutz Nr. 100"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GC6999",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC6999",
       "prefLabel": {
         "de": "Zaponlack"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A9A929",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9A929",
     "prefLabel": {
       "de": "Celluloseester"
     }
@@ -60,12 +60,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -80,6 +80,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -210,6 +211,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/14",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/14",
   "type": "Concept",
   "prefLabel": {
     "de": "[Handhabung]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1975C4",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/1975C4",
       "prefLabel": {
         "de": "Rad",
         "dk": "Hjul",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/7EA68E",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/7EA68E",
       "prefLabel": {
         "de": "Anker",
         "dk": "Anker",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/98614C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/98614C",
       "prefLabel": {
         "de": "Poller",
         "dk": "Pullert",
@@ -49,7 +49,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/C399D6",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/C399D6",
       "prefLabel": {
         "de": "Winde",
         "dk": "Vinde",
@@ -63,7 +63,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/F9BB92",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/F9BB92",
       "prefLabel": {
         "de": "Tau",
         "dk": "Tov, Reb",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/FB341B",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/FB341B",
       "prefLabel": {
         "de": "Block",
         "dk": "Blok",
@@ -93,17 +93,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -118,6 +118,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -248,6 +249,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

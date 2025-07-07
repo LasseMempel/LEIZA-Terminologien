@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F964CG",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG",
   "type": "Concept",
   "prefLabel": {
     "de": "Schadensursache"
@@ -26,123 +26,123 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A889A3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A889A3",
       "prefLabel": {
         "de": "Verschmutzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A379F4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A379F4",
       "prefLabel": {
         "de": "materialbedingter Schaden"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AA819F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA819F",
       "prefLabel": {
         "de": "lichtinduzierter Schaden"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AD3A34",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AD3A34",
       "prefLabel": {
         "de": "Verwitterung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B2ADB6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2ADB6",
       "prefLabel": {
         "de": "Vandalismus"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C473B4",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C473B4",
       "prefLabel": {
         "de": "Beschädigung durch vorherige Bearbeitung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C64BC8",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C64BC8",
       "prefLabel": {
         "de": "Klimaschaden"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D16G86",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D16G86",
       "prefLabel": {
         "de": "Korrosionsinduzierter Schaden"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D171FF",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D171FF",
       "prefLabel": {
         "de": "Feuerschaden"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DD3A3D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD3A3D",
       "prefLabel": {
         "de": "Transportschaden"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F968G3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F968G3",
       "prefLabel": {
         "de": "Bodenlagerungsschaden"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FAFCF5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FAFCF5",
       "prefLabel": {
         "de": "Schaden durch mechanische Beanspruchung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FB7C46",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FB7C46",
       "prefLabel": {
         "de": "Lagerungsschaden"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FDD71B",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FDD71B",
       "prefLabel": {
         "de": "Salzbelastung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G1GA5F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G1GA5F",
       "prefLabel": {
         "de": "Biologischer Befall"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GBDG4D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GBDG4D",
       "prefLabel": {
         "de": "Bergungsschaden"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GCCD95",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GCCD95",
       "prefLabel": {
         "de": "Schadstoffe"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GGD66G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GGD66G",
       "prefLabel": {
         "de": "Wasserschaden"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BC5B57",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
     "prefLabel": {
       "de": "[Untersuchungsergebnisse]"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DAC996",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
       "prefLabel": {
         "de": "Schadensphänomen"
       }
@@ -150,12 +150,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -170,6 +170,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -300,6 +301,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/9",
+  "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
   "type": "Concept",
   "prefLabel": {
     "de": "[Konstruktionsmerkmale]",
@@ -7,7 +7,7 @@
   },
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/03297B",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/03297B",
       "prefLabel": {
         "de": "Beschlag",
         "dk": "Beslag",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1C41AC",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/1C41AC",
       "prefLabel": {
         "de": "Kraweel Beplankt",
         "dk": "Kravel bygget",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1D1955",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/1D1955",
       "prefLabel": {
         "de": "Nagel",
         "dk": "Spiger, Søm",
@@ -49,7 +49,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/1F8C94",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/1F8C94",
       "prefLabel": {
         "de": "Geklinkert",
         "dk": "Klinkbygget",
@@ -63,21 +63,21 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2A2031",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/2A2031",
       "prefLabel": {
         "de": "Bolzen (Eisen)",
         "en": "Bolt (iron)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/2C6BDB",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/2C6BDB",
       "prefLabel": {
         "de": "Kraweel (Beplankung)",
         "en": "Carvel build (planking)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/3DE001",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/3DE001",
       "prefLabel": {
         "de": "Sponung",
         "dk": "spunding",
@@ -90,7 +90,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/403A13",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/403A13",
       "prefLabel": {
         "de": "Klampe",
         "dk": "klamp",
@@ -104,14 +104,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/427FCF",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/427FCF",
       "prefLabel": {
         "de": "Einbaum (mit Gesamtdeck)",
         "en": "Dugout (with overall deck)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/431A1E",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/431A1E",
       "prefLabel": {
         "de": "Nahtspant",
         "dk": "liste",
@@ -125,7 +125,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/4744EE",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/4744EE",
       "prefLabel": {
         "de": "Bohrung",
         "dk": "Syhul",
@@ -139,7 +139,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/49AA0C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/49AA0C",
       "prefLabel": {
         "de": "Schäftung",
         "dk": "Lask",
@@ -153,7 +153,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/54D771",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/54D771",
       "prefLabel": {
         "de": "Bolzen",
         "dk": "bolt",
@@ -167,7 +167,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/5601F3",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/5601F3",
       "prefLabel": {
         "de": "Aussparung",
         "dk": "udsparing",
@@ -181,7 +181,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/5B0B41",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/5B0B41",
       "prefLabel": {
         "de": "Anriss",
         "dk": "opridsningsmærker",
@@ -195,14 +195,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/610FD3",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/610FD3",
       "prefLabel": {
         "de": "Boden zuerst",
         "en": "Bottom first"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/619AD3",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/619AD3",
       "prefLabel": {
         "de": "Unbekannte Konstruktion",
         "dk": "Ukendt konstruktion",
@@ -215,7 +215,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/6471C5",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/6471C5",
       "prefLabel": {
         "de": "Naht",
         "dk": "Nåd",
@@ -229,14 +229,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/6491C3",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/6491C3",
       "prefLabel": {
         "de": "Kraweel (Seite)",
         "en": "Carvel build (side)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/690B73",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/690B73",
       "prefLabel": {
         "de": "Schalenbauweise",
         "dk": "Skalbygget",
@@ -248,21 +248,21 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/6C1C1D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/6C1C1D",
       "prefLabel": {
         "de": "Klinker (Seite)",
         "en": "Clinker build (side)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/7393C9",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/7393C9",
       "prefLabel": {
         "de": "Nagel (Baum)",
         "en": "Nail (tree)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/85C3C2",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/85C3C2",
       "prefLabel": {
         "de": "Rute",
         "dk": "vidje",
@@ -275,14 +275,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/8FCA50",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/8FCA50",
       "prefLabel": {
         "de": "Nagel (Kupfer)",
         "en": "Nail (copper)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A29AEA",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A29AEA",
       "prefLabel": {
         "de": "gebunden",
         "dk": "surret / Bundet sammen",
@@ -296,7 +296,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A46547",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A46547",
       "prefLabel": {
         "de": "Schnur",
         "dk": "Sting",
@@ -310,7 +310,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/A6A046",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/A6A046",
       "prefLabel": {
         "de": "Flickung",
         "dk": "reparation",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/AB357C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/AB357C",
       "prefLabel": {
         "de": "Zimmermannszeichen",
         "dk": "tømrermærke",
@@ -337,7 +337,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/AFF00C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/AFF00C",
       "prefLabel": {
         "de": "Werkzeugspur",
         "dk": "værktøjsspor",
@@ -351,7 +351,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/B8ECB5",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/B8ECB5",
       "prefLabel": {
         "de": "Holznagel",
         "dk": "trænagle",
@@ -365,21 +365,21 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/BAED73",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/BAED73",
       "prefLabel": {
         "de": "Einbaum (erweitert)",
         "en": "Dugout (extended)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/BC332F",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/BC332F",
       "prefLabel": {
         "de": "Nagel (Bronze)",
         "en": "Nail (bronze)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/BD12D8",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/BD12D8",
       "prefLabel": {
         "de": "Skelettbauweise",
         "dk": "Skeletbygget",
@@ -391,14 +391,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/C0B0E1",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/C0B0E1",
       "prefLabel": {
         "de": "Einbaum (Boden)",
         "en": "Dugout (bottom)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/C11F67",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/C11F67",
       "prefLabel": {
         "de": "Niet",
         "dk": "Klinknagle",
@@ -412,14 +412,14 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/CEA053",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/CEA053",
       "prefLabel": {
         "de": "Bolzen (Bronze)",
         "en": "Bolt (bronze)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/CFCC18",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/CFCC18",
       "prefLabel": {
         "de": "Genäht",
         "dk": "Syet",
@@ -433,7 +433,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D3FF82",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D3FF82",
       "prefLabel": {
         "de": "Nut und Feder",
         "dk": "Tap-i-hul-samling",
@@ -447,7 +447,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/D88694",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/D88694",
       "prefLabel": {
         "de": "Einbaum",
         "dk": "Stammebåd",
@@ -459,21 +459,21 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/E0BC8C",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/E0BC8C",
       "prefLabel": {
         "de": "Einbaum (mit Vorunter)",
         "en": "Dugout (with foredeck)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/EAC98D",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/EAC98D",
       "prefLabel": {
         "de": "Kraweel (Boden)",
         "en": "Carvel build (bottom)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/EB6A4F",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/EB6A4F",
       "prefLabel": {
         "de": "Holzstift",
         "dk": "pind",
@@ -487,7 +487,7 @@
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone/FF8A47",
+      "id": "https://www.w3id.org/archlink/terms/NAVISone/FF8A47",
       "prefLabel": {
         "de": "Mallenbauweise",
         "dk": "Bygget på maller",
@@ -501,17 +501,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/NAVISone"
+      "id": "https://www.w3id.org/archlink/terms/NAVISone"
     }
   ],
   "@context": {
@@ -526,6 +526,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -656,6 +657,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

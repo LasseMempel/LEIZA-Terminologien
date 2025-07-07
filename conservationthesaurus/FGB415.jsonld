@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FGB415",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415",
   "type": "Concept",
   "prefLabel": {
     "de": "Kupferlegierung"
@@ -26,39 +26,39 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BF7D14",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14",
       "prefLabel": {
         "de": "Bronze"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A8B271",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8B271",
       "prefLabel": {
         "de": "Messing"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B93G16",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B93G16",
       "prefLabel": {
         "de": "Tombak"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A82D86",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A82D86",
     "prefLabel": {
       "de": "Buntmetalllegierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B28FA6",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B28FA6",
       "prefLabel": {
         "de": "Kupfer"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GC4CA7",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC4CA7",
       "prefLabel": {
         "de": "Patinabildung"
       }
@@ -74,12 +74,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -94,6 +94,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -224,6 +225,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

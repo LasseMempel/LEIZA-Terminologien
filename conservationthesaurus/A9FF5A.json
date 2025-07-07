@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A9FF5A",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A",
   "type": "Concept",
   "prefLabel": {
     "de": "Tränkung"
@@ -18,75 +18,75 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C17A3G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C17A3G",
       "prefLabel": {
         "de": "Badtränkung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BFA1CC",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFA1CC",
       "prefLabel": {
         "de": "Injektion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CD536F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD536F",
       "prefLabel": {
         "de": "Pinseltränkung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/G3368F",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G3368F",
       "prefLabel": {
         "de": "Pipettentränkung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DA9CGG",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
     "prefLabel": {
       "de": "Festigung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GFD582",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582",
       "prefLabel": {
         "de": "Acrylharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DF5773",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773",
       "prefLabel": {
         "de": "Polyvinylacetat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AF31AG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG",
       "prefLabel": {
         "de": "Epoxidharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B572B5",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5",
       "prefLabel": {
         "de": "Polyvinylbutyral"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AG2965",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965",
       "prefLabel": {
         "de": "natürliches Polymer"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/DF633G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G",
       "prefLabel": {
         "de": "Melamin-Formaldehydharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F89522",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F89522",
       "prefLabel": {
         "de": "Polyethylenglycol"
       }
@@ -94,12 +94,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -114,6 +114,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -244,6 +245,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }

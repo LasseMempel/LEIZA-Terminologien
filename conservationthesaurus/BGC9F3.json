@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/BGC9F3",
+  "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3",
   "type": "Concept",
   "prefLabel": {
     "de": "Mineral"
@@ -22,98 +22,98 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/C84834",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C84834",
       "prefLabel": {
         "de": "Quarz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/A42FG3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A42FG3",
       "prefLabel": {
         "de": "Lapislazuli"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FA5484",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FA5484",
       "prefLabel": {
         "de": "Amphibol"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F75BDB",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F75BDB",
       "prefLabel": {
         "de": "Beryll"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D74F9D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D74F9D",
       "prefLabel": {
         "de": "Granat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/B452DG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B452DG",
       "prefLabel": {
         "de": "Malachit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/AD3B58",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AD3B58",
       "prefLabel": {
         "de": "Korund"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F9GC9A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9GC9A",
       "prefLabel": {
         "de": "Tonminerale"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/CGGB4G",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGGB4G",
       "prefLabel": {
         "de": "Feldspat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D1788D",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1788D",
       "prefLabel": {
         "de": "Dolomit (Mineral)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/D8B5C3",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D8B5C3",
       "prefLabel": {
         "de": "Gips (Mineral)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/F68381",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F68381",
       "prefLabel": {
         "de": "Jadeit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/FD27A8",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD27A8",
       "prefLabel": {
         "de": "Fluorit"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus/GB6DF3",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3",
     "prefLabel": {
       "de": "silikatisches Material"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
   "@context": {
@@ -128,6 +128,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
+    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -258,6 +259,22 @@
     },
     "isReplacedBy": {
       "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "TextOrUri": {
+      "@id": "doc:TextOrUri",
+      "@container": "@set"
+    },
+    "Verpflichtungsgrad": {
+      "@id": "doc:Verpflichtungsgrad",
+      "@container": "@set"
+    },
+    "Wiederholbar": {
+      "@id": "doc:Wiederholbar",
+      "@container": "@set"
+    },
+    "EmpfohleneVokabulare": {
+      "@id": "doc:EmpfohleneVokabulare",
       "@container": "@set"
     }
   }
