@@ -10,7 +10,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA841D",
     "prefLabel": {
-      "de": "additionsvernetzender Silikonkautschuk"
+      "de": "additionsvernetzender Silikonkautschuk",
+      "en": "Addition-curing silicone rubber"
     }
   },
   "inScheme": [

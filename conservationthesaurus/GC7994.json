@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC7994",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kanadabalsam"
+    "de": "Kanadabalsam",
+    "en": "canada balsam"
   },
   "altLabel": {
     "de": [
       "Canadabalsam"
-    ],
-    "en": [
-      "canada balsam"
     ]
   },
   "definition": {

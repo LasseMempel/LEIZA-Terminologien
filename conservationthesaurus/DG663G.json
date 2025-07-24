@@ -18,12 +18,13 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14",
     "prefLabel": {
-      "de": "Bronze"
+      "de": "Bronze",
+      "en": "bronze"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300010959"
+      "id": "http://vocab.getty.edu/aat/300010959"
     }
   ],
   "inScheme": [

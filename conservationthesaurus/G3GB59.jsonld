@@ -18,20 +18,23 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
     "prefLabel": {
-      "de": "Freilegung"
+      "de": "Freilegung",
+      "en": "uncovering"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2642A",
       "prefLabel": {
-        "de": "Oberflächenbeschichtungen entfernt"
+        "de": "Oberflächenbeschichtungen entfernt",
+        "en": "removal of surface coatings"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA59C2",
       "prefLabel": {
-        "de": "Klebungen entfernt"
+        "de": "Klebungen entfernt",
+        "en": "removal of adhesives"
       }
     },
     {
@@ -43,37 +46,43 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGBB54",
       "prefLabel": {
-        "de": "Ergänzungsmaterialien entfernt"
+        "de": "Ergänzungsmaterialien entfernt",
+        "en": "removal of filling materials"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ACB46G",
       "prefLabel": {
-        "de": "Stachelschweinborste"
+        "de": "Stachelschweinborste",
+        "en": "porcupine bristle"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1C67A",
       "prefLabel": {
-        "de": "Metallschaber"
+        "de": "Metallschaber",
+        "en": "metal scraper"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F18C56",
       "prefLabel": {
-        "de": "Holzschaber"
+        "de": "Holzschaber",
+        "en": "wood scraper"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F71C33",
       "prefLabel": {
-        "de": "Skalpell"
+        "de": "Skalpell",
+        "en": "scalpel"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G33846",
       "prefLabel": {
-        "de": "Acrylglasschaber"
+        "de": "Acrylglasschaber",
+        "en": "acrylic scraper"
       }
     }
   ],

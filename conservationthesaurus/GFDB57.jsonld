@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFDB57",
   "type": "Concept",
   "prefLabel": {
-    "de": "Stroh"
-  },
-  "altLabel": {
-    "en": [
-      "straw"
-    ]
+    "de": "Stroh",
+    "en": "straw"
   },
   "definition": {
     "de": "getrocknete Halme pflanzlicher Fasern, die für eine Vielzahl unterschiedlicher Zwecke verwendet werden, z.B. zum Weben, Flechten oder als Magerungsmittel für Ton"
@@ -18,7 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25",
     "prefLabel": {
-      "de": "pflanzliche Fasern"
+      "de": "pflanzliche Fasern",
+      "en": "plant fibres"
     }
   },
   "inScheme": [

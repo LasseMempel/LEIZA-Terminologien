@@ -2,16 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A44FD4",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gefriertrocknung"
+    "de": "Gefriertrocknung",
+    "en": "freeze drying"
   },
   "altLabel": {
     "de": [
       "Lyophilisation",
       "Lyophilisierung",
       "Sublimationstrocknung"
-    ],
-    "en": [
-      "freeze drying"
     ]
   },
   "notation": [

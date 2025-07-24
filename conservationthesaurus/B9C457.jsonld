@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9C457",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bronzekrankheit"
-  },
-  "altLabel": {
-    "en": [
-      "bronze disease"
-    ]
+    "de": "Bronzekrankheit",
+    "en": "bronze disease"
   },
   "definition": {
     "de": "Bildung von hellgrünen, pulverförmigen Agglomeraten in der Matrix eines Buntmetallobjektes, dass die originale Oberfläche und das ursprüngliche Aussehen des Objektes negativ beeinflusst. Die Bildung dieser Produkte ist auf eine fortschreitende Korrosion, durch die Wechselwirkung von enthaltenen Chloriden und den metallischen Bestandteilen des Objektes bei hoher Luftfeuchtigkeit, zurück zu führen."
@@ -30,13 +26,14 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14",
       "prefLabel": {
-        "de": "Bronze"
+        "de": "Bronze",
+        "en": "bronze"
       }
     }
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300220720"
+      "id": "http://vocab.getty.edu/aat/300220720"
     }
   ],
   "inScheme": [

@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566",
   "type": "Concept",
   "prefLabel": {
-    "de": "Unedelmetall"
+    "de": "Unedelmetall",
+    "en": "base metal"
   },
   "altLabel": {
     "de": [
       "unedle Metalle",
       "unedles Metall"
-    ],
-    "en": [
-      "base metal"
     ]
   },
   "definition": {
@@ -29,13 +27,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF",
       "prefLabel": {
-        "de": "Buntmetall"
+        "de": "Buntmetall",
+        "en": "nonferrous metal"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F71C6B",
       "prefLabel": {
-        "de": "Eisen"
+        "de": "Eisen",
+        "en": "iron",
+        "fr": "fer"
       }
     }
   ],
@@ -58,7 +59,7 @@
       "id": "http://d-nb.info/gnd/4583082-4"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300241615"
+      "id": "http://vocab.getty.edu/aat/300241615"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q428855"

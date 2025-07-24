@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DC5B2B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Goldlegierung"
+    "de": "Goldlegierung",
+    "en": "gold alloy"
   },
   "altLabel": {
     "de": [
       "Goldlegierungen"
-    ],
-    "en": [
-      "gold alloy"
     ]
   },
   "definition": {
@@ -34,7 +32,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149",
       "prefLabel": {
-        "de": "Gold"
+        "de": "Gold",
+        "en": "gold"
       }
     }
   ],
@@ -43,7 +42,7 @@
       "id": "http://d-nb.info/gnd/4157867-3"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300010963"
+      "id": "http://vocab.getty.edu/aat/300010963"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q37136268"

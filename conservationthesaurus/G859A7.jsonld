@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G859A7",
   "type": "Concept",
   "prefLabel": {
-    "de": "gesponnen"
+    "de": "gesponnen",
+    "en": "spinning"
   },
   "altLabel": {
     "de": [
       "Spinnen"
-    ],
-    "en": [
-      "spinning"
     ]
   },
   "definition": {

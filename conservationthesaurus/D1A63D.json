@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1A63D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Putzholz"
-  },
-  "altLabel": {
-    "en": [
-      "cleaning wood stick"
-    ]
+    "de": "Putzholz",
+    "en": "cleaning wood stick"
   },
   "notation": [
     "D1A63D"

@@ -19,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC2113",
     "prefLabel": {
-      "de": "Lichtmikroskop"
+      "de": "Lichtmikroskop",
+      "en": "light microscope"
     }
   },
   "inScheme": [

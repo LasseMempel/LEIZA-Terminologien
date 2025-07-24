@@ -2,15 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4",
   "type": "Concept",
   "prefLabel": {
-    "de": "Konservierung"
+    "de": "stabilisierende Konservierung",
+    "en": "conservation"
   },
   "altLabel": {
     "de": [
-      "Konservierungsmaßnahme",
-      "stabilisierende Konservierung"
+      "stabilisierende Maßnahme"
     ],
     "en": [
-      "conservation",
       "remedial conservation"
     ]
   },
@@ -30,7 +29,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532",
       "prefLabel": {
-        "de": "Entsalzung"
+        "de": "Entsalzung",
+        "en": "desalination"
       }
     },
     {
@@ -42,7 +42,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
       "prefLabel": {
-        "de": "Festigung"
+        "de": "Festigung",
+        "en": "consolidation"
       }
     },
     {
@@ -59,9 +60,9 @@
     }
   ],
   "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26",
     "prefLabel": {
-      "de": "Maßnahme"
+      "de": "Konservierung"
     }
   },
   "relatedMatch": [
@@ -77,7 +78,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300404519"
+      "id": "http://vocab.getty.edu/aat/300404519"
     }
   ],
   "inScheme": [

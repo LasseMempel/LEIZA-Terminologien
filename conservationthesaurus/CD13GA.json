@@ -18,7 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A1D125",
     "prefLabel": {
-      "de": "synthetisches Polymer"
+      "de": "synthetisches Polymer",
+      "en": "synthetic polymer"
     }
   },
   "related": [

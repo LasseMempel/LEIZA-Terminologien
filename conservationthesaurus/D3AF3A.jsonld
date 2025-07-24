@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zustandsdokumentation"
+    "de": "Zustandsdokumentation",
+    "en": "condition documentation"
   },
   "altLabel": {
     "de": [
       "Zustandsbeschreibung"
     ],
     "en": [
-      "condition documentation",
       "condition report"
     ]
   },
@@ -41,14 +41,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
     "prefLabel": {
-      "de": "Dokumentation"
+      "de": "Dokumentation",
+      "en": "documentation"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
       "prefLabel": {
-        "de": "Zustandserfassung"
+        "de": "Zustandserfassung",
+        "en": "Condition assessment"
       }
     }
   ],
@@ -57,10 +59,10 @@
       "id": "http://terminology.lido-schema.org/lido00268"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300266009"
+      "id": "http://vocab.getty.edu/aat/300266009"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300435425"
+      "id": "http://vocab.getty.edu/aat/300435425"
     }
   ],
   "inScheme": [

@@ -44,7 +44,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341",
     "prefLabel": {
-      "de": "organisches Material"
+      "de": "organisches Material",
+      "en": "organic"
     }
   },
   "inScheme": [

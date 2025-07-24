@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Freilegung"
+    "de": "Freilegung",
+    "en": "uncovering"
   },
   "altLabel": {
     "de": [
       "Freilegen"
-    ],
-    "en": [
-      "uncovering"
     ]
   },
   "definition": {
@@ -41,20 +39,22 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
     "prefLabel": {
-      "de": "Restaurierung"
+      "de": "Restaurierung",
+      "en": "restoration"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
       "prefLabel": {
-        "de": "Reinigung"
+        "de": "Reinigung",
+        "en": "cleaning"
       }
     }
   ],
   "relatedMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300053027"
+      "id": "http://vocab.getty.edu/aat/300053027"
     }
   ],
   "inScheme": [

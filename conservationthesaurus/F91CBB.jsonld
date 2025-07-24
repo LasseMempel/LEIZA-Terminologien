@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F91CBB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Radiergummi"
-  },
-  "altLabel": {
-    "en": [
-      "eraser"
-    ]
+    "de": "Radiergummi",
+    "en": "eraser"
   },
   "notation": [
     "F91CBB"

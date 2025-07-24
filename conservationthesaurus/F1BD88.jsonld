@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F1BD88",
   "type": "Concept",
   "prefLabel": {
-    "de": "Erlenholz"
+    "de": "Erlenholz",
+    "en": "alder"
   },
   "altLabel": {
     "de": [
       "Alnus glutinosa"
-    ],
-    "en": [
-      "alder"
     ]
   },
   "definition": {
@@ -31,7 +29,7 @@
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011918"
+      "id": "http://vocab.getty.edu/aat/300011918"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Alder"

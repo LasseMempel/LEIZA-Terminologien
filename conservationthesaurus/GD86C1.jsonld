@@ -21,13 +21,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5BDAB",
       "prefLabel": {
-        "de": "Kaseinleim"
+        "de": "Kaseinleim",
+        "en": "casein"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FA91B1",
       "prefLabel": {
-        "de": "Glutinleim"
+        "de": "Glutinleim",
+        "en": "animal glue"
       }
     }
   ],

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDF423",
   "type": "Concept",
   "prefLabel": {
-    "de": "Metallfräser"
-  },
-  "altLabel": {
-    "en": [
-      "metal cutter"
-    ]
+    "de": "Metallfräser",
+    "en": "metal cutter"
   },
   "notation": [
     "CDF423"

@@ -13,7 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532",
     "prefLabel": {
-      "de": "Entsalzung"
+      "de": "Entsalzung",
+      "en": "desalination"
     }
   },
   "inScheme": [

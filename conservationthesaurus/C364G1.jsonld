@@ -2,12 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Konservierungs- und Restaurierungsmaterialien"
+    "de": "Konservierungs- und Restaurierungsmaterialien",
+    "en": "restorationmaterial"
   },
   "altLabel": {
     "en": [
-      "conservationmaterial",
-      "restorationmaterial"
+      "conservationmaterial"
     ]
   },
   "definition": {
@@ -20,25 +20,29 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
       "prefLabel": {
-        "de": "Füllstoff"
+        "de": "Füllstoff",
+        "en": "filler"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746",
       "prefLabel": {
-        "de": "Base"
+        "de": "Base",
+        "en": "alkaline solution"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
       "prefLabel": {
-        "de": "Lösungsmittel"
+        "de": "Lösungsmittel",
+        "en": "solvent"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
       "prefLabel": {
-        "de": "Säure"
+        "de": "Säure",
+        "en": "acidic detergent"
       }
     },
     {
@@ -68,13 +72,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
       "prefLabel": {
-        "de": "Verstärkungsfaser"
+        "de": "Verstärkungsfaser",
+        "en": "reinforcing fiber"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1",
       "prefLabel": {
-        "de": "Reduktionsmittel"
+        "de": "Reduktionsmittel",
+        "en": "reducing agent"
       }
     },
     {
@@ -86,13 +92,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671",
       "prefLabel": {
-        "de": "Farbstoff"
+        "de": "Farbstoff",
+        "en": "colourant"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F87124",
       "prefLabel": {
-        "de": "Komplexbildner"
+        "de": "Komplexbildner",
+        "en": "sequestering agent"
       }
     },
     {

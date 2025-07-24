@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDB814",
   "type": "Concept",
   "prefLabel": {
-    "de": "Diorit"
-  },
-  "altLabel": {
-    "en": [
-      "diorite"
-    ]
+    "de": "Diorit",
+    "en": "diorite"
   },
   "definition": {
     "de": "magmatisches Tiefengestein mit Plagioklas-Feldspat als Hauptbestandteil. Zeigt häufig eine grauschwarze bis grünlich-graue Färbung, wobei die Zusammensetzung aus weißlich-grauen Feldspäten und dunklen grünlich-schwarzen Hornblende- und/oder Biotit-Beimengungen zu einem gefleckten/gesprenkeltes Erscheinungsbild führen kann. Die Textur wird als körnig beschrieben, bei der die Minerale mit bloßem Auge erkennbar sind."

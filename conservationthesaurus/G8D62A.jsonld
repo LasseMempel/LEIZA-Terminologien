@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G8D62A",
   "type": "Concept",
   "prefLabel": {
-    "de": "konventionelles Röntgengerät"
-  },
-  "altLabel": {
-    "en": [
-      "X-ray unit"
-    ]
+    "de": "konventionelles Röntgengerät",
+    "en": "X-ray unit"
   },
   "definition": {
     "de": "technisches Gerät, mit dem zweidimensionale Röntgenaufnahmen erzeugt werden können. Das Gerät besteht dabei aus einer Röntgenröhre, die Röntgenstrahlen erzeugt und einem Detektor oder Film, der die Strahlen erfasst. Das zu untersuchende Objekt wird zwischen Röntgenröhre und Detektor positioniert und somit von den Strahlen aus der Strahlenquelle durchleuchtet. Im Gegensatz zum Aufbau eines CT-Scanners handelt es sich beim konventionellen Röntgengerät um einen starren Aufbau, bei dem keine Bewegung während des Aufnahmevorgangs stattfindet."
@@ -23,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA6941",
     "prefLabel": {
-      "de": "[Untersuchungsgerät]"
+      "de": "[Untersuchungsgerät]",
+      "en": "analytical device"
     }
   },
   "related": [

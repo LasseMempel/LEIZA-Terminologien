@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadensursache"
+    "de": "Schadensursache",
+    "en": "Cause of damage"
   },
   "altLabel": {
     "de": [
       "Abbaufaktor",
       "schädlicher Einfluss"
-    ],
-    "en": [
-      "Cause of damage"
     ]
   },
   "definition": {
@@ -137,14 +135,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
     "prefLabel": {
-      "de": "[Untersuchungsergebnisse]"
+      "de": "[Untersuchungsergebnisse]",
+      "en": "examination results"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
       "prefLabel": {
-        "de": "Schadensphänomen"
+        "de": "Schadensphänomen",
+        "en": "Damage type"
       }
     }
   ],

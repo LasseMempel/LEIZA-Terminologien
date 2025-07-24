@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAB799",
   "type": "Concept",
   "prefLabel": {
-    "de": "Vollständigkeit"
+    "de": "Vollständigkeit",
+    "en": "integrity"
   },
   "altLabel": {
     "de": [
       "Integrität"
     ],
     "en": [
-      "completeness",
-      "integrity"
+      "completeness"
     ]
   },
   "definition": {
@@ -36,12 +36,13 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
     "prefLabel": {
-      "de": "Physischer Zustand"
+      "de": "Physischer Objektzustand",
+      "en": "physical condition"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300419305"
+      "id": "http://vocab.getty.edu/aat/300419305"
     }
   ],
   "inScheme": [

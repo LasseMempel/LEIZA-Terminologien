@@ -19,18 +19,6 @@
   ],
   "narrower": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576",
-      "prefLabel": {
-        "de": "präventive Konservierung"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4",
-      "prefLabel": {
-        "de": "Konservierung"
-      }
-    },
-    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3A182",
       "prefLabel": {
         "de": "Nachbildung für wissenschaftliche Zwecke"
@@ -43,15 +31,16 @@
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB",
       "prefLabel": {
-        "de": "Konservierungs- und Restaurierungsmaterialien"
+        "de": "[Behandlungsmethode]"
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
       "prefLabel": {
-        "de": "Restaurierung"
+        "de": "Konservierungs- und Restaurierungsmaterialien",
+        "en": "restorationmaterial"
       }
     }
   ],

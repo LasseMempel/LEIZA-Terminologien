@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13",
   "type": "Concept",
   "prefLabel": {
-    "de": "Metalllegierung"
+    "de": "Metalllegierung",
+    "en": "metal alloy"
   },
   "altLabel": {
     "de": [
       "Legierung"
-    ],
-    "en": [
-      "metal alloy"
     ]
   },
   "definition": {
@@ -41,12 +39,14 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A",
     "prefLabel": {
-      "de": "Metall"
+      "de": "Metall",
+      "en": "metal",
+      "fr": "métal"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300010902"
+      "id": "http://vocab.getty.edu/aat/300010902"
     }
   ],
   "inScheme": [

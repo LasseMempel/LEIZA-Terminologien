@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G33846",
   "type": "Concept",
   "prefLabel": {
-    "de": "Acrylglasschaber"
+    "de": "Acrylglasschaber",
+    "en": "acrylic scraper"
   },
   "altLabel": {
     "de": [
       "Plexiglasschaber"
-    ],
-    "en": [
-      "acrylic scraper"
     ]
   },
   "notation": [

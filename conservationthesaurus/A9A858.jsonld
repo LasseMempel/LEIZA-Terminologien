@@ -26,7 +26,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C947B5",
       "prefLabel": {
-        "de": "archäologisches Holz"
+        "de": "archäologisches Holz",
+        "en": "wet-wood"
       }
     },
     {
@@ -37,9 +38,9 @@
     }
   ],
   "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1",
     "prefLabel": {
-      "de": "organisches Material"
+      "de": "Materialien pflanzlichen Ursprungs"
     }
   },
   "inScheme": [

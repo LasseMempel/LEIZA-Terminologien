@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B6443F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Feder"
-  },
-  "altLabel": {
-    "en": [
-      "feather"
-    ]
+    "de": "Feder",
+    "en": "feather"
   },
   "definition": {
     "de": "tierische, oft bunte Keratinstruktur, welche aus der Haut von Vögen gebildet wird und als Federkleid die äußerste Hauptbedeckung von Vögeln bildet."

@@ -2,16 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAF8AF",
   "type": "Concept",
   "prefLabel": {
-    "de": "gewebt"
+    "de": "gewebt",
+    "en": "weave"
   },
   "altLabel": {
     "de": [
       "Weben",
       "Webung",
       "verwebt"
-    ],
-    "en": [
-      "weave"
     ]
   },
   "definition": {
@@ -30,25 +28,29 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CF39DD",
       "prefLabel": {
-        "de": "Leinwandbindung"
+        "de": "Leinwandbindung",
+        "en": "tabby weave"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD149D",
       "prefLabel": {
-        "de": "Köperbindung"
+        "de": "Köperbindung",
+        "en": "twill weave"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FB7AB6",
       "prefLabel": {
-        "de": "Kompositbindung"
+        "de": "Kompositbindung",
+        "en": "compound weave"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FF5836",
       "prefLabel": {
-        "de": "Atlasbindung"
+        "de": "Atlasbindung",
+        "en": "satin weave"
       }
     },
     {

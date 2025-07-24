@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2DF6G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Fourier-Transform-Infrarotspektrometrie"
+    "de": "Fourier-Transform-Infrarotspektrometrie",
+    "en": "fourier transform infrared spectroscopy"
   },
   "altLabel": {
     "de": [
       "FTIR"
-    ],
-    "en": [
-      "fourier transform infrared spectroscopy"
     ]
   },
   "definition": {

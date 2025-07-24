@@ -19,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel"
+      "de": "Lösungsmittel",
+      "en": "solvent"
     }
   },
   "inScheme": [

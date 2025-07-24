@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA59C2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Klebungen entfernt"
-  },
-  "altLabel": {
-    "en": [
-      "removal of adhesives"
-    ]
+    "de": "Klebungen entfernt",
+    "en": "removal of adhesives"
   },
   "definition": {
     "de": "Methode, bei der zu einem früheren Zeitpunkt durchgeführte Klebungen gelöst und die verbliebenen Klebstoffreste entfernt werden."
@@ -18,7 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF",
     "prefLabel": {
-      "de": "frühere Restaurierungsmaterialien entfernt"
+      "de": "frühere Restaurierungsmaterialien entfernt",
+      "en": "removal of previous restoration materials"
     }
   },
   "related": [

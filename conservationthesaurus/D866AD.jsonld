@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gestein"
+    "de": "Gestein",
+    "en": "stone"
   },
   "altLabel": {
     "de": [
       "Stein"
-    ],
-    "en": [
-      "stone"
     ]
   },
   "definition": {
@@ -51,7 +49,7 @@
   },
   "relatedMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011176"
+      "id": "http://vocab.getty.edu/aat/300011176"
     }
   ],
   "closeMatch": [

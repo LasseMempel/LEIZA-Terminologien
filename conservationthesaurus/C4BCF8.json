@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zustandserfassung"
+    "de": "Zustandserfassung",
+    "en": "Condition assessment"
   },
   "altLabel": {
     "de": [
       "Zustandserhebung"
-    ],
-    "en": [
-      "Condition assessment"
     ]
   },
   "definition": {
@@ -25,33 +23,22 @@
   ],
   "narrower": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DBC278",
-      "prefLabel": {
-        "de": "Bisherige Lagerung"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A4G52F",
-      "prefLabel": {
-        "de": "Einlieferungszustand"
-      }
-    },
-    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G51G",
       "prefLabel": {
         "de": "Erhaltungszustand"
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2488A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DBC278",
       "prefLabel": {
-        "de": "Endzustand"
+        "de": "Bisherige Lagerung"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA1BC5",
       "prefLabel": {
-        "de": "Objektuntersuchung"
+        "de": "Objektuntersuchung",
+        "en": "examination"
       }
     }
   ],
@@ -83,7 +70,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
       "prefLabel": {
-        "de": "Zustandsdokumentation"
+        "de": "Zustandsdokumentation",
+        "en": "condition documentation"
       }
     },
     {

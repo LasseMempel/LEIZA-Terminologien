@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kupferlegierung"
+    "de": "Kupferlegierung",
+    "en": "copper alloy"
   },
   "altLabel": {
     "de": [
       "Kupferlegierungen"
-    ],
-    "en": [
-      "copper alloy"
     ]
   },
   "definition": {
@@ -28,19 +26,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14",
       "prefLabel": {
-        "de": "Bronze"
+        "de": "Bronze",
+        "en": "bronze"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8B271",
       "prefLabel": {
-        "de": "Messing"
+        "de": "Messing",
+        "en": "brass"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B93G16",
       "prefLabel": {
-        "de": "Tombak"
+        "de": "Tombak",
+        "en": "tombac"
       }
     }
   ],
@@ -54,7 +55,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B28FA6",
       "prefLabel": {
-        "de": "Kupfer"
+        "de": "Kupfer",
+        "en": "copper"
       }
     },
     {
@@ -66,7 +68,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300010942"
+      "id": "http://vocab.getty.edu/aat/300010942"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q518350"

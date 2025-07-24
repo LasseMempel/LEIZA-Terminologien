@@ -14,7 +14,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2788C",
       "prefLabel": {
-        "de": "RFA-Spektrometer"
+        "de": "RFA-Spektrometer",
+        "en": "X-ray fluorescence spectrometer"
       }
     },
     {
@@ -27,7 +28,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA6941",
     "prefLabel": {
-      "de": "[Untersuchungsgerät]"
+      "de": "[Untersuchungsgerät]",
+      "en": "analytical device"
     }
   },
   "inScheme": [

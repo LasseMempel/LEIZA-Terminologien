@@ -61,7 +61,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A1D125",
     "prefLabel": {
-      "de": "synthetisches Polymer"
+      "de": "synthetisches Polymer",
+      "en": "synthetic polymer"
     }
   },
   "related": [
@@ -74,7 +75,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
       "prefLabel": {
-        "de": "Festigung"
+        "de": "Festigung",
+        "en": "consolidation"
       }
     },
     {
@@ -86,7 +88,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
-        "de": "Verstärkung"
+        "de": "Verstärkung",
+        "en": "reinforcement"
       }
     }
   ],

@@ -14,7 +14,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC75G1",
       "prefLabel": {
-        "de": "Eisenlegierung"
+        "de": "Eisenlegierung",
+        "en": "iron alloy"
       }
     },
     {
@@ -27,14 +28,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13",
     "prefLabel": {
-      "de": "Metalllegierung"
+      "de": "Metalllegierung",
+      "en": "metal alloy"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566",
       "prefLabel": {
-        "de": "Unedelmetall"
+        "de": "Unedelmetall",
+        "en": "base metal"
       }
     }
   ],

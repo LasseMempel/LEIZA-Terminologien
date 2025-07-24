@@ -30,7 +30,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien"
+      "de": "Konservierungs- und Restaurierungsmaterialien",
+      "en": "restorationmaterial"
     }
   },
   "inScheme": [

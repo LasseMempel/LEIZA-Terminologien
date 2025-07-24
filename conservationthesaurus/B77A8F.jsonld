@@ -2,16 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B77A8F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ethylacetat"
+    "de": "Ethylacetat",
+    "en": "ethyl acetate"
   },
   "altLabel": {
     "de": [
       "Essigester",
       "Essigsäureethylester",
       "Ethansäureethylester"
-    ],
-    "en": [
-      "ethyl acetate"
     ]
   },
   "definition": {
@@ -28,7 +26,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel"
+      "de": "Lösungsmittel",
+      "en": "solvent"
     }
   },
   "closeMatch": [

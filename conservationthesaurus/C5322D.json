@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5322D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Jaspis"
-  },
-  "altLabel": {
-    "en": [
-      "jasper"
-    ]
+    "de": "Jaspis",
+    "en": "jasper"
   },
   "definition": {
     "de": "mikrokristalline Varietät des Calcedons, durch Eisen rötlich bis bräunlich, gelb gefärbt. Jaspis weist dichtes, lichtundurchlässiges Gefüge auf und zeigt einen splittrigen Bruch."
@@ -24,7 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D",
     "prefLabel": {
-      "de": "Calcedon"
+      "de": "Calcedon",
+      "en": "calcedony"
     }
   },
   "inScheme": [

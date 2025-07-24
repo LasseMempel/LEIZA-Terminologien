@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B53C8F",
   "type": "Concept",
   "prefLabel": {
-    "de": "UV-Lumineszenz-Untersuchung"
-  },
-  "altLabel": {
-    "en": [
-      "uv fluorescence examination"
-    ]
+    "de": "UV-Lumineszenz-Untersuchung",
+    "en": "uv fluorescence examination"
   },
   "definition": {
     "de": "zerstörungsfreie Untersuchungsmethode, bei der das Objekt mit UV-Licht bestrahlt wird. Befinden sich in dem Objektmaterial fluoreszierende Stoffe werden diese durch die kurzwelligen UV-Strahlen zum Leuchten angeregt und gegenüber den nicht fluoreszierenden Stoffen sichtbar. Auf diese Weise lassen sich z.B. Klebstoffe, Überzüge, Retuschen und Übermalungen auf bereits restaurierten Objekten sichtbar machen, die mit dem bloßen Auge im Tageslicht nicht zu erkennen sind. Als Methode zur Identifizierung eines Stoffes ist die UV-Fluoreszenz nur bedingt geeignet. Viele Stoffe zeigen zwar eine charakteristische Färbung in ihrer Fluoreszenz, die mit Hilfe von Referenztabellen bestimmt werden kann, allerdings können Verunreinigungen (wie z.B. Staub) die Fluoreszenz stark beeinträchtigen, indem sie entweder die natürliche Fluorezenz des Materials auslöschen oder selbst fluoreszieren."
@@ -26,7 +22,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA7279",
     "prefLabel": {
-      "de": "visuelle Begutachtung"
+      "de": "visuelle Begutachtung",
+      "en": "visual examination"
     }
   },
   "related": [

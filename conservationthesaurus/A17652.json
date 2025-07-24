@@ -15,7 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CG676B",
     "prefLabel": {
-      "de": "Analyse der isotopischen Zusammensetzung"
+      "de": "Analyse der isotopischen Zusammensetzung",
+      "en": "Analysis of isotopic composition"
     }
   },
   "inScheme": [

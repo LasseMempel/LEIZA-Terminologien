@@ -10,7 +10,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9F783",
     "prefLabel": {
-      "de": "Cyanacrylat"
+      "de": "Cyanacrylat",
+      "en": "cyanoacrylate"
     }
   },
   "inScheme": [

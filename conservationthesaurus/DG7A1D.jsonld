@@ -20,7 +20,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FBA99A",
       "prefLabel": {
-        "de": "instabil"
+        "de": "instabil",
+        "en": "instable"
       }
     }
   ],

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC6983",
   "type": "Concept",
   "prefLabel": {
-    "de": "Rückgabe aus Leihverkehr"
-  },
-  "altLabel": {
-    "en": [
-      "return from loans"
-    ]
+    "de": "Rückgabe aus Leihverkehr",
+    "en": "return from loans"
   },
   "definition": {
     "de": "Das Objekt war an eine andere Einrichtung verliehen und kommt im Zuge der Rückgabe zur Evaluierung des Zustandes in die Restaurierungswerkstatt."

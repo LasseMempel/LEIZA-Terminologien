@@ -10,7 +10,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1",
     "prefLabel": {
-      "de": "Reduktionsmittel"
+      "de": "Reduktionsmittel",
+      "en": "reducing agent"
     }
   },
   "closeMatch": [

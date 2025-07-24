@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2B583",
   "type": "Concept",
   "prefLabel": {
-    "de": "Plastilin"
-  },
-  "altLabel": {
-    "en": [
-      "plasticine"
-    ]
+    "de": "Plastilin",
+    "en": "plasticine"
   },
   "definition": {
     "de": "formbare ton- bzw. wachsähnliche Modelliermasse aus verschiedenen Füllstoffen (Kalziumcarbonat, Kreide, Kalk, etc.) Ölen, Wachsen und Polymeren. Sie trocknet nicht aus, bleibt dauerhaft geschmeidig und knetbar sowie wiedervervendbar. In der Konservierung und Restaurierung wird Plastilin häufig für temporäre Stützen, Abformungen und Manschettenergänzungen verwendet. Die enthaltenen Öle in manchen Plastilin-Produkten können, gerade auf hellen und/oder porösen Oberflächen, zu Verfärbungen, Flecken und fettigen Rückständen führen, sodass solche Oberfläche bei der Verwendung von Plastilin zusätzlich geschützt werden sollten."

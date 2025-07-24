@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CF39DD",
   "type": "Concept",
   "prefLabel": {
-    "de": "Leinwandbindung"
+    "de": "Leinwandbindung",
+    "en": "tabby weave"
   },
   "altLabel": {
     "de": [
       "Taftbindung",
       "Tuchbindung"
-    ],
-    "en": [
-      "tabby weave"
     ]
   },
   "definition": {
@@ -28,7 +26,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAF8AF",
     "prefLabel": {
-      "de": "gewebt"
+      "de": "gewebt",
+      "en": "weave"
     }
   },
   "inScheme": [

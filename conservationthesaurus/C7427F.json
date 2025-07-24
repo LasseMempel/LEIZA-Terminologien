@@ -24,7 +24,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
     "prefLabel": {
-      "de": "Verstärkung"
+      "de": "Verstärkung",
+      "en": "reinforcement"
     }
   },
   "inScheme": [

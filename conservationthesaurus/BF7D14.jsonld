@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bronze"
+    "de": "Bronze",
+    "en": "bronze"
   },
   "altLabel": {
     "de": [
       "Bronzen"
-    ],
-    "en": [
-      "bronze"
     ]
   },
   "definition": {
@@ -47,14 +45,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415",
     "prefLabel": {
-      "de": "Kupferlegierung"
+      "de": "Kupferlegierung",
+      "en": "copper alloy"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9C457",
       "prefLabel": {
-        "de": "Bronzekrankheit"
+        "de": "Bronzekrankheit",
+        "en": "bronze disease"
       }
     }
   ],
@@ -65,7 +65,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300010957"
+      "id": "http://vocab.getty.edu/aat/300010957"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Bronze"

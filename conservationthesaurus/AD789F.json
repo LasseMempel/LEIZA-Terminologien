@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AD789F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Silberlegierung"
+    "de": "Silberlegierung",
+    "en": "silver alloy"
   },
   "altLabel": {
     "de": [
       "Silberlegierungen"
-    ],
-    "en": [
-      "silver alloy"
     ]
   },
   "definition": {
@@ -35,7 +33,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F135A8",
       "prefLabel": {
-        "de": "Silber"
+        "de": "Silber",
+        "en": "silver"
       }
     }
   ],
@@ -44,7 +43,7 @@
       "id": "http://d-nb.info/gnd/4181330-3"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300010975"
+      "id": "http://vocab.getty.edu/aat/300010975"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q52895784"

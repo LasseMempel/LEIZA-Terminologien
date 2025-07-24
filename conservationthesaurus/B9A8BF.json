@@ -2,12 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9A8BF",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bergkristall"
+    "de": "Bergkristall",
+    "en": "rock crystal"
   },
   "altLabel": {
     "en": [
-      "alaska diamond",
-      "rock crystal"
+      "alaska diamond"
     ]
   },
   "definition": {

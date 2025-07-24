@@ -21,13 +21,7 @@
   "notation": [
     "D9G51G"
   ],
-  "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
-    "prefLabel": {
-      "de": "Zustandserfassung"
-    }
-  },
-  "related": [
+  "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A4G52F",
       "prefLabel": {
@@ -39,14 +33,15 @@
       "prefLabel": {
         "de": "Endzustand"
       }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
-      "prefLabel": {
-        "de": "[Untersuchungsergebnisse]"
-      }
     }
   ],
+  "broader": {
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
+    "prefLabel": {
+      "de": "Zustandserfassung",
+      "en": "Condition assessment"
+    }
+  },
   "inScheme": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"

@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773",
   "type": "Concept",
   "prefLabel": {
-    "de": "Polyvinylacetat"
+    "de": "Polyvinylacetat",
+    "en": "polyvinyl acetate"
   },
   "altLabel": {
     "de": [
       "PVA",
       "PVAC"
-    ],
-    "en": [
-      "polyvinyl acetate"
     ]
   },
   "definition": {
@@ -56,7 +54,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A1D125",
     "prefLabel": {
-      "de": "synthetisches Polymer"
+      "de": "synthetisches Polymer",
+      "en": "synthetic polymer"
     }
   },
   "related": [
@@ -69,7 +68,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
       "prefLabel": {
-        "de": "Festigung"
+        "de": "Festigung",
+        "en": "consolidation"
       }
     },
     {
@@ -81,13 +81,14 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
-        "de": "Verstärkung"
+        "de": "Verstärkung",
+        "en": "reinforcement"
       }
     }
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300014507"
+      "id": "http://vocab.getty.edu/aat/300014507"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Polyvinyl_acetate"

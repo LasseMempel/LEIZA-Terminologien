@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Edelmetall"
+    "de": "Edelmetall",
+    "en": "nobel metal"
   },
   "altLabel": {
     "de": [
       "Edelmetalle"
-    ],
-    "en": [
-      "nobel metal"
     ]
   },
   "definition": {
@@ -28,13 +26,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F135A8",
       "prefLabel": {
-        "de": "Silber"
+        "de": "Silber",
+        "en": "silver"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149",
       "prefLabel": {
-        "de": "Gold"
+        "de": "Gold",
+        "en": "gold"
       }
     }
   ],
@@ -57,7 +57,7 @@
       "id": "http://d-nb.info/gnd/4013531-7"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300241621"
+      "id": "http://vocab.getty.edu/aat/300241621"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q585302"

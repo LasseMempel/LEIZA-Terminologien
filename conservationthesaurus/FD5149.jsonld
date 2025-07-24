@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gold"
-  },
-  "altLabel": {
-    "en": [
-      "gold"
-    ]
+    "de": "Gold",
+    "en": "gold"
   },
   "definition": {
     "de": "gelbes Metall mit dem chemischen Symbol Au und der Ordnungszahl 79. Gehört zu den ersten Metallen, die in der frühen Menschheitsgeschichte verarbeitet wurden. Aufgrund seiner Seltenheit, der guten Bearbeitbarkeit sowie der schönen Farbe und dem auffälligen Glanz wird Gold seit Jahrtausenden für Schmuck und Prestigeobjekte verwendet. Durch die hohe Korrosionsbeständigkeit sind an Goldobjekten kaum materialbezogene, konservatorische Maßnahmen notwendig."
@@ -24,20 +20,24 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A",
     "prefLabel": {
-      "de": "Edelmetall"
+      "de": "Edelmetall",
+      "en": "nobel metal"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9F6DG",
       "prefLabel": {
-        "de": "Elektrum"
+        "de": "Elektrum",
+        "en": "electrum",
+        "fr": "électrum"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DC5B2B",
       "prefLabel": {
-        "de": "Goldlegierung"
+        "de": "Goldlegierung",
+        "en": "gold alloy"
       }
     }
   ],
@@ -46,7 +46,7 @@
       "id": "http://d-nb.info/gnd/4157819-3"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300011021"
+      "id": "http://vocab.getty.edu/aat/300011021"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Gold"

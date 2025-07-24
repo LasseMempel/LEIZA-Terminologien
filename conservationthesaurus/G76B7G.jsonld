@@ -6,41 +6,27 @@
   },
   "altLabel": {
     "de": [
-      "Interpretation",
-      "Technologischer Befund"
+      "Interpretation"
     ]
   },
   "definition": {
-    "de": "Erläuterung und Auslegung der während der Untersuchung und Bearbeitung eines Objektes festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien"
+    "de": "Dokumentation und Erläuterung der festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien."
   },
   "notation": [
     "G76B7G"
   ],
-  "narrower": [
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2244D",
-      "prefLabel": {
-        "de": "Verzierungstechnik"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CF3C22",
-      "prefLabel": {
-        "de": "Verwendungszweck"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F8F594",
-      "prefLabel": {
-        "de": "Herstellungstechnik"
-      }
+  "broader": {
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+    "prefLabel": {
+      "de": "Dokumentation",
+      "en": "documentation"
     }
-  ],
+  },
   "related": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BAA258",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6BCC2",
       "prefLabel": {
-        "de": "Auswertungsdokumentation"
+        "de": "Technologischer Befund"
       }
     }
   ],
@@ -50,11 +36,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }

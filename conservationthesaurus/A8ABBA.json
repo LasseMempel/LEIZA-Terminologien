@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8ABBA",
   "type": "Concept",
   "prefLabel": {
-    "de": "klimatisierte Lagerung"
-  },
-  "altLabel": {
-    "en": [
-      "climate-controlled storage"
-    ]
+    "de": "klimatisierte Lagerung",
+    "en": "climate-controlled storage"
   },
   "definition": {
     "de": "Das Objekt wurde bis zur Einlieferung in die Restaurierungswerkstatt unter kontrollierten, klimatischen Bedingungen aufbewahrt."
@@ -19,25 +15,29 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2BB42",
       "prefLabel": {
-        "de": "klimatisierte Individualverpackung"
+        "de": "klimatisierte Individualverpackung",
+        "en": "climate-controlled individual packaging"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2241C",
       "prefLabel": {
-        "de": "Klimaraum"
+        "de": "Klimaraum",
+        "en": "climate room"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C948F2",
       "prefLabel": {
-        "de": "Gefrierschrank"
+        "de": "Gefrierschrank",
+        "en": "freezer"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D21459",
       "prefLabel": {
-        "de": "Kühlschrank"
+        "de": "Kühlschrank",
+        "en": "refrigerator"
       }
     }
   ],

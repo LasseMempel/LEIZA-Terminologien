@@ -2,16 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
   "type": "Concept",
   "prefLabel": {
-    "de": "Festigung"
+    "de": "Festigung",
+    "en": "consolidation"
   },
   "altLabel": {
     "de": [
       "Festigen",
       "Sicherung",
       "Stabilisierung"
-    ],
-    "en": [
-      "consolidation"
     ]
   },
   "definition": {
@@ -42,27 +40,31 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
-        "de": "Verstärkung"
+        "de": "Verstärkung",
+        "en": "reinforcement"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4",
     "prefLabel": {
-      "de": "Konservierung"
+      "de": "stabilisierende Konservierung",
+      "en": "conservation"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582",
       "prefLabel": {
-        "de": "Acrylharz"
+        "de": "Acrylharz",
+        "en": "acrylic resin"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773",
       "prefLabel": {
-        "de": "Polyvinylacetat"
+        "de": "Polyvinylacetat",
+        "en": "polyvinyl acetate"
       }
     },
     {
@@ -92,10 +94,10 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300053768"
+      "id": "http://vocab.getty.edu/aat/300053768"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300219960"
+      "id": "http://vocab.getty.edu/aat/300219960"
     }
   ],
   "inScheme": [

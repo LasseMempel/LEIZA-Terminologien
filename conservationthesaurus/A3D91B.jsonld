@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A3D91B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Muschel"
+    "de": "Muschel",
+    "en": "shell"
   },
   "altLabel": {
     "de": [
       "Muschelschale"
-    ],
-    "en": [
-      "shell"
     ]
   },
   "notation": [

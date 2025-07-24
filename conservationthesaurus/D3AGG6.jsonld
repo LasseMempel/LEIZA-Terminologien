@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AGG6",
   "type": "Concept",
   "prefLabel": {
-    "de": "visuelle Veränderung"
+    "de": "visuelle Veränderung",
+    "en": "visual alteration"
   },
   "altLabel": {
     "de": [
       "optische Veränderung"
     ],
     "en": [
-      "optical alteration",
-      "visual alteration"
+      "optical alteration"
     ]
   },
   "definition": {
@@ -53,7 +53,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
     "prefLabel": {
-      "de": "Schadensphänomen"
+      "de": "Schadensphänomen",
+      "en": "Damage type"
     }
   },
   "inScheme": [

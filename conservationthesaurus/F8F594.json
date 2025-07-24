@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Herstellungstechnik"
   },
+  "altLabel": {
+    "de": [
+      "Produktionstechnik"
+    ]
+  },
   "definition": {
     "de": "basierend auf den festgestellten Spuren angenommene Art und Weise wie das Objekt hergestellt worden ist"
   },
@@ -25,9 +30,9 @@
     }
   ],
   "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6BCC2",
     "prefLabel": {
-      "de": "Technologische Auswertung"
+      "de": "Technologischer Befund"
     }
   },
   "inScheme": [

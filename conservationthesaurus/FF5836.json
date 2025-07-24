@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FF5836",
   "type": "Concept",
   "prefLabel": {
-    "de": "Atlasbindung"
+    "de": "Atlasbindung",
+    "en": "satin weave"
   },
   "altLabel": {
     "de": [
       "Satinbindung"
-    ],
-    "en": [
-      "satin weave"
     ]
   },
   "definition": {
@@ -28,7 +26,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAF8AF",
     "prefLabel": {
-      "de": "gewebt"
+      "de": "gewebt",
+      "en": "weave"
     }
   },
   "inScheme": [

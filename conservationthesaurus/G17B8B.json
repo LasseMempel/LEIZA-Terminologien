@@ -14,7 +14,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2DF6G",
       "prefLabel": {
-        "de": "Fourier-Transform-Infrarotspektrometrie"
+        "de": "Fourier-Transform-Infrarotspektrometrie",
+        "en": "fourier transform infrared spectroscopy"
       }
     },
     {
@@ -26,26 +27,30 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DG129D",
       "prefLabel": {
-        "de": "energiedispersive Röntgenspektroskopie"
+        "de": "energiedispersive Röntgenspektroskopie",
+        "en": "energy dispersive X-ray spectroscopy"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G69G4B",
       "prefLabel": {
-        "de": "Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma"
+        "de": "Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma",
+        "en": "inductively coupled plasma optical emission spectrometry"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GA6422",
       "prefLabel": {
-        "de": "Laserinduzierte Plasmaspektroskopie"
+        "de": "Laserinduzierte Plasmaspektroskopie",
+        "en": "laser-induced breakdown spectroscopy"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
     "prefLabel": {
-      "de": "Materialanalyse"
+      "de": "Materialanalyse",
+      "en": "material analysis"
     }
   },
   "inScheme": [

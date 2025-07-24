@@ -27,13 +27,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G6A358",
       "prefLabel": {
-        "de": "Zinnlegierung"
+        "de": "Zinnlegierung",
+        "en": "tin alloy"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G78BD6",
       "prefLabel": {
-        "de": "Zinn"
+        "de": "Zinn",
+        "en": "tin"
       }
     }
   ],

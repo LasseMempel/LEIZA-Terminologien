@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ACB46G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Stachelschweinborste"
-  },
-  "altLabel": {
-    "en": [
-      "porcupine bristle"
-    ]
+    "de": "Stachelschweinborste",
+    "en": "porcupine bristle"
   },
   "notation": [
     "ACB46G"

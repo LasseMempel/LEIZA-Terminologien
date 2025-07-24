@@ -2,16 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Klebung"
+    "de": "Klebung",
+    "en": "bonding"
   },
   "altLabel": {
     "de": [
       "Babbe",
       "Fügung",
       "Kleben"
-    ],
-    "en": [
-      "bonding"
     ]
   },
   "definition": {
@@ -54,7 +52,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
     "prefLabel": {
-      "de": "Restaurierung"
+      "de": "Restaurierung",
+      "en": "restoration"
     }
   },
   "related": [
@@ -67,7 +66,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300053012"
+      "id": "http://vocab.getty.edu/aat/300053012"
     }
   ],
   "inScheme": [

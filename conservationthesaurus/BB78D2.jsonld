@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Füllstoff"
-  },
-  "altLabel": {
-    "en": [
-      "filler"
-    ]
+    "de": "Füllstoff",
+    "en": "filler"
   },
   "definition": {
     "de": "\"verhältnismäßig inerter fester Stoff, der einem Kunststoff oder einem Klebstoff beigemischt wird, um dessen Festigkeit, Beständigkeit, Verarbeitungseigenschaften oder andere Eigenschaften zu verbessern oder um die Kosten zu senken.\""
@@ -30,31 +26,36 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9D357",
       "prefLabel": {
-        "de": "Hohlglaskügelchen"
+        "de": "Hohlglaskügelchen",
+        "en": "hollow glass balls"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFB3B9",
       "prefLabel": {
-        "de": "Talkum"
+        "de": "Talkum",
+        "en": "talcum powder"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C1BBFB",
       "prefLabel": {
-        "de": "Metallpulver"
+        "de": "Metallpulver",
+        "en": "metal powder"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA86F8",
       "prefLabel": {
-        "de": "pyrogene Kieselsäure"
+        "de": "pyrogene Kieselsäure",
+        "en": "fumed silica"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC6F82",
       "prefLabel": {
-        "de": "Graphit"
+        "de": "Graphit",
+        "en": "graphite"
       }
     },
     {
@@ -67,7 +68,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien"
+      "de": "Konservierungs- und Restaurierungsmaterialien",
+      "en": "restorationmaterial"
     }
   },
   "inScheme": [

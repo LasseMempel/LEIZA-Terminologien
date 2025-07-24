@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A5G856",
   "type": "Concept",
   "prefLabel": {
-    "de": "Baumwolle"
+    "de": "Baumwolle",
+    "en": "cotton"
   },
   "altLabel": {
     "de": [
       "Baumwollfaser"
-    ],
-    "en": [
-      "cotton"
     ]
   },
   "definition": {
@@ -27,12 +25,13 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25",
     "prefLabel": {
-      "de": "pflanzliche Fasern"
+      "de": "pflanzliche Fasern",
+      "en": "plant fibres"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300183670"
+      "id": "http://vocab.getty.edu/aat/300183670"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Cotton"

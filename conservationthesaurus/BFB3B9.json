@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFB3B9",
   "type": "Concept",
   "prefLabel": {
-    "de": "Talkum"
-  },
-  "altLabel": {
-    "en": [
-      "talcum powder"
-    ]
+    "de": "Talkum",
+    "en": "talcum powder"
   },
   "notation": [
     "BFB3B9"
@@ -15,7 +11,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
     "prefLabel": {
-      "de": "Füllstoff"
+      "de": "Füllstoff",
+      "en": "filler"
     }
   },
   "inScheme": [

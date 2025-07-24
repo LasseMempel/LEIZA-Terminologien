@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF23F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Methodik"
+    "de": "Methodik",
+    "en": "methodology"
   },
   "altLabel": {
     "de": [
       "Vorgehensweise"
-    ],
-    "en": [
-      "methodology"
     ]
   },
   "definition": {
@@ -31,7 +29,7 @@
   },
   "relatedMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300054676"
+      "id": "http://vocab.getty.edu/aat/300054676"
     }
   ],
   "inScheme": [

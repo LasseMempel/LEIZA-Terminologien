@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D4A13D",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Untersuchungsmethode]"
-  },
-  "altLabel": {
-    "en": [
-      "examination method"
-    ]
+    "de": "[Untersuchungsmethode]",
+    "en": "examination method"
   },
   "definition": {
     "de": "strukturierender Sammelbegriff für verschiedene Vorgehensweisen bei der Untersuchung von Objekten"
@@ -25,20 +21,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
       "prefLabel": {
-        "de": "Materialanalyse"
+        "de": "Materialanalyse",
+        "en": "material analysis"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA7279",
       "prefLabel": {
-        "de": "visuelle Begutachtung"
+        "de": "visuelle Begutachtung",
+        "en": "visual examination"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA1BC5",
     "prefLabel": {
-      "de": "Objektuntersuchung"
+      "de": "Objektuntersuchung",
+      "en": "examination"
     }
   },
   "inScheme": [

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9C731",
   "type": "Concept",
   "prefLabel": {
-    "de": "Pergament"
-  },
-  "altLabel": {
-    "en": [
-      "parchment"
-    ]
+    "de": "Pergament",
+    "en": "parchment"
   },
   "definition": {
     "de": "Von Haaren befreite und unter Spannung getrocknete sehr dünne Tierhaut, die aus einem Geflecht von Collagenfasern besteht und in den meisten Fällen von Schaf, Kalb oder Ziege gewonnen wurde. Durch mehrere Verarbeitungsschritte wie Kalken,  enthaaren, Schaben und das Trocknen unter Spannung entsteht ein nahezu durchsichtiges, festes Material, welches zum Schreiben, Buchbinden oder für andere Zwecke verwendet wird."
@@ -23,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757",
     "prefLabel": {
-      "de": "Tierhaut"
+      "de": "Tierhaut",
+      "en": "animal skin"
     }
   },
   "inScheme": [

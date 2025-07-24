@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F18C56",
   "type": "Concept",
   "prefLabel": {
-    "de": "Holzschaber"
-  },
-  "altLabel": {
-    "en": [
-      "wood scraper"
-    ]
+    "de": "Holzschaber",
+    "en": "wood scraper"
   },
   "notation": [
     "F18C56"

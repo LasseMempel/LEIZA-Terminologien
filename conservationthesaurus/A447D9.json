@@ -10,7 +10,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773",
     "prefLabel": {
-      "de": "Polyvinylacetat"
+      "de": "Polyvinylacetat",
+      "en": "polyvinyl acetate"
     }
   },
   "inScheme": [

@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAD229",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ahornholz"
+    "de": "Ahornholz",
+    "en": "maple"
   },
   "altLabel": {
     "de": [
       "Acer campestre"
-    ],
-    "en": [
-      "maple"
     ]
   },
   "definition": {
@@ -31,7 +29,7 @@
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300012236"
+      "id": "http://vocab.getty.edu/aat/300012236"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Maple"

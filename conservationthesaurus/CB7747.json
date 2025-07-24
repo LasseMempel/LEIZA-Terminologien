@@ -36,14 +36,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
     "prefLabel": {
-      "de": "Zustandsdokumentation"
+      "de": "Zustandsdokumentation",
+      "en": "condition documentation"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
       "prefLabel": {
-        "de": "Zustandserfassung"
+        "de": "Zustandserfassung",
+        "en": "Condition assessment"
       }
     }
   ],

@@ -25,13 +25,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415",
       "prefLabel": {
-        "de": "Kupferlegierung"
+        "de": "Kupferlegierung",
+        "en": "copper alloy"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B28FA6",
       "prefLabel": {
-        "de": "Kupfer"
+        "de": "Kupfer",
+        "en": "copper"
       }
     }
   ],

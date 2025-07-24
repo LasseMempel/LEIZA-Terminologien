@@ -2,7 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Calcedon"
+    "de": "Calcedon",
+    "en": "calcedony"
   },
   "altLabel": {
     "de": [
@@ -10,7 +11,6 @@
       "Chalcedon"
     ],
     "en": [
-      "calcedony",
       "chalcedone"
     ]
   },
@@ -30,19 +30,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B97F4A",
       "prefLabel": {
-        "de": "Achat"
+        "de": "Achat",
+        "en": "agate"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBA96A",
       "prefLabel": {
-        "de": "Karneol"
+        "de": "Karneol",
+        "en": "carnelian"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5322D",
       "prefLabel": {
-        "de": "Jaspis"
+        "de": "Jaspis",
+        "en": "jasper"
       }
     }
   ],

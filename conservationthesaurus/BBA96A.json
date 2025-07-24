@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBA96A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Karneol"
-  },
-  "altLabel": {
-    "en": [
-      "carnelian"
-    ]
+    "de": "Karneol",
+    "en": "carnelian"
   },
   "definition": {
     "de": "rötlich-orange bis braunrote Varietät des Calcedons, deren Farbe durch Eisenoxid verursacht wird."
@@ -23,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D",
     "prefLabel": {
-      "de": "Calcedon"
+      "de": "Calcedon",
+      "en": "calcedony"
     }
   },
   "inScheme": [

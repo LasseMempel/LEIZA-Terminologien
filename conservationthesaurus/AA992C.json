@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA992C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Menschenhaar"
+    "de": "Menschenhaar",
+    "en": "human hair"
   },
   "altLabel": {
     "de": [
       "menschliches Haar"
-    ],
-    "en": [
-      "human hair"
     ]
   },
   "definition": {
@@ -26,12 +24,13 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G899F5",
     "prefLabel": {
-      "de": "Haar"
+      "de": "Haar",
+      "en": "hair"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011820"
+      "id": "http://vocab.getty.edu/aat/300011820"
     }
   ],
   "inScheme": [

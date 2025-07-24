@@ -24,7 +24,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671",
     "prefLabel": {
-      "de": "Farbstoff"
+      "de": "Farbstoff",
+      "en": "colourant"
     }
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576",
   "type": "Concept",
   "prefLabel": {
-    "de": "präventive Konservierung"
+    "de": "präventive Konservierung",
+    "en": "preventive conservation"
   },
   "altLabel": {
     "de": [
       "präventive Maßnahmen"
     ],
     "en": [
-      "preventive care",
-      "preventive conservation"
+      "preventive care"
     ]
   },
   "definition": {
@@ -18,8 +18,8 @@
   },
   "note": {
     "de": [
-      "DIN EN 15898:2020-02,Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung",
-      "ICOM-CC, Terminology to characterize the conservation of tangible cultural heritage, (2008). https://www.icom-cc.org/en/terminology-for-conservation (aufgerufen am 31.10.2024)"
+      "ICOM-CC, Terminology to characterize the conservation of tangible cultural heritage, (2008). https://www.icom-cc.org/en/terminology-for-conservation (aufgerufen am 31.10.2024)",
+      "DIN EN 15898:2020-02,Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung"
     ]
   },
   "notation": [
@@ -43,12 +43,18 @@
       "prefLabel": {
         "de": "Risikomanagement"
       }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GG1924",
+      "prefLabel": {
+        "de": "Monitoring"
+      }
     }
   ],
   "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26",
     "prefLabel": {
-      "de": "Maßnahme"
+      "de": "Konservierung"
     }
   },
   "related": [

@@ -2,7 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BCDC47",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bimetallkorrosion"
+    "de": "Bimetallkorrosion",
+    "en": "galvanic corrosion"
   },
   "altLabel": {
     "de": [
@@ -10,8 +11,7 @@
       "galvanische Korrosion"
     ],
     "en": [
-      "bimetallic corrosion",
-      "galvanic corrosion"
+      "bimetallic corrosion"
     ]
   },
   "definition": {

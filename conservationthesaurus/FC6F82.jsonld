@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC6F82",
   "type": "Concept",
   "prefLabel": {
-    "de": "Graphit"
-  },
-  "altLabel": {
-    "en": [
-      "graphite"
-    ]
+    "de": "Graphit",
+    "en": "graphite"
   },
   "notation": [
     "FC6F82"
@@ -15,7 +11,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
     "prefLabel": {
-      "de": "Füllstoff"
+      "de": "Füllstoff",
+      "en": "filler"
     }
   },
   "inScheme": [

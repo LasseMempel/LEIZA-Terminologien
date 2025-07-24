@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B6C1A7",
   "type": "Concept",
   "prefLabel": {
-    "de": "Destilliertes Wasser"
-  },
-  "altLabel": {
-    "en": [
-      "distilled water"
-    ]
+    "de": "Destilliertes Wasser",
+    "en": "distilled water"
   },
   "definition": {
     "de": "Wasser, bei dem durch Erhitzen und Rekondensieren des Dampfes nahezu alle gelösten Mineralien, Salze und Verunreinigungen entfernt wurden."

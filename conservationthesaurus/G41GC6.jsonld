@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G41GC6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Trocken (Objektzustand)"
-  },
-  "altLabel": {
-    "en": [
-      "dry"
-    ]
+    "de": "Trocken (Objektzustand)",
+    "en": "dry"
   },
   "definition": {
     "de": "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen keinen Wassergehalt auf."
@@ -18,12 +14,13 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397",
     "prefLabel": {
-      "de": "Feuchtigkeitsgehalt"
+      "de": "Feuchtigkeitsgehalt",
+      "en": "moisture content"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300195439"
+      "id": "http://vocab.getty.edu/aat/300195439"
     }
   ],
   "inScheme": [

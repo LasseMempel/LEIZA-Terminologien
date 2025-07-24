@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FBA99A",
   "type": "Concept",
   "prefLabel": {
-    "de": "instabil"
-  },
-  "altLabel": {
-    "en": [
-      "instable"
-    ]
+    "de": "instabil",
+    "en": "instable"
   },
   "definition": {
     "de": "mangelnde Fähigkeit des Objektes in einem stabilem Zustand zu bleiben. Das Objekt droht durch physische Faktoren, wie äußere Kräfte oder unzureichende Unterstützung seine Form oder Struktur zu verändern/verlieren. Es bedarf demnach entsprechende Stabilisierungsmaßnahmen, um in seiner ursprünglichen Form zu bleiben. Die Instabilität seines Objektes liegt häufig in der Fragilität bzw. mangelnden Festigkeit seines Werkstoffes begründet."
@@ -18,7 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FB6AGB",
     "prefLabel": {
-      "de": "Stabilität"
+      "de": "Stabilität",
+      "en": "stability"
     }
   },
   "related": [

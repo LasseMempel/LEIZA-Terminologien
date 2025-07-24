@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FB7AB6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kompositbindung"
+    "de": "Kompositbindung",
+    "en": "compound weave"
   },
   "altLabel": {
     "de": [
       "abgeleitete Bindung",
       "zusammengesetzte Bindung"
-    ],
-    "en": [
-      "compound weave"
     ]
   },
   "definition": {
@@ -27,7 +25,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAF8AF",
     "prefLabel": {
-      "de": "gewebt"
+      "de": "gewebt",
+      "en": "weave"
     }
   },
   "inScheme": [

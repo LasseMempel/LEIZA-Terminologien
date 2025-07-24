@@ -23,7 +23,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AGG6",
     "prefLabel": {
-      "de": "visuelle Veränderung"
+      "de": "visuelle Veränderung",
+      "en": "visual alteration"
     }
   },
   "inScheme": [

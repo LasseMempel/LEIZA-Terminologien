@@ -24,13 +24,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BCDC47",
       "prefLabel": {
-        "de": "Bimetallkorrosion"
+        "de": "Bimetallkorrosion",
+        "en": "galvanic corrosion"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFDB22",
       "prefLabel": {
-        "de": "Spannungsrisskorrosion"
+        "de": "Spannungsrisskorrosion",
+        "en": "stress corrosion cracking"
       }
     },
     {
@@ -54,7 +56,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9C118",
       "prefLabel": {
-        "de": "Lochkorrosion"
+        "de": "Lochkorrosion",
+        "en": "pitting corrosion"
       }
     },
     {
@@ -78,13 +81,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9C457",
       "prefLabel": {
-        "de": "Bronzekrankheit"
+        "de": "Bronzekrankheit",
+        "en": "bronze disease"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DGC3A9",
       "prefLabel": {
-        "de": "Glaskorrosion"
+        "de": "Glaskorrosion",
+        "en": "sugaring"
       }
     },
     {

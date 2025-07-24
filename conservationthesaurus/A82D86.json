@@ -19,25 +19,29 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415",
       "prefLabel": {
-        "de": "Kupferlegierung"
+        "de": "Kupferlegierung",
+        "en": "copper alloy"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F15DFD",
       "prefLabel": {
-        "de": "Zinklegierung"
+        "de": "Zinklegierung",
+        "en": "zinc alloy"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F387GB",
       "prefLabel": {
-        "de": "Bleilegierung"
+        "de": "Bleilegierung",
+        "en": "lead alloy"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G6A358",
       "prefLabel": {
-        "de": "Zinnlegierung"
+        "de": "Zinnlegierung",
+        "en": "tin alloy"
       }
     }
   ],
@@ -51,13 +55,14 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF",
       "prefLabel": {
-        "de": "Buntmetall"
+        "de": "Buntmetall",
+        "en": "nonferrous metal"
       }
     }
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011014"
+      "id": "http://vocab.getty.edu/aat/300011014"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q355809"

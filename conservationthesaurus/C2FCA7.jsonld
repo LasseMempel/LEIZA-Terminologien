@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2FCA7",
   "type": "Concept",
   "prefLabel": {
-    "de": "Rinde"
-  },
-  "altLabel": {
-    "en": [
-      "bark"
-    ]
+    "de": "Rinde",
+    "en": "bark"
   },
   "definition": {
     "de": "natürliches Material, welches als äußerste Schicht die holzigen Teile von Bäumen bedeckt."

@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Untersuchungsergebnisse]"
+    "de": "[Untersuchungsergebnisse]",
+    "en": "examination results"
   },
   "altLabel": {
     "de": [
       "Diagnose"
-    ],
-    "en": [
-      "examination results"
     ]
   },
   "definition": {
@@ -27,39 +25,47 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG",
       "prefLabel": {
-        "de": "Schadensursache"
+        "de": "Schadensursache",
+        "en": "Cause of damage"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
       "prefLabel": {
-        "de": "Physischer Zustand"
+        "de": "Physischer Objektzustand",
+        "en": "physical condition"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6BCC2",
+      "prefLabel": {
+        "de": "Technologischer Befund"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GD172G",
+      "prefLabel": {
+        "de": "Materialbestimmung"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
       "prefLabel": {
-        "de": "Schadensphänomen"
+        "de": "Schadensphänomen",
+        "en": "Damage type"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA1BC5",
     "prefLabel": {
-      "de": "Objektuntersuchung"
+      "de": "Objektuntersuchung",
+      "en": "examination"
     }
   },
-  "related": [
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G51G",
-      "prefLabel": {
-        "de": "Erhaltungszustand"
-      }
-    }
-  ],
   "relatedMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300137593"
+      "id": "http://vocab.getty.edu/aat/300137593"
     }
   ],
   "inScheme": [

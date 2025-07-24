@@ -2,17 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Metall"
+    "de": "Metall",
+    "en": "metal",
+    "fr": "métal"
   },
   "altLabel": {
     "de": [
       "Metalle"
-    ],
-    "en": [
-      "metal"
-    ],
-    "fr": [
-      "métal"
     ]
   },
   "definition": {
@@ -37,7 +33,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13",
       "prefLabel": {
-        "de": "Metalllegierung"
+        "de": "Metalllegierung",
+        "en": "metal alloy"
       }
     }
   ],
@@ -54,7 +51,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300010900"
+      "id": "http://vocab.getty.edu/aat/300010900"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Metal"

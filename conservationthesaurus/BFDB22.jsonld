@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFDB22",
   "type": "Concept",
   "prefLabel": {
-    "de": "Spannungsrisskorrosion"
+    "de": "Spannungsrisskorrosion",
+    "en": "stress corrosion cracking"
   },
   "altLabel": {
     "de": [
       "Transkristalline Korrosion"
-    ],
-    "en": [
-      "stress corrosion cracking"
     ]
   },
   "definition": {

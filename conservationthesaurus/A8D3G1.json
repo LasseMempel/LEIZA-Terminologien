@@ -20,7 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
     "prefLabel": {
-      "de": "Dokumentation"
+      "de": "Dokumentation",
+      "en": "documentation"
     }
   },
   "related": [

@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G69G4B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma"
+    "de": "Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma",
+    "en": "inductively coupled plasma optical emission spectrometry"
   },
   "altLabel": {
     "de": [
       "ICP-OES"
-    ],
-    "en": [
-      "inductively coupled plasma optical emission spectrometry"
     ]
   },
   "notation": [

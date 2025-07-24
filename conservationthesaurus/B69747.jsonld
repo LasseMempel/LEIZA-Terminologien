@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B69747",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schnecke"
+    "de": "Schnecke",
+    "en": "snail"
   },
   "altLabel": {
     "de": [
       "Schneckenhaus"
-    ],
-    "en": [
-      "snail"
     ]
   },
   "notation": [

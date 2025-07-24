@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D347D6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Terpentinöl"
+    "de": "Terpentinöl",
+    "en": "turpentine"
   },
   "altLabel": {
     "de": [
       "Balsamterpentinöl"
-    ],
-    "en": [
-      "turpentine"
     ]
   },
   "definition": {
@@ -27,7 +25,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel"
+      "de": "Lösungsmittel",
+      "en": "solvent"
     }
   },
   "closeMatch": [

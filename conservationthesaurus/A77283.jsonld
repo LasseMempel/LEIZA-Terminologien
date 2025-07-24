@@ -13,7 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C188DA",
     "prefLabel": {
-      "de": "Substanzverlust"
+      "de": "Substanzverlust",
+      "en": "Loss of substance"
     }
   },
   "inScheme": [

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bürste"
-  },
-  "altLabel": {
-    "en": [
-      "brush"
-    ]
+    "de": "Bürste",
+    "en": "brush"
   },
   "notation": [
     "C4569A"
@@ -22,7 +18,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
       "prefLabel": {
-        "de": "Reinigung"
+        "de": "Reinigung",
+        "en": "cleaning"
       }
     }
   ],

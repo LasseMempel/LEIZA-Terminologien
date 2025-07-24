@@ -23,7 +23,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25",
     "prefLabel": {
-      "de": "pflanzliche Fasern"
+      "de": "pflanzliche Fasern",
+      "en": "plant fibres"
     }
   },
   "inScheme": [

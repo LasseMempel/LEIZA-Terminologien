@@ -73,7 +73,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9C8A4",
       "prefLabel": {
-        "de": "zersetzt"
+        "de": "zersetzt",
+        "en": "degradation"
       }
     },
     {
@@ -128,7 +129,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
     "prefLabel": {
-      "de": "Schadensphänomen"
+      "de": "Schadensphänomen",
+      "en": "Damage type"
     }
   },
   "inScheme": [

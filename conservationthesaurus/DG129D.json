@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DG129D",
   "type": "Concept",
   "prefLabel": {
-    "de": "energiedispersive Röntgenspektroskopie"
+    "de": "energiedispersive Röntgenspektroskopie",
+    "en": "energy dispersive X-ray spectroscopy"
   },
   "altLabel": {
     "de": [
       "EDS",
       "EDX"
-    ],
-    "en": [
-      "energy dispersive X-ray spectroscopy"
     ]
   },
   "note": {

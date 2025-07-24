@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397",
   "type": "Concept",
   "prefLabel": {
-    "de": "Feuchtigkeitsgehalt"
+    "de": "Feuchtigkeitsgehalt",
+    "en": "moisture content"
   },
   "altLabel": {
     "de": [
       "Wassergehalt"
     ],
     "en": [
-      "humidity content",
-      "moisture content"
+      "humidity content"
     ]
   },
   "definition": {
@@ -23,31 +23,35 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A255FD",
       "prefLabel": {
-        "de": "Nass (Objektzustand)"
+        "de": "Nass (Objektzustand)",
+        "en": "wet"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FDB9F5",
       "prefLabel": {
-        "de": "Feucht (Objektzustand)"
+        "de": "Feucht (Objektzustand)",
+        "en": "moist"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G41GC6",
       "prefLabel": {
-        "de": "Trocken (Objektzustand)"
+        "de": "Trocken (Objektzustand)",
+        "en": "dry"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
     "prefLabel": {
-      "de": "Physischer Zustand"
+      "de": "Physischer Objektzustand",
+      "en": "physical condition"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300379432"
+      "id": "http://vocab.getty.edu/aat/300379432"
     }
   ],
   "inScheme": [

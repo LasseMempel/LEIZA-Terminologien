@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5BDAB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kaseinleim"
+    "de": "Kaseinleim",
+    "en": "casein"
   },
   "altLabel": {
     "de": [
       "Casein"
-    ],
-    "en": [
-      "casein"
     ]
   },
   "definition": {

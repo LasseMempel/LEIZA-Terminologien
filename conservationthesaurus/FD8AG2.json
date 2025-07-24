@@ -18,7 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC7998",
     "prefLabel": {
-      "de": "Cellulosenitrat"
+      "de": "Cellulosenitrat",
+      "en": "cellulose nitrate"
     }
   },
   "inScheme": [

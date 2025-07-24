@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9F854",
   "type": "Concept",
   "prefLabel": {
-    "de": "Fluoreszenzmikroskopen"
-  },
-  "altLabel": {
-    "en": [
-      "fluorescence microscope"
-    ]
+    "de": "Fluoreszenzmikroskopen",
+    "en": "fluorescence microscope"
   },
   "definition": {
     "de": "spezielles Lichtmikroskop, welches die Fluoresenz von Stoffen, bei einer Anregung mit spezifischen Wellenlängen, zur Visualisierung von internen Strukturen, Anordnungen und Zusammensetzungen nutzt. Die Probe wird dabei gezielt mit Licht einer bestimmten Wellenlänge beleuchtet und die emittierte Fluoresenzstrahlung erfasst. Besonders gut können dabei Strukturen erfasst werden, wenn nur ein Teil der Probe fluorisziert und sich somit die hellen Signale vor dem dunklen Hintergrund der nicht fluoreszierenden Stoffe abheben."
@@ -23,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC2113",
     "prefLabel": {
-      "de": "Lichtmikroskop"
+      "de": "Lichtmikroskop",
+      "en": "light microscope"
     }
   },
   "inScheme": [

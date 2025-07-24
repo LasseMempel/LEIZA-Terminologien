@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AC319F",
   "type": "Concept",
   "prefLabel": {
-    "de": "gebohrt"
+    "de": "gebohrt",
+    "en": "drilling"
   },
   "altLabel": {
     "de": [
       "Bohren",
       "Bohrung"
-    ],
-    "en": [
-      "drilling"
     ]
   },
   "definition": {

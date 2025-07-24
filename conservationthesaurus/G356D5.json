@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G356D5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eibenholz"
+    "de": "Eibenholz",
+    "en": "yew"
   },
   "altLabel": {
     "de": [
       "Taxus baccata"
-    ],
-    "en": [
-      "yew"
     ]
   },
   "definition": {
@@ -31,7 +29,7 @@
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300012774"
+      "id": "http://vocab.getty.edu/aat/300012774"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Yew"

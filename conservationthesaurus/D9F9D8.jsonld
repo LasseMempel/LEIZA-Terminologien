@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9F9D8",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ethylendiamintetraessigsäure"
+    "de": "Ethylendiamintetraessigsäure",
+    "en": "ethylenediaminetetra acetic acid"
   },
   "altLabel": {
     "de": [
       "ETDA"
-    ],
-    "en": [
-      "ethylenediaminetetra acetic acid"
     ]
   },
   "definition": {
@@ -35,7 +33,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F87124",
     "prefLabel": {
-      "de": "Komplexbildner"
+      "de": "Komplexbildner",
+      "en": "sequestering agent"
     }
   },
   "closeMatch": [

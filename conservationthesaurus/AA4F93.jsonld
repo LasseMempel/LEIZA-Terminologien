@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA4F93",
   "type": "Concept",
   "prefLabel": {
-    "de": "Textil"
-  },
-  "altLabel": {
-    "en": [
-      "textile"
-    ]
+    "de": "Textil",
+    "en": "textile"
   },
   "notation": [
     "AA4F93"

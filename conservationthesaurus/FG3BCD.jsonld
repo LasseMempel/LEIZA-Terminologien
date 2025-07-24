@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FG3BCD",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eichenholz"
+    "de": "Eichenholz",
+    "en": "oak"
   },
   "altLabel": {
     "de": [
       "Quercus species"
-    ],
-    "en": [
-      "oak"
     ]
   },
   "definition": {
@@ -31,7 +29,7 @@
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300012264"
+      "id": "http://vocab.getty.edu/aat/300012264"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Oak"

@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GA33BC",
   "type": "Concept",
   "prefLabel": {
-    "de": "Salzsäure"
+    "de": "Salzsäure",
+    "en": "hydrochlorid acid"
   },
   "altLabel": {
     "de": [
       "HCl"
-    ],
-    "en": [
-      "hydrochlorid acid"
     ]
   },
   "definition": {
@@ -26,7 +24,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
     "prefLabel": {
-      "de": "Säure"
+      "de": "Säure",
+      "en": "acidic detergent"
     }
   },
   "closeMatch": [

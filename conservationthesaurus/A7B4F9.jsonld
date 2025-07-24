@@ -18,7 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G34563",
     "prefLabel": {
-      "de": "Siedegrenzbenzin"
+      "de": "Siedegrenzbenzin",
+      "en": "white spirit"
     }
   },
   "inScheme": [

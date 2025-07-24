@@ -6,6 +6,7 @@
   },
   "altLabel": {
     "de": [
+      "Formgebungstechnik",
       "Formung"
     ]
   },
@@ -43,7 +44,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AC319F",
       "prefLabel": {
-        "de": "gebohrt"
+        "de": "gebohrt",
+        "en": "drilling"
       }
     },
     {
@@ -157,7 +159,7 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C61723",
       "prefLabel": {
-        "de": "geschnitzt (Herstellungstechnik)"
+        "de": "geschnitzt (formgebende Technik)"
       }
     },
     {

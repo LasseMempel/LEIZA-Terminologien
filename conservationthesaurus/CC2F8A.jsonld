@@ -18,7 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9F9D8",
     "prefLabel": {
-      "de": "Ethylendiamintetraessigsäure"
+      "de": "Ethylendiamintetraessigsäure",
+      "en": "ethylenediaminetetra acetic acid"
     }
   },
   "relatedMatch": [

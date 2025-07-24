@@ -14,14 +14,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A44FD4",
       "prefLabel": {
-        "de": "Gefriertrocknung"
+        "de": "Gefriertrocknung",
+        "en": "freeze drying"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4",
     "prefLabel": {
-      "de": "Konservierung"
+      "de": "stabilisierende Konservierung",
+      "en": "conservation"
     }
   },
   "related": [

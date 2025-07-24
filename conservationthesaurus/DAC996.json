@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadensphänomen"
+    "de": "Schadensphänomen",
+    "en": "Damage type"
   },
   "altLabel": {
     "de": [
       "Beschädigungsart",
       "Schadensbild"
-    ],
-    "en": [
-      "Damage type"
     ]
   },
   "definition": {
@@ -29,7 +27,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C188DA",
       "prefLabel": {
-        "de": "Substanzverlust"
+        "de": "Substanzverlust",
+        "en": "Loss of substance"
       }
     },
     {
@@ -53,21 +52,24 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AGG6",
       "prefLabel": {
-        "de": "visuelle Veränderung"
+        "de": "visuelle Veränderung",
+        "en": "visual alteration"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
     "prefLabel": {
-      "de": "[Untersuchungsergebnisse]"
+      "de": "[Untersuchungsergebnisse]",
+      "en": "examination results"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG",
       "prefLabel": {
-        "de": "Schadensursache"
+        "de": "Schadensursache",
+        "en": "Cause of damage"
       }
     }
   ],

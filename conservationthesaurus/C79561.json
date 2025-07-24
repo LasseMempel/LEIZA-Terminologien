@@ -2,7 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
   "type": "Concept",
   "prefLabel": {
-    "de": "Restaurierung"
+    "de": "Restaurierung",
+    "en": "restoration"
   },
   "altLabel": {
     "de": [
@@ -10,7 +11,6 @@
       "Restaurierungsmethode"
     ],
     "en": [
-      "restoration",
       "restoration method"
     ]
   },
@@ -30,19 +30,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
       "prefLabel": {
-        "de": "Reinigung"
+        "de": "Reinigung",
+        "en": "cleaning"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1",
       "prefLabel": {
-        "de": "Klebung"
+        "de": "Klebung",
+        "en": "bonding"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619",
       "prefLabel": {
-        "de": "Ergänzung (Restaurierungsmethode)"
+        "de": "Ergänzung (Restaurierungsmethode)",
+        "en": "filling"
       }
     },
     {
@@ -54,14 +57,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
       "prefLabel": {
-        "de": "Freilegung"
+        "de": "Freilegung",
+        "en": "uncovering"
       }
     }
   ],
   "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB",
     "prefLabel": {
-      "de": "Maßnahme"
+      "de": "[Behandlungsmethode]"
     }
   },
   "relatedMatch": [
@@ -71,7 +75,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300053742"
+      "id": "http://vocab.getty.edu/aat/300053742"
     }
   ],
   "inScheme": [

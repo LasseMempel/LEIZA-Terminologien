@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2642A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Oberflächenbeschichtungen entfernt"
-  },
-  "altLabel": {
-    "en": [
-      "removal of surface coatings"
-    ]
+    "de": "Oberflächenbeschichtungen entfernt",
+    "en": "removal of surface coatings"
   },
   "definition": {
     "de": "Methode, bei der zu einem früheren Zeitpunkt auf die Objektoberfläche aufgebrachte Beschichtungen entfernt werden."
@@ -18,7 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF",
     "prefLabel": {
-      "de": "frühere Restaurierungsmaterialien entfernt"
+      "de": "frühere Restaurierungsmaterialien entfernt",
+      "en": "removal of previous restoration materials"
     }
   },
   "related": [

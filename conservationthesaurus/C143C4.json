@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C143C4",
   "type": "Concept",
   "prefLabel": {
-    "de": "Dextrinleim"
+    "de": "Dextrinleim",
+    "en": "dextrine"
   },
   "altLabel": {
     "de": [
       "Dextrin"
-    ],
-    "en": [
-      "dextrine"
     ]
   },
   "definition": {

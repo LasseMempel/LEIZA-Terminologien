@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD3858",
   "type": "Concept",
   "prefLabel": {
-    "de": "Acrylglas"
+    "de": "Acrylglas",
+    "en": "acrylic glass"
   },
   "altLabel": {
     "de": [
       "Plexiglas"
-    ],
-    "en": [
-      "acrylic glass"
     ]
   },
   "notation": [

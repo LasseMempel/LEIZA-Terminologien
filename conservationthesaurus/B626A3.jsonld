@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B626A3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bein"
+    "de": "Bein",
+    "en": "bone"
   },
   "altLabel": {
     "de": [
       "Knochen"
-    ],
-    "en": [
-      "bone"
     ]
   },
   "notation": [
@@ -19,7 +17,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG55BC",
       "prefLabel": {
-        "de": "Elfenbein"
+        "de": "Elfenbein",
+        "en": "ivory"
       }
     }
   ],

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G6A358",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zinnlegierung"
-  },
-  "altLabel": {
-    "en": [
-      "tin alloy"
-    ]
+    "de": "Zinnlegierung",
+    "en": "tin alloy"
   },
   "definition": {
     "de": "Legierung mit Zinn als Hauptbestandteil."
@@ -37,7 +33,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G78BD6",
       "prefLabel": {
-        "de": "Zinn"
+        "de": "Zinn",
+        "en": "tin"
       }
     }
   ],
@@ -46,7 +43,7 @@
       "id": "http://d-nb.info/gnd/4190903-3"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300010978"
+      "id": "http://vocab.getty.edu/aat/300010978"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Tin_alloys"

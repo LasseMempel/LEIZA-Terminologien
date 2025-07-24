@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D769C3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Dammarharz"
-  },
-  "altLabel": {
-    "en": [
-      "dammar"
-    ]
+    "de": "Dammarharz",
+    "en": "dammar"
   },
   "definition": {
     "de": "helles, gelbliches, leicht splitterndes Naturharz, das aus Südostasien stammt und aus den Harzen verschiedener Bäume der Familie der Diptocarpaceae gewonnen wird. Es beginnt bei 90°C weich zu werden, schmilzt bei 180°C und zeichnet sich durch seine Transparenz und gute Löslichkeit in Terpentinöl, Chloroform und anderen organischen Lösungsmitteln aus. In der Konservierung und Restaurierung wird Dammarharz traditionell für die Herstellung von hellen, klaren Schlussfirnissen und als Zusatz in Malmitteln verwendet, da es leicht löslich, reversibel und für die Tempera- und Ölmalerei geeignet ist."

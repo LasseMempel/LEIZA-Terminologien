@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCB7A5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Röntgenfluoresezenzanalyse"
+    "de": "Röntgenfluoresezenzanalyse",
+    "en": "XRF"
   },
   "altLabel": {
     "de": [
       "RFA"
     ],
     "en": [
-      "X-ray fluorescence analysis",
-      "XRF"
+      "X-ray fluorescence analysis"
     ]
   },
   "notation": [
@@ -19,12 +19,13 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
     "prefLabel": {
-      "de": "Materialanalyse"
+      "de": "Materialanalyse",
+      "en": "material analysis"
     }
   },
   "relatedMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300224161"
+      "id": "http://vocab.getty.edu/aat/300224161"
     }
   ],
   "inScheme": [

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C188DA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Substanzverlust"
-  },
-  "altLabel": {
-    "en": [
-      "Loss of substance"
-    ]
+    "de": "Substanzverlust",
+    "en": "Loss of substance"
   },
   "definition": {
     "de": "Material bzw. Teile des Objektes fehlen teilweise oder vollständig infolge physikalischer, chemischer, biologischer oder mechanischer Prozesse."
@@ -61,7 +57,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
     "prefLabel": {
-      "de": "Schadensphänomen"
+      "de": "Schadensphänomen",
+      "en": "Damage type"
     }
   },
   "inScheme": [

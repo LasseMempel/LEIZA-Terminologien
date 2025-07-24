@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FDB9F5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Feucht (Objektzustand)"
-  },
-  "altLabel": {
-    "en": [
-      "moist"
-    ]
+    "de": "Feucht (Objektzustand)",
+    "en": "moist"
   },
   "definition": {
     "de": "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen einen leichten bis mittelstarken Wassergehalt auf."
@@ -18,7 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397",
     "prefLabel": {
-      "de": "Feuchtigkeitsgehalt"
+      "de": "Feuchtigkeitsgehalt",
+      "en": "moisture content"
     }
   },
   "inScheme": [

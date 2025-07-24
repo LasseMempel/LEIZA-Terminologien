@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B764C6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Rasterelektronenmikroskop"
+    "de": "Rasterelektronenmikroskop",
+    "en": "scanning electron microscope"
   },
   "altLabel": {
     "de": [
       "REM (Gerät)"
     ],
     "en": [
-      "SEM",
-      "scanning electron microscope"
+      "SEM"
     ]
   },
   "definition": {
@@ -28,20 +28,22 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B538AG",
     "prefLabel": {
-      "de": "Mikroskop"
+      "de": "Mikroskop",
+      "en": "microscope"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3BFFF",
       "prefLabel": {
-        "de": "Rasterelektronenmikroskopie"
+        "de": "Rasterelektronenmikroskopie",
+        "en": "scanning electron microscopy"
       }
     }
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300024596"
+      "id": "http://vocab.getty.edu/aat/300024596"
     }
   ],
   "inScheme": [

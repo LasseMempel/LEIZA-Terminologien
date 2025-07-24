@@ -27,7 +27,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G13A7B",
     "prefLabel": {
-      "de": "Strukturanalyse"
+      "de": "Strukturanalyse",
+      "en": "structural analysis"
     }
   },
   "inScheme": [

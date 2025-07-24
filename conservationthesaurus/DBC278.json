@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Bisherige Lagerung"
   },
+  "altLabel": {
+    "de": [
+      "bisherige Umgebungsbedingungen"
+    ]
+  },
   "definition": {
     "de": "Bisheriger Verbleib und Aufbewahrung von Artefakten seit ihrer Entdeckung oder Ausgrabung bis zur gegenwärtigen Zeit."
   },
@@ -14,44 +19,51 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8ABBA",
       "prefLabel": {
-        "de": "klimatisierte Lagerung"
+        "de": "klimatisierte Lagerung",
+        "en": "climate-controlled storage"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C7C3B7",
       "prefLabel": {
-        "de": "Grabungsfrischer Fund"
+        "de": "Grabungsfrischer Fund",
+        "en": "freshly excavated find"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F52262",
       "prefLabel": {
-        "de": "Depotlagerung"
+        "de": "Depotlagerung",
+        "en": "depot storage"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC3322",
       "prefLabel": {
-        "de": "Ausstellungsentnahme"
+        "de": "Ausstellungsentnahme",
+        "en": "exhibition withdrawal"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G79CA9",
       "prefLabel": {
-        "de": "unklimatisierte Lagerung"
+        "de": "unklimatisierte Lagerung",
+        "en": "unclimatized storage"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC6983",
       "prefLabel": {
-        "de": "Rückgabe aus Leihverkehr"
+        "de": "Rückgabe aus Leihverkehr",
+        "en": "return from loans"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
     "prefLabel": {
-      "de": "Zustandserfassung"
+      "de": "Zustandserfassung",
+      "en": "Condition assessment"
     }
   },
   "inScheme": [

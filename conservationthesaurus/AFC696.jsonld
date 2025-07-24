@@ -2,16 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFC696",
   "type": "Concept",
   "prefLabel": {
-    "de": "2-Butanon"
+    "de": "2-Butanon",
+    "en": "ethyl methyl ketone"
   },
   "altLabel": {
     "de": [
       "Butanon",
       "MEK",
       "Methyl Ethyl Keton"
-    ],
-    "en": [
-      "ethyl methyl ketone"
     ]
   },
   "definition": {
@@ -28,7 +26,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel"
+      "de": "Lösungsmittel",
+      "en": "solvent"
     }
   },
   "closeMatch": [

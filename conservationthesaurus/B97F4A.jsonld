@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B97F4A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Achat"
-  },
-  "altLabel": {
-    "en": [
-      "agate"
-    ]
+    "de": "Achat",
+    "en": "agate"
   },
   "definition": {
     "de": "gebändert oder geschichtete Calcedon-Varietät, die je nach Einlagerungen in vielen verschiedenen Farben auftreten kann. Häufig finden sich Verunreinigungen in Form von Eisen, Mangan, Chrom, Calcium u.a., die den Achat in plakativ natürlichen Tönen färben. Achat ist hauptsächlich in vulkanischen Gesteinen, aber auch in Sedimentgestein zu finden."
@@ -24,7 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D",
     "prefLabel": {
-      "de": "Calcedon"
+      "de": "Calcedon",
+      "en": "calcedony"
     }
   },
   "inScheme": [

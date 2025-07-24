@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B59296",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zahn"
-  },
-  "altLabel": {
-    "en": [
-      "tooth"
-    ]
+    "de": "Zahn",
+    "en": "tooth"
   },
   "definition": {
     "de": "biologisches Material, aus Dentin, Zahnschmelz und manchmal Zement. Es ist hart, langlebig und verhältnismäßig resistent gegen Verwitterung, wodurch es häufig in archäologischen Funden wie Schmuck, Werkzeugen oder Resten von Tieren und Menschen erhalten bleibt. Zahn kann durch Form, Farbe und Wachstumsmuster individuelle oder artspezifische Merkmale aufweisen und ist ein wichtiger Träger biologischer sowie kultureller Informationen."

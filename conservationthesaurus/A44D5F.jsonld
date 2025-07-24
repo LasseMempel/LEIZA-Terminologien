@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A44D5F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Celluloseether"
-  },
-  "altLabel": {
-    "en": [
-      "cellulose ether"
-    ]
+    "de": "Celluloseether",
+    "en": "cellulose ether"
   },
   "definition": {
     "de": "synthetisches Polymer, das durch chemische Veretherung von Cellulose hergestellt wird. Je nach geneuer chemischer Zusammensetzung des gewählten Produktes ergeben sich spezifische Eigenschaften wie Viskosität, Klebekraft und Löslichkeit."

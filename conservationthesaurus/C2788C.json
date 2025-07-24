@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2788C",
   "type": "Concept",
   "prefLabel": {
-    "de": "RFA-Spektrometer"
+    "de": "RFA-Spektrometer",
+    "en": "X-ray fluorescence spectrometer"
   },
   "altLabel": {
     "de": [
       "Röntgenfluoreszenz-Spektrometer"
-    ],
-    "en": [
-      "X-ray fluorescence spectrometer"
     ]
   },
   "definition": {

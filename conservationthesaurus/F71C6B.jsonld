@@ -2,17 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F71C6B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eisen"
+    "de": "Eisen",
+    "en": "iron",
+    "fr": "fer"
   },
   "altLabel": {
     "de": [
       "Fe"
-    ],
-    "en": [
-      "iron"
-    ],
-    "fr": [
-      "fer"
     ]
   },
   "definition": {
@@ -30,14 +26,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566",
     "prefLabel": {
-      "de": "Unedelmetall"
+      "de": "Unedelmetall",
+      "en": "base metal"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC75G1",
       "prefLabel": {
-        "de": "Eisenlegierung"
+        "de": "Eisenlegierung",
+        "en": "iron alloy"
       }
     }
   ],
@@ -46,7 +44,7 @@
       "id": "http://d-nb.info/gnd/4014002-7"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300011002"
+      "id": "http://vocab.getty.edu/aat/300011002"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q677"

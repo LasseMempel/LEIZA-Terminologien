@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2BB42",
   "type": "Concept",
   "prefLabel": {
-    "de": "klimatisierte Individualverpackung"
+    "de": "klimatisierte Individualverpackung",
+    "en": "climate-controlled individual packaging"
   },
   "altLabel": {
     "de": [
       "Klimabox",
       "Klimakiste"
-    ],
-    "en": [
-      "climate-controlled individual packaging"
     ]
   },
   "definition": {
@@ -22,7 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8ABBA",
     "prefLabel": {
-      "de": "klimatisierte Lagerung"
+      "de": "klimatisierte Lagerung",
+      "en": "climate-controlled storage"
     }
   },
   "inScheme": [

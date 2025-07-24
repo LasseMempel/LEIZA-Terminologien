@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF",
   "type": "Concept",
   "prefLabel": {
-    "de": "frühere Restaurierungsmaterialien entfernt"
-  },
-  "altLabel": {
-    "en": [
-      "removal of previous restoration materials"
-    ]
+    "de": "frühere Restaurierungsmaterialien entfernt",
+    "en": "removal of previous restoration materials"
   },
   "definition": {
     "de": "Methode, bei der im Zuge voran gegangener Konservierungs- und/oder Restaurierungsmaßnahmen eingebrachte Materialien von bzw. aus dem Objekt entfernt werden."
@@ -25,19 +21,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2642A",
       "prefLabel": {
-        "de": "Oberflächenbeschichtungen entfernt"
+        "de": "Oberflächenbeschichtungen entfernt",
+        "en": "removal of surface coatings"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA59C2",
       "prefLabel": {
-        "de": "Klebungen entfernt"
+        "de": "Klebungen entfernt",
+        "en": "removal of adhesives"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGBB54",
       "prefLabel": {
-        "de": "Ergänzungsmaterialien entfernt"
+        "de": "Ergänzungsmaterialien entfernt",
+        "en": "removal of filling materials"
       }
     }
   ],

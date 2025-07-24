@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G8B5",
   "type": "Concept",
   "prefLabel": {
-    "de": "verdrillt"
+    "de": "verdrillt",
+    "en": "twist"
   },
   "altLabel": {
     "de": [
       "Verdrillen"
-    ],
-    "en": [
-      "twist"
     ]
   },
   "definition": {

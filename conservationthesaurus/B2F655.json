@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2F655",
   "type": "Concept",
   "prefLabel": {
-    "de": "Geweih"
-  },
-  "altLabel": {
-    "en": [
-      "antlers"
-    ]
+    "de": "Geweih",
+    "en": "antlers"
   },
   "notation": [
     "B2F655"

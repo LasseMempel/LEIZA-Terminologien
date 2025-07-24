@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GA6422",
   "type": "Concept",
   "prefLabel": {
-    "de": "Laserinduzierte Plasmaspektroskopie"
+    "de": "Laserinduzierte Plasmaspektroskopie",
+    "en": "laser-induced breakdown spectroscopy"
   },
   "altLabel": {
     "de": [
       "LIBS",
       "LIPS"
-    ],
-    "en": [
-      "laser-induced breakdown spectroscopy"
     ]
   },
   "notation": [

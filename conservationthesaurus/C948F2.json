@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C948F2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gefrierschrank"
-  },
-  "altLabel": {
-    "en": [
-      "freezer"
-    ]
+    "de": "Gefrierschrank",
+    "en": "freezer"
   },
   "definition": {
     "de": "Die bisherige Lagerung des Objektes erfolgte tiefgefroren in einem Gefrierschrank"
@@ -18,7 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8ABBA",
     "prefLabel": {
-      "de": "klimatisierte Lagerung"
+      "de": "klimatisierte Lagerung",
+      "en": "climate-controlled storage"
     }
   },
   "inScheme": [

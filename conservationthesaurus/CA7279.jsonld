@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA7279",
   "type": "Concept",
   "prefLabel": {
-    "de": "visuelle Begutachtung"
-  },
-  "altLabel": {
-    "en": [
-      "visual examination"
-    ]
+    "de": "visuelle Begutachtung",
+    "en": "visual examination"
   },
   "definition": {
     "de": "Betrachtung und Einschätzung des optischen Erscheinungsbildes/Zustandes des Objektes mit dem menschlichen Auge"
@@ -31,14 +27,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B53C8F",
       "prefLabel": {
-        "de": "UV-Lumineszenz-Untersuchung"
+        "de": "UV-Lumineszenz-Untersuchung",
+        "en": "uv fluorescence examination"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D4A13D",
     "prefLabel": {
-      "de": "[Untersuchungsmethode]"
+      "de": "[Untersuchungsmethode]",
+      "en": "examination method"
     }
   },
   "inScheme": [

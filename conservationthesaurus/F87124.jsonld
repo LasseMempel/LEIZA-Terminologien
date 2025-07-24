@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F87124",
   "type": "Concept",
   "prefLabel": {
-    "de": "Komplexbildner"
+    "de": "Komplexbildner",
+    "en": "sequestering agent"
   },
   "altLabel": {
     "de": [
       "Chelatbildner"
-    ],
-    "en": [
-      "sequestering agent"
     ]
   },
   "definition": {
@@ -28,20 +26,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9F9D8",
       "prefLabel": {
-        "de": "Ethylendiamintetraessigsäure"
+        "de": "Ethylendiamintetraessigsäure",
+        "en": "ethylenediaminetetra acetic acid"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F49B77",
       "prefLabel": {
-        "de": "Thioharnstoff"
+        "de": "Thioharnstoff",
+        "en": "thiourea"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien"
+      "de": "Konservierungs- und Restaurierungsmaterialien",
+      "en": "restorationmaterial"
     }
   },
   "related": [

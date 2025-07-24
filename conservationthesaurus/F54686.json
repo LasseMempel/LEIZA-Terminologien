@@ -10,14 +10,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
     "prefLabel": {
-      "de": "Säure"
+      "de": "Säure",
+      "en": "acidic detergent"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1",
       "prefLabel": {
-        "de": "Reduktionsmittel"
+        "de": "Reduktionsmittel",
+        "en": "reducing agent"
       }
     }
   ],

@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25",
   "type": "Concept",
   "prefLabel": {
-    "de": "pflanzliche Fasern"
+    "de": "pflanzliche Fasern",
+    "en": "plant fibres"
   },
   "altLabel": {
     "de": [
       "Pflanzenfasern"
-    ],
-    "en": [
-      "plant fibres"
     ]
   },
   "definition": {
@@ -34,7 +32,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A5G856",
       "prefLabel": {
-        "de": "Baumwolle"
+        "de": "Baumwolle",
+        "en": "cotton"
       }
     },
     {
@@ -46,7 +45,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3AF5A",
       "prefLabel": {
-        "de": "Hanf"
+        "de": "Hanf",
+        "en": "hemp"
       }
     },
     {
@@ -70,7 +70,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFDB57",
       "prefLabel": {
-        "de": "Stroh"
+        "de": "Stroh",
+        "en": "straw"
       }
     }
   ],

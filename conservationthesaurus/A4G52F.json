@@ -16,19 +16,11 @@
     "A4G52F"
   ],
   "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G51G",
     "prefLabel": {
-      "de": "Zustandserfassung"
+      "de": "Erhaltungszustand"
     }
   },
-  "related": [
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G51G",
-      "prefLabel": {
-        "de": "Erhaltungszustand"
-      }
-    }
-  ],
   "inScheme": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"

@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
   "type": "Concept",
   "prefLabel": {
-    "de": "Lösungsmittel"
+    "de": "Lösungsmittel",
+    "en": "solvent"
   },
   "altLabel": {
     "de": [
       "Lösemittel",
       "Reinigungsmittel"
-    ],
-    "en": [
-      "solvent"
     ]
   },
   "definition": {
@@ -30,13 +28,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G34563",
       "prefLabel": {
-        "de": "Siedegrenzbenzin"
+        "de": "Siedegrenzbenzin",
+        "en": "white spirit"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFC696",
       "prefLabel": {
-        "de": "2-Butanon"
+        "de": "2-Butanon",
+        "en": "ethyl methyl ketone"
       }
     },
     {
@@ -48,37 +48,43 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B77A8F",
       "prefLabel": {
-        "de": "Ethylacetat"
+        "de": "Ethylacetat",
+        "en": "ethyl acetate"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBA28A",
       "prefLabel": {
-        "de": "Ethanol"
+        "de": "Ethanol",
+        "en": "ethyl alcohol"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BDG3D5",
       "prefLabel": {
-        "de": "Xylol"
+        "de": "Xylol",
+        "en": "xylene"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D347D6",
       "prefLabel": {
-        "de": "Terpentinöl"
+        "de": "Terpentinöl",
+        "en": "turpentine"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D627B2",
       "prefLabel": {
-        "de": "Toloul"
+        "de": "Toloul",
+        "en": "toluene"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D72F3A",
       "prefLabel": {
-        "de": "Aceton"
+        "de": "Aceton",
+        "en": "acetone"
       }
     },
     {
@@ -97,20 +103,23 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien"
+      "de": "Konservierungs- und Restaurierungsmaterialien",
+      "en": "restorationmaterial"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A194CF",
       "prefLabel": {
-        "de": "Nassreinigung"
+        "de": "Nassreinigung",
+        "en": "washing"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3733A",
       "prefLabel": {
-        "de": "Feuchtreinigung"
+        "de": "Feuchtreinigung",
+        "en": "wet cleaning"
       }
     }
   ],

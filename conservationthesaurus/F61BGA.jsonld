@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F61BGA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Glasfasergewebe"
+    "de": "Glasfasergewebe",
+    "en": "glass fibre fabric"
   },
   "altLabel": {
     "de": [
       "Glasfaser"
-    ],
-    "en": [
-      "glass fibre fabric"
     ]
   },
   "notation": [
@@ -18,7 +16,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
     "prefLabel": {
-      "de": "Verstärkungsfaser"
+      "de": "Verstärkungsfaser",
+      "en": "reinforcing fiber"
     }
   },
   "inScheme": [

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D21459",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kühlschrank"
-  },
-  "altLabel": {
-    "en": [
-      "refrigerator"
-    ]
+    "de": "Kühlschrank",
+    "en": "refrigerator"
   },
   "definition": {
     "de": "Die bisherige Lagerung des Objektes erfolgte gekühlt in einem Kühlschrank"
@@ -18,7 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8ABBA",
     "prefLabel": {
-      "de": "klimatisierte Lagerung"
+      "de": "klimatisierte Lagerung",
+      "en": "climate-controlled storage"
     }
   },
   "inScheme": [

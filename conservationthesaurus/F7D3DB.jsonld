@@ -24,20 +24,24 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566",
       "prefLabel": {
-        "de": "Unedelmetall"
+        "de": "Unedelmetall",
+        "en": "base metal"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A",
       "prefLabel": {
-        "de": "Edelmetall"
+        "de": "Edelmetall",
+        "en": "nobel metal"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A",
     "prefLabel": {
-      "de": "Metall"
+      "de": "Metall",
+      "en": "metal",
+      "fr": "métal"
     }
   },
   "inScheme": [

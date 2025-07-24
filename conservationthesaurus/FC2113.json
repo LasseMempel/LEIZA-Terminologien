@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC2113",
   "type": "Concept",
   "prefLabel": {
-    "de": "Lichtmikroskop"
+    "de": "Lichtmikroskop",
+    "en": "light microscope"
   },
   "altLabel": {
     "de": [
       "Optisches Mikroskop"
-    ],
-    "en": [
-      "light microscope"
     ]
   },
   "definition": {
@@ -28,25 +26,29 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A75779",
       "prefLabel": {
-        "de": "Stereomikroskop"
+        "de": "Stereomikroskop",
+        "en": "stereomicroscop"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A7FA3B",
       "prefLabel": {
-        "de": "Polarisationsmikroskop"
+        "de": "Polarisationsmikroskop",
+        "en": "petrographic microscope"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9611D",
       "prefLabel": {
-        "de": "Durchlichtmikroskop"
+        "de": "Durchlichtmikroskop",
+        "en": "transmitted light microscope"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9F854",
       "prefLabel": {
-        "de": "Fluoreszenzmikroskopen"
+        "de": "Fluoreszenzmikroskopen",
+        "en": "fluorescence microscope"
       }
     },
     {
@@ -64,14 +66,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B94DCD",
       "prefLabel": {
-        "de": "Auflichtmikroskop"
+        "de": "Auflichtmikroskop",
+        "en": "reflected light microscope"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B538AG",
     "prefLabel": {
-      "de": "Mikroskop"
+      "de": "Mikroskop",
+      "en": "microscope"
     }
   },
   "inScheme": [

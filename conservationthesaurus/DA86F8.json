@@ -2,16 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA86F8",
   "type": "Concept",
   "prefLabel": {
-    "de": "pyrogene Kieselsäure"
+    "de": "pyrogene Kieselsäure",
+    "en": "fumed silica"
   },
   "altLabel": {
     "de": [
       "Aerosil",
       "Pyrogenes Siliziumdioxid",
       "amorphe Kieselsäure"
-    ],
-    "en": [
-      "fumed silica"
     ]
   },
   "definition": {
@@ -44,7 +42,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
     "prefLabel": {
-      "de": "Füllstoff"
+      "de": "Füllstoff",
+      "en": "filler"
     }
   },
   "inScheme": [

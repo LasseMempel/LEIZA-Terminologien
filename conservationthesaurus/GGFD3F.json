@@ -18,7 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA86F8",
     "prefLabel": {
-      "de": "pyrogene Kieselsäure"
+      "de": "pyrogene Kieselsäure",
+      "en": "fumed silica"
     }
   },
   "inScheme": [

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC7998",
   "type": "Concept",
   "prefLabel": {
-    "de": "Cellulosenitrat"
-  },
-  "altLabel": {
-    "en": [
-      "cellulose nitrate"
-    ]
+    "de": "Cellulosenitrat",
+    "en": "cellulose nitrate"
   },
   "definition": {
     "de": "synthetisches Polymer, das durch die Veresterung von Cellulose mit Nitriersäure (Gemisch aus konzentrierter Salpeter- und konzentrierter Schwefelsäure) hergestellt wird. Vermischt mit Weichmachernund gelöst in Lösemitteln wird es seit dem späten 19. Jh. als eines der ersten synthetischen Harze im Bereich der Konservierung/Restaurierung verwendet. Cellulosenitrat zeichnet sich durch eine Reihe von Eigenschaften aus, die es als beliebtes Konservierungsmittel erscheinen lässte (z.B. schnelle Trocknung, einfache Handhabung, gute Haftung auf verschiedenen Materialien, hohe Glasübergangstemperatur, etc). Allerdings neigt es zum vergilben und zeigte bei durchgeführten Studien (Oddy-Test) korrosiove Wirkung auf Metalle."
@@ -50,7 +46,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9A929",
     "prefLabel": {
-      "de": "Celluloseester"
+      "de": "Celluloseester",
+      "en": "cellulose ester"
     }
   },
   "closeMatch": [

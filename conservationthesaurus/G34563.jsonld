@@ -2,7 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G34563",
   "type": "Concept",
   "prefLabel": {
-    "de": "Siedegrenzbenzin"
+    "de": "Siedegrenzbenzin",
+    "en": "white spirit"
   },
   "altLabel": {
     "de": [
@@ -10,9 +11,6 @@
       "Reinigungsbenzin",
       "Terpentinersatz",
       "Waschbenzin"
-    ],
-    "en": [
-      "white spirit"
     ]
   },
   "definition": {
@@ -38,7 +36,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel"
+      "de": "Lösungsmittel",
+      "en": "solvent"
     }
   },
   "inScheme": [

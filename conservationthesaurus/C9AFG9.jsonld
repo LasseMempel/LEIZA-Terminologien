@@ -18,7 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84",
     "prefLabel": {
-      "de": "Wachs"
+      "de": "Wachs",
+      "en": "wax"
     }
   },
   "inScheme": [

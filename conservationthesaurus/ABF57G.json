@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ABF57G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Diamantschleifkörper"
-  },
-  "altLabel": {
-    "en": [
-      "diamand grinding wheel"
-    ]
+    "de": "Diamantschleifkörper",
+    "en": "diamand grinding wheel"
   },
   "notation": [
     "ABF57G"

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GBC8AC",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zitronensäure"
-  },
-  "altLabel": {
-    "en": [
-      "citric acid"
-    ]
+    "de": "Zitronensäure",
+    "en": "citric acid"
   },
   "definition": {
     "de": "organische Tricarbonsäure mit der chemischen Summenformel C6H8O7, die in der Konservierung und Restaurierung als mildes Reinigungsmittel für die Entfernung von Kalkablagerungen, Oxidationsschichten und anderen minderalischen Verunreinigungen auf originalen Oberflächen verwendet wird. Darüber hinaus kann Zitrönensäure auch als Komplexbilder eingesetzte werden, um Metallionen zu binden."
@@ -23,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
     "prefLabel": {
-      "de": "Säure"
+      "de": "Säure",
+      "en": "acidic detergent"
     }
   },
   "closeMatch": [

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5BD13",
   "type": "Concept",
   "prefLabel": {
-    "de": "Datierung"
-  },
-  "altLabel": {
-    "en": [
-      "dating"
-    ]
+    "de": "Datierung",
+    "en": "dating"
   },
   "definition": {
     "de": "Methode anhand spezifischer Materialeigenschaften das Alter des Materials, und damit des Objektes, zu bestimmen."
@@ -32,7 +28,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
     "prefLabel": {
-      "de": "Materialanalyse"
+      "de": "Materialanalyse",
+      "en": "material analysis"
     }
   },
   "inScheme": [

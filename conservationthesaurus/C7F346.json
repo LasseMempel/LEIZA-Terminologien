@@ -86,7 +86,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD",
     "prefLabel": {
-      "de": "Gestein"
+      "de": "Gestein",
+      "en": "stone"
     }
   },
   "inScheme": [

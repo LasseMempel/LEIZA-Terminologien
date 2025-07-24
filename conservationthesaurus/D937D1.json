@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D937D1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Craquellée"
-  },
-  "altLabel": {
-    "en": [
-      "crizzling"
-    ]
+    "de": "Craquellée",
+    "en": "crizzling"
   },
   "definition": {
     "de": "Im Objektmaterial oder auf dessen Oberfläche (Glasur) sind feine, netzartige Risse oder Haarrisse zu beobachten."

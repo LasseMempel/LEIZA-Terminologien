@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G8AG1C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zink"
-  },
-  "altLabel": {
-    "en": [
-      "zinc"
-    ]
+    "de": "Zink",
+    "en": "zinc"
   },
   "definition": {
     "de": "bläulich-weißes Metall mit dem chemischen Symbol Zn und der Ordnungszahl 30. Zink wurde in der Antike hauptsächlich als Erz bei der Kupferverhüttung bzw. -legierung verarbeitet. Erst im späten Mittelalter wird Zink gezielt als reines Metall hergestellt."
@@ -24,20 +20,22 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF",
     "prefLabel": {
-      "de": "Buntmetall"
+      "de": "Buntmetall",
+      "en": "nonferrous metal"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F15DFD",
       "prefLabel": {
-        "de": "Zinklegierung"
+        "de": "Zinklegierung",
+        "en": "zinc alloy"
       }
     }
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011037"
+      "id": "http://vocab.getty.edu/aat/300011037"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Zinc"

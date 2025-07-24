@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verstärkungsfaser"
-  },
-  "altLabel": {
-    "en": [
-      "reinforcing fiber"
-    ]
+    "de": "Verstärkungsfaser",
+    "en": "reinforcing fiber"
   },
   "definition": {
     "de": "Oberbegriff für fasrige Materialien, die zur Verstärkung anderer Materialien eingesetzt werden. Sie erhöhen deren Festigkeit, Steifigkeit und Stabilität, indem sie die mechanischen Eigenschaften des Materials verbessern. Die Verstärkungsfasern werden dafür in der Regel in eine Matrix (z.B. aus Polymeren) eingebettet."
@@ -19,19 +15,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8272G",
       "prefLabel": {
-        "de": "Japanpapier"
+        "de": "Japanpapier",
+        "en": "japanese paper"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD477D",
       "prefLabel": {
-        "de": "Kohlefaser"
+        "de": "Kohlefaser",
+        "en": "carbon fibre"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F61BGA",
       "prefLabel": {
-        "de": "Glasfasergewebe"
+        "de": "Glasfasergewebe",
+        "en": "glass fibre fabric"
       }
     },
     {
@@ -43,21 +42,24 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GF1639",
       "prefLabel": {
-        "de": "Goldschlägerhaut"
+        "de": "Goldschlägerhaut",
+        "en": "goldbeater skin"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien"
+      "de": "Konservierungs- und Restaurierungsmaterialien",
+      "en": "restorationmaterial"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
-        "de": "Verstärkung"
+        "de": "Verstärkung",
+        "en": "reinforcement"
       }
     }
   ],

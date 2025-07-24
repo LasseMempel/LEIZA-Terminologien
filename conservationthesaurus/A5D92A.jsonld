@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A5D92A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ammoniak"
+    "de": "Ammoniak",
+    "en": "ammonia"
   },
   "altLabel": {
     "de": [
       "NH3"
-    ],
-    "en": [
-      "ammonia"
     ]
   },
   "definition": {
@@ -27,7 +25,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746",
     "prefLabel": {
-      "de": "Base"
+      "de": "Base",
+      "en": "alkaline solution"
     }
   },
   "closeMatch": [

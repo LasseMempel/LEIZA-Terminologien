@@ -24,14 +24,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619",
     "prefLabel": {
-      "de": "Ergänzung (Restaurierungsmethode)"
+      "de": "Ergänzung (Restaurierungsmethode)",
+      "en": "filling"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671",
       "prefLabel": {
-        "de": "Farbstoff"
+        "de": "Farbstoff",
+        "en": "colourant"
       }
     }
   ],

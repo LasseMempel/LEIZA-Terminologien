@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Veränderung"
-  },
-  "altLabel": {
-    "en": [
-      "alteration"
-    ]
+    "de": "Veränderung",
+    "en": "alteration"
   },
   "definition": {
     "de": "Änderung des Zustandes eines Objektes, unabhängig ob diese vorteilhaft oder nicht, beabsichtigt oder nicht ist/war."
@@ -49,7 +45,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
     "prefLabel": {
-      "de": "Physischer Zustand"
+      "de": "Physischer Objektzustand",
+      "en": "physical condition"
     }
   },
   "inScheme": [

@@ -10,7 +10,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576",
     "prefLabel": {
-      "de": "präventive Konservierung"
+      "de": "präventive Konservierung",
+      "en": "preventive conservation"
     }
   },
   "inScheme": [

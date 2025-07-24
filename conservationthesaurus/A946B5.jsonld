@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A946B5",
   "type": "Concept",
   "prefLabel": {
-    "de": "chemische Untersuchung"
-  },
-  "altLabel": {
-    "en": [
-      "chemical tests"
-    ]
+    "de": "chemische Untersuchung",
+    "en": "chemical tests"
   },
   "definition": {
     "de": "Untersuchungsmethode von Materialien und ihren Eigenschaften mit Hilfe chemischer Reagenzien. Bei dieser Untersuchungsart können zum einen unbekannte Materialien identifiziert, bzw. näher eingegrenzt und zum anderen Verhaltensweisen von Materialien in klar definierten Rahmenbedingungen untersucht werden."
@@ -38,7 +34,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
     "prefLabel": {
-      "de": "Materialanalyse"
+      "de": "Materialanalyse",
+      "en": "material analysis"
     }
   },
   "inScheme": [

@@ -32,7 +32,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DG6841",
       "prefLabel": {
-        "de": "Computertomograph"
+        "de": "Computertomograph",
+        "en": "computed tomography scanner"
       }
     }
   ],

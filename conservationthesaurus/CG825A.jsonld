@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CG825A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Wattestäbchen"
-  },
-  "altLabel": {
-    "en": [
-      "cotton swab"
-    ]
+    "de": "Wattestäbchen",
+    "en": "cotton swab"
   },
   "notation": [
     "CG825A"

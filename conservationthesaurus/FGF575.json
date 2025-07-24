@@ -2,12 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
   "type": "Concept",
   "prefLabel": {
-    "de": "Säure"
+    "de": "Säure",
+    "en": "acidic detergent"
   },
   "altLabel": {
     "en": [
-      "acid",
-      "acidic detergent"
+      "acid"
     ]
   },
   "definition": {
@@ -26,19 +26,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA69FB",
       "prefLabel": {
-        "de": "Ameisensäure"
+        "de": "Ameisensäure",
+        "en": "formic acid"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B7395G",
       "prefLabel": {
-        "de": "Schwefelsäure"
+        "de": "Schwefelsäure",
+        "en": "sulphuric acid"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3A484",
       "prefLabel": {
-        "de": "Oxalsäure"
+        "de": "Oxalsäure",
+        "en": "oxalic acid"
       }
     },
     {
@@ -56,27 +59,31 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GA33BC",
       "prefLabel": {
-        "de": "Salzsäure"
+        "de": "Salzsäure",
+        "en": "hydrochlorid acid"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GBC8AC",
       "prefLabel": {
-        "de": "Zitronensäure"
+        "de": "Zitronensäure",
+        "en": "citric acid"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien"
+      "de": "Konservierungs- und Restaurierungsmaterialien",
+      "en": "restorationmaterial"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A194CF",
       "prefLabel": {
-        "de": "Nassreinigung"
+        "de": "Nassreinigung",
+        "en": "washing"
       }
     },
     {
@@ -88,13 +95,14 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3733A",
       "prefLabel": {
-        "de": "Feuchtreinigung"
+        "de": "Feuchtreinigung",
+        "en": "wet cleaning"
       }
     }
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011752"
+      "id": "http://vocab.getty.edu/aat/300011752"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Acid"

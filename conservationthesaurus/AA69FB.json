@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA69FB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ameisensäure"
-  },
-  "altLabel": {
-    "en": [
-      "formic acid"
-    ]
+    "de": "Ameisensäure",
+    "en": "formic acid"
   },
   "notation": [
     "AA69FB"
@@ -15,7 +11,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
     "prefLabel": {
-      "de": "Säure"
+      "de": "Säure",
+      "en": "acidic detergent"
     }
   },
   "closeMatch": [

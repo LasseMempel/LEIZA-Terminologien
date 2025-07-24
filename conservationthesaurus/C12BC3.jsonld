@@ -13,7 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B59296",
     "prefLabel": {
-      "de": "Zahn"
+      "de": "Zahn",
+      "en": "tooth"
     }
   },
   "inScheme": [

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verstärkung"
-  },
-  "altLabel": {
-    "en": [
-      "reinforcement"
-    ]
+    "de": "Verstärkung",
+    "en": "reinforcement"
   },
   "definition": {
     "de": "Methode, bei der ein Objekt durch die mechanische Befestigung auf einem festen Material unterstützt/ stabilisiert wird."
@@ -32,32 +28,37 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
     "prefLabel": {
-      "de": "Festigung"
+      "de": "Festigung",
+      "en": "consolidation"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582",
       "prefLabel": {
-        "de": "Acrylharz"
+        "de": "Acrylharz",
+        "en": "acrylic resin"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773",
       "prefLabel": {
-        "de": "Polyvinylacetat"
+        "de": "Polyvinylacetat",
+        "en": "polyvinyl acetate"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG",
       "prefLabel": {
-        "de": "Epoxidharz"
+        "de": "Epoxidharz",
+        "en": "epoxy resin"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
       "prefLabel": {
-        "de": "Verstärkungsfaser"
+        "de": "Verstärkungsfaser",
+        "en": "reinforcing fiber"
       }
     },
     {
@@ -87,7 +88,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300223809"
+      "id": "http://vocab.getty.edu/aat/300223809"
     }
   ],
   "inScheme": [

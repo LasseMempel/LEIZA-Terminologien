@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FF8792",
   "type": "Concept",
   "prefLabel": {
-    "de": "Trockenreinigung"
+    "de": "Trockenreinigung",
+    "en": "dry cleaning"
   },
   "altLabel": {
     "de": [
       "mechanische Reinigung",
       "trockene Reinigung"
-    ],
-    "en": [
-      "dry cleaning"
     ]
   },
   "definition": {
@@ -28,12 +26,13 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
     "prefLabel": {
-      "de": "Reinigung"
+      "de": "Reinigung",
+      "en": "cleaning"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300219637"
+      "id": "http://vocab.getty.edu/aat/300219637"
     }
   ],
   "inScheme": [

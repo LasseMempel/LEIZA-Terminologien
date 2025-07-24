@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGG879",
   "type": "Concept",
   "prefLabel": {
-    "de": "Birkenholz"
+    "de": "Birkenholz",
+    "en": "birch"
   },
   "altLabel": {
     "de": [
       "Betula species"
-    ],
-    "en": [
-      "birch"
     ]
   },
   "definition": {
@@ -31,7 +29,7 @@
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011973"
+      "id": "http://vocab.getty.edu/aat/300011973"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Birch"

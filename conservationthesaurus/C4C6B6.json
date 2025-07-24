@@ -20,19 +20,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A97F31",
       "prefLabel": {
-        "de": "Gummischleifkörper"
+        "de": "Gummischleifkörper",
+        "en": "rubber abrasives"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ABF57G",
       "prefLabel": {
-        "de": "Diamantschleifkörper"
+        "de": "Diamantschleifkörper",
+        "en": "diamand grinding wheel"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDF423",
       "prefLabel": {
-        "de": "Metallfräser"
+        "de": "Metallfräser",
+        "en": "metal cutter"
       }
     }
   ],

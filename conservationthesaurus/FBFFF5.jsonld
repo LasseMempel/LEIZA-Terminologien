@@ -38,14 +38,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A44BG6",
       "prefLabel": {
-        "de": "Silikonkautschuk"
+        "de": "Silikonkautschuk",
+        "en": "silicone rubber"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien"
+      "de": "Konservierungs- und Restaurierungsmaterialien",
+      "en": "restorationmaterial"
     }
   },
   "related": [
@@ -64,7 +66,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619",
       "prefLabel": {
-        "de": "Ergänzung (Restaurierungsmethode)"
+        "de": "Ergänzung (Restaurierungsmethode)",
+        "en": "filling"
       }
     },
     {

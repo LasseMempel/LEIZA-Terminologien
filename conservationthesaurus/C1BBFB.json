@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C1BBFB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Metallpulver"
-  },
-  "altLabel": {
-    "en": [
-      "metal powder"
-    ]
+    "de": "Metallpulver",
+    "en": "metal powder"
   },
   "notation": [
     "C1BBFB"
@@ -15,7 +11,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
     "prefLabel": {
-      "de": "Füllstoff"
+      "de": "Füllstoff",
+      "en": "filler"
     }
   },
   "inScheme": [

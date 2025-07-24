@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GG2137",
   "type": "Concept",
   "prefLabel": {
-    "de": "Tierfell"
+    "de": "Tierfell",
+    "en": "fur"
   },
   "altLabel": {
     "de": [
       "Fell"
-    ],
-    "en": [
-      "fur"
     ]
   },
   "definition": {
@@ -21,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BA652F",
     "prefLabel": {
-      "de": "Kollagenhaltiges Material"
+      "de": "Kollagenhaltiges Material",
+      "en": "collagenous material"
     }
   },
   "inScheme": [

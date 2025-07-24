@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DGC3A9",
   "type": "Concept",
   "prefLabel": {
-    "de": "Glaskorrosion"
+    "de": "Glaskorrosion",
+    "en": "sugaring"
   },
   "altLabel": {
     "de": [
       "Glaskrankheit",
       "Glaspest"
-    ],
-    "en": [
-      "sugaring"
     ]
   },
   "definition": {
@@ -34,7 +32,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73",
       "prefLabel": {
-        "de": "Glas"
+        "de": "Glas",
+        "en": "glas"
       }
     }
   ],

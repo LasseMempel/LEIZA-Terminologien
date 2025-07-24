@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9A929",
   "type": "Concept",
   "prefLabel": {
-    "de": "Celluloseester"
-  },
-  "altLabel": {
-    "en": [
-      "cellulose ester"
-    ]
+    "de": "Celluloseester",
+    "en": "cellulose ester"
   },
   "definition": {
     "de": "synthetisches Polymer, das duch die chemische Modifikation (Veresterung) von natürlicher Cellulose mit organischen Säuren oder Mineralsäuren hergestellt wird."
@@ -24,7 +20,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC7998",
       "prefLabel": {
-        "de": "Cellulosenitrat"
+        "de": "Cellulosenitrat",
+        "en": "cellulose nitrate"
       }
     }
   ],

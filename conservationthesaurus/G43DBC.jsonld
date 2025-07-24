@@ -24,7 +24,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C",
     "prefLabel": {
-      "de": "Veränderung"
+      "de": "Veränderung",
+      "en": "alteration"
     }
   },
   "inScheme": [

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A7FA3B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Polarisationsmikroskop"
-  },
-  "altLabel": {
-    "en": [
-      "petrographic microscope"
-    ]
+    "de": "Polarisationsmikroskop",
+    "en": "petrographic microscope"
   },
   "definition": {
     "de": "spezielles Lichtmikroskop, das polarisiertes Licht verwendet, um die optischen Eigenschaften von Materialien zu untersuchen. Bei Polarisationsmikroskopen handelt es sich in der Regel um Durchlichtmikroskope, bei denen unterhalb des Objekttisches ein Polarisationsfilter (Polarisator) über der Lichtquelle eingebracht ist. Dieser polarisiert das aus der Lichtquelle austretende Licht linear und lässt somit nur in einer Schwingungsebene schwingendes Licht durch das Präperat auf dem Objekttisch. Oberhalb des Objektives trifft dieses Licht auf einen weiteren Polarisationsfilter (Analysator), der das durch das Präperat geleitete Licht analysiert. Auf diese Weise werden z.B. bei kristallinen Substanzen charakteristische Eigenschaften wie Farbe, innere Strukturen, Doppelbrechung, optische Aktivität oder Stressmuster sichtbar, was wiederum eine nähere Differenzierung des untersuchten Materials ermöglicht."
@@ -23,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC2113",
     "prefLabel": {
-      "de": "Lichtmikroskop"
+      "de": "Lichtmikroskop",
+      "en": "light microscope"
     }
   },
   "inScheme": [

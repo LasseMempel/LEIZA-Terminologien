@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
   "type": "Concept",
   "prefLabel": {
-    "de": "Reinigung"
+    "de": "Reinigung",
+    "en": "cleaning"
   },
   "altLabel": {
     "de": [
       "Reinigen"
-    ],
-    "en": [
-      "cleaning"
     ]
   },
   "definition": {
@@ -30,26 +28,30 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A194CF",
       "prefLabel": {
-        "de": "Nassreinigung"
+        "de": "Nassreinigung",
+        "en": "washing"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3733A",
       "prefLabel": {
-        "de": "Feuchtreinigung"
+        "de": "Feuchtreinigung",
+        "en": "wet cleaning"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FF8792",
       "prefLabel": {
-        "de": "Trockenreinigung"
+        "de": "Trockenreinigung",
+        "en": "dry cleaning"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
     "prefLabel": {
-      "de": "Restaurierung"
+      "de": "Restaurierung",
+      "en": "restoration"
     }
   },
   "related": [
@@ -62,13 +64,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9",
       "prefLabel": {
-        "de": "Schwamm"
+        "de": "Schwamm",
+        "en": "sponge"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A",
       "prefLabel": {
-        "de": "Bürste"
+        "de": "Bürste",
+        "en": "brush"
       }
     },
     {
@@ -80,13 +84,14 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
       "prefLabel": {
-        "de": "Freilegung"
+        "de": "Freilegung",
+        "en": "uncovering"
       }
     }
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300053027"
+      "id": "http://vocab.getty.edu/aat/300053027"
     }
   ],
   "inScheme": [

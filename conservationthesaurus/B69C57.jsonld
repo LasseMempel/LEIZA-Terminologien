@@ -18,7 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582",
     "prefLabel": {
-      "de": "Acrylharz"
+      "de": "Acrylharz",
+      "en": "acrylic resin"
     }
   },
   "inScheme": [

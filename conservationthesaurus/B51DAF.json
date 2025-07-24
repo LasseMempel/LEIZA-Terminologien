@@ -25,13 +25,30 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A",
       "prefLabel": {
-        "de": "Metall"
+        "de": "Metall",
+        "en": "metal",
+        "fr": "métal"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341",
       "prefLabel": {
-        "de": "organisches Material"
+        "de": "organisches Material",
+        "en": "organic"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GD172G",
+    "prefLabel": {
+      "de": "Materialbestimmung"
+    }
+  },
+  "related": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GD172G",
+      "prefLabel": {
+        "de": "Materialbestimmung"
       }
     }
   ],
@@ -45,7 +62,7 @@
       "id": "http://terminology.lido-schema.org/lido00132"
     },
     {
-      "id": "http://vocab.getty.edu/page/aat/300010358"
+      "id": "http://vocab.getty.edu/aat/300010358"
     }
   ],
   "inScheme": [
@@ -54,11 +71,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }

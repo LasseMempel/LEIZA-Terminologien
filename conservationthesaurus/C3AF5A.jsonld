@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3AF5A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Hanf"
-  },
-  "altLabel": {
-    "en": [
-      "hemp"
-    ]
+    "de": "Hanf",
+    "en": "hemp"
   },
   "definition": {
     "de": "natürliche Stengelfaser, gewonnen aus dem Bast der Hanfpflanze (Cannabis sativa) durch verschiedene Bearbeitungsschritte"
@@ -24,7 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25",
     "prefLabel": {
-      "de": "pflanzliche Fasern"
+      "de": "pflanzliche Fasern",
+      "en": "plant fibres"
     }
   },
   "inScheme": [

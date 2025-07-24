@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2241C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Klimaraum"
+    "de": "Klimaraum",
+    "en": "climate room"
   },
   "altLabel": {
     "de": [
       "Klimakammer"
-    ],
-    "en": [
-      "climate room"
     ]
   },
   "definition": {
@@ -21,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8ABBA",
     "prefLabel": {
-      "de": "klimatisierte Lagerung"
+      "de": "klimatisierte Lagerung",
+      "en": "climate-controlled storage"
     }
   },
   "inScheme": [

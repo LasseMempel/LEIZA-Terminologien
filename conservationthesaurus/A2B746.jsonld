@@ -2,11 +2,11 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746",
   "type": "Concept",
   "prefLabel": {
-    "de": "Base"
+    "de": "Base",
+    "en": "alkaline solution"
   },
   "altLabel": {
     "en": [
-      "alkaline solution",
       "base"
     ]
   },
@@ -26,7 +26,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A5D92A",
       "prefLabel": {
-        "de": "Ammoniak"
+        "de": "Ammoniak",
+        "en": "ammonia"
       }
     },
     {
@@ -38,33 +39,38 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB2D46",
       "prefLabel": {
-        "de": "Natriumcarbonat"
+        "de": "Natriumcarbonat",
+        "en": "sodium carbonate"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GG3G4B",
       "prefLabel": {
-        "de": "Natriumhydroxid"
+        "de": "Natriumhydroxid",
+        "en": "sodium hydroxide"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien"
+      "de": "Konservierungs- und Restaurierungsmaterialien",
+      "en": "restorationmaterial"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A194CF",
       "prefLabel": {
-        "de": "Nassreinigung"
+        "de": "Nassreinigung",
+        "en": "washing"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532",
       "prefLabel": {
-        "de": "Entsalzung"
+        "de": "Entsalzung",
+        "en": "desalination"
       }
     },
     {
@@ -76,13 +82,14 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3733A",
       "prefLabel": {
-        "de": "Feuchtreinigung"
+        "de": "Feuchtreinigung",
+        "en": "wet cleaning"
       }
     }
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300237910"
+      "id": "http://vocab.getty.edu/aat/300237910"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Alkali"

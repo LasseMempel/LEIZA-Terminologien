@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9165B",
   "type": "Concept",
   "prefLabel": {
-    "de": "verzwirnt"
-  },
-  "altLabel": {
-    "en": [
-      "twist"
-    ]
+    "de": "verzwirnt",
+    "en": "twist"
   },
   "definition": {
     "de": "kontrollierterer und gezielterer Fertigungsprozess, zur Herstellung von Garnen/Zwirn. Dabei werden zwei oder mehr gesponnene Einzelfäden mit entgegengesetzter Drehrichtung fest miteinander verdreht (Z- oder S-Drehung), um eine stabile, gleichmäßige und glattere Struktur mit höherer Festigkeit und Elastizität zu erzeugen."

@@ -24,7 +24,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF",
       "prefLabel": {
-        "de": "frühere Restaurierungsmaterialien entfernt"
+        "de": "frühere Restaurierungsmaterialien entfernt",
+        "en": "removal of previous restoration materials"
       }
     },
     {
@@ -43,7 +44,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
     "prefLabel": {
-      "de": "Restaurierung"
+      "de": "Restaurierung",
+      "en": "restoration"
     }
   },
   "inScheme": [

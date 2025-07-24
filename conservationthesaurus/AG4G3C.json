@@ -13,12 +13,13 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC2113",
     "prefLabel": {
-      "de": "Lichtmikroskop"
+      "de": "Lichtmikroskop",
+      "en": "light microscope"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300444116"
+      "id": "http://vocab.getty.edu/aat/300444116"
     }
   ],
   "inScheme": [

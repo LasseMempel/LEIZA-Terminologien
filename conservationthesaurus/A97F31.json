@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A97F31",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gummischleifkörper"
+    "de": "Gummischleifkörper",
+    "en": "rubber abrasives"
   },
   "altLabel": {
     "de": [
       "Gummipolierer"
     ],
     "en": [
-      "rubber abrasives",
       "rubber polisher"
     ]
   },

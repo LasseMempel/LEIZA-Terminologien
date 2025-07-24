@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Materialien tierischen Ursprungs"
-  },
-  "altLabel": {
-    "en": [
-      "animal material"
-    ]
+    "de": "Materialien tierischen Ursprungs",
+    "en": "animal material"
   },
   "definition": {
     "de": "Überbegriff für organische Materialien die aus verschiedenen Teilen eines Tieres hergestellt werden."
@@ -25,19 +21,21 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BA652F",
       "prefLabel": {
-        "de": "Kollagenhaltiges Material"
+        "de": "Kollagenhaltiges Material",
+        "en": "collagenous material"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341",
     "prefLabel": {
-      "de": "organisches Material"
+      "de": "organisches Material",
+      "en": "organic"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011793"
+      "id": "http://vocab.getty.edu/aat/300011793"
     }
   ],
   "inScheme": [

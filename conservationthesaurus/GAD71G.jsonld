@@ -13,7 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAB799",
     "prefLabel": {
-      "de": "Vollständigkeit"
+      "de": "Vollständigkeit",
+      "en": "integrity"
     }
   },
   "inScheme": [

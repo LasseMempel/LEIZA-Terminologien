@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A255FD",
   "type": "Concept",
   "prefLabel": {
-    "de": "Nass (Objektzustand)"
+    "de": "Nass (Objektzustand)",
+    "en": "wet"
   },
   "altLabel": {
     "de": [
       "Wassergesättigt"
-    ],
-    "en": [
-      "wet"
     ]
   },
   "definition": {
@@ -21,12 +19,13 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397",
     "prefLabel": {
-      "de": "Feuchtigkeitsgehalt"
+      "de": "Feuchtigkeitsgehalt",
+      "en": "moisture content"
     }
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300228711"
+      "id": "http://vocab.getty.edu/aat/300228711"
     }
   ],
   "inScheme": [

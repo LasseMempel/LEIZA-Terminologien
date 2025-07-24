@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GF1639",
   "type": "Concept",
   "prefLabel": {
-    "de": "Goldschlägerhaut"
-  },
-  "altLabel": {
-    "en": [
-      "goldbeater skin"
-    ]
+    "de": "Goldschlägerhaut",
+    "en": "goldbeater skin"
   },
   "notation": [
     "GF1639"
@@ -15,7 +11,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
     "prefLabel": {
-      "de": "Verstärkungsfaser"
+      "de": "Verstärkungsfaser",
+      "en": "reinforcing fiber"
     }
   },
   "inScheme": [

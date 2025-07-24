@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD149D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Köperbindung"
-  },
-  "altLabel": {
-    "en": [
-      "twill weave"
-    ]
+    "de": "Köperbindung",
+    "en": "twill weave"
   },
   "definition": {
     "de": "textile Grundbindung, die durch eine diagonale Struktur im Gewebe gekennzeichnet ist. Sie entsteht, indem der Schussfaden in einem regelmäßigen Versatz über mindestens zwei Kettfäden hinweggeführt und dann unter mindestens einen Kettfaden hindurchgeführt wird."
@@ -24,7 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAF8AF",
     "prefLabel": {
-      "de": "gewebt"
+      "de": "gewebt",
+      "en": "weave"
     }
   },
   "inScheme": [

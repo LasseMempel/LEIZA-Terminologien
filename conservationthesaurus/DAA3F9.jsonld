@@ -38,19 +38,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGG879",
       "prefLabel": {
-        "de": "Birkenholz"
+        "de": "Birkenholz",
+        "en": "birch"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAD229",
       "prefLabel": {
-        "de": "Ahornholz"
+        "de": "Ahornholz",
+        "en": "maple"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F1BD88",
       "prefLabel": {
-        "de": "Erlenholz"
+        "de": "Erlenholz",
+        "en": "alder"
       }
     },
     {

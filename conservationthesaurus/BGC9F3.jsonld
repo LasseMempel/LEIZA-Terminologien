@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Mineral"
-  },
-  "altLabel": {
-    "en": [
-      "mineral"
-    ]
+    "de": "Mineral",
+    "en": "mineral"
   },
   "definition": {
     "de": "anorganischer, chemisch und physikalisch homogener Festkörper, mit meist kristalliner Struktur. Minerale entstehend durch natürliche, geologische Prozesse und zeichnen sich durch unterschiedliche charakterisierende Eigenschaften aus."

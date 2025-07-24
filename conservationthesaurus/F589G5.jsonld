@@ -19,7 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1",
     "prefLabel": {
-      "de": "Klebung"
+      "de": "Klebung",
+      "en": "bonding"
     }
   },
   "inScheme": [

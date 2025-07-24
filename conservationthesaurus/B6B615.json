@@ -2,14 +2,12 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B6B615",
   "type": "Concept",
   "prefLabel": {
-    "de": "Benzotriazol"
+    "de": "Benzotriazol",
+    "en": "benzotriazole"
   },
   "altLabel": {
     "de": [
       "BTA"
-    ],
-    "en": [
-      "benzotriazole"
     ]
   },
   "notation": [

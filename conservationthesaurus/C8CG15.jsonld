@@ -2,11 +2,11 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
   "type": "Concept",
   "prefLabel": {
-    "de": "Dokumentation"
+    "de": "Dokumentation",
+    "en": "documentation"
   },
   "altLabel": {
     "en": [
-      "documentation",
       "report"
     ]
   },
@@ -24,15 +24,16 @@
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BAA258",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
       "prefLabel": {
-        "de": "Auswertungsdokumentation"
+        "de": "Zustandsdokumentation",
+        "en": "condition documentation"
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G",
       "prefLabel": {
-        "de": "Zustandsdokumentation"
+        "de": "Technologische Auswertung"
       }
     }
   ],

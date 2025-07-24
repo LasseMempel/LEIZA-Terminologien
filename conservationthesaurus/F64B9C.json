@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F64B9C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Pigment"
-  },
-  "altLabel": {
-    "en": [
-      "pigment"
-    ]
+    "de": "Pigment",
+    "en": "pigment"
   },
   "definition": {
     "de": "feiner, als Feststoff vorliegender Farbstoff, der zur Einfärbung anderer Materialien in diesen suspendiert oder ein/aufgerieben wird."
@@ -24,7 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671",
     "prefLabel": {
-      "de": "Farbstoff"
+      "de": "Farbstoff",
+      "en": "colourant"
     }
   },
   "inScheme": [

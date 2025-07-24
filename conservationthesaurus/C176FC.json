@@ -20,7 +20,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2F4F2",
       "prefLabel": {
-        "de": "Mastix"
+        "de": "Mastix",
+        "en": "mastic"
       }
     },
     {
@@ -32,7 +33,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C143C4",
       "prefLabel": {
-        "de": "Dextrinleim"
+        "de": "Dextrinleim",
+        "en": "dextrine"
       }
     },
     {
@@ -44,7 +46,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D769C3",
       "prefLabel": {
-        "de": "Dammarharz"
+        "de": "Dammarharz",
+        "en": "dammar"
       }
     },
     {
@@ -62,7 +65,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GC7994",
       "prefLabel": {
-        "de": "Kanadabalsam"
+        "de": "Kanadabalsam",
+        "en": "canada balsam"
       }
     }
   ],

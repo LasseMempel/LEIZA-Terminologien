@@ -20,7 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A44D5F",
     "prefLabel": {
-      "de": "Celluloseether"
+      "de": "Celluloseether",
+      "en": "cellulose ether"
     }
   },
   "inScheme": [

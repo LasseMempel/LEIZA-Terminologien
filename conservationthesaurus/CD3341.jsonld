@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341",
   "type": "Concept",
   "prefLabel": {
-    "de": "organisches Material"
+    "de": "organisches Material",
+    "en": "organic"
   },
   "altLabel": {
     "de": [
       "Organik",
       "biologisches Material"
-    ],
-    "en": [
-      "organic"
     ]
   },
   "definition": {
@@ -38,15 +36,10 @@
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9A858",
-      "prefLabel": {
-        "de": "Holz"
-      }
-    },
-    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F",
       "prefLabel": {
-        "de": "Materialien tierischen Ursprungs"
+        "de": "Materialien tierischen Ursprungs",
+        "en": "animal material"
       }
     }
   ],
@@ -63,7 +56,7 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011792"
+      "id": "http://vocab.getty.edu/aat/300011792"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Organic"

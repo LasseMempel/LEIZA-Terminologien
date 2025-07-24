@@ -2,17 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9F6DG",
   "type": "Concept",
   "prefLabel": {
-    "de": "Elektrum"
+    "de": "Elektrum",
+    "en": "electrum",
+    "fr": "électrum"
   },
   "altLabel": {
     "de": [
       "Elektron"
-    ],
-    "en": [
-      "electrum"
-    ],
-    "fr": [
-      "électrum"
     ]
   },
   "definition": {
@@ -37,19 +33,21 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F135A8",
       "prefLabel": {
-        "de": "Silber"
+        "de": "Silber",
+        "en": "silver"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149",
       "prefLabel": {
-        "de": "Gold"
+        "de": "Gold",
+        "en": "gold"
       }
     }
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300010965"
+      "id": "http://vocab.getty.edu/aat/300010965"
     },
     {
       "id": "https://cameo.mfa.org/wiki/Electrum"

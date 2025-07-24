@@ -2,16 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3A484",
   "type": "Concept",
   "prefLabel": {
-    "de": "Oxalsäure"
+    "de": "Oxalsäure",
+    "en": "oxalic acid"
   },
   "altLabel": {
     "de": [
       "C2H2O4",
       "Ethandidicarbonsäure",
       "Kleesäure"
-    ],
-    "en": [
-      "oxalic acid"
     ]
   },
   "definition": {
@@ -29,14 +27,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
     "prefLabel": {
-      "de": "Säure"
+      "de": "Säure",
+      "en": "acidic detergent"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1",
       "prefLabel": {
-        "de": "Reduktionsmittel"
+        "de": "Reduktionsmittel",
+        "en": "reducing agent"
       }
     }
   ],

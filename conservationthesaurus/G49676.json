@@ -27,7 +27,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAF8AF",
     "prefLabel": {
-      "de": "gewebt"
+      "de": "gewebt",
+      "en": "weave"
     }
   },
   "inScheme": [

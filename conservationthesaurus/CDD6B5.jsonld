@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD6B5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Risikobeurteilung"
-  },
-  "altLabel": {
-    "en": [
-      "risk assessment"
-    ]
+    "de": "Risikobeurteilung",
+    "en": "risk assessment"
   },
   "definition": {
     "de": "Systematischer Prozess zur Bestimmung, Bewertung und Priorisierung potenzieller Gefahren, die das Objekt bzw. dessen Werkstoff beeinträchtigen könnten. Durch die Risikobeurteilung können die benötigten Maßnahmen zur Minimierung der festgestellten Risiken gezielt gewählt werden, um einen langfristigen Erhalt des Objektes zu gewährleisten."
@@ -28,7 +24,7 @@
   },
   "relatedMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300263660"
+      "id": "http://vocab.getty.edu/aat/300263660"
     }
   ],
   "inScheme": [

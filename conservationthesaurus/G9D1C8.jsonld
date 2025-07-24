@@ -13,7 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
     "prefLabel": {
-      "de": "Physischer Zustand"
+      "de": "Physischer Objektzustand",
+      "en": "physical condition"
     }
   },
   "inScheme": [

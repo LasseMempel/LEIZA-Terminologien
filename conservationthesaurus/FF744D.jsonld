@@ -23,7 +23,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG55BC",
     "prefLabel": {
-      "de": "Elfenbein"
+      "de": "Elfenbein",
+      "en": "ivory"
     }
   },
   "inScheme": [

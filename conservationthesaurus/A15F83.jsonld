@@ -89,6 +89,12 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C26D24",
+      "prefLabel": {
+        "de": "genäht"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA7G45",
       "prefLabel": {
         "de": "angegossen"
@@ -109,7 +115,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAF8AF",
       "prefLabel": {
-        "de": "gewebt"
+        "de": "gewebt",
+        "en": "weave"
       }
     },
     {
@@ -121,7 +128,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9165B",
       "prefLabel": {
-        "de": "verzwirnt"
+        "de": "verzwirnt",
+        "en": "twist"
       }
     },
     {
@@ -133,7 +141,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G8B5",
       "prefLabel": {
-        "de": "verdrillt"
+        "de": "verdrillt",
+        "en": "twist"
       }
     },
     {
@@ -169,7 +178,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G859A7",
       "prefLabel": {
-        "de": "gesponnen"
+        "de": "gesponnen",
+        "en": "spinning"
       }
     },
     {

@@ -10,7 +10,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
     "prefLabel": {
-      "de": "Verstärkungsfaser"
+      "de": "Verstärkungsfaser",
+      "en": "reinforcing fiber"
     }
   },
   "inScheme": [

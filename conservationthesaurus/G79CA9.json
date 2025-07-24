@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G79CA9",
   "type": "Concept",
   "prefLabel": {
-    "de": "unklimatisierte Lagerung"
-  },
-  "altLabel": {
-    "en": [
-      "unclimatized storage"
-    ]
+    "de": "unklimatisierte Lagerung",
+    "en": "unclimatized storage"
   },
   "definition": {
     "de": "Die Lagerung erfolgte ohne spezielle auf das Objekt abgestimmte, kontrollierte klimatische Bedingungen"

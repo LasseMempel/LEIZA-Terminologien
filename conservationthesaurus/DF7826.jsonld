@@ -38,7 +38,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDB814",
       "prefLabel": {
-        "de": "Diorit"
+        "de": "Diorit",
+        "en": "diorite"
       }
     },
     {
@@ -50,14 +51,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F646B4",
       "prefLabel": {
-        "de": "Granit"
+        "de": "Granit",
+        "en": "granite"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD",
     "prefLabel": {
-      "de": "Gestein"
+      "de": "Gestein",
+      "en": "stone"
     }
   },
   "inScheme": [

@@ -2,12 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G899F5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Haar"
-  },
-  "altLabel": {
-    "en": [
-      "hair"
-    ]
+    "de": "Haar",
+    "en": "hair"
   },
   "definition": {
     "de": "Natürliche, faserartige Gebilde aus Keratin, die aus der Haut von Säugetieren wachsen."
@@ -25,7 +21,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA992C",
       "prefLabel": {
-        "de": "Menschenhaar"
+        "de": "Menschenhaar",
+        "en": "human hair"
       }
     }
   ],
@@ -37,7 +34,7 @@
   },
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/page/aat/300011814"
+      "id": "http://vocab.getty.edu/aat/300011814"
     }
   ],
   "inScheme": [

@@ -19,7 +19,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A3D91B",
       "prefLabel": {
-        "de": "Muschel"
+        "de": "Muschel",
+        "en": "shell"
       }
     },
     {
@@ -31,7 +32,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2F655",
       "prefLabel": {
-        "de": "Geweih"
+        "de": "Geweih",
+        "en": "antlers"
       }
     },
     {
@@ -43,7 +45,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B69747",
       "prefLabel": {
-        "de": "Schnecke"
+        "de": "Schnecke",
+        "en": "snail"
       }
     },
     {
@@ -55,13 +58,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B77128",
       "prefLabel": {
-        "de": "Koralle"
+        "de": "Koralle",
+        "en": "coral"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B8B69D",
       "prefLabel": {
-        "de": "Bernstein"
+        "de": "Bernstein",
+        "en": "amber"
       }
     },
     {
@@ -73,13 +78,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B59296",
       "prefLabel": {
-        "de": "Zahn"
+        "de": "Zahn",
+        "en": "tooth"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B626A3",
       "prefLabel": {
-        "de": "Bein"
+        "de": "Bein",
+        "en": "bone"
       }
     }
   ],

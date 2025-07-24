@@ -56,7 +56,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF96G1",
       "prefLabel": {
-        "de": "Wolle"
+        "de": "Wolle",
+        "en": "wool"
       }
     },
     {
@@ -75,7 +76,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G899F5",
     "prefLabel": {
-      "de": "Haar"
+      "de": "Haar",
+      "en": "hair"
     }
   },
   "inScheme": [

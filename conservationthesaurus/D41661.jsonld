@@ -14,20 +14,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A44D5F",
       "prefLabel": {
-        "de": "Celluloseether"
+        "de": "Celluloseether",
+        "en": "cellulose ether"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9A929",
       "prefLabel": {
-        "de": "Celluloseester"
+        "de": "Celluloseester",
+        "en": "cellulose ester"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A1D125",
     "prefLabel": {
-      "de": "synthetisches Polymer"
+      "de": "synthetisches Polymer",
+      "en": "synthetic polymer"
     }
   },
   "inScheme": [

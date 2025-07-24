@@ -18,7 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14",
     "prefLabel": {
-      "de": "Bronze"
+      "de": "Bronze",
+      "en": "bronze"
     }
   },
   "inScheme": [

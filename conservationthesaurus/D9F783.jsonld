@@ -2,15 +2,13 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9F783",
   "type": "Concept",
   "prefLabel": {
-    "de": "Cyanacrylat"
+    "de": "Cyanacrylat",
+    "en": "cyanoacrylate"
   },
   "altLabel": {
     "de": [
       "Cyanoacrylat",
       "Sekundenkleber"
-    ],
-    "en": [
-      "cyanoacrylate"
     ]
   },
   "definition": {
@@ -37,7 +35,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582",
     "prefLabel": {
-      "de": "Acrylharz"
+      "de": "Acrylharz",
+      "en": "acrylic resin"
     }
   },
   "closeMatch": [
