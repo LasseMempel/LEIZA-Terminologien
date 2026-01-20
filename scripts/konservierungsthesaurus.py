@@ -6,9 +6,13 @@ from io import StringIO
 
 def csv2Df(link, filename):
 
-    response = requests.get(link).text
-    df = pd.read_csv(StringIO(response), sep="\t")
-    df.to_csv(filename, index=False)
+    response = requests.get(link)
+
+    content = response.content.decode("utf-8")
+
+    df = pd.read_csv(StringIO(content), sep="\t")
+
+    df.to_csv(filename, index=False, encoding="utf-8")
     
     return df
 
