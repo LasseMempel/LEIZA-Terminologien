@@ -133,7 +133,7 @@ propertyDict = {
     "source": (DCTERMS.source, Literal, False),
     "subject": (DCTERMS.subject, Literal, True),
     "created": (DCTERMS.created, Literal, False),
-    "license": (DCTERMS.license, Literal, False),
+    "license": (DCTERMS.license, URIRef, False),
     "modified": (DCTERMS.modified, Literal, False),
     "title": (DCTERMS.title, Literal, True),
     "description": (DCTERMS.description, Literal, True),
