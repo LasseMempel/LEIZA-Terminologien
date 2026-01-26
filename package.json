@@ -85,7 +85,7 @@
     "url": "https://github.com/skohub-io/skohub-vocabs/issues"
   },
   "lint-staged": {
-    "*.{js,jsx}": [
+    "src/**/*.{js,jsx}": [
       "npm run format",
       "npm run lint:js"
     ]
