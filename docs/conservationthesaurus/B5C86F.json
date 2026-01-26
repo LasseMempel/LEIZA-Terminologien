@@ -12,11 +12,6 @@
   "definition": {
     "de": "Holz der Pappel, mit weißlich, gelblich bis hell-grün-bräunlicher Färbung, in Marknähe auch rötlich. Pappelholz ist ein sehr leichtes und weiches Holz, das sich gut mit verschiedenen Werkzeugen bearbeiten lässt. Bei Pappelholz ist es dabei besonders wichtig scharf geschliffene Werkzeuge zu verwenden, da die Oberfläche durch Reaktionsholzbildung oft filzig und rauh erscheinen kann. Aufgrund seiner geringen Festigkeit und der mittelmäßigen Dauerhaftigkeit/Witterungsbeständigkeit wird Pappelholz vor allem als Funierholz für Sperrholzprodukte oder als Konstruktionsholz geringer bis mittlerer Belastung im Innenbereich verwendet."
   },
-  "note": {
-    "de": [
-      "Rudi Wagenführ, HOLZatlas (München 2000), S. 325/326."
-    ]
-  },
   "notation": [
     "B5C86F"
   ],
@@ -28,13 +23,22 @@
   },
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "Rudi Wagenführ, HOLZatlas (München 2000), S. 325/326."
+  ],
+  "creator": [
+    "Markus Wittköpper, LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -48,7 +52,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -65,6 +69,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -77,12 +85,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -181,20 +210,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

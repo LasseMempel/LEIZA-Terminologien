@@ -8,12 +8,6 @@
   "definition": {
     "de": "silberweißes, sehr weiches Metall mit dem chemischen Symbol Sn und der Ordnungszahl 50. Zinn wird hauptsächlich als Legierungsbestandteil (z.B. für (Zinn-)Bronze oder in Weichloten) verwendet, aber auch als reines Metall für die Herstellung von Geschirr und kleinen Kulturobjekten. Gegenüber Luftsauerstoff ist es weitgehend beständig, wird jedoch von Säuren (v.a. Salpetersäure) stark angegriffen. Bei der Lagerung von Zinnobjekten unterhalb 13°C tritt das Phänomen der sog. \"Zinnpest\" auf, bei der sich das stabile Zinn in α-Zinn umwandelt, was sich in Form von Flecken und Pusteln bemerktbar macht und schleichend zur vollständigen Verstörung des Zinnobjektes führt."
   },
-  "note": {
-    "de": [
-      "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 80/81.",
-      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 29, 33."
-    ]
-  },
   "notation": [
     "G78BD6"
   ],
@@ -41,10 +35,10 @@
   ],
   "closeMatch": [
     {
-      "id": "http://vocab.getty.edu/aat/300133748"
+      "id": "https://cameo.mfa.org/wiki/Tin"
     },
     {
-      "id": "https://cameo.mfa.org/wiki/Tin"
+      "id": "https://vocab.getty.edu/aat/300133748"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q1096"
@@ -52,13 +46,23 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 80/81.",
+    "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 29, 33."
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -72,7 +76,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -89,6 +93,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -101,12 +109,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -205,20 +234,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

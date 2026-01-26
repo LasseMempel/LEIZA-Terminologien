@@ -13,13 +13,6 @@
   "definition": {
     "de": "textile Grundbindung, bei der die Verkreuzung von Kett- und Schussfäden eine glatte und glänzende Oberfläche erzeugt. Diese entsteht, indem der Schussfaden über mindestens vier Kettfäden hinweg verläuft um dann mit dem fünften Kettfaden zu binden. Die Bindungspunkte liegen dabei weit auseinander ohne sich zu berühren, wordurch sich eine äußerst dichte, weich fließende Struktur ergibt."
   },
-  "note": {
-    "de": [
-      "CIETA Vocabularies - Vokabular der Textiltechniken",
-      "Annemarie Seiler-Baldinger, Systematik der Textilen Techniken. Basler Beiträge zur Ethnologie 32. Basel: Wepf, 1991, S. 101/102.",
-      "Hermann Kühn, Erhaltung und Pflege von Kunstwerken. Material und Technik, Konservierung und Restaurierung. 3. München: Klinkhardt & Biermann, 2001, S. 222/223."
-    ]
-  },
   "notation": [
     "FF5836"
   ],
@@ -32,13 +25,24 @@
   },
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "CIETA Vocabularies - Vokabular der Textiltechniken",
+    "Annemarie Seiler-Baldinger, Systematik der Textilen Techniken. Basler Beiträge zur Ethnologie 32. Basel: Wepf, 1991, S. 101/102.",
+    "Hermann Kühn, Erhaltung und Pflege von Kunstwerken. Material und Technik, Konservierung und Restaurierung. 3. München: Klinkhardt & Biermann, 2001, S. 222/223."
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -52,7 +56,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -69,6 +73,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -81,12 +89,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -185,20 +214,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

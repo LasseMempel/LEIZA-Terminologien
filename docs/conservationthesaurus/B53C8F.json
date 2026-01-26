@@ -8,14 +8,6 @@
   "definition": {
     "de": "zerstörungsfreie Untersuchungsmethode, bei der das Objekt mit UV-Licht bestrahlt wird. Befinden sich in dem Objektmaterial fluoreszierende Stoffe werden diese durch die kurzwelligen UV-Strahlen zum Leuchten angeregt und gegenüber den nicht fluoreszierenden Stoffen sichtbar. Auf diese Weise lassen sich z.B. Klebstoffe, Überzüge, Retuschen und Übermalungen auf bereits restaurierten Objekten sichtbar machen, die mit dem bloßen Auge im Tageslicht nicht zu erkennen sind. Als Methode zur Identifizierung eines Stoffes ist die UV-Fluoreszenz nur bedingt geeignet. Viele Stoffe zeigen zwar eine charakteristische Färbung in ihrer Fluoreszenz, die mit Hilfe von Referenztabellen bestimmt werden kann, allerdings können Verunreinigungen (wie z.B. Staub) die Fluoreszenz stark beeinträchtigen, indem sie entweder die natürliche Fluorezenz des Materials auslöschen oder selbst fluoreszieren."
   },
-  "note": {
-    "de": [
-      "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007).",
-      "Franz Mairinger, UV-, IR- and X-ray imaging. In: S Jannsens, R. van Grieken (Hrsg.), Non-Destructive Microanalysis of Cultural Heritage Materials, Amsterdam 2004, 15-75.",
-      "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 230.",
-      "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 36/37."
-    ]
-  },
   "notation": [
     "B53C8F"
   ],
@@ -36,13 +28,25 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007).",
+    "Franz Mairinger, UV-, IR- and X-ray imaging. In: S Jannsens, R. van Grieken (Hrsg.), Non-Destructive Microanalysis of Cultural Heritage Materials, Amsterdam 2004, 15-75.",
+    "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 230.",
+    "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 36/37."
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -56,7 +60,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -73,6 +77,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -85,12 +93,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -189,20 +218,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

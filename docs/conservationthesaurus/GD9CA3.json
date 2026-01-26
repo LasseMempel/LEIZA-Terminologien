@@ -8,13 +8,6 @@
   "definition": {
     "de": "zweikomponenten Silikonkautschuk, der durch eine Polykondensationsreaktion mittels Zinnkatalysatoren vernetzt. In der Konservierung und Restaurierung wird kondensationsvernetzender Silikonkautschuk aufgrund seiner einfachen Verarbeitung, Zeichnungsgenauigkeit und moderaten Kosten für die Abformung von Objekten verwendet. Bei dieser Art von Silikonkautschuk ist ein Auftrag in mehrere Schichten, auch nach Polymerisation der Vorherigen möglich. Während der Vernetzungsreaktion werden Alkohole (typischerweise Ethanol) abgespalten, was zu einem Volumenschwund des Silikonkautschuks führt. Aus diesem Grund weist das Material eine begrenzte Langzeitstabilität auf und kann zur Versprödung neigen. Darüber hinaus können austretende Silikonöle bei porösen Materialien zu Verfärbungen führen."
   },
-  "note": {
-    "de": [
-      "https://www.wacker.com/h/medias/6415-DE-Silicone.pdf",
-      "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 221.",
-      "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 272-276, 280/281."
-    ]
-  },
   "notation": [
     "GD9CA3"
   ],
@@ -59,13 +52,24 @@
   },
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "https://www.wacker.com/h/medias/6415-DE-Silicone.pdf",
+    "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 221.",
+    "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 272-276, 280/281."
+  ],
+  "creator": [
+    "Waldemar Muskalla/ Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -79,7 +83,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -96,6 +100,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -108,12 +116,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -212,20 +241,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

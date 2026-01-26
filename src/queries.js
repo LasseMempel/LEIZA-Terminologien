@@ -128,6 +128,9 @@ module.exports.allConcept = (inScheme, languages) => `
               ${[...languages].join(" ")}
             }
           }
+          source
+          creator
+          seeAlso
           deprecated
           isReplacedBy {
             id
@@ -160,12 +163,16 @@ module.exports.allConceptScheme = (languages) => `
           dc_description {
             ${[...languages].join(" ")}
           }
-          publisher {
-            id
-          }
+          publisher
+          creator
+          rights
+          contributor
           issued
           license {
             id
+          }
+          subject {
+            ${[...languages].join(" ")}
           }
           preferredNamespaceUri
           preferredNamespacePrefix
@@ -187,6 +194,12 @@ module.exports.allConceptScheme = (languages) => `
                           ...ConceptFields
                           narrower {
                             ...ConceptFields
+                            narrower {
+                              ...ConceptFields
+                              narrower {
+                                ...ConceptFields
+                              }
+                            }
                           }
                         }
                       }

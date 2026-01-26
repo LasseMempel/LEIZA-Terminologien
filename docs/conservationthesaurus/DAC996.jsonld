@@ -19,41 +19,15 @@
   ],
   "narrower": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B224CD",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A7B171",
       "prefLabel": {
-        "de": "Formänderung"
+        "de": "[materialspezifische Schadensphänomene]"
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C188DA",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD4C48",
       "prefLabel": {
-        "de": "Substanzverlust",
-        "en": "Loss of substance"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB9GD3",
-      "prefLabel": {
-        "de": "Kohäsionsverlust"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C9D991",
-      "prefLabel": {
-        "de": "chemische Veränderung"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B86G16",
-      "prefLabel": {
-        "de": "Materialhinzufügung"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AGG6",
-      "prefLabel": {
-        "de": "visuelle Veränderung",
-        "en": "visual alteration"
+        "de": "[allgemeine Schadensphänomene]"
       }
     }
   ],
@@ -68,20 +42,32 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG",
       "prefLabel": {
-        "de": "Schadensursache",
+        "de": "Schadenssursache",
         "en": "Cause of damage"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G43DBC",
+      "prefLabel": {
+        "de": "beschädigt"
       }
     }
   ],
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -95,7 +81,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -112,6 +98,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -124,12 +114,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -228,20 +239,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

@@ -8,13 +8,6 @@
   "definition": {
     "de": "synthetischer Werkstoff auf Basis langkettiger Polysiloxane und diverser Füllstoffe (z.B. pyrogene Kieselsäure, Silkonöl, etc.), der durch Zugabe eines Vernetzers und ggfs. Katalysators zu elastischem Silikongummi vulkanisiert. Es lassen sich je nach Vulkanisationsart und Eigenschaften des Basispolymers unterschiedliche Kautschukklassen sowie Heiß- und Kaltvulkanisation unterscheiden. In der Konservierung und Restaurierung werden meist bei Raumtemperatur vernetzende, zwei-komponentige Systeme (RTV-2) für die Abformung und Herstellung von Negativformen verwendet. Hervorzuhebende Eigenschaften der Silikonkautschucke sind die hohe Abbildungsgenauigkeit, die Langzeitstabilität und die selbsttrennende Wirkung gegenüber den meisten Werkstoffen."
   },
-  "note": {
-    "de": [
-      "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 81/82.",
-      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 197.",
-      "https://www.wacker.com/h/medias/6415-DE-Silicone.pdf"
-    ]
-  },
   "notation": [
     "A44BG6"
   ],
@@ -42,13 +35,24 @@
   },
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 81/82.",
+    "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 197.",
+    "https://www.wacker.com/h/medias/6415-DE-Silicone.pdf"
+  ],
+  "creator": [
+    "Waldemar Muskalla/ Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -62,7 +66,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -79,6 +83,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -91,12 +99,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -195,20 +224,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

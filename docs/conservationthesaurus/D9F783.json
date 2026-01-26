@@ -14,13 +14,6 @@
   "definition": {
     "de": "Schnellklebstoff auf Basis von Monomeren der Alkylcyanacrylate und weiteren Zusatzstoffen (Weichmacher, Stabilisatoren, etc.), der sich durch eine sehr schnelle Aushärtung  auszeichnet. Durch Kontakt mit Feuchtigkeit auf der Objektoberfläche oder der Luft wird eine anionische Polymerisation der Monomere initiiert, wodurch innerhalb von Sekunden eine Klebeverbindung entsteht. In der Konservierung und Restaurierung wird Cyanacrylat hauptsächlich für die temporäre und/oder punktuelle Heftung von Fragmenten oder Hilfsmitteln (Omegahäkchen, Silikonmanschetten, etc.) verwendet, da er sich aufgrund einiger Eigenschaften, wie Sprödigkeit, geringe Reversibilität und geringe Altersbeständigkeit, nicht für dauerhafte, stabile Klebungen eignet."
   },
-  "note": {
-    "de": [
-      "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 97.",
-      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 192.",
-      "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010), S. 155 - 158."
-    ]
-  },
   "notation": [
     "D9F783"
   ],
@@ -46,13 +39,24 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 97.",
+    "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 192.",
+    "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010), S. 155 - 158."
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -66,7 +70,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -83,6 +87,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -95,12 +103,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -199,20 +228,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

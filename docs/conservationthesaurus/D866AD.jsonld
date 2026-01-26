@@ -13,11 +13,6 @@
   "definition": {
     "de": "mehr oder weniger verfestigter Werkstoff aus mikroskopisch heterogenen Gemengen von Mineralen, Gesteinsbruchstücken, organischen und/oder anorganischen Ausscheidungen und Wasser (Kristallwasser). Hauptgemengeteile bilden Minerale wie Silikate (Feldspat, Quarz, Glimmer, etc.) und Karbonate (Calcit, Dolomit, etc.). Stein findet im Bereich historischer Kulturgüter in der Verwendung als Statuen, Schmuck, Gefäßen, und Bauteilen. Je nach Zusammensetzung sind Gesteine mehr oder weniger anfällig für umgebungsbedingten Zerfall, so können z.B. Schadstoffe aus der Luft ebenso wie Salze und andere Bodenbestandteile Zerfallsprozesse an der Oberfläche von Steinobjekten hervorrufen."
   },
-  "note": {
-    "de": [
-      "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007)."
-    ]
-  },
   "notation": [
     "D866AD"
   ],
@@ -49,7 +44,7 @@
   },
   "relatedMatch": [
     {
-      "id": "http://vocab.getty.edu/aat/300011176"
+      "id": "https://vocab.getty.edu/aat/300011176"
     }
   ],
   "closeMatch": [
@@ -65,13 +60,22 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007)."
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -85,7 +89,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -102,6 +106,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -114,12 +122,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -218,20 +247,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

@@ -8,12 +8,6 @@
   "definition": {
     "de": "synthetisches Polymer, das durch die Veresterung von Cellulose mit Nitriersäure (Gemisch aus konzentrierter Salpeter- und konzentrierter Schwefelsäure) hergestellt wird. Vermischt mit Weichmachernund gelöst in Lösemitteln wird es seit dem späten 19. Jh. als eines der ersten synthetischen Harze im Bereich der Konservierung/Restaurierung verwendet. Cellulosenitrat zeichnet sich durch eine Reihe von Eigenschaften aus, die es als beliebtes Konservierungsmittel erscheinen lässte (z.B. schnelle Trocknung, einfache Handhabung, gute Haftung auf verschiedenen Materialien, hohe Glasübergangstemperatur, etc). Allerdings neigt es zum vergilben und zeigte bei durchgeführten Studien (Oddy-Test) korrosiove Wirkung auf Metalle."
   },
-  "note": {
-    "de": [
-      "Steger, S., Eggert, G., Horn, W. et al. Are cellulose ethers safe for the conservation of artwork? New insights in their VOC activity by means of Oddy testing. Herit Sci 10, 53 (2022). https://doi.org/10.1186/s40494-022-00688-4",
-      "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 214 - 216."
-    ]
-  },
   "notation": [
     "GC7998"
   ],
@@ -57,13 +51,23 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "Steger, S., Eggert, G., Horn, W. et al. Are cellulose ethers safe for the conservation of artwork? New insights in their VOC activity by means of Oddy testing. Herit Sci 10, 53 (2022). https://doi.org/10.1186/s40494-022-00688-4",
+    "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 214 - 216."
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -77,7 +81,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -94,6 +98,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -106,12 +114,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -210,20 +239,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

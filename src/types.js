@@ -18,7 +18,11 @@ module.exports = (languages) => `
     issued: String,
     preferredNamespaceUri: String,
     preferredNamespacePrefix: String,
-    publisher: Concept
+    publisher: String,
+    creator: [String],
+    contributor: [String],
+    subject: LanguageMapArray,
+    rights: [String]
   }
 
   type Concept implements Node {
@@ -49,7 +53,10 @@ module.exports = (languages) => `
     inSchemeAll: [ConceptScheme],
     hub: String,
     deprecated: Boolean,
-    isReplacedBy: [Concept]
+    isReplacedBy: [Concept],
+    source: [String],
+    creator: [String],
+    seeAlso: [String]
   }
 
   type LanguageMap {

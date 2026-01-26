@@ -8,14 +8,6 @@
   "definition": {
     "de": "synthetisch hergestelltes duroplastisches Harzsystem, dass aus zwei Komponenten besteht. Die eine Komponente trägt dabei eine Epoxidgruppe und die Andere fungiert als Härter, indem sie mit der Epoxidgruppe eine vernetzende Reaktion eingeht. Durch die Variation einer oder beider Komponenten lässt sich eine große Bandbreite unterschiedlicher Polymere herstellen, wobei die Zugabe von Beschleunigern, Verdünnungsmitteln, Weichmachern und weiteren Additiven die Komplexität der Grundrezeptur zusätzlich erhöht. Die meisten in der Konservierung und Restaurierung verwendeten Epoxidharze bestehen aus Diglycidylether des Bisphenol A, da diese eine starke Klebekraft, ein gutes Penetrationsvermögen und weitere für die Anwendungen in der Konservierung/Restaurierung nützliche Eigenschaften aufweisen. Aufgrund der quervernetzten Struktur nach der Aushärtung sind epoxidharze jedoch nur noch schwer chemisch lösbar und somit nicht/kaum reversibel."
   },
-  "note": {
-    "de": [
-      "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung.",
-      "DIN EN 12670",
-      "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 212.",
-      "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 289 - 297."
-    ]
-  },
   "notation": [
     "AF31AG"
   ],
@@ -122,13 +114,25 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "DIN EN 923:2016-03, Klebstoffe - Benennungen und Definitionen; Deutsche Fassung EN 923:2015, Deutsches Institut für Normung.",
+    "DIN EN 12670",
+    "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 212.",
+    "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 289 - 297."
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -142,7 +146,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -159,6 +163,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -171,12 +179,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -275,20 +304,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

@@ -7,13 +7,6 @@
   "definition": {
     "de": "natürliches Produkt, bei denen die haftenden Eigenschaften der wiederkehrenden -NH-CO-Bindungen zur Verwendung als Klebstoff/Leim genutzt werden. Das Protein kann dabei aus verschiedenen Quellen und unter unterschiedliche Verfahren gewonnen werden."
   },
-  "note": {
-    "de": [
-      "DIN EN ISO 472/A1:2019-03, Kunststoffe - Fachwörterverzeichnis - Änderung 1: Weitere Einträge (ISO 472:2013/Amd.1:2018); Dreisprachige Fassung EN ISO 472:2013/A1:2018, Deutsches Institut für Normung.",
-      "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 184.",
-      "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S.67."
-    ]
-  },
   "notation": [
     "GD86C1"
   ],
@@ -41,13 +34,24 @@
   },
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "DIN EN ISO 472/A1:2019-03, Kunststoffe - Fachwörterverzeichnis - Änderung 1: Weitere Einträge (ISO 472:2013/Amd.1:2018); Dreisprachige Fassung EN ISO 472:2013/A1:2018, Deutsches Institut für Normung.",
+    "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 184.",
+    "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S.67."
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -61,7 +65,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -78,6 +82,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -90,12 +98,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -194,20 +223,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }

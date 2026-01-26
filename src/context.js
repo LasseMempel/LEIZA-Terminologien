@@ -11,6 +11,7 @@ const jsonld = {
     vann: "http://purl.org/vocab/vann/",
     ldp: "http://www.w3.org/ns/ldp#",
     owl: "http://www.w3.org/2002/07/owl#",
+    rdfs: "http://www.w3.org/2000/01/rdf-schema#",
     title: {
       "@id": "dct:title",
       "@container": "@language",
@@ -43,12 +44,30 @@ const jsonld = {
       "@id": "dct:modified",
       "@type": "xsd:date",
     },
-    creator: "dct:creator",
+    creator: {
+      "@id": "dct:creator",
+      "@container": "@set",
+    },
+    contributor: {
+      "@id": "dct:contributor",
+      "@container": "@set",
+    },
+    subject: {
+      "@id": "dct:subject",
+      "@container": ["@language", "@set"],
+    },
+    rights: {
+      "@id": "dct:rights",
+      "@container": "@set",
+    },
     publisher: "dct:publisher",
     preferredNamespacePrefix: "vann:preferredNamespacePrefix",
     preferredNamespaceUri: "vann:preferredNamespaceUri",
     isBasedOn: "schema:isBasedOn",
-    source: "dct:source",
+    source: {
+      "@id": "dct:source",
+      "@container": "@set",
+    },
     prefLabel: {
       "@container": "@language",
     },
@@ -124,6 +143,10 @@ const jsonld = {
     },
     isReplacedBy: {
       "@id": "dct:isReplacedBy",
+      "@container": "@set",
+    },
+    seeAlso: {
+      "@id": "rdfs:seeAlso",
       "@container": "@set",
     },
   },

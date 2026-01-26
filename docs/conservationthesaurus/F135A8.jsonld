@@ -8,13 +8,6 @@
   "definition": {
     "de": "weißlich-graues Metall mit dem chemischen Symbol Ag und der Ordnungszahl 47. Gehört, ebenso wie Gold und Kupfer, zu den ersten Metallen die von den Menschen verarbeitet wurde. Silber wurde als edler metallischer Werkstoff aufgrund seiner guten Verarbeitbarkeit, hohen Korrosionsbeständigkeit im Vergleich zu anderen Metallen und seiner reinen warm-glänzenden Erscheinung seit der Antike für Münzen, Schmuck und zeremonielle Gegenstände genutzt. Im Vergleich zu Gold war Silber überdies häufiger verfügbar. Als Edelmetall ist es relativ beständig gegen Korrosion, wird jedoch von Luftsauerstoff, Schwefel und chloridhaltigen Lösungen (z.B. in stark chloridhaltigen Böden) unter Bildung von Silberoxid, Silbersulfid und/oder Silberchlorid angegriffen."
   },
-  "note": {
-    "de": [
-      "\"Wilhelm P. Bauer, Grundzüge der Metallkorrosion. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, 63–67.\"",
-      "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 28, 32.",
-      "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 53, 55 - 59."
-    ]
-  },
   "notation": [
     "F135A8"
   ],
@@ -47,7 +40,7 @@
       "id": "http://d-nb.info/gnd/4133759-1"
     },
     {
-      "id": "http://vocab.getty.edu/aat/300011029"
+      "id": "https://vocab.getty.edu/aat/300011029"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q1090"
@@ -55,13 +48,24 @@
   ],
   "inScheme": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
+      "title": {
+        "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
+      }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "source": [
+    "Wilhelm P. Bauer, Grundzüge der Metallkorrosion. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, 63–67.",
+    "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 28, 32.",
+    "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 53, 55 - 59."
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
@@ -75,7 +79,7 @@
     "vann": "http://purl.org/vocab/vann/",
     "ldp": "http://www.w3.org/ns/ldp#",
     "owl": "http://www.w3.org/2002/07/owl#",
-    "doc": "http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "title": {
       "@id": "dct:title",
       "@container": "@language"
@@ -92,6 +96,10 @@
       "@id": "dct:description",
       "@container": "@language"
     },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
     "issued": {
       "@id": "dct:issued",
       "@type": "xsd:date"
@@ -104,12 +112,33 @@
       "@id": "dct:modified",
       "@type": "xsd:date"
     },
-    "creator": "dct:creator",
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
     "publisher": "dct:publisher",
     "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
     "preferredNamespaceUri": "vann:preferredNamespaceUri",
     "isBasedOn": "schema:isBasedOn",
-    "source": "dct:source",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
     "prefLabel": {
       "@container": "@language"
     },
@@ -208,20 +237,8 @@
       "@id": "dct:isReplacedBy",
       "@container": "@set"
     },
-    "TextOrUri": {
-      "@id": "doc:TextOrUri",
-      "@container": "@set"
-    },
-    "Verpflichtungsgrad": {
-      "@id": "doc:Verpflichtungsgrad",
-      "@container": "@set"
-    },
-    "Wiederholbar": {
-      "@id": "doc:Wiederholbar",
-      "@container": "@set"
-    },
-    "EmpfohleneVokabulare": {
-      "@id": "doc:EmpfohleneVokabulare",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
       "@container": "@set"
     }
   }
