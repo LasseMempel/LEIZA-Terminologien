@@ -7,7 +7,7 @@ current = Path("data/scheme.ttl")
 
 if not current.exists():
     print("No existing scheme.ttl in data/ → treat as changed")
-    sys.exit(1)
+    sys.exit(0)  # Continue workflow
 
 g_new = Graph().parse(generated, format="turtle")
 g_old = Graph().parse(current, format="turtle")
@@ -16,8 +16,8 @@ diff_new = g_new - g_old
 diff_old = g_old - g_new
 
 if len(diff_new) == 0 and len(diff_old) == 0:
-    print("RDF graphs are identical")
-    sys.exit(0)
+    print("RDF graphs are identical — stopping workflow")
+    sys.exit(1)  # Stop workflow with error
 else:
     print(f"Graphs differ: +{len(diff_new)} / -{len(diff_old)} triples")
-    sys.exit(1)
+    sys.exit(0)  # Continue workflow
