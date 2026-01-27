@@ -1,77 +1,62 @@
 name: Generate SKOS & Publish Pages
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 4 * * *"
-
 jobs:
   publish:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       # --- Python ------------------------------------------------
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Install Python dependencies
         run: |
           pip install requests pandas rdflib
-
       - name: Generate konservierungsthesaurus TTL
         run: |
           python scripts/konservierungsthesaurus/konservierungsthesaurus.py
-
       - name: Compare RDF graphs
         id: rdfdiff
         run: |
           python scripts/compare_graphs.py
         continue-on-error: true
-
       - name: Stop if graph unchanged
-        if: steps.rdfdiff.outcome == 'success'
+        if: steps.rdfdiff.outcome == 'failure'
         run: |
           echo "No semantic changes in RDF graph — stopping."
           exit 0
-
       - name: Update data TTL
         run: |
           cp scripts/konservierungsthesaurus/scheme.ttl data/scheme.ttl
-
       # --- Node / Gatsby ----------------------------------------
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 18
           cache: npm
-
       - name: Install dependencies
         run: npm ci
-
       - name: Build Gatsby site
         run: npm run build
-
       # --- Publish ----------------------------------------------
       - name: Update docs folder
         run: |
           rm -rf docs
           mkdir docs
           cp -r public/* docs/
-
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add data/scheme.ttl docs
           git commit -m "Automated SKOS update & site rebuild" || exit 0
           git push
