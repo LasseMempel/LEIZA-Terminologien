@@ -10589,7 +10589,10 @@
     dcterms:rights "CC BY 4.0" ;
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
-        "Restaurierung"@de ;
+        "Restaurierung"@de,
+        "archeology"@en,
+        "conservation"@en,
+        "restoration"@en ;
     dcterms:title "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"@de ;
     vann:preferredNamespaceUri "https://www.w3id.org/archlink/terms/conservationthesaurus/" ;
     skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95>,
