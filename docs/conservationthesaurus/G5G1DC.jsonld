@@ -7,6 +7,22 @@
   "notation": [
     "G5G1DC"
   ],
+  "narrower": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFD9GG",
+      "prefLabel": {
+        "de": "wasservermalbare Ölfarbe",
+        "en": "water-mixable oil paint"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D733D1",
+      "prefLabel": {
+        "de": "terpentinvermalbare Ölfarbe",
+        "en": "turpentine-based oil paint"
+      }
+    }
+  ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671",
     "prefLabel": {

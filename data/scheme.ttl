@@ -360,6 +360,12 @@
     skos:notation "A4G52F" ;
     skos:prefLabel "Einlieferungszustand"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A54C7A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "A54C7A" ;
+    skos:prefLabel "Silberputztuch"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A57386> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "https://info.lindberg-lund.no/produktblad/Norge/4-6%20TD/ARA-158.pdf" ;
@@ -1109,6 +1115,13 @@
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "AF8F61" ;
     skos:prefLabel "Mowilith DV"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AFC5B7> a skos:Concept ;
+    dcterms:creator "Leslie Pluntke/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GC7998> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "AFC5B7" ;
+    skos:prefLabel "Mecosan S"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/AFC696> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -2260,6 +2273,12 @@
     skos:notation "BGC695" ;
     skos:prefLabel "tauschiert"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BGC991> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "BGC991" ;
+    skos:prefLabel "Zeichnung"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/BGG5A6> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
@@ -2830,6 +2849,12 @@
     skos:notation "C838C1" ;
     skos:prefLabel "Polyvinylalkohol"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C85F3B> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "C85F3B" ;
+    skos:prefLabel "Kunststoffhammer"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C89AC8> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:altLabel "polierte Fläche"@de ;
@@ -2948,6 +2973,13 @@
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/G3GB59>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/G8A626> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CA9A7F> a skos:Concept ;
+    skos:altLabel "Plexiglaspunzen"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "CA9A7F" ;
+    skos:prefLabel "Acrylglaspunzen"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/CAB27G> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -3214,6 +3246,14 @@
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "CF41GC" ;
     skos:prefLabel "Porzellan"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CFD9GG> a skos:Concept ;
+    skos:altLabel "wasserlösliche Ölfarbe"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G5G1DC> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "CFD9GG" ;
+    skos:prefLabel "wasservermalbare Ölfarbe"@de,
+        "water-mixable oil paint"@en .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/CFDD8G> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -3823,6 +3863,14 @@
     skos:notation "D72F3A" ;
     skos:prefLabel "Aceton"@de,
         "acetone"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D733D1> a skos:Concept ;
+    skos:altLabel "terpentinlösliche Ölfarbe"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G5G1DC> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "D733D1" ;
+    skos:prefLabel "terpentinvermalbare Ölfarbe"@de,
+        "turpentine-based oil paint"@en .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/D73F9B> a skos:Concept ;
     dcterms:creator "LEIZA" ;
@@ -4862,6 +4910,14 @@
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/A7C8CB>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/C99F9G> .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F777B3> a skos:Concept ;
+    dcterms:creator "Leslie Pluntke/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "F777B3" ;
+    skos:prefLabel "Bienenwachs"@de,
+        "bees wax"@en .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/F7AGD2> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:altLabel "Probenentnahme"@de ;
@@ -5835,13 +5891,6 @@
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "G5D8C5" ;
     skos:prefLabel "broschiert"@de .
-
-<https://www.w3id.org/archlink/terms/conservationthesaurus/G5G1DC> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671> ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:notation "G5G1DC" ;
-    skos:prefLabel "Ölfarbe"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/G6282F> a skos:Concept ;
     dcterms:creator "Waldemar Muskalla/ Kristina Fischer/ LEIZA" ;
@@ -6823,19 +6872,6 @@
     skos:notation "C9G1B6" ;
     skos:prefLabel "Airbrush-System"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    dcterms:source "Hermann Kühn, Conservation and Restoration of Works of Art and Antiquities. Volume 1 (London 1986), S. 232- 234.",
-        "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 220.",
-        "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 196." ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG8FG3> ;
-    skos:definition "weich, plastisches Material aus unterschiedlichen Stoffgemischen mit niedrigem Schmelzpunkt und guter Adhäsionsfähigkeit. In der Konservierung und Restaurierung wird Wachs unter anderem für die Ergänzung von Fehlstellen, als Abformmaterial bzw. als Manschette oder als Material für das freie Modellieren des fehlenden Teils, verwendet. Darüber hinaus werden modifizierte Wachse als Trennschicht bzw. Absperrschicht zwischen Materialien und als Versiegelung poröser Materialien eingesetzt."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C9AFG9> ;
-    skos:notation "CB4G84" ;
-    skos:prefLabel "Wachs"@de,
-        "wax"@en .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/CD13GA> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S.99, 112/113." ;
@@ -7574,6 +7610,20 @@
     skos:prefLabel "Vollständigkeit"@de,
         "integrity"@en .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    dcterms:source "Hermann Kühn, Conservation and Restoration of Works of Art and Antiquities. Volume 1 (London 1986), S. 232- 234.",
+        "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 220.",
+        "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 196." ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG8FG3> ;
+    skos:definition "weich, plastisches Material aus unterschiedlichen Stoffgemischen mit niedrigem Schmelzpunkt und guter Adhäsionsfähigkeit. In der Konservierung und Restaurierung wird Wachs unter anderem für die Ergänzung von Fehlstellen, als Abformmaterial bzw. als Manschette oder als Material für das freie Modellieren des fehlenden Teils, verwendet. Darüber hinaus werden modifizierte Wachse als Trennschicht bzw. Absperrschicht zwischen Materialien und als Versiegelung poröser Materialien eingesetzt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C9AFG9>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F777B3> ;
+    skos:notation "CB4G84" ;
+    skos:prefLabel "Wachs"@de,
+        "wax"@en .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/CBDC4A> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 286, 291/292.",
@@ -7980,6 +8030,15 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/C9GD44> ;
     skos:notation "G5733B" ;
     skos:prefLabel "Dispersionsfarbe"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G5G1DC> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/CFD9GG>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D733D1> ;
+    skos:notation "G5G1DC" ;
+    skos:prefLabel "Ölfarbe"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/G6GG4C> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -8783,18 +8842,6 @@
     skos:prefLabel "Veränderung"@de,
         "alteration"@en .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A> ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D9A6FA>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F58F6D>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FD2B2B> ;
-    skos:notation "CB7747" ;
-    skos:prefLabel "Bildgebende Dokumentation"@de ;
-    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8> .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/CD1GA3> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C3648A> ;
@@ -9076,22 +9123,6 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/F87124>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/GC7998> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    dcterms:source "Steger, S., Eggert, G., Horn, W. et al. Are cellulose ethers safe for the conservation of artwork? New insights in their VOC activity by means of Oddy testing. Herit Sci 10, 53 (2022). https://doi.org/10.1186/s40494-022-00688-4",
-        "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 214 - 216." ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9A929> ;
-    skos:closeMatch <https://cameo.mfa.org/wiki/Cellulose_nitrate> ;
-    skos:definition "synthetisches Polymer, das durch die Veresterung von Cellulose mit Nitriersäure (Gemisch aus konzentrierter Salpeter- und konzentrierter Schwefelsäure) hergestellt wird. Vermischt mit Weichmachernund gelöst in Lösemitteln wird es seit dem späten 19. Jh. als eines der ersten synthetischen Harze im Bereich der Konservierung/Restaurierung verwendet. Cellulosenitrat zeichnet sich durch eine Reihe von Eigenschaften aus, die es als beliebtes Konservierungsmittel erscheinen lässte (z.B. schnelle Trocknung, einfache Handhabung, gute Haftung auf verschiedenen Materialien, hohe Glasübergangstemperatur, etc). Allerdings neigt es zum vergilben und zeigte bei durchgeführten Studien (Oddy-Test) korrosiove Wirkung auf Metalle."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A5D2D1>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C65F47>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FD8AG2>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GC6999> ;
-    skos:notation "GC7998" ;
-    skos:prefLabel "Cellulosenitrat"@de,
-        "cellulose nitrate"@en .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GD5FG6> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 99/100, 130, 146.",
@@ -9329,6 +9360,19 @@
     skos:prefLabel "gewebt"@de,
         "weave"@en .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC991>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D9A6FA>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F58F6D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FD2B2B> ;
+    skos:notation "CB7747" ;
+    skos:prefLabel "Bildgebende Dokumentation"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8> .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:altLabel "Behandlung"@de,
@@ -9488,6 +9532,23 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/GG6A8B> ;
     skos:notation "GC2F6A" ;
     skos:prefLabel "vergoldet"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GC7998> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    dcterms:source "Steger, S., Eggert, G., Horn, W. et al. Are cellulose ethers safe for the conservation of artwork? New insights in their VOC activity by means of Oddy testing. Herit Sci 10, 53 (2022). https://doi.org/10.1186/s40494-022-00688-4",
+        "Velson Horie, Materials for Conservation. Organic consolidants, adhesives and coatings (London 2010)2, S. 214 - 216." ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9A929> ;
+    skos:closeMatch <https://cameo.mfa.org/wiki/Cellulose_nitrate> ;
+    skos:definition "synthetisches Polymer, das durch die Veresterung von Cellulose mit Nitriersäure (Gemisch aus konzentrierter Salpeter- und konzentrierter Schwefelsäure) hergestellt wird. Vermischt mit Weichmachernund gelöst in Lösemitteln wird es seit dem späten 19. Jh. als eines der ersten synthetischen Harze im Bereich der Konservierung/Restaurierung verwendet. Cellulosenitrat zeichnet sich durch eine Reihe von Eigenschaften aus, die es als beliebtes Konservierungsmittel erscheinen lässte (z.B. schnelle Trocknung, einfache Handhabung, gute Haftung auf verschiedenen Materialien, hohe Glasübergangstemperatur, etc). Allerdings neigt es zum vergilben und zeigte bei durchgeführten Studien (Oddy-Test) korrosiove Wirkung auf Metalle."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A5D2D1>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AFC5B7>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C65F47>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FD8AG2>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GC6999> ;
+    skos:notation "GC7998" ;
+    skos:prefLabel "Cellulosenitrat"@de,
+        "cellulose nitrate"@en .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GD9CA3> a skos:Concept ;
     dcterms:creator "Waldemar Muskalla/ Kristina Fischer/ LEIZA" ;
@@ -10371,33 +10432,6 @@
     skos:notation "CB9GD3" ;
     skos:prefLabel "Kohäsionsverlust"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    rdfs:seeAlso "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.64." ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C93638> ;
-    skos:definition "Oberbegriff für nicht-elektronische Geräte, die durch rein menschliche Kraft funktionieren."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/A48485>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/A7B5AA>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/AA4F93>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/ACB46G>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B28GC7>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CC2BBB>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CG825A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D11BD4>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D1A63D>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D1C67A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D84847>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F18C56>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F19194>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F71C33>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F91CBB>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G33846> ;
-    skos:notation "D941BB" ;
-    skos:prefLabel "manuelle Werkzeuge"@de .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 216/217.",
@@ -10428,6 +10462,36 @@
     skos:notation "GFD582" ;
     skos:prefLabel "Acrylharz"@de,
         "acrylic resin"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    rdfs:seeAlso "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.64." ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C93638> ;
+    skos:definition "Oberbegriff für nicht-elektronische Geräte, die durch rein menschliche Kraft funktionieren."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A48485>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A54C7A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A7B5AA>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AA4F93>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/ACB46G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B28GC7>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C85F3B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CA9A7F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CC2BBB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CG825A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D11BD4>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D1A63D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D1C67A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D84847>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F18C56>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F19194>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F71C33>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F91CBB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G33846> ;
+    skos:notation "D941BB" ;
+    skos:prefLabel "manuelle Werkzeuge"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A15F83> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;

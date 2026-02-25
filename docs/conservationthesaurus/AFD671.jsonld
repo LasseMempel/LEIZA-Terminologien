@@ -30,6 +30,12 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G5G1DC",
+      "prefLabel": {
+        "de": "Ölfarbe"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DBAD15",
       "prefLabel": {
         "de": "Schlagmetall"
@@ -46,12 +52,6 @@
       "prefLabel": {
         "de": "Pigment",
         "en": "pigment"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G5G1DC",
-      "prefLabel": {
-        "de": "Ölfarbe"
       }
     }
   ],

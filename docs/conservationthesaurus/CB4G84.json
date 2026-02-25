@@ -17,6 +17,13 @@
       "prefLabel": {
         "de": "Mikrokristallines Wachs"
       }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F777B3",
+      "prefLabel": {
+        "de": "Bienenwachs",
+        "en": "bees wax"
+      }
     }
   ],
   "broader": {

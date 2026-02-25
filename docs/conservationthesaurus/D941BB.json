@@ -12,6 +12,12 @@
   ],
   "narrower": [
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A54C7A",
+      "prefLabel": {
+        "de": "Silberputztuch"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A7B5AA",
       "prefLabel": {
         "de": "Groom/Stick®"
@@ -34,6 +40,18 @@
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A48485",
       "prefLabel": {
         "de": "Draht"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C85F3B",
+      "prefLabel": {
+        "de": "Kunststoffhammer"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA9A7F",
+      "prefLabel": {
+        "de": "Acrylglaspunzen"
       }
     },
     {

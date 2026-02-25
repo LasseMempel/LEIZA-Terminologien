@@ -45,15 +45,15 @@
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85",
-      "prefLabel": {
-        "de": "Zustandsfoto"
-      }
-    },
-    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
       "prefLabel": {
         "de": "Bildgebende Dokumentation"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85",
+      "prefLabel": {
+        "de": "Zustandsfoto"
       }
     },
     {
