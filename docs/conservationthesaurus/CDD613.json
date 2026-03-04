@@ -48,6 +48,13 @@
   },
   "related": [
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A",
+      "prefLabel": {
+        "de": "Bürste",
+        "en": "brush"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CC2BBB",
       "prefLabel": {
         "de": "Pinsel"
@@ -58,13 +65,6 @@
       "prefLabel": {
         "de": "Schwamm",
         "en": "sponge"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A",
-      "prefLabel": {
-        "de": "Bürste",
-        "en": "brush"
       }
     },
     {

@@ -37,9 +37,16 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A",
+      "prefLabel": {
+        "de": "Bürste",
+        "en": "brush"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A48485",
       "prefLabel": {
-        "de": "Draht"
+        "de": "Draht (Werkzeug)"
       }
     },
     {
@@ -105,13 +112,6 @@
       "prefLabel": {
         "de": "Stachelschweinborste",
         "en": "porcupine bristle"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A",
-      "prefLabel": {
-        "de": "Bürste",
-        "en": "brush"
       }
     },
     {

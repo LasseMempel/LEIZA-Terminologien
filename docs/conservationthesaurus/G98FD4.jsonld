@@ -34,13 +34,6 @@
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
-      "prefLabel": {
-        "de": "Festigung",
-        "en": "consolidation"
-      }
-    },
-    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F72743",
       "prefLabel": {
         "de": "Plasmabehandlung"
@@ -50,6 +43,13 @@
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GF41DG",
       "prefLabel": {
         "de": "Schutzüberzug aufbringen"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
+      "prefLabel": {
+        "de": "Festigung",
+        "en": "consolidation"
       }
     }
   ],

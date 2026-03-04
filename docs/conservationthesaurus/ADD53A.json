@@ -20,25 +20,25 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B71F12",
       "prefLabel": {
-        "de": "Walnussschalenganulat"
+        "de": "Walnussschalenganulat  (Strahlmittel)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D8C292",
       "prefLabel": {
-        "de": "Kunststoffgranulat"
+        "de": "Kunststoffgranulat  (Strahlmittel)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF9GCF",
       "prefLabel": {
-        "de": "Edelkorund"
+        "de": "Edelkorund (Strahlmittel)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB66B",
       "prefLabel": {
-        "de": "Glasperlen"
+        "de": "Glasperlen (Strahlmittel)"
       }
     }
   ],

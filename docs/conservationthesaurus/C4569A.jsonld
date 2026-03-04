@@ -8,6 +8,20 @@
   "notation": [
     "C4569A"
   ],
+  "narrower": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9272C",
+      "prefLabel": {
+        "de": "Stahldrahtbürste"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC9868",
+      "prefLabel": {
+        "de": "Messingbürste"
+      }
+    }
+  ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB",
     "prefLabel": {

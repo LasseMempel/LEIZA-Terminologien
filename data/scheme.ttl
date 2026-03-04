@@ -135,6 +135,14 @@
     skos:notation "A24C1D" ;
     skos:prefLabel "temporäre Fixierung"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A253DB> a skos:Concept ;
+    skos:altLabel "Richtung (Restaurierungsmethode)"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FDD491> ;
+    skos:definition "Methode, bei der die Oberfläche eines Objekts mechanisch oder modellierend bearbeitet wird, um Unebenheiten zu reduzieren und ein gleichmäßiges Erscheinungsbild wiederherzustellen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "A253DB" ;
+    skos:prefLabel "Richten (Restaurierungsmethode)"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A255FD> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:altLabel "Wassergesättigt"@de ;
@@ -869,6 +877,12 @@
     skos:notation "AAG733" ;
     skos:prefLabel "Sapropelit"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AB778F> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D9G356> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "AB778F" ;
+    skos:prefLabel "Draht (Restaurierungsmaterial)"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/AB9B7A> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FA68C2> ;
@@ -1283,8 +1297,8 @@
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 112/113.",
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 99." ;
-    skos:altLabel "temporäre Festigung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> ;
+    skos:altLabel "temporäre Verstärkung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C> ;
     skos:definition "zeitlich begrenzte, nicht dauerhafte Unterstützung eines fragilen Materials, beispielsweise für einen Transport oder als Erstversorgungsmaßnahme."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "B26D29" ;
@@ -1627,7 +1641,7 @@
     skos:definition "organisches Strahlmittel aus den Schalen der Walnuss. Trotz der geringen Härte besitzen Walsnussschalen eine hohe Festigkeit, wodurch sie besonders gut für einen leichten und schonenden Reinigungseffekt empfindlicher Materialien geeignet sind."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "B71F12" ;
-    skos:prefLabel "Walnussschalenganulat"@de .
+    skos:prefLabel "Walnussschalenganulat  (Strahlmittel)"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/B7395G> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -1730,6 +1744,14 @@
     skos:notation "B8B69D" ;
     skos:prefLabel "Bernstein"@de,
         "amber"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B9272C> a skos:Concept ;
+    skos:altLabel "Stahlbürstchen"@de,
+        "Stahldrahtbürstchen"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "B9272C" ;
+    skos:prefLabel "Stahldrahtbürste"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/B93452> a skos:Concept ;
     dcterms:creator "Markus Wittköpper, LEIZA" ;
@@ -2016,6 +2038,15 @@
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "BBF7BG" ;
     skos:prefLabel "Demineralisiertes Wasser"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BC15BD> a skos:Concept ;
+    skos:altLabel "Hinterfütterung"@de,
+        "Verfüllung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C> ;
+    skos:definition "Methode, bei der ein stützendes Material gezielt in oder unter gelockerte, unterminierte oder hohl liegende Bereiche eines Objektes eingebracht wird, um deren mecchanische Stabilität zu sichern oder zu erhöhen, ohne die äußere Erscheinung wesentlich zu verändern."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "BC15BD" ;
+    skos:prefLabel "Unterfütterung"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/BC1DCG> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -3995,7 +4026,7 @@
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/ADD53A> ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "D8C292" ;
-    skos:prefLabel "Kunststoffgranulat"@de .
+    skos:prefLabel "Kunststoffgranulat  (Strahlmittel)"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/D8CBG2> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -4444,7 +4475,7 @@
     skos:definition "synthetisch hergestelltes Feinstrahlmittel aus nahezu reinem Aluminiumoxyd. Korund weist eine hohe Härte und spitz bizarre Kornform auf, wodurch es in der Verwendung als Strahlmittel eine stark abrasive Wirkung zeigt. In der Restaurierung wird Korund vor allem für die Freilegung von metallischen Korrosionsprodukten verwendet."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "DF9GCF" ;
-    skos:prefLabel "Edelkorund"@de .
+    skos:prefLabel "Edelkorund (Strahlmittel)"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/DFAFB5> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -5287,6 +5318,12 @@
     skos:notation "FC926G" ;
     skos:prefLabel "gesandet"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FC9868> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "FC9868" ;
+    skos:prefLabel "Messingbürste"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/FCA7DA> a skos:Concept ;
     dcterms:creator "Markus Wittköpper, LEIZA" ;
     dcterms:source "Rudi Wagenführ, HOLZatlas (München 2000), S. 381/382." ;
@@ -5517,7 +5554,7 @@
     skos:definition "feinkugeliges Feinstrahlmittel aus Natronglas. Im Vergleich zu Edelkorund zeigen Glasperlen als Strahlmittel eine weniger stark abrasive Wirkung und sind daher besonders für die Reinigung/Freilegung empfindlicherer Oberflächen geeignet. Durch die kugelige Form wird zudem eine \"Hämmerwirkung\" erzielt, die zur leichten Verdichtung der Oberflächen bei metallischen Objekten führt."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "FGB66B" ;
-    skos:prefLabel "Glasperlen"@de .
+    skos:prefLabel "Glasperlen (Strahlmittel)"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/FGBB54> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -5758,6 +5795,14 @@
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "G3GB79" ;
     skos:prefLabel "hartgelötet"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G41443> a skos:Concept ;
+    skos:altLabel "Glättung (Restaurierungsmethode)"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FDD491> ;
+    skos:definition "Methode, bei der ein verformtes Objekt mechanisch in seine ursprüngliche Form gebracht wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "G41443" ;
+    skos:prefLabel "Glätten (Restaurierungsmethode)"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/G41GC6> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -6835,14 +6880,6 @@
     skos:notation "C17A3G" ;
     skos:prefLabel "Badtränkung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:notation "C4569A" ;
-    skos:prefLabel "Bürste"@de,
-        "brush"@en .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C871CB> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
@@ -7333,26 +7370,6 @@
     skos:prefLabel "Keramik"@de,
         "ceramic"@en .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> ;
-    skos:closeMatch <https://vocab.getty.edu/aat/300223809> ;
-    skos:definition "Methode, bei der ein Objekt durch die mechanische Befestigung auf einem festen Material unterstützt/ stabilisiert wird."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C7427F>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D2D988> ;
-    skos:notation "A31C7C" ;
-    skos:prefLabel "Verstärkung"@de,
-        "reinforcement"@en ;
-    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F89522>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A41BGB> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:altLabel "Eindrückung"@de ;
@@ -7397,7 +7414,7 @@
     skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/BA264C>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/F85978> ;
     skos:notation "A48485" ;
-    skos:prefLabel "Draht"@de .
+    skos:prefLabel "Draht (Werkzeug)"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A9A54D> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -7766,6 +7783,30 @@
     skos:prefLabel "pyrogene Kieselsäure"@de,
         "fumed silica"@en .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    dcterms:source "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung.",
+        "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 100/101." ;
+    skos:altLabel "Festigen"@de,
+        "Sicherung"@de,
+        "innere Stabilisierung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
+    skos:closeMatch <https://vocab.getty.edu/aat/300053768>,
+        <https://vocab.getty.edu/aat/300219960> ;
+    skos:definition "Methode, bei der geschwächtes oder poröses Originalmaterial durch Eindringen oder Anlagerung eines Festigungsmaterials in seiner inneren Kohäsion stabilisiert wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A> ;
+    skos:notation "DA9CGG" ;
+    skos:prefLabel "Festigung"@de,
+        "consolidation"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F89522>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/DFG875> a skos:Concept ;
     dcterms:creator "Markus Wittköpper, LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9A858> ;
@@ -7995,6 +8036,15 @@
     skos:prefLabel "Gold"@de,
         "gold"@en ;
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/DC5B2B> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FDD491> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C79561> ;
+    skos:definition "Methode, bei der die Form eines Objekts an eine angenommene ursprüngliche Gestaltung angepasst wird, um Stabilität, Funktion oder ästhetische Integrität wiederherzustellen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A253DB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G41443> ;
+    skos:notation "FDD491" ;
+    skos:prefLabel "Formkorrektur"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/G34563> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -8278,6 +8328,16 @@
     skos:notation "BGC8F3" ;
     skos:prefLabel "Guss in verlorener Form"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B9272C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FC9868> ;
+    skos:notation "C4569A" ;
+    skos:prefLabel "Bürste"@de,
+        "brush"@en .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 105.",
@@ -8455,31 +8515,6 @@
         "stone"@en ;
     skos:relatedMatch <https://vocab.getty.edu/aat/300011176> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    dcterms:source "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung.",
-        "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 100/101." ;
-    skos:altLabel "Festigen"@de,
-        "Sicherung"@de,
-        "Stabilisierung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
-    skos:closeMatch <https://vocab.getty.edu/aat/300053768>,
-        <https://vocab.getty.edu/aat/300219960> ;
-    skos:definition "Methode zur Verbesserung des inneren Zusammenhaltes oder der mechanischen Stabiliät eines Objektes durch Zuführung eines stabilisierenden Materials"@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B26D29> ;
-    skos:notation "DA9CGG" ;
-    skos:prefLabel "Festigung"@de,
-        "consolidation"@en ;
-    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F89522>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:altLabel "Beschädigungsart"@de,
@@ -8652,6 +8687,29 @@
     skos:prefLabel "Klebung"@de,
         "bonding"@en ;
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/B7B8B6> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    skos:altLabel "äußere Stabilisierung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> ;
+    skos:closeMatch <https://vocab.getty.edu/aat/300223809> ;
+    skos:definition "Methode, bei der ein Objekt durch das Hinzufügen oder Anbringen stützender Materialien oder Strukturelemente mechanisch stabilisiert wird, um seine Tragfähigkeit zu sichern oder zu erhöhen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B26D29>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BC15BD>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C7427F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D2D988> ;
+    skos:notation "A31C7C" ;
+    skos:prefLabel "Verstärkung"@de,
+        "reinforcement"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F89522>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A4G8FA> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -9306,27 +9364,6 @@
     skos:relatedMatch <https://d-nb.info/gnd/4124842-9>,
         <https://www.wikidata.org/wiki/Q190873> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C79561> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    dcterms:source "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung.",
-        "ICOM-CC, Terminology to characterize the conservation of tangible cultural heritage, (2008). https://www.icom-cc.org/en/terminology-for-conservation (aufgerufen am 31.10.2024)" ;
-    skos:altLabel "Restaurierungsmaßnahme"@de,
-        "Restaurierungsmethode"@de,
-        "restoration method"@en ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB> ;
-    skos:closeMatch <https://vocab.getty.edu/aat/300053742> ;
-    skos:definition "Sammelbegriff für Methoden des aktiven Eingriff an einem stabilen oder stabilisierten Objekt, der darauf abzielen, dessen Verständnis, Wahrnehmung und/oder Wertschätzung, zu verbessern, unter Beachtung dessen ursprünglicher Bedeutung sowie der vorgefundenen oder vermuteten Techniken und Materialien"@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D865C3>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2> ;
-    skos:notation "C79561" ;
-    skos:prefLabel "Restaurierung"@de,
-        "restoration"@en ;
-    skos:relatedMatch <https://www.wikidata.org/wiki/Q217102> .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C9D991> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung." ;
@@ -9658,6 +9695,28 @@
     skos:notation "C4C6B6" ;
     skos:prefLabel "Schleifkörper"@de ;
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C79561> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    dcterms:source "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung.",
+        "ICOM-CC, Terminology to characterize the conservation of tangible cultural heritage, (2008). https://www.icom-cc.org/en/terminology-for-conservation (aufgerufen am 31.10.2024)" ;
+    skos:altLabel "Restaurierungsmaßnahme"@de,
+        "Restaurierungsmethode"@de,
+        "restoration method"@en ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB> ;
+    skos:closeMatch <https://vocab.getty.edu/aat/300053742> ;
+    skos:definition "Sammelbegriff für Methoden des aktiven Eingriff an einem stabilen oder stabilisierten Objekt, der darauf abzielen, dessen Verständnis, Wahrnehmung und/oder Wertschätzung, zu verbessern, unter Beachtung dessen ursprünglicher Bedeutung sowie der vorgefundenen oder vermuteten Techniken und Materialien"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D865C3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FDD491>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2> ;
+    skos:notation "C79561" ;
+    skos:prefLabel "Restaurierung"@de,
+        "restoration"@en ;
+    skos:relatedMatch <https://www.wikidata.org/wiki/Q217102> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -10210,24 +10269,6 @@
         "Condition assessment"@en ;
     skos:topConceptOf <https://www.w3id.org/archlink/terms/conservationthesaurus> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/D9G356> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1> ;
-    skos:definition "strukturierender Oberbegriff für Materialien, die in der Restaurierung hauptsächlich für das Verpacken und die Lagerung sowie für die Abstützung bzw. den Trägerbau von Objekten verwendet werden."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A33F4B>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/BB8D78>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CBBF13>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CCB66C>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DAG754>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DD3858>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F432G4>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F8ADGD>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F91427>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GDB246> ;
-    skos:notation "D9G356" ;
-    skos:prefLabel "[Stütz- und Verpackungsmaterial]"@de .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Matthias Epple, Biomaterialien und Biomineralisation (Wiesbaden 2003), S. 106/107." ;
@@ -10247,6 +10288,25 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/F9D2A8> ;
     skos:notation "F1BA31" ;
     skos:prefLabel "Biomineral"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D9G356> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1> ;
+    skos:definition "strukturierender Oberbegriff für Materialien, die in der Restaurierung hauptsächlich für das Verpacken und die Lagerung sowie für die Abstützung bzw. den Trägerbau von Objekten verwendet werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A33F4B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AB778F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BB8D78>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CBBF13>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CCB66C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DAG754>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DD3858>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F432G4>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F8ADGD>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F91427>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GDB246> ;
+    skos:notation "D9G356" ;
+    skos:prefLabel "[Stütz- und Verpackungsmaterial]"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;

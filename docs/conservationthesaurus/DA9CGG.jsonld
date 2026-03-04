@@ -9,33 +9,27 @@
     "de": [
       "Festigen",
       "Sicherung",
-      "Stabilisierung"
+      "innere Stabilisierung"
     ]
   },
   "definition": {
-    "de": "Methode zur Verbesserung des inneren Zusammenhaltes oder der mechanischen Stabiliät eines Objektes durch Zuführung eines stabilisierenden Materials"
+    "de": "Methode, bei der geschwächtes oder poröses Originalmaterial durch Eindringen oder Anlagerung eines Festigungsmaterials in seiner inneren Kohäsion stabilisiert wird."
   },
   "notation": [
     "DA9CGG"
   ],
   "narrower": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B26D29",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
-        "de": "temporäre Stabilisierung"
+        "de": "Verstärkung",
+        "en": "reinforcement"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A",
       "prefLabel": {
         "de": "Tränkung"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
-      "prefLabel": {
-        "de": "Verstärkung",
-        "en": "reinforcement"
       }
     }
   ],

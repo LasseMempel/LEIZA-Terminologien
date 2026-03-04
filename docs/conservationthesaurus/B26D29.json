@@ -6,7 +6,7 @@
   },
   "altLabel": {
     "de": [
-      "temporäre Festigung"
+      "temporäre Verstärkung"
     ]
   },
   "definition": {
@@ -16,10 +16,10 @@
     "B26D29"
   ],
   "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
     "prefLabel": {
-      "de": "Festigung",
-      "en": "consolidation"
+      "de": "Verstärkung",
+      "en": "reinforcement"
     }
   },
   "related": [

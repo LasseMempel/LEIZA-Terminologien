@@ -30,6 +30,12 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AB778F",
+      "prefLabel": {
+        "de": "Draht (Restaurierungsmaterial)"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F8ADGD",
       "prefLabel": {
         "de": "Folie"

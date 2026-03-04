@@ -5,13 +5,30 @@
     "de": "Verstärkung",
     "en": "reinforcement"
   },
+  "altLabel": {
+    "de": [
+      "äußere Stabilisierung"
+    ]
+  },
   "definition": {
-    "de": "Methode, bei der ein Objekt durch die mechanische Befestigung auf einem festen Material unterstützt/ stabilisiert wird."
+    "de": "Methode, bei der ein Objekt durch das Hinzufügen oder Anbringen stützender Materialien oder Strukturelemente mechanisch stabilisiert wird, um seine Tragfähigkeit zu sichern oder zu erhöhen."
   },
   "notation": [
     "A31C7C"
   ],
   "narrower": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B26D29",
+      "prefLabel": {
+        "de": "temporäre Stabilisierung"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC15BD",
+      "prefLabel": {
+        "de": "Unterfütterung"
+      }
+    },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C7427F",
       "prefLabel": {

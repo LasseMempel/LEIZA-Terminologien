@@ -30,10 +30,10 @@
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
-        "de": "Festigung",
-        "en": "consolidation"
+        "de": "Verstärkung",
+        "en": "reinforcement"
       }
     },
     {
@@ -43,10 +43,10 @@
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
       "prefLabel": {
-        "de": "Verstärkung",
-        "en": "reinforcement"
+        "de": "Festigung",
+        "en": "consolidation"
       }
     }
   ],

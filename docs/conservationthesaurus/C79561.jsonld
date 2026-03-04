@@ -36,6 +36,12 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FDD491",
+      "prefLabel": {
+        "de": "Formkorrektur"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619",
       "prefLabel": {
         "de": "Ergänzung (Restaurierungsmethode)",
