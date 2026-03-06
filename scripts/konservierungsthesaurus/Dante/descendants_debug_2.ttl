@@ -1,0 +1,116 @@
+
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+
+<http://creativecommons.org/licenses/by/4.0/> skos:notation "CC BY 4.0" ;
+  skos:prefLabel "Creative Commons Attribution 4.0"@en, "Creative Commons Namensnennung 4.0"@de .
+
+<http://uri.gbv.de/terminology/leiza_archlink/> a <http://w3id.org/nkos/nkostype#list>, skos:ConceptScheme ;
+  skos:notation "leiza_archlink" ;
+  skos:prefLabel "LEIZA - archlink"@de, "LEIZA - archlink"@en ;
+  dct:license <http://creativecommons.org/licenses/by/4.0/> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95> a skos:Concept ;
+  skos:notation "A18D95" ;
+  skos:prefLabel "Konservierungskonzept"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AC1786> a skos:Concept ;
+  skos:notation "AC1786" ;
+  skos:prefLabel "Zeitplanung"@de ;
+  dct:created "2026-01-30"^^<xsd:date> ;
+  dct:issued "2026-01-30"^^<xsd:date> ;
+  dct:modified "2026-02-04"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+  skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95> ;
+  skos:broaderTransitive <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95> ;
+  skos:definition "Einschätzung und Planung des für das Erreichen des Konservierungs-/Restaurierungsziels benötigten Zeitrahmens"@de, [
+    skosxl:literalForm "Einschätzung und Planung des für das Erreichen des Konservierungs-/Restaurierungsziels benötigten Zeitrahmens"@de
+  ] ;
+  skos:inScheme <http://uri.gbv.de/terminology/leiza_archlink/> ;
+  skosxl:prefLabel [
+    a skosxl:Label ;
+    skosxl:literalForm "Zeitplanung"@de ;
+    wikibase:rank "preferred"
+  ] .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CDD6B5> a skos:Concept ;
+  skos:notation "CDD6B5" ;
+  skos:prefLabel "Risikobeurteilung"@de, "risk assessment"@en ;
+  dct:created "2026-01-30"^^<xsd:date> ;
+  dct:issued "2026-01-30"^^<xsd:date> ;
+  dct:modified "2026-02-04"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+  skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95> ;
+  skos:broaderTransitive <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95> ;
+  skos:definition "Systematischer Prozess zur Bestimmung, Bewertung und Priorisierung potenzieller Gefahren, die das Objekt bzw. dessen Werkstoff beeinträchtigen könnten. Durch die Risikobeurteilung können die benötigten Maßnahmen zur Minimierung der festgestellten Risiken gezielt gewählt werden, um einen langfristigen Erhalt des Objektes zu gewährleisten."@de, [
+    skosxl:literalForm "Systematischer Prozess zur Bestimmung, Bewertung und Priorisierung potenzieller Gefahren, die das Objekt bzw. dessen Werkstoff beeinträchtigen könnten. Durch die Risikobeurteilung können die benötigten Maßnahmen zur Minimierung der festgestellten Risiken gezielt gewählt werden, um einen langfristigen Erhalt des Objektes zu gewährleisten."@de
+  ] ;
+  skos:inScheme <http://uri.gbv.de/terminology/leiza_archlink/> ;
+  skosxl:prefLabel [
+    a skosxl:Label ;
+    skosxl:literalForm "Risikobeurteilung"@de ;
+    wikibase:rank "preferred"
+  ], [
+    a skosxl:Label ;
+    skosxl:literalForm "risk assessment"@en ;
+    wikibase:rank "normal"
+  ] .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DA4158> a skos:Concept ;
+  skos:notation "DA4158" ;
+  skos:prefLabel "Konservierungs-/Restaurierungsziel"@de ;
+  dct:created "2026-01-30"^^<xsd:date> ;
+  dct:issued "2026-01-30"^^<xsd:date> ;
+  dct:modified "2026-02-04"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+  skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95> ;
+  skos:broaderTransitive <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95> ;
+  skos:definition "Festlegung der spezifischen Ziele und Absichten, die bei der Restaurierung oder Konservierung eines Objektes verfolgt werden. Diese Ziele können vielfältig sein und umfassen typischerweise den Erhalt des Objekts in seiner gegenwärtigen Form, die Wiederherstellung seiner ästhetischen Erscheinung, die Sicherung seiner strukturellen Integrität sowie die Erhaltung seiner historischen oder kulturellen Bedeutung für zukünftige Generationen."@de, [
+    skosxl:literalForm "Festlegung der spezifischen Ziele und Absichten, die bei der Restaurierung oder Konservierung eines Objektes verfolgt werden. Diese Ziele können vielfältig sein und umfassen typischerweise den Erhalt des Objekts in seiner gegenwärtigen Form, die Wiederherstellung seiner ästhetischen Erscheinung, die Sicherung seiner strukturellen Integrität sowie die Erhaltung seiner historischen oder kulturellen Bedeutung für zukünftige Generationen."@de
+  ] ;
+  skos:inScheme <http://uri.gbv.de/terminology/leiza_archlink/> ;
+  skosxl:prefLabel [
+    a skosxl:Label ;
+    skosxl:literalForm "Konservierungs-/Restaurierungsziel"@de ;
+    wikibase:rank "preferred"
+  ] .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GDF23F> a skos:Concept ;
+  skos:notation "GDF23F" ;
+  skos:prefLabel "Methodik"@de, "methodology"@en ;
+  dct:created "2026-01-30"^^<xsd:date> ;
+  dct:issued "2026-01-30"^^<xsd:date> ;
+  dct:modified "2026-02-04"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+  skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95> ;
+  skos:broaderTransitive <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95> ;
+  skos:definition "Planung der strukturierten Vorgehensweise bei der praktischen Durchführung zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel. Basierend auf den Erkenntnissen der Zustandserfassung sowie unter Berücksichtigung der Risikobeurteilung und der Zeitplanung werden die geeignetsten Methoden und Techniken, die benötigten Materialien sowie Werkzeuge festgelegt."@de, [
+    skosxl:literalForm "Planung der strukturierten Vorgehensweise bei der praktischen Durchführung zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel. Basierend auf den Erkenntnissen der Zustandserfassung sowie unter Berücksichtigung der Risikobeurteilung und der Zeitplanung werden die geeignetsten Methoden und Techniken, die benötigten Materialien sowie Werkzeuge festgelegt."@de
+  ] ;
+  skos:inScheme <http://uri.gbv.de/terminology/leiza_archlink/> ;
+  skosxl:prefLabel [
+    a skosxl:Label ;
+    skosxl:literalForm "Methodik"@de ;
+    wikibase:rank "preferred"
+  ], [
+    a skosxl:Label ;
+    skosxl:literalForm "methodology"@en ;
+    wikibase:rank "normal"
+  ] ;
+  skos:altLabel "Vorgehensweise"@de ;
+  skosxl:altLabel [
+    a skosxl:Label ;
+    skosxl:literalForm "Vorgehensweise"@de ;
+    wikibase:rank "preferred"
+  ] .

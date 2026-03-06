@@ -1,0 +1,117 @@
+
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+
+<http://creativecommons.org/licenses/by/4.0/> skos:notation "CC BY 4.0" ;
+  skos:prefLabel "Creative Commons Attribution 4.0"@en, "Creative Commons Namensnennung 4.0"@de .
+
+<http://uri.gbv.de/terminology/leiza_archlink/> a <http://w3id.org/nkos/nkostype#list>, skos:ConceptScheme ;
+  skos:notation "leiza_archlink" ;
+  skos:prefLabel "LEIZA - archlink"@de, "LEIZA - archlink"@en ;
+  dct:license <http://creativecommons.org/licenses/by/4.0/> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BGG5A6> a skos:Concept ;
+  skos:notation "BGG5A6" ;
+  skos:prefLabel "Transportbedingungen"@de ;
+  dct:created "2026-01-30"^^<xsd:date> ;
+  dct:issued "2026-01-30"^^<xsd:date> ;
+  dct:modified "2026-02-04"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+  skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:broaderTransitive <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:inScheme <http://uri.gbv.de/terminology/leiza_archlink/> ;
+  skosxl:prefLabel [
+    a skosxl:Label ;
+    wikibase:rank "preferred" ;
+    skosxl:literalForm "Transportbedingungen"@de
+  ] .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> a skos:Concept ;
+  skos:notation "DAB4B7" ;
+  skos:prefLabel "Handlungsempfehlung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CD5C3F> a skos:Concept ;
+  skos:notation "CD5C3F" ;
+  skos:prefLabel "Gesundheitsschutz"@de ;
+  dct:created "2026-01-30"^^<xsd:date> ;
+  dct:issued "2026-01-30"^^<xsd:date> ;
+  dct:modified "2026-02-04"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+  skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:broaderTransitive <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:inScheme <http://uri.gbv.de/terminology/leiza_archlink/> ;
+  skosxl:prefLabel [
+    a skosxl:Label ;
+    wikibase:rank "preferred" ;
+    skosxl:literalForm "Gesundheitsschutz"@de
+  ] .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D1CFD5> a skos:Concept ;
+  skos:notation "D1CFD5" ;
+  skos:prefLabel "Lagerungsbedingungen"@de ;
+  dct:created "2026-01-30"^^<xsd:date> ;
+  dct:issued "2026-01-30"^^<xsd:date> ;
+  dct:modified "2026-02-04"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+  skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:broaderTransitive <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:inScheme <http://uri.gbv.de/terminology/leiza_archlink/> ;
+  skosxl:prefLabel [
+    a skosxl:Label ;
+    wikibase:rank "preferred" ;
+    skosxl:literalForm "Lagerungsbedingungen"@de
+  ] .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D6A11G> a skos:Concept ;
+  skos:notation "D6A11G" ;
+  skos:prefLabel "Ausstellungsparameter"@de ;
+  dct:created "2026-01-30"^^<xsd:date> ;
+  dct:issued "2026-01-30"^^<xsd:date> ;
+  dct:modified "2026-02-04"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+  skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:broaderTransitive <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:inScheme <http://uri.gbv.de/terminology/leiza_archlink/> ;
+  skosxl:prefLabel [
+    a skosxl:Label ;
+    wikibase:rank "preferred" ;
+    skosxl:literalForm "Ausstellungsparameter"@de
+  ] .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D949G6> a skos:Concept ;
+  skos:notation "D949G6" ;
+  skos:prefLabel "Handhabung"@de ;
+  dct:created "2026-01-30"^^<xsd:date> ;
+  dct:issued "2026-01-30"^^<xsd:date> ;
+  dct:modified "2026-02-04"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+  skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:broaderTransitive <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> ;
+  skos:inScheme <http://uri.gbv.de/terminology/leiza_archlink/> ;
+  skosxl:prefLabel [
+    a skosxl:Label ;
+    wikibase:rank "preferred" ;
+    skosxl:literalForm "Handhabung"@de
+  ] ;
+  skos:altLabel "Händelbarkeit"@de ;
+  skos:definition "empfohlene Umgangs- und Vorgehensweise bei der Bewegung und/oder dem Aufnehmen des Objektes oder dessen Trägersystems, zur Minimierung des Risikos einer ungewollten Beschädigung oder Zerstörung"@de, [
+    skosxl:literalForm "empfohlene Umgangs- und Vorgehensweise bei der Bewegung und/oder dem Aufnehmen des Objektes oder dessen Trägersystems, zur Minimierung des Risikos einer ungewollten Beschädigung oder Zerstörung"@de
+  ] ;
+  skosxl:altLabel [
+    a skosxl:Label ;
+    wikibase:rank "preferred" ;
+    skosxl:literalForm "Händelbarkeit"@de
+  ] .
