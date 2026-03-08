@@ -1,0 +1,816 @@
+[
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "created": "2026-01-30",
+    "issued": "2026-01-30",
+    "modified": "2026-02-04",
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#relatedMatch"
+        ],
+        "from": {
+          "memberSet": [
+            {
+              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95"
+            }
+          ]
+        },
+        "to": {
+          "memberSet": [
+            {
+              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
+            }
+          ]
+        }
+      }
+    ],
+    "notation": [
+      "A18D95"
+    ],
+    "prefLabel": {
+      "de": "Konservierungskonzept"
+    },
+    "altLabel": {
+      "de": [
+        "Konservierungsplanung",
+        "Restaurierungsplanung",
+        "Restaurierungskonzept"
+      ]
+    },
+    "definition": {
+      "de": [
+        "Festlegung des anzustrebenden Konservierungs-/Restaurierungsziels, Planung/Entwicklung der methodischen Vorgehensweise zur Erhaltung und Wiederherstellung des Objektes, Zeitplanung und Risikoabsch\u00e4tzung, basierend auf den Ergebnissen der Zustandserfassung."
+      ]
+    },
+    "topConceptOf": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ]
+      }
+    ],
+    "broader": [],
+    "ancestors": [],
+    "narrower": [
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA4158",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Konservierungs-/Restaurierungsziel"
+        },
+        "notation": [
+          "DA4158"
+        ]
+      },
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/AC1786",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Zeitplanung"
+        },
+        "notation": [
+          "AC1786"
+        ]
+      },
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD6B5",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Risikobeurteilung",
+          "en": "risk assessment"
+        },
+        "notation": [
+          "CDD6B5"
+        ]
+      },
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF23F",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Methodik",
+          "en": "methodology"
+        },
+        "notation": [
+          "GDF23F"
+        ]
+      }
+    ],
+    "source": [
+      {
+        "prefLabel": {
+          "und": "Reiner Geschke, Keramikrestaurierung (Berlin 2019),S. 54/55."
+        }
+      },
+      {
+        "prefLabel": {
+          "und": "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut f\u00fcr Normung."
+        }
+      }
+    ],
+    "qualifiedLiterals": {
+      "http://www.w3.org/2004/02/skos/core#notation": [
+        {
+          "literal": {
+            "string": "A18D95",
+            "language": "und"
+          },
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label",
+            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+          ],
+          "rank": "normal"
+        }
+      ],
+      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "Konservierungskonzept",
+            "language": "de"
+          },
+          "rank": "preferred"
+        }
+      ],
+      "http://www.w3.org/2008/05/skos-xl#altLabel": [
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "Konservierungsplanung",
+            "language": "de"
+          },
+          "rank": "preferred"
+        },
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "Restaurierungsplanung",
+            "language": "de"
+          },
+          "rank": "normal"
+        },
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "Restaurierungskonzept",
+            "language": "de"
+          },
+          "rank": "normal"
+        }
+      ],
+      "http://www.w3.org/2004/02/skos/core#definition": [
+        {
+          "literal": {
+            "string": "Festlegung des anzustrebenden Konservierungs-/Restaurierungsziels, Planung/Entwicklung der methodischen Vorgehensweise zur Erhaltung und Wiederherstellung des Objektes, Zeitplanung und Risikoabsch\u00e4tzung, basierend auf den Ergebnissen der Zustandserfassung.",
+            "language": "de"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA4158",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "created": "2026-01-30",
+    "issued": "2026-01-30",
+    "modified": "2026-02-04",
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "notation": [
+      "DA4158"
+    ],
+    "prefLabel": {
+      "de": "Konservierungs-/Restaurierungsziel"
+    },
+    "definition": {
+      "de": [
+        "Festlegung der spezifischen Ziele und Absichten, die bei der Restaurierung oder Konservierung eines Objektes verfolgt werden. Diese Ziele k\u00f6nnen vielf\u00e4ltig sein und umfassen typischerweise den Erhalt des Objekts in seiner gegenw\u00e4rtigen Form, die Wiederherstellung seiner \u00e4sthetischen Erscheinung, die Sicherung seiner strukturellen Integrit\u00e4t sowie die Erhaltung seiner historischen oder kulturellen Bedeutung f\u00fcr zuk\u00fcnftige Generationen."
+      ]
+    },
+    "broader": [
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Konservierungskonzept"
+        },
+        "notation": [
+          "A18D95"
+        ]
+      }
+    ],
+    "ancestors": [
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Konservierungskonzept"
+        },
+        "notation": [
+          "A18D95"
+        ]
+      }
+    ],
+    "narrower": [],
+    "source": [
+      {
+        "prefLabel": {
+          "und": "Reiner Geschke, Keramikrestaurierung (Berlin 2019),S. 54/55."
+        }
+      }
+    ],
+    "qualifiedLiterals": {
+      "http://www.w3.org/2004/02/skos/core#notation": [
+        {
+          "literal": {
+            "string": "DA4158",
+            "language": "und"
+          },
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label",
+            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+          ],
+          "rank": "normal"
+        }
+      ],
+      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "Konservierungs-/Restaurierungsziel",
+            "language": "de"
+          },
+          "rank": "preferred"
+        }
+      ],
+      "http://www.w3.org/2004/02/skos/core#definition": [
+        {
+          "literal": {
+            "string": "Festlegung der spezifischen Ziele und Absichten, die bei der Restaurierung oder Konservierung eines Objektes verfolgt werden. Diese Ziele k\u00f6nnen vielf\u00e4ltig sein und umfassen typischerweise den Erhalt des Objekts in seiner gegenw\u00e4rtigen Form, die Wiederherstellung seiner \u00e4sthetischen Erscheinung, die Sicherung seiner strukturellen Integrit\u00e4t sowie die Erhaltung seiner historischen oder kulturellen Bedeutung f\u00fcr zuk\u00fcnftige Generationen.",
+            "language": "de"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/AC1786",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "created": "2026-01-30",
+    "issued": "2026-01-30",
+    "modified": "2026-02-04",
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "notation": [
+      "AC1786"
+    ],
+    "prefLabel": {
+      "de": "Zeitplanung"
+    },
+    "definition": {
+      "de": [
+        "Einsch\u00e4tzung und Planung des f\u00fcr das Erreichen des Konservierungs-/Restaurierungsziels ben\u00f6tigten Zeitrahmens"
+      ]
+    },
+    "broader": [
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Konservierungskonzept"
+        },
+        "notation": [
+          "A18D95"
+        ]
+      }
+    ],
+    "ancestors": [
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Konservierungskonzept"
+        },
+        "notation": [
+          "A18D95"
+        ]
+      }
+    ],
+    "narrower": [],
+    "qualifiedLiterals": {
+      "http://www.w3.org/2004/02/skos/core#notation": [
+        {
+          "literal": {
+            "string": "AC1786",
+            "language": "und"
+          },
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label",
+            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+          ],
+          "rank": "normal"
+        }
+      ],
+      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "Zeitplanung",
+            "language": "de"
+          },
+          "rank": "preferred"
+        }
+      ],
+      "http://www.w3.org/2004/02/skos/core#definition": [
+        {
+          "literal": {
+            "string": "Einsch\u00e4tzung und Planung des f\u00fcr das Erreichen des Konservierungs-/Restaurierungsziels ben\u00f6tigten Zeitrahmens",
+            "language": "de"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD6B5",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "created": "2026-01-30",
+    "issued": "2026-01-30",
+    "modified": "2026-02-04",
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#relatedMatch"
+        ],
+        "from": {
+          "memberSet": [
+            {
+              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD6B5"
+            }
+          ]
+        },
+        "to": {
+          "memberSet": [
+            {
+              "uri": "https://vocab.getty.edu/aat/300263660"
+            }
+          ]
+        }
+      }
+    ],
+    "notation": [
+      "CDD6B5"
+    ],
+    "prefLabel": {
+      "de": "Risikobeurteilung",
+      "en": "risk assessment"
+    },
+    "definition": {
+      "de": [
+        "Systematischer Prozess zur Bestimmung, Bewertung und Priorisierung potenzieller Gefahren, die das Objekt bzw. dessen Werkstoff beeintr\u00e4chtigen k\u00f6nnten. Durch die Risikobeurteilung k\u00f6nnen die ben\u00f6tigten Ma\u00dfnahmen zur Minimierung der festgestellten Risiken gezielt gew\u00e4hlt werden, um einen langfristigen Erhalt des Objektes zu gew\u00e4hrleisten."
+      ]
+    },
+    "broader": [
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Konservierungskonzept"
+        },
+        "notation": [
+          "A18D95"
+        ]
+      }
+    ],
+    "ancestors": [
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Konservierungskonzept"
+        },
+        "notation": [
+          "A18D95"
+        ]
+      }
+    ],
+    "narrower": [],
+    "source": [
+      {
+        "prefLabel": {
+          "und": "Reiner Geschke, Keramikrestaurierung (Berlin 2019),S. 54/55."
+        }
+      }
+    ],
+    "qualifiedLiterals": {
+      "http://www.w3.org/2004/02/skos/core#notation": [
+        {
+          "literal": {
+            "string": "CDD6B5",
+            "language": "und"
+          },
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label",
+            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+          ],
+          "rank": "normal"
+        }
+      ],
+      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "Risikobeurteilung",
+            "language": "de"
+          },
+          "rank": "preferred"
+        },
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "risk assessment",
+            "language": "en"
+          },
+          "rank": "normal"
+        }
+      ],
+      "http://www.w3.org/2004/02/skos/core#definition": [
+        {
+          "literal": {
+            "string": "Systematischer Prozess zur Bestimmung, Bewertung und Priorisierung potenzieller Gefahren, die das Objekt bzw. dessen Werkstoff beeintr\u00e4chtigen k\u00f6nnten. Durch die Risikobeurteilung k\u00f6nnen die ben\u00f6tigten Ma\u00dfnahmen zur Minimierung der festgestellten Risiken gezielt gew\u00e4hlt werden, um einen langfristigen Erhalt des Objektes zu gew\u00e4hrleisten.",
+            "language": "de"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF23F",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "created": "2026-01-30",
+    "issued": "2026-01-30",
+    "modified": "2026-02-04",
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#relatedMatch"
+        ],
+        "from": {
+          "memberSet": [
+            {
+              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF23F"
+            }
+          ]
+        },
+        "to": {
+          "memberSet": [
+            {
+              "uri": "https://vocab.getty.edu/aat/300054676"
+            }
+          ]
+        }
+      }
+    ],
+    "notation": [
+      "GDF23F"
+    ],
+    "prefLabel": {
+      "de": "Methodik",
+      "en": "methodology"
+    },
+    "altLabel": {
+      "de": [
+        "Vorgehensweise"
+      ]
+    },
+    "definition": {
+      "de": [
+        "Planung der strukturierten Vorgehensweise bei der praktischen Durchf\u00fchrung zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel. Basierend auf den Erkenntnissen der Zustandserfassung sowie unter Ber\u00fccksichtigung der Risikobeurteilung und der Zeitplanung werden die geeignetsten Methoden und Techniken, die ben\u00f6tigten Materialien sowie Werkzeuge festgelegt."
+      ]
+    },
+    "broader": [
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Konservierungskonzept"
+        },
+        "notation": [
+          "A18D95"
+        ]
+      }
+    ],
+    "ancestors": [
+      {
+        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "prefLabel": {
+          "de": "Konservierungskonzept"
+        },
+        "notation": [
+          "A18D95"
+        ]
+      }
+    ],
+    "narrower": [],
+    "source": [
+      {
+        "prefLabel": {
+          "und": "Reiner Geschke, Keramikrestaurierung (Berlin 2019),S. 54/55."
+        }
+      }
+    ],
+    "qualifiedLiterals": {
+      "http://www.w3.org/2004/02/skos/core#notation": [
+        {
+          "literal": {
+            "string": "GDF23F",
+            "language": "und"
+          },
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label",
+            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+          ],
+          "rank": "normal"
+        }
+      ],
+      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "Methodik",
+            "language": "de"
+          },
+          "rank": "preferred"
+        },
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "methodology",
+            "language": "en"
+          },
+          "rank": "normal"
+        }
+      ],
+      "http://www.w3.org/2008/05/skos-xl#altLabel": [
+        {
+          "type": [
+            "http://www.w3.org/2008/05/skos-xl#Label"
+          ],
+          "literal": {
+            "string": "Vorgehensweise",
+            "language": "de"
+          },
+          "rank": "preferred"
+        }
+      ],
+      "http://www.w3.org/2004/02/skos/core#definition": [
+        {
+          "literal": {
+            "string": "Planung der strukturierten Vorgehensweise bei der praktischen Durchf\u00fchrung zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel. Basierend auf den Erkenntnissen der Zustandserfassung sowie unter Ber\u00fccksichtigung der Risikobeurteilung und der Zeitplanung werden die geeignetsten Methoden und Techniken, die ben\u00f6tigten Materialien sowie Werkzeuge festgelegt.",
+            "language": "de"
+          }
+        }
+      ]
+    }
+  }
+]

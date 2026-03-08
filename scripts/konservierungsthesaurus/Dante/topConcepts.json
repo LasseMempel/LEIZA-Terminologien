@@ -1,0 +1,308 @@
+[
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "notation": [
+      "C8CG15"
+    ],
+    "prefLabel": {
+      "de": "Dokumentation",
+      "en": "documentation"
+    },
+    "altLabel": {
+      "en": [
+        "report"
+      ]
+    },
+    "definition": {
+      "de": [
+        "Sammelbegriff f\u00fcr Aufzeichnungen gemachter Beobachtungen und Handlungen"
+      ]
+    },
+    "narrower": [
+      null
+    ]
+  },
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "notation": [
+      "DAB4B7"
+    ],
+    "prefLabel": {
+      "de": "Handlungsempfehlung"
+    },
+    "definition": {
+      "de": [
+        "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeintr\u00e4chtigung zu sch\u00fctzen und zu erhalten"
+      ]
+    },
+    "narrower": [
+      null
+    ]
+  },
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "notation": [
+      "A18D95"
+    ],
+    "prefLabel": {
+      "de": "Konservierungskonzept"
+    },
+    "altLabel": {
+      "de": [
+        "Konservierungsplanung",
+        "Restaurierungsplanung",
+        "Restaurierungskonzept"
+      ]
+    },
+    "definition": {
+      "de": [
+        "Festlegung des anzustrebenden Konservierungs-/Restaurierungsziels, Planung/Entwicklung der methodischen Vorgehensweise zur Erhaltung und Wiederherstellung des Objektes, Zeitplanung und Risikoabsch\u00e4tzung, basierend auf den Ergebnissen der Zustandserfassung."
+      ]
+    },
+    "narrower": [
+      null
+    ]
+  },
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "notation": [
+      "CFGDA3"
+    ],
+    "prefLabel": {
+      "de": "Ma\u00dfnahme"
+    },
+    "altLabel": {
+      "de": [
+        "durchgef\u00fchrte Ma\u00dfnahme",
+        "Eingriff",
+        "Behandlung"
+      ]
+    },
+    "definition": {
+      "de": [
+        "Ausf\u00fchrung der im Restaurierungskonzept geplanten Vorgehensweisen zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel"
+      ]
+    },
+    "narrower": [
+      null
+    ]
+  },
+  {
+    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "inScheme": [
+      {
+        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+        "prefLabel": {
+          "de": "LEIZA - archlink",
+          "en": "LEIZA - archlink"
+        },
+        "type": [
+          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+          "http://w3id.org/nkos/nkostype#list"
+        ],
+        "notation": [
+          "leiza_archlink"
+        ],
+        "license": [
+          {
+            "uri": "http://creativecommons.org/licenses/by/4.0/",
+            "notation": [
+              "CC BY 4.0"
+            ],
+            "prefLabel": {
+              "de": "Creative Commons Namensnennung 4.0",
+              "en": "Creative Commons Attribution 4.0"
+            }
+          }
+        ]
+      }
+    ],
+    "publisher": [
+      {
+        "prefLabel": {
+          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+        }
+      }
+    ],
+    "notation": [
+      "C4BCF8"
+    ],
+    "prefLabel": {
+      "de": "Zustandserfassung",
+      "en": "Condition assessment"
+    },
+    "altLabel": {
+      "de": [
+        "Zustandserhebung"
+      ]
+    },
+    "definition": {
+      "de": [
+        "methodische Untersuchung zur Ermittlung und Einsch\u00e4tzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt"
+      ]
+    },
+    "narrower": [
+      null
+    ]
+  }
+]
