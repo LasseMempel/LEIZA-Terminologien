@@ -3,7 +3,7 @@ import json
 import os
 
 if not os.path.exists("scheme.json"):
-    schemeJSON = requests.get("https://api.dante.gbv.de/voc/leiza_archlink")
+    schemeJSON = requests.get("https://api.dante.gbv.de/voc/leiza_archlink?properties=*")
     with open("scheme.json", "w") as f:
         json.dump(schemeJSON.json(), f, indent=2)
 with open("scheme.json", "r") as f:
@@ -16,23 +16,28 @@ if not os.path.exists("topConcepts.json"):
 with open("topConcepts.json", "r") as f:
     conceptsJSON = json.load(f)
 
-def crawlConcept(uri, conceptArray):
+def crawlConcept(uri, conceptArray, i):
+    print(f"  → Processing concept {i}: {uri}")
     conceptTree = requests.get(f"https://api.dante.gbv.de/data?uri={uri}&properties=*")
     concept = conceptTree.json()[0]
     conceptArray.append(concept)
     for narrower in (concept.get("narrower") or []):
-        crawlConcept(narrower["uri"], conceptArray)
-    return conceptArray
+        conceptArray, i = crawlConcept(narrower["uri"], conceptArray, i)
+    return conceptArray, i+1
 
 # Crawl and save each top concept tree individually
-for i, topConcept in enumerate(conceptsJSON):
+
+for topConcept in conceptsJSON:
     topConceptUri = topConcept["uri"]
+    print("/n")
+    print(f"\nProcessing top concept: {topConceptUri}")
     concept_id = topConceptUri.split("/")[-1]
     filename = f"{concept_id}.json"
 
     if not os.path.exists(filename):
         print(f"Crawling tree of {topConceptUri}")
-        conceptArray = crawlConcept(topConceptUri, [])
+        i = 1
+        conceptArray = crawlConcept(topConceptUri, [], i)
         with open(filename, "w") as f:
             json.dump(conceptArray, f, indent=2)
         print(f"  → Saved {len(conceptArray)} concepts to {filename}")

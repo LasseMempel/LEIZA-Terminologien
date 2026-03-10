@@ -1,765 +1,768 @@
 [
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
-          {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
-            ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
-          }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
-        ],
-        "from": {
-          "memberSet": [
+  [
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
             {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576"
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
             }
           ]
         }
-      }
-    ],
-    "notation": [
-      "DAB4B7"
-    ],
-    "prefLabel": {
-      "de": "Handlungsempfehlung"
-    },
-    "definition": {
-      "de": [
-        "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeintr\u00e4chtigung zu sch\u00fctzen und zu erhalten"
-      ]
-    },
-    "topConceptOf": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ]
-      }
-    ],
-    "broader": [],
-    "ancestors": [],
-    "narrower": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1CFD5",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Lagerungsbedingungen"
-        },
-        "notation": [
-          "D1CFD5"
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576"
+              }
+            ]
+          }
+        }
+      ],
+      "notation": [
+        "DAB4B7"
+      ],
+      "prefLabel": {
+        "de": "Handlungsempfehlung"
+      },
+      "definition": {
+        "de": [
+          "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeintr\u00e4chtigung zu sch\u00fctzen und zu erhalten"
         ]
       },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D949G6",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Handhabung"
+      "topConceptOf": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ]
+        }
+      ],
+      "broader": [],
+      "ancestors": [],
+      "narrower": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1CFD5",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Lagerungsbedingungen"
+          },
+          "notation": [
+            "D1CFD5"
+          ]
         },
-        "notation": [
-          "D949G6"
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D949G6",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Handhabung"
+          },
+          "notation": [
+            "D949G6"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGG5A6",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Transportbedingungen"
+          },
+          "notation": [
+            "BGG5A6"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6A11G",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Ausstellungsparameter"
+          },
+          "notation": [
+            "D6A11G"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD5C3F",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Gesundheitsschutz"
+          },
+          "notation": [
+            "CD5C3F"
+          ]
+        }
+      ],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "DAB4B7",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Handlungsempfehlung",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ],
+        "http://www.w3.org/2004/02/skos/core#definition": [
+          {
+            "literal": {
+              "string": "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeintr\u00e4chtigung zu sch\u00fctzen und zu erhalten",
+              "language": "de"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1CFD5",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "notation": [
+        "D1CFD5"
+      ],
+      "prefLabel": {
+        "de": "Lagerungsbedingungen"
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
+          },
+          "notation": [
+            "DAB4B7"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
+          },
+          "notation": [
+            "DAB4B7"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "D1CFD5",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Lagerungsbedingungen",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D949G6",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "notation": [
+        "D949G6"
+      ],
+      "prefLabel": {
+        "de": "Handhabung"
+      },
+      "altLabel": {
+        "de": [
+          "H\u00e4ndelbarkeit"
         ]
       },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGG5A6",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Transportbedingungen"
-        },
-        "notation": [
-          "BGG5A6"
+      "definition": {
+        "de": [
+          "empfohlene Umgangs- und Vorgehensweise bei der Bewegung und/oder dem Aufnehmen des Objektes oder dessen Tr\u00e4gersystems, zur Minimierung des Risikos einer ungewollten Besch\u00e4digung oder Zerst\u00f6rung"
         ]
       },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6A11G",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
+          },
+          "notation": [
+            "DAB4B7"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
+          },
+          "notation": [
+            "DAB4B7"
+          ]
+        }
+      ],
+      "narrower": [],
+      "source": [
+        {
+          "prefLabel": {
+            "und": "DIN EN 16141:2013-01, Erhaltung des kulturellen Erbes - Richtlinien f\u00fcr den Umgang mit Umwelt- und Umgebungsbedingungen - Schaudepots: Definitionen und Merkmale von Sammlungszentren bestimmt f\u00fcr die Bewahrung und Pflege des kulturellen Erbes; Deutsche Fassung EN 16141:2012, Deutsches Institut f\u00fcr Normung."
+          }
+        }
+      ],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "D949G6",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
         ],
-        "prefLabel": {
-          "de": "Ausstellungsparameter"
-        },
-        "notation": [
-          "D6A11G"
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Handhabung",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#altLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "H\u00e4ndelbarkeit",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ],
+        "http://www.w3.org/2004/02/skos/core#definition": [
+          {
+            "literal": {
+              "string": "empfohlene Umgangs- und Vorgehensweise bei der Bewegung und/oder dem Aufnehmen des Objektes oder dessen Tr\u00e4gersystems, zur Minimierung des Risikos einer ungewollten Besch\u00e4digung oder Zerst\u00f6rung",
+              "language": "de"
+            }
+          }
         ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGG5A6",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "notation": [
+        "BGG5A6"
+      ],
+      "prefLabel": {
+        "de": "Transportbedingungen"
       },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD5C3F",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Gesundheitsschutz"
-        },
-        "notation": [
-          "CD5C3F"
-        ]
-      }
-    ],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
+      "broader": [
         {
-          "literal": {
-            "string": "DAB4B7",
-            "language": "und"
-          },
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
           "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            "http://www.w3.org/2004/02/skos/core#Concept"
           ],
-          "rank": "normal"
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
+          },
+          "notation": [
+            "DAB4B7"
+          ]
         }
       ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+      "ancestors": [
         {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
           "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
+            "http://www.w3.org/2004/02/skos/core#Concept"
           ],
-          "literal": {
-            "string": "Handlungsempfehlung",
-            "language": "de"
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
           },
-          "rank": "preferred"
+          "notation": [
+            "DAB4B7"
+          ]
         }
       ],
-      "http://www.w3.org/2004/02/skos/core#definition": [
-        {
-          "literal": {
-            "string": "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeintr\u00e4chtigung zu sch\u00fctzen und zu erhalten",
-            "language": "de"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1CFD5",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "literal": {
+              "string": "BGG5A6",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "rank": "normal"
           }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "notation": [
-      "D1CFD5"
-    ],
-    "prefLabel": {
-      "de": "Lagerungsbedingungen"
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
         ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "D1CFD5",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Lagerungsbedingungen",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D949G6",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
+            "literal": {
+              "string": "Transportbedingungen",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6A11G",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
             }
-          }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "notation": [
-      "D949G6"
-    ],
-    "prefLabel": {
-      "de": "Handhabung"
-    },
-    "altLabel": {
-      "de": [
-        "H\u00e4ndelbarkeit"
-      ]
-    },
-    "definition": {
-      "de": [
-        "empfohlene Umgangs- und Vorgehensweise bei der Bewegung und/oder dem Aufnehmen des Objektes oder dessen Tr\u00e4gersystems, zur Minimierung des Risikos einer ungewollten Besch\u00e4digung oder Zerst\u00f6rung"
-      ]
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "narrower": [],
-    "source": [
-      {
-        "prefLabel": {
-          "und": "DIN EN 16141:2013-01, Erhaltung des kulturellen Erbes - Richtlinien f\u00fcr den Umgang mit Umwelt- und Umgebungsbedingungen - Schaudepots: Definitionen und Merkmale von Sammlungszentren bestimmt f\u00fcr die Bewahrung und Pflege des kulturellen Erbes; Deutsche Fassung EN 16141:2012, Deutsches Institut f\u00fcr Normung."
-        }
-      }
-    ],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "D949G6",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
+          ]
         }
       ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
         {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Handhabung",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#altLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "H\u00e4ndelbarkeit",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ],
-      "http://www.w3.org/2004/02/skos/core#definition": [
-        {
-          "literal": {
-            "string": "empfohlene Umgangs- und Vorgehensweise bei der Bewegung und/oder dem Aufnehmen des Objektes oder dessen Tr\u00e4gersystems, zur Minimierung des Risikos einer ungewollten Besch\u00e4digung oder Zerst\u00f6rung",
-            "language": "de"
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
           }
         }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGG5A6",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+      ],
+      "notation": [
+        "D6A11G"
+      ],
+      "prefLabel": {
+        "de": "Ausstellungsparameter"
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
+          },
+          "notation": [
+            "DAB4B7"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
+          },
+          "notation": [
+            "DAB4B7"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "literal": {
+              "string": "D6A11G",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "rank": "normal"
           }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "notation": [
-      "BGG5A6"
-    ],
-    "prefLabel": {
-      "de": "Transportbedingungen"
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
         ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "BGG5A6",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Transportbedingungen",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6A11G",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "literal": {
+              "string": "Ausstellungsparameter",
+              "language": "de"
+            },
+            "rank": "preferred"
           }
         ]
       }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "notation": [
-      "D6A11G"
-    ],
-    "prefLabel": {
-      "de": "Ausstellungsparameter"
     },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD5C3F",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
         {
-          "literal": {
-            "string": "D6A11G",
-            "language": "und"
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
           },
           "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
           ],
-          "rank": "normal"
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
         }
       ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
         {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Ausstellungsparameter",
-            "language": "de"
-          },
-          "rank": "preferred"
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
         }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD5C3F",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+      ],
+      "notation": [
+        "CD5C3F"
+      ],
+      "prefLabel": {
+        "de": "Gesundheitsschutz"
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
+          },
+          "notation": [
+            "DAB4B7"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Handlungsempfehlung"
+          },
+          "notation": [
+            "DAB4B7"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "literal": {
+              "string": "CD5C3F",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Gesundheitsschutz",
+              "language": "de"
+            },
+            "rank": "preferred"
           }
         ]
       }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "notation": [
-      "CD5C3F"
-    ],
-    "prefLabel": {
-      "de": "Gesundheitsschutz"
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Handlungsempfehlung"
-        },
-        "notation": [
-          "DAB4B7"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "CD5C3F",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Gesundheitsschutz",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ]
     }
-  }
+  ],
+  7
 ]

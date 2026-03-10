@@ -1,1941 +1,1944 @@
 [
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
+  [
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "notation": [
+        "C8CG15"
+      ],
+      "prefLabel": {
+        "de": "Dokumentation",
+        "en": "documentation"
+      },
+      "altLabel": {
+        "en": [
+          "report"
+        ]
+      },
+      "definition": {
+        "de": [
+          "Sammelbegriff f\u00fcr Aufzeichnungen gemachter Beobachtungen und Handlungen"
+        ]
+      },
+      "topConceptOf": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ]
+        }
+      ],
+      "broader": [],
+      "ancestors": [],
+      "narrower": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8D3G1",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Ma\u00dfnahmenbericht"
+          },
+          "notation": [
+            "A8D3G1"
+          ]
         },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Technologische Auswertung"
+          },
+          "notation": [
+            "G76B7G"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        }
+      ],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "literal": {
+              "string": "C8CG15",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "rank": "normal"
           }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "notation": [
-      "C8CG15"
-    ],
-    "prefLabel": {
-      "de": "Dokumentation",
-      "en": "documentation"
-    },
-    "altLabel": {
-      "en": [
-        "report"
-      ]
-    },
-    "definition": {
-      "de": [
-        "Sammelbegriff f\u00fcr Aufzeichnungen gemachter Beobachtungen und Handlungen"
-      ]
-    },
-    "topConceptOf": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
         ],
-        "notation": [
-          "leiza_archlink"
-        ]
-      }
-    ],
-    "broader": [],
-    "ancestors": [],
-    "narrower": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8D3G1",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Ma\u00dfnahmenbericht"
-        },
-        "notation": [
-          "A8D3G1"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Technologische Auswertung"
-        },
-        "notation": [
-          "G76B7G"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
-        ]
-      }
-    ],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "C8CG15",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Dokumentation",
-            "language": "de"
-          },
-          "rank": "preferred"
-        },
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "documentation",
-            "language": "en"
-          },
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#altLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "report",
-            "language": "en"
-          },
-          "rank": "preferred"
-        }
-      ],
-      "http://www.w3.org/2004/02/skos/core#definition": [
-        {
-          "literal": {
-            "string": "Sammelbegriff f\u00fcr Aufzeichnungen gemachter Beobachtungen und Handlungen",
-            "language": "de"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8D3G1",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
-          }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
-        ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8D3G1"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3"
-            }
-          ]
-        }
-      }
-    ],
-    "notation": [
-      "A8D3G1"
-    ],
-    "prefLabel": {
-      "de": "Ma\u00dfnahmenbericht"
-    },
-    "altLabel": {
-      "de": [
-        "Restaurierungsbericht",
-        "Restaurierungsprotokoll",
-        "Ma\u00dfnahmendokumentation"
-      ]
-    },
-    "definition": {
-      "de": [
-        "schriftliche Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgef\u00fchrten Konservierungs- und Restaurierungsma\u00dfnahmen sowie der dabei verwendeten Materialien und Werkzeuge."
-      ]
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "A8D3G1",
-            "language": "und"
+            "literal": {
+              "string": "Dokumentation",
+              "language": "de"
+            },
+            "rank": "preferred"
           },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Ma\u00dfnahmenbericht",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#altLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Restaurierungsbericht",
-            "language": "de"
-          },
-          "rank": "preferred"
-        },
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Restaurierungsprotokoll",
-            "language": "de"
-          },
-          "rank": "normal"
-        },
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Ma\u00dfnahmendokumentation",
-            "language": "de"
-          },
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2004/02/skos/core#definition": [
-        {
-          "literal": {
-            "string": "schriftliche Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgef\u00fchrten Konservierungs- und Restaurierungsma\u00dfnahmen sowie der dabei verwendeten Materialien und Werkzeuge.",
-            "language": "de"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "literal": {
+              "string": "documentation",
+              "language": "en"
+            },
+            "rank": "normal"
           }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
         ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6BCC2"
-            }
-          ]
-        }
-      }
-    ],
-    "notation": [
-      "G76B7G"
-    ],
-    "prefLabel": {
-      "de": "Technologische Auswertung"
-    },
-    "altLabel": {
-      "de": [
-        "Interpretation"
-      ]
-    },
-    "definition": {
-      "de": [
-        "Dokumentation und Erl\u00e4uterung der festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien."
-      ]
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "G76B7G",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Technologische Auswertung",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#altLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Interpretation",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ],
-      "http://www.w3.org/2004/02/skos/core#definition": [
-        {
-          "literal": {
-            "string": "Dokumentation und Erl\u00e4uterung der festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien.",
-            "language": "de"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+        "http://www.w3.org/2008/05/skos-xl#altLabel": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "literal": {
+              "string": "report",
+              "language": "en"
+            },
+            "rank": "preferred"
           }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#closeMatch"
         ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://vocab.getty.edu/aat/300435425"
-            }
-          ]
-        }
-      },
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#closeMatch"
-        ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://vocab.getty.edu/aat/300266009"
-            }
-          ]
-        }
-      },
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#closeMatch"
-        ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "http://terminology.lido-schema.org/lido00268"
-            }
-          ]
-        }
-      },
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
-        ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
-            }
-          ]
-        }
-      }
-    ],
-    "notation": [
-      "D3AF3A"
-    ],
-    "prefLabel": {
-      "de": "Zustandsdokumentation",
-      "en": "condition documentation"
-    },
-    "altLabel": {
-      "de": [
-        "Zustandsbericht"
-      ],
-      "en": [
-        "condition report"
-      ]
-    },
-    "definition": {
-      "de": [
-        "Aufzeichnungen zur Einsch\u00e4tzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt mit speziellem Zweck"
-      ]
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "narrower": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D7D443",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsbericht"
-        },
-        "notation": [
-          "D7D443"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      }
-    ],
-    "source": [
-      {
-        "prefLabel": {
-          "und": "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut f\u00fcr Normung."
-        }
-      }
-    ],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "D3AF3A",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Zustandsdokumentation",
-            "language": "de"
-          },
-          "rank": "preferred"
-        },
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "condition documentation",
-            "language": "en"
-          },
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#altLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Zustandsbericht",
-            "language": "de"
-          },
-          "rank": "preferred"
-        },
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "condition report",
-            "language": "en"
-          },
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2004/02/skos/core#definition": [
-        {
-          "literal": {
-            "string": "Aufzeichnungen zur Einsch\u00e4tzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt mit speziellem Zweck",
-            "language": "de"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D7D443",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+        "http://www.w3.org/2004/02/skos/core#definition": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
-            ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
+            "literal": {
+              "string": "Sammelbegriff f\u00fcr Aufzeichnungen gemachter Beobachtungen und Handlungen",
+              "language": "de"
             }
           }
         ]
       }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
-        ],
-        "from": {
-          "memberSet": [
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8D3G1",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
             {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D7D443"
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
             }
           ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
-            }
-          ]
         }
-      }
-    ],
-    "notation": [
-      "D7D443"
-    ],
-    "prefLabel": {
-      "de": "Zustandsbericht"
-    },
-    "altLabel": {
-      "de": [
-        "Zustandsreport",
-        "schriftliche Dokumentation"
-      ]
-    },
-    "definition": {
-      "de": [
-        "schriftliche Auflistung der durchgef\u00fchrten Untersuchungsmethoden, inklusive der verwendeten Ger\u00e4tschaften sowie Beschreibung und Interpretation der dabei gemachten Beobachtungen und Ergebnisse hinsichtlich des aktuellen Erhaltungszustandes des Objektes"
-      ]
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8D3G1"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3"
+              }
+            ]
+          }
+        }
+      ],
+      "notation": [
+        "A8D3G1"
+      ],
+      "prefLabel": {
+        "de": "Ma\u00dfnahmenbericht"
+      },
+      "altLabel": {
+        "de": [
+          "Restaurierungsbericht",
+          "Restaurierungsprotokoll",
+          "Ma\u00dfnahmendokumentation"
         ]
       },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
+      "definition": {
+        "de": [
+          "schriftliche Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgef\u00fchrten Konservierungs- und Restaurierungsma\u00dfnahmen sowie der dabei verwendeten Materialien und Werkzeuge."
         ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
+      },
+      "broader": [
         {
-          "literal": {
-            "string": "D7D443",
-            "language": "und"
-          },
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
           "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            "http://www.w3.org/2004/02/skos/core#Concept"
           ],
-          "rank": "normal"
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
         }
       ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+      "ancestors": [
         {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
           "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
+            "http://www.w3.org/2004/02/skos/core#Concept"
           ],
-          "literal": {
-            "string": "Zustandsbericht",
-            "language": "de"
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
           },
-          "rank": "preferred"
+          "notation": [
+            "C8CG15"
+          ]
         }
       ],
-      "http://www.w3.org/2008/05/skos-xl#altLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Zustandsreport",
-            "language": "de"
-          },
-          "rank": "preferred"
-        },
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "schriftliche Dokumentation",
-            "language": "de"
-          },
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2004/02/skos/core#definition": [
-        {
-          "literal": {
-            "string": "schriftliche Auflistung der durchgef\u00fchrten Untersuchungsmethoden, inklusive der verwendeten Ger\u00e4tschaften sowie Beschreibung und Interpretation der dabei gemachten Beobachtungen und Ergebnisse hinsichtlich des aktuellen Erhaltungszustandes des Objektes",
-            "language": "de"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "literal": {
+              "string": "A8D3G1",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "rank": "normal"
           }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
         ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
-            }
-          ]
-        }
-      }
-    ],
-    "notation": [
-      "CB7747"
-    ],
-    "prefLabel": {
-      "de": "Bildgebende Dokumentation"
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "narrower": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD2B2B",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "R\u00f6ntgenbild"
-        },
-        "notation": [
-          "FD2B2B"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsfoto"
-        },
-        "notation": [
-          "C33D85"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/F58F6D",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "3D-Scan"
-        },
-        "notation": [
-          "F58F6D"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9A6FA",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandskartierung"
-        },
-        "notation": [
-          "D9A6FA"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC991",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zeichnung"
-        },
-        "notation": []
-      }
-    ],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "CB7747",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Bildgebende Dokumentation",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD2B2B",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "literal": {
+              "string": "Ma\u00dfnahmenbericht",
+              "language": "de"
+            },
+            "rank": "preferred"
           }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
         ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD2B2B"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
-            }
-          ]
-        }
-      }
-    ],
-    "notation": [
-      "FD2B2B"
-    ],
-    "prefLabel": {
-      "de": "R\u00f6ntgenbild"
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "FD2B2B",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "R\u00f6ntgenbild",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+        "http://www.w3.org/2008/05/skos-xl#altLabel": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
-          }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
-        ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
-            }
-          ]
-        }
-      }
-    ],
-    "notation": [
-      "C33D85"
-    ],
-    "prefLabel": {
-      "de": "Zustandsfoto"
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "C33D85",
-            "language": "und"
+            "literal": {
+              "string": "Restaurierungsbericht",
+              "language": "de"
+            },
+            "rank": "preferred"
           },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Zustandsfoto",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/F58F6D",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
-          }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
-        ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/F58F6D"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
-            }
-          ]
-        }
-      }
-    ],
-    "notation": [
-      "F58F6D"
-    ],
-    "prefLabel": {
-      "de": "3D-Scan"
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "F58F6D",
-            "language": "und"
+            "literal": {
+              "string": "Restaurierungsprotokoll",
+              "language": "de"
+            },
+            "rank": "normal"
           },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "3D-Scan",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9A6FA",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
             ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
-            }
+            "literal": {
+              "string": "Ma\u00dfnahmendokumentation",
+              "language": "de"
+            },
+            "rank": "normal"
           }
-        ]
-      }
-    ],
-    "created": "2026-01-30",
-    "issued": "2026-01-30",
-    "modified": "2026-02-04",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#relatedMatch"
         ],
-        "from": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9A6FA"
-            }
-          ]
-        },
-        "to": {
-          "memberSet": [
-            {
-              "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
-            }
-          ]
-        }
-      }
-    ],
-    "notation": [
-      "D9A6FA"
-    ],
-    "prefLabel": {
-      "de": "Zustandskartierung"
-    },
-    "altLabel": {
-      "de": [
-        "Schadenskartierung"
-      ]
-    },
-    "definition": {
-      "de": [
-        "bildliche Aufzeichnung des Objektes mit gezielter Annotation der beobachteten Befunde (Sch\u00e4den)."
-      ]
-    },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2004/02/skos/core#notation": [
-        {
-          "literal": {
-            "string": "D9A6FA",
-            "language": "und"
-          },
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label",
-            "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
-          ],
-          "rank": "normal"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Zustandskartierung",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ],
-      "http://www.w3.org/2008/05/skos-xl#altLabel": [
-        {
-          "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
-          ],
-          "literal": {
-            "string": "Schadenskartierung",
-            "language": "de"
-          },
-          "rank": "preferred"
-        }
-      ],
-      "http://www.w3.org/2004/02/skos/core#definition": [
-        {
-          "literal": {
-            "string": "bildliche Aufzeichnung des Objektes mit gezielter Annotation der beobachteten Befunde (Sch\u00e4den).",
-            "language": "de"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC991",
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "inScheme": [
-      {
-        "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
-        "prefLabel": {
-          "de": "LEIZA - archlink",
-          "en": "LEIZA - archlink"
-        },
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-          "http://w3id.org/nkos/nkostype#list"
-        ],
-        "notation": [
-          "leiza_archlink"
-        ],
-        "license": [
+        "http://www.w3.org/2004/02/skos/core#definition": [
           {
-            "uri": "http://creativecommons.org/licenses/by/4.0/",
-            "notation": [
-              "CC BY 4.0"
-            ],
-            "prefLabel": {
-              "de": "Creative Commons Namensnennung 4.0",
-              "en": "Creative Commons Attribution 4.0"
+            "literal": {
+              "string": "schriftliche Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgef\u00fchrten Konservierungs- und Restaurierungsma\u00dfnahmen sowie der dabei verwendeten Materialien und Werkzeuge.",
+              "language": "de"
             }
           }
         ]
       }
-    ],
-    "created": "2026-02-25",
-    "issued": "2026-02-25",
-    "modified": "2026-02-25",
-    "publisher": [
-      {
-        "prefLabel": {
-          "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
-        }
-      }
-    ],
-    "prefLabel": {
-      "de": "Zeichnung"
     },
-    "broader": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      }
-    ],
-    "ancestors": [
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Bildgebende Dokumentation"
-        },
-        "notation": [
-          "CB7747"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Zustandsdokumentation",
-          "en": "condition documentation"
-        },
-        "notation": [
-          "D3AF3A"
-        ]
-      },
-      {
-        "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
-        "type": [
-          "http://www.w3.org/2004/02/skos/core#Concept"
-        ],
-        "prefLabel": {
-          "de": "Dokumentation",
-          "en": "documentation"
-        },
-        "notation": [
-          "C8CG15"
-        ]
-      }
-    ],
-    "narrower": [],
-    "qualifiedLiterals": {
-      "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
         {
           "type": [
-            "http://www.w3.org/2008/05/skos-xl#Label"
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
           ],
-          "literal": {
-            "string": "Zeichnung",
-            "language": "de"
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G"
+              }
+            ]
           },
-          "rank": "preferred"
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D6BCC2"
+              }
+            ]
+          }
         }
-      ]
+      ],
+      "notation": [
+        "G76B7G"
+      ],
+      "prefLabel": {
+        "de": "Technologische Auswertung"
+      },
+      "altLabel": {
+        "de": [
+          "Interpretation"
+        ]
+      },
+      "definition": {
+        "de": [
+          "Dokumentation und Erl\u00e4uterung der festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien."
+        ]
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "G76B7G",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Technologische Auswertung",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#altLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Interpretation",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ],
+        "http://www.w3.org/2004/02/skos/core#definition": [
+          {
+            "literal": {
+              "string": "Dokumentation und Erl\u00e4uterung der festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien.",
+              "language": "de"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#closeMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://vocab.getty.edu/aat/300435425"
+              }
+            ]
+          }
+        },
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#closeMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://vocab.getty.edu/aat/300266009"
+              }
+            ]
+          }
+        },
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#closeMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "http://terminology.lido-schema.org/lido00268"
+              }
+            ]
+          }
+        },
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
+              }
+            ]
+          }
+        }
+      ],
+      "notation": [
+        "D3AF3A"
+      ],
+      "prefLabel": {
+        "de": "Zustandsdokumentation",
+        "en": "condition documentation"
+      },
+      "altLabel": {
+        "de": [
+          "Zustandsbericht"
+        ],
+        "en": [
+          "condition report"
+        ]
+      },
+      "definition": {
+        "de": [
+          "Aufzeichnungen zur Einsch\u00e4tzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt mit speziellem Zweck"
+        ]
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D7D443",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsbericht"
+          },
+          "notation": [
+            "D7D443"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        }
+      ],
+      "source": [
+        {
+          "prefLabel": {
+            "und": "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut f\u00fcr Normung."
+          }
+        }
+      ],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "D3AF3A",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Zustandsdokumentation",
+              "language": "de"
+            },
+            "rank": "preferred"
+          },
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "condition documentation",
+              "language": "en"
+            },
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#altLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Zustandsbericht",
+              "language": "de"
+            },
+            "rank": "preferred"
+          },
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "condition report",
+              "language": "en"
+            },
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2004/02/skos/core#definition": [
+          {
+            "literal": {
+              "string": "Aufzeichnungen zur Einsch\u00e4tzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt mit speziellem Zweck",
+              "language": "de"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D7D443",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D7D443"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
+              }
+            ]
+          }
+        }
+      ],
+      "notation": [
+        "D7D443"
+      ],
+      "prefLabel": {
+        "de": "Zustandsbericht"
+      },
+      "altLabel": {
+        "de": [
+          "Zustandsreport",
+          "schriftliche Dokumentation"
+        ]
+      },
+      "definition": {
+        "de": [
+          "schriftliche Auflistung der durchgef\u00fchrten Untersuchungsmethoden, inklusive der verwendeten Ger\u00e4tschaften sowie Beschreibung und Interpretation der dabei gemachten Beobachtungen und Ergebnisse hinsichtlich des aktuellen Erhaltungszustandes des Objektes"
+        ]
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "D7D443",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Zustandsbericht",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#altLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Zustandsreport",
+              "language": "de"
+            },
+            "rank": "preferred"
+          },
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "schriftliche Dokumentation",
+              "language": "de"
+            },
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2004/02/skos/core#definition": [
+          {
+            "literal": {
+              "string": "schriftliche Auflistung der durchgef\u00fchrten Untersuchungsmethoden, inklusive der verwendeten Ger\u00e4tschaften sowie Beschreibung und Interpretation der dabei gemachten Beobachtungen und Ergebnisse hinsichtlich des aktuellen Erhaltungszustandes des Objektes",
+              "language": "de"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
+              }
+            ]
+          }
+        }
+      ],
+      "notation": [
+        "CB7747"
+      ],
+      "prefLabel": {
+        "de": "Bildgebende Dokumentation"
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD2B2B",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "R\u00f6ntgenbild"
+          },
+          "notation": [
+            "FD2B2B"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsfoto"
+          },
+          "notation": [
+            "C33D85"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/F58F6D",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "3D-Scan"
+          },
+          "notation": [
+            "F58F6D"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9A6FA",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandskartierung"
+          },
+          "notation": [
+            "D9A6FA"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC991",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zeichnung"
+          },
+          "notation": []
+        }
+      ],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "CB7747",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Bildgebende Dokumentation",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD2B2B",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD2B2B"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
+              }
+            ]
+          }
+        }
+      ],
+      "notation": [
+        "FD2B2B"
+      ],
+      "prefLabel": {
+        "de": "R\u00f6ntgenbild"
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "FD2B2B",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "R\u00f6ntgenbild",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C33D85"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
+              }
+            ]
+          }
+        }
+      ],
+      "notation": [
+        "C33D85"
+      ],
+      "prefLabel": {
+        "de": "Zustandsfoto"
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "C33D85",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Zustandsfoto",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/F58F6D",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/F58F6D"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
+              }
+            ]
+          }
+        }
+      ],
+      "notation": [
+        "F58F6D"
+      ],
+      "prefLabel": {
+        "de": "3D-Scan"
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "F58F6D",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "3D-Scan",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9A6FA",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-01-30",
+      "issued": "2026-01-30",
+      "modified": "2026-02-04",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "mappings": [
+        {
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#relatedMatch"
+          ],
+          "from": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9A6FA"
+              }
+            ]
+          },
+          "to": {
+            "memberSet": [
+              {
+                "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8"
+              }
+            ]
+          }
+        }
+      ],
+      "notation": [
+        "D9A6FA"
+      ],
+      "prefLabel": {
+        "de": "Zustandskartierung"
+      },
+      "altLabel": {
+        "de": [
+          "Schadenskartierung"
+        ]
+      },
+      "definition": {
+        "de": [
+          "bildliche Aufzeichnung des Objektes mit gezielter Annotation der beobachteten Befunde (Sch\u00e4den)."
+        ]
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2004/02/skos/core#notation": [
+          {
+            "literal": {
+              "string": "D9A6FA",
+              "language": "und"
+            },
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label",
+              "http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166"
+            ],
+            "rank": "normal"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Zustandskartierung",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ],
+        "http://www.w3.org/2008/05/skos-xl#altLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Schadenskartierung",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ],
+        "http://www.w3.org/2004/02/skos/core#definition": [
+          {
+            "literal": {
+              "string": "bildliche Aufzeichnung des Objektes mit gezielter Annotation der beobachteten Befunde (Sch\u00e4den).",
+              "language": "de"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC991",
+      "type": [
+        "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "@context": "https://gbv.github.io/jskos/context.json",
+      "inScheme": [
+        {
+          "uri": "http://uri.gbv.de/terminology/leiza_archlink/",
+          "prefLabel": {
+            "de": "LEIZA - archlink",
+            "en": "LEIZA - archlink"
+          },
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "http://w3id.org/nkos/nkostype#list"
+          ],
+          "notation": [
+            "leiza_archlink"
+          ],
+          "license": [
+            {
+              "uri": "http://creativecommons.org/licenses/by/4.0/",
+              "notation": [
+                "CC BY 4.0"
+              ],
+              "prefLabel": {
+                "de": "Creative Commons Namensnennung 4.0",
+                "en": "Creative Commons Attribution 4.0"
+              }
+            }
+          ]
+        }
+      ],
+      "created": "2026-02-25",
+      "issued": "2026-02-25",
+      "modified": "2026-02-25",
+      "publisher": [
+        {
+          "prefLabel": {
+            "de": "Leibniz-Zentrum f\u00fcr Arch\u00e4ologie (LEIZA)"
+          }
+        }
+      ],
+      "prefLabel": {
+        "de": "Zeichnung"
+      },
+      "broader": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        }
+      ],
+      "ancestors": [
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB7747",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Bildgebende Dokumentation"
+          },
+          "notation": [
+            "CB7747"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Zustandsdokumentation",
+            "en": "condition documentation"
+          },
+          "notation": [
+            "D3AF3A"
+          ]
+        },
+        {
+          "uri": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
+          "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+          ],
+          "prefLabel": {
+            "de": "Dokumentation",
+            "en": "documentation"
+          },
+          "notation": [
+            "C8CG15"
+          ]
+        }
+      ],
+      "narrower": [],
+      "qualifiedLiterals": {
+        "http://www.w3.org/2008/05/skos-xl#prefLabel": [
+          {
+            "type": [
+              "http://www.w3.org/2008/05/skos-xl#Label"
+            ],
+            "literal": {
+              "string": "Zeichnung",
+              "language": "de"
+            },
+            "rank": "preferred"
+          }
+        ]
+      }
     }
-  }
+  ],
+  12
 ]
