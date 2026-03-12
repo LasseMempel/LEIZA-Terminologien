@@ -1,0 +1,13 @@
+Filename                                          Algorithm      Checksum                                                              
+leiza_archlink__Standardexport.jskos.jsonld       sha256         d68526956d2a4f27e633e9d1ae404189d0b573a5df2dd92b0b037b3670daed98      
+leiza_archlink__Standardexport.jskos.jsonld       md5            e68c5d0f74e9451d3bbb39931fd07222                                      
+leiza_archlink__Standardexport.jskos.ndjson       sha256         507451fb1b60792989617c38769977990c6f2281766c783f69d0578f2268a0ce      
+leiza_archlink__Standardexport.jskos.ndjson       md5            325f70d9f1624f4422b5c01628e8c11e                                      
+leiza_archlink__Standardexport.jskos.ndjson.gz    sha256         3cede34df2d36bcc265f6161d85aa94b9600b19664127ee0a87b7c16a2c46443      
+leiza_archlink__Standardexport.jskos.ndjson.gz    md5            4a4cc110ee322b779c3d6fca8af0c248                                      
+leiza_archlink__Standardexport.jskos.jsonld.gz    sha256         eff7f2ec4c4175e342258d779d77252f35d5a528a63e665f8aad66cad616155a      
+leiza_archlink__Standardexport.jskos.jsonld.gz    md5            747cb3b4a8fa1cf94060038afc949321                                      
+leiza_archlink__Standardexport.turtle.ttl         sha256         f2dbfb2c27f670396741724ac806a954f9e2019cfb8f1395793bde2b0b563a48      
+leiza_archlink__Standardexport.turtle.ttl         md5            9dc37583ffa104bfaef0410bdb14a087                                      
+leiza_archlink__Standardexport.turtle.ttl.gz      sha256         ec434ce83bfe34fa7bf0abc04e50f25932db1d5c4c01cf08a824f6ea67317799      
+leiza_archlink__Standardexport.turtle.ttl.gz      md5            a00e9c80373f1f7863b859f712b24b18                                      
