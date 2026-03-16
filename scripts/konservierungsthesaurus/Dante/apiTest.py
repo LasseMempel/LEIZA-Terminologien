@@ -34,7 +34,8 @@ else:
     print("Replacing checksum.txt with newChecksum.txt")
     os.replace("newChecksums.txt", "checksums.txt")
     
-
-#vocabularyFile = requests.get(vocabularyFileLink)
-#vocabularyFileContent = vocabularyFile.text
+vocabularyFile = requests.get(vocabularyFileLink)
+vocabularyFileContent = vocabularyFile.text
+with open("vocabulary.ttl", "w") as file:
+    file.write(vocabularyFileContent)
 
