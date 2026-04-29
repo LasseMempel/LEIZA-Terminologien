@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/239F9C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Brigg",
-    "en": "Brigg"
+    "en": "Brigg",
+    "de": "Brigg"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

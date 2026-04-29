@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/9416B4",
   "type": "Concept",
   "prefLabel": {
+    "en": "Weapons on board",
     "de": "Waffen",
     "dk": "Bevæbning",
-    "en": "Weapons on board",
     "es": "armamento",
     "gr": "Μεταφερόμενος Οπλισμός",
     "it": "Armi a bordo",
@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/15",
     "prefLabel": {
-      "de": "[Kriegsführung]",
-      "en": "[warfare]"
+      "en": "[warfare]",
+      "de": "[Kriegsführung]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/F0F917",
   "type": "Concept",
   "prefLabel": {
+    "en": "Futtock",
     "de": "Auflanger",
     "dk": "Oplænger",
-    "en": "Futtock",
     "es": "ligazón",
     "fr": "Allonge",
     "gr": "Μαντάλι, Σκαρμός της Πόστας",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/09DF17",
   "type": "Concept",
   "prefLabel": {
+    "en": "Bottom Plank",
     "de": "Bodenplanke",
     "dk": "Bundplanke",
-    "en": "Bottom Plank",
     "es": "tablazón de la carena",
     "fr": "Bordage De Caràne",
     "gr": "Σανίδα του Πυθμένα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

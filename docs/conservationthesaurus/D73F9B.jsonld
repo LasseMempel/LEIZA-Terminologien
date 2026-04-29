@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D73F9B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Leder",
-    "en": "leather"
+    "en": "leather",
+    "de": "Leder"
   },
   "definition": {
     "de": "Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut. In der Antike und im Mittelalter wurde Leder vor allem für Schuhe, Kleidung und Behältnisse verwendet."
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757",
     "prefLabel": {
-      "de": "Tierhaut",
-      "en": "animal skin"
+      "en": "animal skin",
+      "de": "Tierhaut"
     }
   },
   "closeMatch": [

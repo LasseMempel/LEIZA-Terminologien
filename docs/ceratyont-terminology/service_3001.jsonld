@@ -1,0 +1,372 @@
+{
+  "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/service_3001",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Service I"
+  },
+  "definition": {
+    "en": "Samian Ware tableware service: Service I."
+  },
+  "note": {
+    "en": [
+      "display color: red"
+    ]
+  },
+  "scopeNote": {
+    "en": [
+      "Use to group Potforms that form a matching set of tableware items (plates, cups, bowls) from the same production tradition."
+    ]
+  },
+  "related": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_310",
+      "prefLabel": {
+        "en": "Consp. 10.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_311",
+      "prefLabel": {
+        "en": "Consp. 10.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_312",
+      "prefLabel": {
+        "en": "Consp. 10.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_313",
+      "prefLabel": {
+        "en": "Consp. 11.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_314",
+      "prefLabel": {
+        "en": "Consp. 12.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_315",
+      "prefLabel": {
+        "en": "Consp. 12.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_316",
+      "prefLabel": {
+        "en": "Consp. 12.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_317",
+      "prefLabel": {
+        "en": "Consp. 12.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_319",
+      "prefLabel": {
+        "en": "Consp. 13.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_320",
+      "prefLabel": {
+        "en": "Consp. 13.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_321",
+      "prefLabel": {
+        "en": "Consp. 13.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_322",
+      "prefLabel": {
+        "en": "Consp. 14.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_323",
+      "prefLabel": {
+        "en": "Consp. 14.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_324",
+      "prefLabel": {
+        "en": "Consp. 14.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_325",
+      "prefLabel": {
+        "en": "Consp. 14.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_326",
+      "prefLabel": {
+        "en": "Consp. 15.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_327",
+      "prefLabel": {
+        "en": "Consp. 15.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_562",
+      "prefLabel": {
+        "en": "Consp. 10"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_563",
+      "prefLabel": {
+        "en": "Consp. 11"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_565",
+      "prefLabel": {
+        "en": "Consp. 12"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_566",
+      "prefLabel": {
+        "en": "Consp. 13"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_567",
+      "prefLabel": {
+        "en": "Consp. 14"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_568",
+      "prefLabel": {
+        "en": "Consp. 15"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_824",
+      "prefLabel": {
+        "en": "Haltern 1a"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_829",
+      "prefLabel": {
+        "en": "Haltern 7a"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_844",
+      "prefLabel": {
+        "en": "Haltern 18"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_318",
+      "prefLabel": {
+        "en": "Consp. 12.5"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/scheme",
+      "title": {
+        "en": "CeraTyOnt Terminology"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/scheme"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
+      "@container": "@set"
+    }
+  }
+}

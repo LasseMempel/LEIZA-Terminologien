@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/4EC602",
   "type": "Concept",
   "prefLabel": {
-    "de": "North Ferriby",
-    "en": "North Ferriby"
+    "en": "North Ferriby",
+    "de": "North Ferriby"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

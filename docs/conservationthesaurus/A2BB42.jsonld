@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2BB42",
   "type": "Concept",
   "prefLabel": {
-    "de": "klimatisierte Individualverpackung",
-    "en": "climate-controlled individual packaging"
+    "en": "climate-controlled individual packaging",
+    "de": "klimatisierte Individualverpackung"
   },
   "altLabel": {
     "de": [
@@ -20,8 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8ABBA",
     "prefLabel": {
-      "de": "klimatisierte Lagerung",
-      "en": "climate-controlled storage"
+      "en": "climate-controlled storage",
+      "de": "klimatisierte Lagerung"
     }
   },
   "inScheme": [

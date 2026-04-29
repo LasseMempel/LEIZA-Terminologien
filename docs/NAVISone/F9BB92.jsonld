@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/F9BB92",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rope",
     "de": "Tau",
     "dk": "Tov, Reb",
-    "en": "Rope",
     "es": "cabo",
     "fr": "Cordage",
     "gr": "Σχοινί",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/14",
     "prefLabel": {
-      "de": "[Handhabung]",
-      "en": "[handling]"
+      "en": "[handling]",
+      "de": "[Handhabung]"
     }
   },
   "inScheme": [

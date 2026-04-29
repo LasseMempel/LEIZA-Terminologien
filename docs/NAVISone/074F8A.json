@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/074F8A",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rigging (Standing)",
     "de": "Gut (Stehend)",
     "dk": "Rig (Stående)",
-    "en": "Rigging (Standing)",
     "es": "jarcías vivas o de labor",
     "fr": "Greement (Dormant)",
     "gr": "Μη σταθερός Εξαρτισμός",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

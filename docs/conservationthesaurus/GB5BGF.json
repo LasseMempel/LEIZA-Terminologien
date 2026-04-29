@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF",
   "type": "Concept",
   "prefLabel": {
-    "de": "Buntmetall",
-    "en": "nonferrous metal"
+    "en": "nonferrous metal",
+    "de": "Buntmetall"
   },
   "definition": {
     "de": "Sammelbegriff für farbige Metalle, außer Eisen und Edelmetalle. Sie zeichnen sich durch ihre Farbvielfalt aus und wurden bereits seit der frühsten Menschheitsgeschichte für ihre spezifischen Eigenschaften wie Härte, Korrosionsbeständigkeit und elektrische Leitfähigkeit geschätzt."
@@ -15,37 +15,37 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B28FA6",
       "prefLabel": {
-        "de": "Kupfer",
-        "en": "copper"
+        "en": "copper",
+        "de": "Kupfer"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G8AG1C",
       "prefLabel": {
-        "de": "Zink",
-        "en": "zinc"
+        "en": "zinc",
+        "de": "Zink"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G992B6",
       "prefLabel": {
-        "de": "Blei",
-        "en": "lead"
+        "en": "lead",
+        "de": "Blei"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G78BD6",
       "prefLabel": {
-        "de": "Zinn",
-        "en": "tin"
+        "en": "tin",
+        "de": "Zinn"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566",
     "prefLabel": {
-      "de": "Unedelmetall",
-      "en": "base metal"
+      "en": "base metal",
+      "de": "Unedelmetall"
     }
   },
   "related": [

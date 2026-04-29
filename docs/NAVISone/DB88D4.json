@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/DB88D4",
   "type": "Concept",
   "prefLabel": {
+    "en": "Shield",
     "de": "Schild",
     "dk": "Skjold",
-    "en": "Shield",
     "es": "escudo",
     "gr": "Ασπίδα",
     "it": "Scudo",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/15",
     "prefLabel": {
-      "de": "[Kriegsführung]",
-      "en": "[warfare]"
+      "en": "[warfare]",
+      "de": "[Kriegsführung]"
     }
   },
   "inScheme": [

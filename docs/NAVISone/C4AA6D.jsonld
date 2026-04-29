@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/C4AA6D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Blockade",
-    "en": "blockage"
+    "en": "blockage",
+    "de": "Blockade"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/1",
     "prefLabel": {
-      "de": "[Schiffsfunktion]",
-      "en": "[ship function]"
+      "en": "[ship function]",
+      "de": "[Schiffsfunktion]"
     }
   },
   "inScheme": [

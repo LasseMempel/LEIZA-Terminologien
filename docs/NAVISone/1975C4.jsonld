@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1975C4",
   "type": "Concept",
   "prefLabel": {
+    "en": "Wheel",
     "de": "Rad",
     "dk": "Hjul",
-    "en": "Wheel",
     "es": "rueda",
     "fr": "xxxWheel",
     "gr": "Τροχός",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/14",
     "prefLabel": {
-      "de": "[Handhabung]",
-      "en": "[handling]"
+      "en": "[handling]",
+      "de": "[Handhabung]"
     }
   },
   "inScheme": [

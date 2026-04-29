@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/BE91AE",
   "type": "Concept",
   "prefLabel": {
+    "en": "Upper Ram",
     "de": "Obersporn",
     "dk": "øvre Ramstævn",
-    "en": "Upper Ram",
     "es": "espolón superior",
     "gr": "Υπερκείμενο Έμβολο",
     "it": "Rostro superiore",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/15",
     "prefLabel": {
-      "de": "[Kriegsführung]",
-      "en": "[warfare]"
+      "en": "[warfare]",
+      "de": "[Kriegsführung]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/7F16E0",
   "type": "Concept",
   "prefLabel": {
+    "en": "Swim-Head",
     "de": "Kaffe",
     "dk": "Kaff",
-    "en": "Swim-Head",
     "es": "popa / proa a rampa",
     "fr": "Élancement",
     "gr": "Swim-Head",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

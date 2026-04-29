@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F71C33",
   "type": "Concept",
   "prefLabel": {
-    "de": "Skalpell",
-    "en": "scalpel"
+    "en": "scalpel",
+    "de": "Skalpell"
   },
   "notation": [
     "F71C33"

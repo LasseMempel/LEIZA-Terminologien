@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/BCE269",
   "type": "Concept",
   "prefLabel": {
+    "en": "Sheer",
     "de": "Sprung",
     "dk": "Spring",
-    "en": "Sheer",
     "es": "arrufo",
     "fr": "Torture",
     "gr": "Σιμότης, Λουνάδα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

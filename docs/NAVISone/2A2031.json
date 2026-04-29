@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/2A2031",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bolzen (Eisen)",
-    "en": "Bolt (iron)"
+    "en": "Bolt (iron)",
+    "de": "Bolzen (Eisen)"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

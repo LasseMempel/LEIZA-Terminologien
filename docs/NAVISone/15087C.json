@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/15087C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Artillery",
     "de": "Artillerie",
     "dk": "Artelleri",
-    "en": "Artillery",
     "es": "artellería",
     "gr": "Πυροβολικό",
     "it": "Artiglieria",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/15",
     "prefLabel": {
-      "de": "[Kriegsführung]",
-      "en": "[warfare]"
+      "en": "[warfare]",
+      "de": "[Kriegsführung]"
     }
   },
   "inScheme": [

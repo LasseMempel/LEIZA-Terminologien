@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/FBE946",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rudder Pin",
     "de": "Ruderpinne",
     "dk": "Rorpind",
-    "en": "Rudder Pin",
     "es": "caña del timón",
     "gr": "Θαιρός, Αρσενικό Βελόνι",
     "it": "Perno del timone",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/11",
     "prefLabel": {
-      "de": "[Ruderanlage]",
-      "en": "[steering gear]"
+      "en": "[steering gear]",
+      "de": "[Ruderanlage]"
     }
   },
   "inScheme": [

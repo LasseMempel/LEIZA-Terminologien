@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
   "type": "Concept",
   "prefLabel": {
-    "de": "Materialanalyse",
-    "en": "material analysis"
+    "en": "material analysis",
+    "de": "Materialanalyse"
   },
   "definition": {
     "de": "Analyse des Objektswerkstoffes auf spezifische Eigenschaften"
@@ -15,15 +15,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CG676B",
       "prefLabel": {
-        "de": "Analyse der isotopischen Zusammensetzung",
-        "en": "Analysis of isotopic composition"
+        "en": "Analysis of isotopic composition",
+        "de": "Analyse der isotopischen Zusammensetzung"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5BD13",
       "prefLabel": {
-        "de": "Datierung",
-        "en": "dating"
+        "en": "dating",
+        "de": "Datierung"
       }
     },
     {
@@ -41,8 +41,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A946B5",
       "prefLabel": {
-        "de": "chemische Untersuchung",
-        "en": "chemical tests"
+        "en": "chemical tests",
+        "de": "chemische Untersuchung"
       }
     },
     {
@@ -60,23 +60,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCB7A5",
       "prefLabel": {
-        "de": "Röntgenfluoresezenzanalyse",
-        "en": "XRF"
+        "en": "XRF",
+        "de": "Röntgenfluoresezenzanalyse"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G13A7B",
       "prefLabel": {
-        "de": "Strukturanalyse",
-        "en": "structural analysis"
+        "en": "structural analysis",
+        "de": "Strukturanalyse"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D4A13D",
     "prefLabel": {
-      "de": "[Untersuchungsmethode]",
-      "en": "examination method"
+      "en": "examination method",
+      "de": "[Untersuchungsmethode]"
     }
   },
   "inScheme": [

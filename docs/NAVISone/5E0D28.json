@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/5E0D28",
   "type": "Concept",
   "prefLabel": {
+    "en": "Bilge",
     "de": "Kimm (Rund)",
     "dk": "Kiming",
-    "en": "Bilge",
     "es": "pantoque",
     "fr": "Bouchain",
     "gr": "Σεντίνα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

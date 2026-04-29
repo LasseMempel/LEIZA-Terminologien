@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/49AA0C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Scarf",
     "de": "Schäftung",
     "dk": "Lask",
-    "en": "Scarf",
     "es": "escarpe",
     "fr": "Écart",
     "gr": "Παρέλα, Σόκορα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/5ED27C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Towed and paddled",
     "de": "Getreidelt und gepaddelt",
     "dk": "Trukket og padlet",
-    "en": "Towed and paddled",
     "es": "a la sirga y a canalete",
     "fr": "Tiré et à pagayé",
     "gr": "Ρυμουλκούμενο και Κωπήλατο (ταρσοπλοϊα)",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

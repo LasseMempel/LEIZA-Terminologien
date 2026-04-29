@@ -25,16 +25,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A",
       "prefLabel": {
-        "de": "Metall",
         "en": "metal",
+        "de": "Metall",
         "fr": "métal"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341",
       "prefLabel": {
-        "de": "organisches Material",
-        "en": "organic"
+        "en": "organic",
+        "de": "organisches Material"
       }
     }
   ],

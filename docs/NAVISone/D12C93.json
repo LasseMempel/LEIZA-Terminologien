@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D12C93",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast Thwart",
     "de": "Mastducht",
     "dk": "Mastetofte",
-    "en": "Mast Thwart",
     "es": "bancada del palo",
     "fr": "Banc De Mât",
     "gr": "Πάγκος του Άλμπουρου",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

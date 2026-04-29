@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/346DF1",
   "type": "Concept",
   "prefLabel": {
+    "en": "Punted and sailed",
     "de": "Gestakt und gesegelt",
     "dk": "Staget og sejlet",
-    "en": "Punted and sailed",
     "es": "a pértiga y a vela",
     "fr": "À la perche et à voile",
     "gr": "Κίνηση με Κοντάρι και Ιστία",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

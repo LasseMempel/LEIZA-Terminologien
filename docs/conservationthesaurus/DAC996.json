@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schadensphänomen",
-    "en": "Damage type"
+    "en": "Damage type",
+    "de": "Schadensphänomen"
   },
   "altLabel": {
     "de": [
@@ -34,16 +34,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
     "prefLabel": {
-      "de": "[Untersuchungsergebnisse]",
-      "en": "examination results"
+      "en": "examination results",
+      "de": "[Untersuchungsergebnisse]"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG",
       "prefLabel": {
-        "de": "Schadenssursache",
-        "en": "Cause of damage"
+        "en": "Cause of damage",
+        "de": "Schadenssursache"
       }
     },
     {

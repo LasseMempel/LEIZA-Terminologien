@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/705DB7",
   "type": "Concept",
   "prefLabel": {
+    "en": "Towed",
     "de": "Getreidelt",
     "dk": "Trukket",
-    "en": "Towed",
     "es": "a la sirga",
     "fr": "Tiré",
     "gr": "Ρυμουλκούμενο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

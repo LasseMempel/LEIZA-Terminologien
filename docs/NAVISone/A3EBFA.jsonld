@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A3EBFA",
   "type": "Concept",
   "prefLabel": {
+    "en": "Ram",
     "de": "Rammsporn",
     "dk": "Ramstævn",
-    "en": "Ram",
     "es": "espolón",
     "fr": "Éperon",
     "gr": "Έμβολο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/15",
     "prefLabel": {
-      "de": "[Kriegsführung]",
-      "en": "[warfare]"
+      "en": "[warfare]",
+      "de": "[Kriegsführung]"
     }
   },
   "inScheme": [

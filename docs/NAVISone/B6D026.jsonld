@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/B6D026",
   "type": "Concept",
   "prefLabel": {
+    "en": "Forecastle",
     "de": "Vorderkastell",
     "dk": "Forkastel",
-    "en": "Forecastle",
     "es": "castillo de proa",
     "gr": "Πρόστεγον, Καμπούνι",
     "it": "Castello di prua",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/19",
     "prefLabel": {
-      "de": "[Aufbauten]",
-      "en": "[superstructure]"
+      "en": "[superstructure]",
+      "de": "[Aufbauten]"
     }
   },
   "inScheme": [

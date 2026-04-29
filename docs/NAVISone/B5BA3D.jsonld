@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/B5BA3D",
   "type": "Concept",
   "prefLabel": {
+    "en": "Fish well",
     "de": "Bünte",
     "dk": "Dam",
-    "en": "Fish well",
     "es": "bodega de peces",
     "fr": "Cale de poisson",
     "gr": "Ιχθυοδεξαμενή",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

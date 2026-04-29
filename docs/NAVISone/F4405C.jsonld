@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/F4405C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Sail (Square)",
     "de": "Segel (Rah)",
     "dk": "Sejl (Råsejl)",
-    "en": "Sail (Square)",
     "es": "vela cuadra",
     "fr": "Voile Carree",
     "gr": "Πανί (τετράγωνο)",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1C43CA",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast Fish",
     "de": "Mastfisch",
     "dk": "Mastfisk",
-    "en": "Mast Fish",
     "es": "fogonadura del palo",
     "fr": "Fixation du mât",
     "gr": "Ιστοπέδη",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

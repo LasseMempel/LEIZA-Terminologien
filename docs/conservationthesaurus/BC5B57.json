@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Untersuchungsergebnisse]",
-    "en": "examination results"
+    "en": "examination results",
+    "de": "[Untersuchungsergebnisse]"
   },
   "altLabel": {
     "de": [
@@ -20,15 +20,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG",
       "prefLabel": {
-        "de": "Schadenssursache",
-        "en": "Cause of damage"
+        "en": "Cause of damage",
+        "de": "Schadenssursache"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
       "prefLabel": {
-        "de": "Zustandsbeschreibung",
-        "en": "physical condition"
+        "en": "physical condition",
+        "de": "Zustandsbeschreibung"
       }
     },
     {
@@ -46,16 +46,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
       "prefLabel": {
-        "de": "Schadensphänomen",
-        "en": "Damage type"
+        "en": "Damage type",
+        "de": "Schadensphänomen"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA1BC5",
     "prefLabel": {
-      "de": "Objektuntersuchung",
-      "en": "examination"
+      "en": "examination",
+      "de": "Objektuntersuchung"
     }
   },
   "relatedMatch": [

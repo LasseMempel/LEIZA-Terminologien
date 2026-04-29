@@ -20,23 +20,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D",
       "prefLabel": {
-        "de": "Calcedon",
-        "en": "calcedony"
+        "en": "calcedony",
+        "de": "Calcedon"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9A8BF",
       "prefLabel": {
-        "de": "Bergkristall",
-        "en": "rock crystal"
+        "en": "rock crystal",
+        "de": "Bergkristall"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3",
     "prefLabel": {
-      "de": "Mineral",
-      "en": "mineral"
+      "en": "mineral",
+      "de": "Mineral"
     }
   },
   "inScheme": [

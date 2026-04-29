@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/4744EE",
   "type": "Concept",
   "prefLabel": {
+    "en": "Stitch Hole",
     "de": "Bohrung",
     "dk": "Syhul",
-    "en": "Stitch Hole",
     "es": "ojal",
     "fr": "Trou De Piqûre",
     "gr": "Οπή της Ραφής",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

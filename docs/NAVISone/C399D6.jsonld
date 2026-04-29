@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/C399D6",
   "type": "Concept",
   "prefLabel": {
+    "en": "Winch",
     "de": "Winde",
     "dk": "Vinde",
-    "en": "Winch",
     "es": "cabestrante o molinete",
     "fr": "Treuil",
     "gr": "Εργάτης",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/14",
     "prefLabel": {
-      "de": "[Handhabung]",
-      "en": "[handling]"
+      "en": "[handling]",
+      "de": "[Handhabung]"
     }
   },
   "inScheme": [

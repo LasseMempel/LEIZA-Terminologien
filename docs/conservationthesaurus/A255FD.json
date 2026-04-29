@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A255FD",
   "type": "Concept",
   "prefLabel": {
-    "de": "Nass (Objektzustand)",
-    "en": "wet"
+    "en": "wet",
+    "de": "Nass (Objektzustand)"
   },
   "altLabel": {
     "de": [
@@ -19,8 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397",
     "prefLabel": {
-      "de": "Feuchtigkeitsgehalt",
-      "en": "moisture content"
+      "en": "moisture content",
+      "de": "Feuchtigkeitsgehalt"
     }
   },
   "closeMatch": [

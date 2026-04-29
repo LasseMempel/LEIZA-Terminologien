@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/98614C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Bollard",
     "de": "Poller",
     "dk": "Pullert",
-    "en": "Bollard",
     "es": "bita",
     "fr": "Bitte",
     "gr": "Δέστρα Πρυμνησίων, Μπίντα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/14",
     "prefLabel": {
-      "de": "[Handhabung]",
-      "en": "[handling]"
+      "en": "[handling]",
+      "de": "[Handhabung]"
     }
   },
   "inScheme": [

@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3",
     "prefLabel": {
-      "de": "Mineral",
-      "en": "mineral"
+      "en": "mineral",
+      "de": "Mineral"
     }
   },
   "inScheme": [

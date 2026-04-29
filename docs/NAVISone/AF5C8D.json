@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/AF5C8D",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast Area",
     "de": "Mastbereich",
     "dk": "Masteområdet",
-    "en": "Mast Area",
     "es": "area del palo",
     "fr": "Aire Du Mât",
     "gr": "Περιοχή του Ιστού",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

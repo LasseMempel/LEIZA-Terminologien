@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/DCA950",
   "type": "Concept",
   "prefLabel": {
+    "en": "Oar",
     "de": "Riemen",
     "dk": "åre",
-    "en": "Oar",
     "es": "remo",
     "fr": "Aviron, Rame",
     "gr": "Κουπί",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/12",
     "prefLabel": {
-      "de": "[Rudern und paddeln]",
-      "en": "[rowing and paddling]"
+      "en": "[rowing and paddling]",
+      "de": "[Rudern und paddeln]"
     }
   },
   "inScheme": [

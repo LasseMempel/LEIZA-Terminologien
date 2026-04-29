@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/EDB704",
   "type": "Concept",
   "prefLabel": {
+    "en": "Parrel",
     "de": "Rack",
     "dk": "Rakke",
-    "en": "Parrel",
     "es": "racamento de verga",
     "fr": "Racage",
     "gr": "Αγκοίνη, Τρότσα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/817F57",
   "type": "Concept",
   "prefLabel": {
+    "en": "Deckplank",
     "de": "Decksplanke",
     "dk": "Dæksplanke",
-    "en": "Deckplank",
     "es": "tablazón de cubierta",
     "fr": "Bordage De Pont",
     "gr": "Μαδέρια του Καταστρώματος",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/8",
     "prefLabel": {
-      "de": "[Decks und Weger]",
-      "en": "[decks and ceilings]"
+      "en": "[decks and ceilings]",
+      "de": "[Decks und Weger]"
     }
   },
   "inScheme": [

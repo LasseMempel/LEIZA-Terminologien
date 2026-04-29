@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C7C3B7",
   "type": "Concept",
   "prefLabel": {
-    "de": "Grabungsfrischer Fund",
-    "en": "freshly excavated find"
+    "en": "freshly excavated find",
+    "de": "Grabungsfrischer Fund"
   },
   "altLabel": {
     "de": [

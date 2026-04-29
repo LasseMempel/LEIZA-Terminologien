@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B626A3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bein",
-    "en": "bone"
+    "en": "bone",
+    "de": "Bein"
   },
   "altLabel": {
     "de": [
@@ -17,8 +17,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG55BC",
       "prefLabel": {
-        "de": "Elfenbein",
-        "en": "ivory"
+        "en": "ivory",
+        "de": "Elfenbein"
       }
     }
   ],

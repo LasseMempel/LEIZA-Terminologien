@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746",
   "type": "Concept",
   "prefLabel": {
-    "de": "Base",
-    "en": "alkaline solution"
+    "en": "alkaline solution",
+    "de": "Base"
   },
   "altLabel": {
     "en": [
@@ -20,8 +20,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A5D92A",
       "prefLabel": {
-        "de": "Ammoniak",
-        "en": "ammonia"
+        "en": "ammonia",
+        "de": "Ammoniak"
       }
     },
     {
@@ -33,38 +33,38 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB2D46",
       "prefLabel": {
-        "de": "Natriumcarbonat",
-        "en": "sodium carbonate"
+        "en": "sodium carbonate",
+        "de": "Natriumcarbonat"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GG3G4B",
       "prefLabel": {
-        "de": "Natriumhydroxid",
-        "en": "sodium hydroxide"
+        "en": "sodium hydroxide",
+        "de": "Natriumhydroxid"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien",
-      "en": "restoration material"
+      "en": "restoration material",
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A194CF",
       "prefLabel": {
-        "de": "Nassreinigung",
-        "en": "washing"
+        "en": "washing",
+        "de": "Nassreinigung"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532",
       "prefLabel": {
-        "de": "Entsalzung",
-        "en": "desalination"
+        "en": "desalination",
+        "de": "Entsalzung"
       }
     },
     {
@@ -76,8 +76,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3733A",
       "prefLabel": {
-        "de": "Feuchtreinigung",
-        "en": "wet cleaning"
+        "en": "wet cleaning",
+        "de": "Feuchtreinigung"
       }
     }
   ],

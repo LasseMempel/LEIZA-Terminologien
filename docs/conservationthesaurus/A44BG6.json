@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A44BG6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Silikonkautschuk",
-    "en": "silicone rubber"
+    "en": "silicone rubber",
+    "de": "Silikonkautschuk"
   },
   "definition": {
     "de": "synthetischer Werkstoff auf Basis langkettiger Polysiloxane und diverser Füllstoffe (z.B. pyrogene Kieselsäure, Silkonöl, etc.), der durch Zugabe eines Vernetzers und ggfs. Katalysators zu elastischem Silikongummi vulkanisiert. Es lassen sich je nach Vulkanisationsart und Eigenschaften des Basispolymers unterschiedliche Kautschukklassen sowie Heiß- und Kaltvulkanisation unterscheiden. In der Konservierung und Restaurierung werden meist bei Raumtemperatur vernetzende, zwei-komponentige Systeme (RTV-2) für die Abformung und Herstellung von Negativformen verwendet. Hervorzuhebende Eigenschaften der Silikonkautschucke sind die hohe Abbildungsgenauigkeit, die Langzeitstabilität und die selbsttrennende Wirkung gegenüber den meisten Werkstoffen."
@@ -15,15 +15,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GD9CA3",
       "prefLabel": {
-        "de": "kondensationsvernetzender Silikonkautschuk",
-        "en": "Condensation-curing silicone rubber"
+        "en": "Condensation-curing silicone rubber",
+        "de": "kondensationsvernetzender Silikonkautschuk"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA841D",
       "prefLabel": {
-        "de": "additionsvernetzender Silikonkautschuk",
-        "en": "Addition-curing silicone rubber"
+        "en": "Addition-curing silicone rubber",
+        "de": "additionsvernetzender Silikonkautschuk"
       }
     }
   ],

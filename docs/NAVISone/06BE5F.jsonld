@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/06BE5F",
   "type": "Concept",
   "prefLabel": {
+    "en": "Frame",
     "de": "Spant",
     "dk": "Spant",
-    "en": "Frame",
     "es": "cuaderna",
     "fr": "Couple",
     "gr": "Νομέας, Στραβόξυλο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

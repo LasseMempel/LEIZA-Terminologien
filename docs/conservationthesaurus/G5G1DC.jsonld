@@ -11,23 +11,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CFD9GG",
       "prefLabel": {
-        "de": "wasservermalbare Ölfarbe",
-        "en": "water-mixable oil paint"
+        "en": "water-mixable oil paint",
+        "de": "wasservermalbare Ölfarbe"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D733D1",
       "prefLabel": {
-        "de": "terpentinvermalbare Ölfarbe",
-        "en": "turpentine-based oil paint"
+        "en": "turpentine-based oil paint",
+        "de": "terpentinvermalbare Ölfarbe"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671",
     "prefLabel": {
-      "de": "Farbstoff",
-      "en": "colourant"
+      "en": "colourant",
+      "de": "Farbstoff"
     }
   },
   "inScheme": [

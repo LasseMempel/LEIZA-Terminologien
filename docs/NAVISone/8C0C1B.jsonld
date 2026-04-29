@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/8C0C1B",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rigging (Running)",
     "de": "Gut (Laufend)",
     "dk": "Rig (Løbende)",
-    "en": "Rigging (Running)",
     "es": "jarcías muertas o arboladura",
     "fr": "Greement (Courant)",
     "gr": "Εξαρτία, Αρματωσιά",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/C0B0E1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Einbaum (Boden)",
-    "en": "Dugout (bottom)"
+    "en": "Dugout (bottom)",
+    "de": "Einbaum (Boden)"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

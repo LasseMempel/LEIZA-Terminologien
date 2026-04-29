@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/2143CF",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast Beam",
     "de": "Mastbalken",
     "dk": "Mastebjælke",
-    "en": "Mast Beam",
     "es": "bao del palo",
     "fr": "Barrot de Mât",
     "gr": "Ζυγό του Ιστού",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

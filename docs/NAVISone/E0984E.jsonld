@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/E0984E",
   "type": "Concept",
   "prefLabel": {
+    "en": "Inland",
     "de": "Binnenland",
     "dk": "Indland",
-    "en": "Inland",
     "es": "navegación en aguas continentales",
     "fr": "Intérieur",
     "gr": "Εσωτερικά Ύδατα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/2",
     "prefLabel": {
-      "de": "[Arbeitsumgebung]",
-      "en": "[operating environment]"
+      "en": "[operating environment]",
+      "de": "[Arbeitsumgebung]"
     }
   },
   "inScheme": [

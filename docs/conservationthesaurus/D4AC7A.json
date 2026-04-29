@@ -18,16 +18,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA7279",
     "prefLabel": {
-      "de": "visuelle Begutachtung",
-      "en": "visual examination"
+      "en": "visual examination",
+      "de": "visuelle Begutachtung"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B538AG",
       "prefLabel": {
-        "de": "Mikroskop",
-        "en": "microscope"
+        "en": "microscope",
+        "de": "Mikroskop"
       }
     }
   ],

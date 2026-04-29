@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/938B4F",
   "type": "Concept",
   "prefLabel": {
+    "en": "Sternpost",
     "de": "Achtersteven",
     "dk": "Agterstævn",
-    "en": "Sternpost",
     "es": "codaste popel",
     "fr": "Étambot",
     "gr": "Ποδόστημα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

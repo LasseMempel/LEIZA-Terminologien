@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619",
     "prefLabel": {
-      "de": "Ergänzung (Restaurierungsmethode)",
-      "en": "filling"
+      "en": "filling",
+      "de": "Ergänzung (Restaurierungsmethode)"
     }
   },
   "inScheme": [

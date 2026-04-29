@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/C11F67",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rivet",
     "de": "Niet",
     "dk": "Klinknagle",
-    "en": "Rivet",
     "es": "remache",
     "fr": "Rivet",
     "gr": "Δίκαρφο, Γουδέλα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

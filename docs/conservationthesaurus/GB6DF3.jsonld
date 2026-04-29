@@ -26,29 +26,29 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3",
       "prefLabel": {
-        "de": "Mineral",
-        "en": "mineral"
+        "en": "mineral",
+        "de": "Mineral"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73",
       "prefLabel": {
-        "de": "Glas",
-        "en": "glas"
+        "en": "glas",
+        "de": "Glas"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A11ACA",
       "prefLabel": {
-        "de": "Keramik",
-        "en": "ceramic"
+        "en": "ceramic",
+        "de": "Keramik"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD",
       "prefLabel": {
-        "de": "Gestein",
-        "en": "stone"
+        "en": "stone",
+        "de": "Gestein"
       }
     }
   ],

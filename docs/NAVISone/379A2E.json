@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/379A2E",
   "type": "Concept",
   "prefLabel": {
+    "en": "Outrigger",
     "de": "Ausleger",
     "dk": "Udrigger",
-    "en": "Outrigger",
     "es": "arbotante",
     "gr": "Προώστης, Αργανέλο, Βαρδαφόγος",
     "it": "Buttafuori",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/12",
     "prefLabel": {
-      "de": "[Rudern und paddeln]",
-      "en": "[rowing and paddling]"
+      "en": "[rowing and paddling]",
+      "de": "[Rudern und paddeln]"
     }
   },
   "inScheme": [

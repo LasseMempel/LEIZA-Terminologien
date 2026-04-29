@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A14DDA",
   "type": "Concept",
   "prefLabel": {
+    "en": "Propulsion unknown",
     "de": "Unbekannter Antrieb",
     "dk": "Ukendt fremdrivningsmiddel",
-    "en": "Propulsion unknown",
     "es": "propulsión desconocida",
     "fr": "Propulsion inconnue",
     "gr": "Άγνωστος Τρόπος Πρόωσης",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

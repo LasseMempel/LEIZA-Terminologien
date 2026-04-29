@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/BC332F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Nagel (Bronze)",
-    "en": "Nail (bronze)"
+    "en": "Nail (bronze)",
+    "de": "Nagel (Bronze)"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

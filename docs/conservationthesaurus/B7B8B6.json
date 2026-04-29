@@ -21,8 +21,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A1D125",
       "prefLabel": {
-        "de": "synthetisches Polymer",
-        "en": "synthetic polymer"
+        "en": "synthetic polymer",
+        "de": "synthetisches Polymer"
       }
     },
     {
@@ -35,23 +35,23 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien",
-      "en": "restoration material"
+      "en": "restoration material",
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1",
       "prefLabel": {
-        "de": "Klebung",
-        "en": "bonding"
+        "en": "bonding",
+        "de": "Klebung"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619",
       "prefLabel": {
-        "de": "Ergänzung (Restaurierungsmethode)",
-        "en": "filling"
+        "en": "filling",
+        "de": "Ergänzung (Restaurierungsmethode)"
       }
     }
   ],

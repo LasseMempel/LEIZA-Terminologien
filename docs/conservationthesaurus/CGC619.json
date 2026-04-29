@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ergänzung (Restaurierungsmethode)",
-    "en": "filling"
+    "en": "filling",
+    "de": "Ergänzung (Restaurierungsmethode)"
   },
   "altLabel": {
     "de": [
@@ -45,8 +45,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
     "prefLabel": {
-      "de": "Restaurierung",
-      "en": "restoration"
+      "en": "restoration",
+      "de": "Restaurierung"
     }
   },
   "related": [

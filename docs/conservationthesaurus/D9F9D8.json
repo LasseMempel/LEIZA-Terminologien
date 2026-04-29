@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9F9D8",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ethylendiamintetraessigsäure",
-    "en": "ethylenediaminetetra acetic acid"
+    "en": "ethylenediaminetetra acetic acid",
+    "de": "Ethylendiamintetraessigsäure"
   },
   "altLabel": {
     "de": [
@@ -27,8 +27,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F87124",
     "prefLabel": {
-      "de": "Komplexbildner",
-      "en": "sequestering agent"
+      "en": "sequestering agent",
+      "de": "Komplexbildner"
     }
   },
   "closeMatch": [

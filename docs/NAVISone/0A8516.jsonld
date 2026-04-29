@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/0A8516",
   "type": "Concept",
   "prefLabel": {
+    "en": "Punted",
     "de": "Gestakt",
     "dk": "Staget",
-    "en": "Punted",
     "es": "a pértiga",
     "fr": "À la perche",
     "gr": "Κίνηση με Κοντάρι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13",
   "type": "Concept",
   "prefLabel": {
-    "de": "Metalllegierung",
-    "en": "metal alloy"
+    "en": "metal alloy",
+    "de": "Metalllegierung"
   },
   "altLabel": {
     "de": [
@@ -33,8 +33,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A",
     "prefLabel": {
-      "de": "Metall",
       "en": "metal",
+      "de": "Metall",
       "fr": "métal"
     }
   },

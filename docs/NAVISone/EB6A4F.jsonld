@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/EB6A4F",
   "type": "Concept",
   "prefLabel": {
+    "en": "peg",
     "de": "Holzstift",
     "dk": "pind",
-    "en": "peg",
     "es": "espiga",
     "fr": "cheville (gournable)",
     "gr": "ο πείρος.,- το βλήτρον",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

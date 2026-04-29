@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1C41AC",
   "type": "Concept",
   "prefLabel": {
+    "en": "Carvel Build",
     "de": "Kraweel Beplankt",
     "dk": "Kravel bygget",
-    "en": "Carvel Build",
     "es": "construcción a tope",
     "fr": "Construction à Franc-Bord",
     "gr": "Πέτσωμα Λείο, Κρόταφο με Κρόταφο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

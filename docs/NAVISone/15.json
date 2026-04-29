@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/15",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Kriegsführung]",
-    "en": "[warfare]"
+    "en": "[warfare]",
+    "de": "[Kriegsführung]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/15087C",
       "prefLabel": {
+        "en": "Artillery",
         "de": "Artillerie",
         "dk": "Artelleri",
-        "en": "Artillery",
         "es": "artellería",
         "gr": "Πυροβολικό",
         "it": "Artiglieria",
@@ -22,9 +22,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/9416B4",
       "prefLabel": {
+        "en": "Weapons on board",
         "de": "Waffen",
         "dk": "Bevæbning",
-        "en": "Weapons on board",
         "es": "armamento",
         "gr": "Μεταφερόμενος Οπλισμός",
         "it": "Armi a bordo",
@@ -34,9 +34,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/A3EBFA",
       "prefLabel": {
+        "en": "Ram",
         "de": "Rammsporn",
         "dk": "Ramstævn",
-        "en": "Ram",
         "es": "espolón",
         "fr": "Éperon",
         "gr": "Έμβολο",
@@ -48,9 +48,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/BE91AE",
       "prefLabel": {
+        "en": "Upper Ram",
         "de": "Obersporn",
         "dk": "øvre Ramstævn",
-        "en": "Upper Ram",
         "es": "espolón superior",
         "gr": "Υπερκείμενο Έμβολο",
         "it": "Rostro superiore",
@@ -61,9 +61,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D060C4",
       "prefLabel": {
+        "en": "Shield Holder",
         "de": "Schildhalterung",
         "dk": "Skjoldliste",
-        "en": "Shield Holder",
         "es": "montaje del escudo",
         "fr": "Support De Bouclier",
         "gr": "Στήριγμα Ασπίδας",
@@ -75,9 +75,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/DB88D4",
       "prefLabel": {
+        "en": "Shield",
         "de": "Schild",
         "dk": "Skjold",
-        "en": "Shield",
         "es": "escudo",
         "gr": "Ασπίδα",
         "it": "Scudo",

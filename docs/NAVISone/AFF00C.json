@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/AFF00C",
   "type": "Concept",
   "prefLabel": {
+    "en": "tool mark",
     "de": "Werkzeugspur",
     "dk": "værktøjsspor",
-    "en": "tool mark",
     "es": "marca de herramienta",
     "fr": "trace doutil",
     "gr": "ίχνος εργαλείου",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

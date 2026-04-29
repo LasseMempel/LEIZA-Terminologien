@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D7F183",
   "type": "Concept",
   "prefLabel": {
+    "en": "Working boat",
     "de": "Arbeitsboot",
     "dk": "Arbejdsbåd",
-    "en": "Working boat",
     "es": "mahona",
     "fr": "Bateau de travail",
     "gr": "Εμπορικό Πλοίο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/1",
     "prefLabel": {
-      "de": "[Schiffsfunktion]",
-      "en": "[ship function]"
+      "en": "[ship function]",
+      "de": "[Schiffsfunktion]"
     }
   },
   "inScheme": [

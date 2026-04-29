@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/7EA68E",
   "type": "Concept",
   "prefLabel": {
+    "en": "Anchor",
     "de": "Anker",
     "dk": "Anker",
-    "en": "Anchor",
     "es": "ancla",
     "fr": "Ancre",
     "gr": "Άγκυρα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/14",
     "prefLabel": {
-      "de": "[Handhabung]",
-      "en": "[handling]"
+      "en": "[handling]",
+      "de": "[Handhabung]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/178A10",
   "type": "Concept",
   "prefLabel": {
+    "en": "Deadeye",
     "de": "Jungfer-Block",
     "dk": "Jomfru",
-    "en": "Deadeye",
     "es": "vigota ordinaria",
     "fr": "Cap De Mouton",
     "gr": "Τριόπις, Καρπουζάκι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

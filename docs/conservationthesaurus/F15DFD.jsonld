@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F15DFD",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zinklegierung",
-    "en": "zinc alloy"
+    "en": "zinc alloy",
+    "de": "Zinklegierung"
   },
   "definition": {
     "de": "Legierung mit Zink als Hauptbestandteil."
@@ -21,8 +21,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G8AG1C",
       "prefLabel": {
-        "de": "Zink",
-        "en": "zinc"
+        "en": "zinc",
+        "de": "Zink"
       }
     }
   ],

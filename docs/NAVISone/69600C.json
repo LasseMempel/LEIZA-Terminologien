@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/69600C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast (Fore)",
     "de": "Mast (Vormast)",
     "dk": "Mast (Fokke)",
-    "en": "Mast (Fore)",
     "es": "artimón",
     "fr": "Mat De Misaine",
     "gr": "Ακάτιος, Πρωραίος Ιστός, Τουρκέτο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

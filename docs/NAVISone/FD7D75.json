@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/FD7D75",
   "type": "Concept",
   "prefLabel": {
-    "de": "Nordic",
-    "en": "Nordic"
+    "en": "Nordic",
+    "de": "Nordic"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

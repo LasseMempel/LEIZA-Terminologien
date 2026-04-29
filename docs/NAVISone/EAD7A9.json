@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/EAD7A9",
   "type": "Concept",
   "prefLabel": {
+    "en": "Extended Dugout",
     "de": "Erweiterter Einbaum",
     "dk": "Udspændt stammebåd",
-    "en": "Extended Dugout",
     "es": "piragua ampliada",
     "fr": "Canoé rehaussée",
     "gr": "Σκαφτό με Προεκτάσεις",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

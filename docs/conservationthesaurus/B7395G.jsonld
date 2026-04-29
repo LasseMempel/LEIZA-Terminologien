@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B7395G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schwefelsäure",
-    "en": "sulphuric acid"
+    "en": "sulphuric acid",
+    "de": "Schwefelsäure"
   },
   "altLabel": {
     "de": [
@@ -19,8 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
     "prefLabel": {
-      "de": "Säure",
-      "en": "acidic detergent"
+      "en": "acidic detergent",
+      "de": "Säure"
     }
   },
   "closeMatch": [

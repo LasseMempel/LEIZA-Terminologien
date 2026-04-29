@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671",
   "type": "Concept",
   "prefLabel": {
-    "de": "Farbstoff",
-    "en": "colourant"
+    "en": "colourant",
+    "de": "Farbstoff"
   },
   "altLabel": {
     "de": [
@@ -50,16 +50,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F64B9C",
       "prefLabel": {
-        "de": "Pigment",
-        "en": "pigment"
+        "en": "pigment",
+        "de": "Pigment"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien",
-      "en": "restoration material"
+      "en": "restoration material",
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [

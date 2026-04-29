@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/BC75BB",
   "type": "Concept",
   "prefLabel": {
+    "en": "Paddled",
     "de": "Gepaddelt",
     "dk": "Padlet",
-    "en": "Paddled",
     "es": "a canalete",
     "fr": "À pagaye",
     "gr": "Κωπήλατο (ταρσοπλοΐα)",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

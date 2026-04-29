@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9D357",
   "type": "Concept",
   "prefLabel": {
-    "de": "Hohlglaskügelchen",
-    "en": "hollow glass balls"
+    "en": "hollow glass balls",
+    "de": "Hohlglaskügelchen"
   },
   "altLabel": {
     "de": [
@@ -19,8 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
     "prefLabel": {
-      "de": "Füllstoff",
-      "en": "filler"
+      "en": "filler",
+      "de": "Füllstoff"
     }
   },
   "inScheme": [

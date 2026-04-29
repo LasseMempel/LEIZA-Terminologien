@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D3FF82",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mortice and Tenon",
     "de": "Nut und Feder",
     "dk": "Tap-i-hul-samling",
-    "en": "Mortice and Tenon",
     "es": "a rebajo / Unión a Espiga",
     "fr": "Mortice and Tenon",
     "gr": "Μόρσα και Τένοντες",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

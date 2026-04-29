@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAB799",
   "type": "Concept",
   "prefLabel": {
-    "de": "Vollständigkeit",
-    "en": "integrity"
+    "en": "integrity",
+    "de": "Vollständigkeit"
   },
   "altLabel": {
-    "de": [
-      "Integrität"
-    ],
     "en": [
       "completeness"
+    ],
+    "de": [
+      "Integrität"
     ]
   },
   "definition": {
@@ -36,8 +36,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
     "prefLabel": {
-      "de": "Zustandsbeschreibung",
-      "en": "physical condition"
+      "en": "physical condition",
+      "de": "Zustandsbeschreibung"
     }
   },
   "closeMatch": [

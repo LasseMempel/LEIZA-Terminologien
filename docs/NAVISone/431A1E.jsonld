@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/431A1E",
   "type": "Concept",
   "prefLabel": {
+    "en": "lath",
     "de": "Nahtspant",
     "dk": "liste",
-    "en": "lath",
     "es": "liston",
     "fr": "latte",
     "gr": "ο τόρνος",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

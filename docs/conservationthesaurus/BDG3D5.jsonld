@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BDG3D5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Xylol",
-    "en": "xylene"
+    "en": "xylene",
+    "de": "Xylol"
   },
   "definition": {
     "de": "aromatischer Kohlenwasserstoff und organisches Lösemittel mit der chemischen Summenformel C8H10, das in der Konservierung und Restaurierung zur Lösung unpolarer Substanzen wie Harze, Wachse oder Polymere verwendet wird. Xylol ist eng verwandt mit Toluol, zeigt jedoch eine geringere Flüchtigkeit und eine schwächerer Polarität. Ebenso wie Toluol ist Xylol gesundheitsgefährdend und die Verwendung sollte nach Möglichkeiten vermieden werden."
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel",
-      "en": "solvent"
+      "en": "solvent",
+      "de": "Lösungsmittel"
     }
   },
   "closeMatch": [

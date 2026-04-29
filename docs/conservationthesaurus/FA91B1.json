@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FA91B1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Glutinleim",
-    "en": "animal glue"
+    "en": "animal glue",
+    "de": "Glutinleim"
   },
   "altLabel": {
     "de": [

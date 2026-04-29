@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/47191C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Strake",
     "de": "Gang",
     "dk": "Bordgang",
-    "en": "Strake",
     "es": "traca o hilada",
     "fr": "Virure",
     "gr": "Μαδέρι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

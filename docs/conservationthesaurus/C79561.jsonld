@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
   "type": "Concept",
   "prefLabel": {
-    "de": "Restaurierung",
-    "en": "restoration"
+    "en": "restoration",
+    "de": "Restaurierung"
   },
   "altLabel": {
+    "en": [
+      "restoration method"
+    ],
     "de": [
       "Restaurierungsmaßnahme",
       "Restaurierungsmethode"
-    ],
-    "en": [
-      "restoration method"
     ]
   },
   "definition": {
@@ -24,15 +24,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
       "prefLabel": {
-        "de": "Reinigung",
-        "en": "cleaning"
+        "en": "cleaning",
+        "de": "Reinigung"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1",
       "prefLabel": {
-        "de": "Klebung",
-        "en": "bonding"
+        "en": "bonding",
+        "de": "Klebung"
       }
     },
     {
@@ -44,8 +44,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619",
       "prefLabel": {
-        "de": "Ergänzung (Restaurierungsmethode)",
-        "en": "filling"
+        "en": "filling",
+        "de": "Ergänzung (Restaurierungsmethode)"
       }
     },
     {
@@ -57,8 +57,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
       "prefLabel": {
-        "de": "Freilegung",
-        "en": "uncovering"
+        "en": "uncovering",
+        "de": "Freilegung"
       }
     }
   ],

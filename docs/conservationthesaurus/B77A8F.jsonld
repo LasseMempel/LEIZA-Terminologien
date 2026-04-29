@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B77A8F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ethylacetat",
-    "en": "ethyl acetate"
+    "en": "ethyl acetate",
+    "de": "Ethylacetat"
   },
   "altLabel": {
     "de": [
@@ -21,8 +21,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel",
-      "en": "solvent"
+      "en": "solvent",
+      "de": "Lösungsmittel"
     }
   },
   "closeMatch": [

@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Besegelung]",
-    "en": "[sailing gear]"
+    "en": "[sailing gear]",
+    "de": "[Besegelung]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/074F8A",
       "prefLabel": {
+        "en": "Rigging (Standing)",
         "de": "Gut (Stehend)",
         "dk": "Rig (Stående)",
-        "en": "Rigging (Standing)",
         "es": "jarcías vivas o de labor",
         "fr": "Greement (Dormant)",
         "gr": "Μη σταθερός Εξαρτισμός",
@@ -23,9 +23,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/0E4547",
       "prefLabel": {
+        "en": "Sail (Sprit)",
         "de": "Segel (Sprit)",
         "dk": "Sejl",
-        "en": "Sail (Sprit)",
         "es": "vela",
         "fr": "Voile",
         "gr": "Πανί, Ιστίο",
@@ -37,9 +37,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/1149D5",
       "prefLabel": {
+        "en": "Yard",
         "de": "Rah",
         "dk": "Rå",
-        "en": "Yard",
         "es": "verga",
         "fr": "Vergue",
         "gr": "Κεραία, Αντένα",
@@ -51,9 +51,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/178A10",
       "prefLabel": {
+        "en": "Deadeye",
         "de": "Jungfer-Block",
         "dk": "Jomfru",
-        "en": "Deadeye",
         "es": "vigota ordinaria",
         "fr": "Cap De Mouton",
         "gr": "Τριόπις, Καρπουζάκι",
@@ -65,9 +65,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/1C43CA",
       "prefLabel": {
+        "en": "Mast Fish",
         "de": "Mastfisch",
         "dk": "Mastfisk",
-        "en": "Mast Fish",
         "es": "fogonadura del palo",
         "fr": "Fixation du mât",
         "gr": "Ιστοπέδη",
@@ -79,9 +79,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/1C9D25",
       "prefLabel": {
+        "en": "Mast Frame",
         "de": "Mastspant",
         "dk": "Mastespant",
-        "en": "Mast Frame",
         "es": "cuaderna del palo",
         "fr": "Couple De Mât",
         "gr": "Πλαίσιο του Ιστού",
@@ -93,9 +93,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/1F4820",
       "prefLabel": {
+        "en": "Masthead",
         "de": "Masttopp",
         "dk": "Mastetop",
-        "en": "Masthead",
         "es": "tope del palo",
         "gr": "Λαιμός Στήλης ή Επιστηλίου, Κολομπίρι",
         "it": "Calcese",
@@ -106,9 +106,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/2143CF",
       "prefLabel": {
+        "en": "Mast Beam",
         "de": "Mastbalken",
         "dk": "Mastebjælke",
-        "en": "Mast Beam",
         "es": "bao del palo",
         "fr": "Barrot de Mât",
         "gr": "Ζυγό του Ιστού",
@@ -120,9 +120,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/2AC165",
       "prefLabel": {
+        "en": "Mast (Towing)",
         "de": "Treidelpfosten",
         "dk": "Mast (Slæbe)",
-        "en": "Mast (Towing)",
         "es": "pequeño palo",
         "fr": "Mat De Halage",
         "gr": "Mast (Towing)",
@@ -134,9 +134,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/2B8C74",
       "prefLabel": {
+        "en": "Mast Step",
         "de": "Mastspur",
         "dk": "Mastespor",
-        "en": "Mast Step",
         "es": "carlinga del palo",
         "fr": "Emplanture De Mât",
         "gr": "Υποπτερνίς, Σκάτσα",
@@ -148,9 +148,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/411EC9",
       "prefLabel": {
+        "en": "Bowsprit",
         "de": "Bug Sprit",
         "dk": "Bovspryd",
-        "en": "Bowsprit",
         "es": "bauprés",
         "fr": "Mat De Beaupre",
         "gr": "Πρόβολος, Μπαστούνι",
@@ -162,9 +162,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/441BAE",
       "prefLabel": {
+        "en": "Sail (Lateen)",
         "de": "Segel (Lateiner)",
         "dk": "Sejl (Latiner)",
-        "en": "Sail (Lateen)",
         "es": "vela latina",
         "fr": "Voile Latine",
         "gr": "Πανί (λατίνι)",
@@ -176,9 +176,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/648E0B",
       "prefLabel": {
+        "en": "Sail (Top)",
         "de": "Toppsegel",
         "dk": "Sejl (Top)",
-        "en": "Sail (Top)",
         "es": "escandalosa",
         "gr": "Δόλων, Γάμπια",
         "it": "Vela (Superiore)",
@@ -189,9 +189,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/655F73",
       "prefLabel": {
+        "en": "Mast (Mizzen)",
         "de": "Mast (Besanmast)",
         "dk": "Mast (Mesan)",
-        "en": "Mast (Mizzen)",
         "es": "palo de mesana",
         "fr": "Mat D´artimon",
         "gr": "Ιστός του Επιδρόμου, Πρυμναίος Ιστός",
@@ -203,9 +203,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/69600C",
       "prefLabel": {
+        "en": "Mast (Fore)",
         "de": "Mast (Vormast)",
         "dk": "Mast (Fokke)",
-        "en": "Mast (Fore)",
         "es": "artimón",
         "fr": "Mat De Misaine",
         "gr": "Ακάτιος, Πρωραίος Ιστός, Τουρκέτο",
@@ -217,9 +217,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/71CB9C",
       "prefLabel": {
+        "en": "Sail (Fore)",
         "de": "Vorsegel",
         "dk": "Sejl (For)",
-        "en": "Sail (Fore)",
         "es": "vela de proa",
         "gr": "Τρίγκος, Ακάτιον",
         "it": "Vela (Di prua)",
@@ -230,9 +230,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/8C0C1B",
       "prefLabel": {
+        "en": "Rigging (Running)",
         "de": "Gut (Laufend)",
         "dk": "Rig (Løbende)",
-        "en": "Rigging (Running)",
         "es": "jarcías muertas o arboladura",
         "fr": "Greement (Courant)",
         "gr": "Εξαρτία, Αρματωσιά",
@@ -244,9 +244,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/AF5C8D",
       "prefLabel": {
+        "en": "Mast Area",
         "de": "Mastbereich",
         "dk": "Masteområdet",
-        "en": "Mast Area",
         "es": "area del palo",
         "fr": "Aire Du Mât",
         "gr": "Περιοχή του Ιστού",
@@ -258,9 +258,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B0D70E",
       "prefLabel": {
+        "en": "Mast Support",
         "de": "Maststütze",
         "dk": "Mastestøtte",
-        "en": "Mast Support",
         "es": "puntal para el  palo",
         "gr": "Διαδοκίς, Πικεριά",
         "it": "Supporto della albero",
@@ -271,9 +271,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D12C93",
       "prefLabel": {
+        "en": "Mast Thwart",
         "de": "Mastducht",
         "dk": "Mastetofte",
-        "en": "Mast Thwart",
         "es": "bancada del palo",
         "fr": "Banc De Mât",
         "gr": "Πάγκος του Άλμπουρου",
@@ -285,9 +285,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/EDB704",
       "prefLabel": {
+        "en": "Parrel",
         "de": "Rack",
         "dk": "Rakke",
-        "en": "Parrel",
         "es": "racamento de verga",
         "fr": "Racage",
         "gr": "Αγκοίνη, Τρότσα",
@@ -299,9 +299,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/F4405C",
       "prefLabel": {
+        "en": "Sail (Square)",
         "de": "Segel (Rah)",
         "dk": "Sejl (Råsejl)",
-        "en": "Sail (Square)",
         "es": "vela cuadra",
         "fr": "Voile Carree",
         "gr": "Πανί (τετράγωνο)",
@@ -313,9 +313,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/FE0706",
       "prefLabel": {
+        "en": "Mast (Main)",
         "de": "Mast (Hauptmast)",
         "dk": "Mast",
-        "en": "Mast (Main)",
         "es": "palo (mayor)",
         "fr": "Mât",
         "gr": "Ιστός, Κατάρτι",

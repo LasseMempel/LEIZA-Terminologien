@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/679A09",
   "type": "Concept",
   "prefLabel": {
-    "de": "Woerden 1",
-    "en": "Woerden 1"
+    "en": "Woerden 1",
+    "de": "Woerden 1"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DG6841",
   "type": "Concept",
   "prefLabel": {
-    "de": "Computertomograph",
-    "en": "computed tomography scanner"
+    "en": "computed tomography scanner",
+    "de": "Computertomograph"
   },
   "altLabel": {
     "de": [
@@ -19,8 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA6941",
     "prefLabel": {
-      "de": "[Untersuchungsgerät]",
-      "en": "analytical device"
+      "en": "analytical device",
+      "de": "[Untersuchungsgerät]"
     }
   },
   "related": [

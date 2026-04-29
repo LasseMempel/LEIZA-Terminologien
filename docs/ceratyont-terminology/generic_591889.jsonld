@@ -1,0 +1,1411 @@
+{
+  "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/generic_591889",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Cup"
+  },
+  "definition": {
+    "en": "Generic potform category: Cup."
+  },
+  "scopeNote": {
+    "en": [
+      "Use to classify vessels by their general shape category. For publisher-specific type numbers, use the corresponding Potform concept instead."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_158",
+      "prefLabel": {
+        "en": "Cup"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/generic_115126",
+      "prefLabel": {
+        "en": "Cup Decorated"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/generic_662716",
+      "prefLabel": {
+        "en": "Cup Rouletted"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_184",
+      "prefLabel": {
+        "en": "R. 8g"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_20",
+      "prefLabel": {
+        "en": "27r"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_264",
+      "prefLabel": {
+        "en": "Bb"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_279",
+      "prefLabel": {
+        "en": "Consp. 43.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_29",
+      "prefLabel": {
+        "en": "33a"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_30",
+      "prefLabel": {
+        "en": "33e"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_305",
+      "prefLabel": {
+        "en": "Consp. 07.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_309",
+      "prefLabel": {
+        "en": "Consp. 09.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_329",
+      "prefLabel": {
+        "en": "Consp. 17.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_350",
+      "prefLabel": {
+        "en": "Consp. 22.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_351",
+      "prefLabel": {
+        "en": "Consp. 22.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_352",
+      "prefLabel": {
+        "en": "Consp. 22.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_353",
+      "prefLabel": {
+        "en": "Consp. 22.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_354",
+      "prefLabel": {
+        "en": "Consp. 22.5"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_355",
+      "prefLabel": {
+        "en": "Consp. 22.6"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_356",
+      "prefLabel": {
+        "en": "Consp. 23.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_357",
+      "prefLabel": {
+        "en": "Consp. 23.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_358",
+      "prefLabel": {
+        "en": "Consp. 24.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_359",
+      "prefLabel": {
+        "en": "Consp. 24.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_360",
+      "prefLabel": {
+        "en": "Consp. 24.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_361",
+      "prefLabel": {
+        "en": "Consp. 24.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_362",
+      "prefLabel": {
+        "en": "Consp. 25.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_363",
+      "prefLabel": {
+        "en": "Consp. 26.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_364",
+      "prefLabel": {
+        "en": "Consp. 26.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_365",
+      "prefLabel": {
+        "en": "Consp. 26.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_366",
+      "prefLabel": {
+        "en": "Consp. 27.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_367",
+      "prefLabel": {
+        "en": "Consp. 27.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_368",
+      "prefLabel": {
+        "en": "Consp. 27.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_369",
+      "prefLabel": {
+        "en": "Consp. 28.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_370",
+      "prefLabel": {
+        "en": "Consp. 28.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_371",
+      "prefLabel": {
+        "en": "Consp. 28.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_372",
+      "prefLabel": {
+        "en": "Consp. 29.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_373",
+      "prefLabel": {
+        "en": "Consp. 30.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_374",
+      "prefLabel": {
+        "en": "Consp. 31.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_375",
+      "prefLabel": {
+        "en": "Consp. 31.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_376",
+      "prefLabel": {
+        "en": "Consp. 32.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_377",
+      "prefLabel": {
+        "en": "Consp. 32.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_378",
+      "prefLabel": {
+        "en": "Consp. 32.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_379",
+      "prefLabel": {
+        "en": "Consp. 32.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_380",
+      "prefLabel": {
+        "en": "Consp. 32.5"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_382",
+      "prefLabel": {
+        "en": "Consp. 33.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_383",
+      "prefLabel": {
+        "en": "Consp. 33.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_384",
+      "prefLabel": {
+        "en": "Consp. 33.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_385",
+      "prefLabel": {
+        "en": "Consp. 33.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_386",
+      "prefLabel": {
+        "en": "Consp. 33.5"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_387",
+      "prefLabel": {
+        "en": "Consp. 34.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_388",
+      "prefLabel": {
+        "en": "Consp. 34.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_389",
+      "prefLabel": {
+        "en": "Consp. 35.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_390",
+      "prefLabel": {
+        "en": "Consp. 36.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_391",
+      "prefLabel": {
+        "en": "Consp. 36.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_392",
+      "prefLabel": {
+        "en": "Consp. 36.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_393",
+      "prefLabel": {
+        "en": "Consp. 37.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_394",
+      "prefLabel": {
+        "en": "Consp. 37.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_395",
+      "prefLabel": {
+        "en": "Consp. 37.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_396",
+      "prefLabel": {
+        "en": "Consp. 37.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_397",
+      "prefLabel": {
+        "en": "Consp. 37.5"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_398",
+      "prefLabel": {
+        "en": "Consp. 38.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_399",
+      "prefLabel": {
+        "en": "Consp. 38.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_400",
+      "prefLabel": {
+        "en": "Consp. 38.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_407",
+      "prefLabel": {
+        "en": "Consp. 43.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_408",
+      "prefLabel": {
+        "en": "Consp. 43.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_409",
+      "prefLabel": {
+        "en": "Consp. 44.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_410",
+      "prefLabel": {
+        "en": "Consp. 44.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_411",
+      "prefLabel": {
+        "en": "Consp. 45.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_412",
+      "prefLabel": {
+        "en": "Consp. 45.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_413",
+      "prefLabel": {
+        "en": "Consp. 45.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_414",
+      "prefLabel": {
+        "en": "Consp. 46.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_419",
+      "prefLabel": {
+        "en": "Consp. 49.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_420",
+      "prefLabel": {
+        "en": "Consp. 49.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_460",
+      "prefLabel": {
+        "en": "Consp. B3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_461",
+      "prefLabel": {
+        "en": "Consp. B3.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_462",
+      "prefLabel": {
+        "en": "Consp. B3.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_463",
+      "prefLabel": {
+        "en": "Consp. B3.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_464",
+      "prefLabel": {
+        "en": "Consp. B3.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_465",
+      "prefLabel": {
+        "en": "Consp. B3.5"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_466",
+      "prefLabel": {
+        "en": "Consp. B3.6"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_467",
+      "prefLabel": {
+        "en": "Consp. B3.7"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_468",
+      "prefLabel": {
+        "en": "Consp. B3.8"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_469",
+      "prefLabel": {
+        "en": "Consp. B3.9"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_470",
+      "prefLabel": {
+        "en": "Consp. B3.10"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_471",
+      "prefLabel": {
+        "en": "Consp. B3.11"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_472",
+      "prefLabel": {
+        "en": "Consp. B3.12"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_473",
+      "prefLabel": {
+        "en": "Consp. B3.13"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_474",
+      "prefLabel": {
+        "en": "Consp. B3.14"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_475",
+      "prefLabel": {
+        "en": "Consp. B3.15"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_476",
+      "prefLabel": {
+        "en": "Consp. B3.16"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_477",
+      "prefLabel": {
+        "en": "Consp. B3.17"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_478",
+      "prefLabel": {
+        "en": "Consp. B3.18"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_479",
+      "prefLabel": {
+        "en": "Consp. B3.19"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_48",
+      "prefLabel": {
+        "en": "Hermet 24"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_480",
+      "prefLabel": {
+        "en": "Consp. B4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_481",
+      "prefLabel": {
+        "en": "Consp. B4.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_482",
+      "prefLabel": {
+        "en": "Consp. B4.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_483",
+      "prefLabel": {
+        "en": "Consp. B4.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_484",
+      "prefLabel": {
+        "en": "Consp. B4.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_485",
+      "prefLabel": {
+        "en": "Consp. B4.5"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_486",
+      "prefLabel": {
+        "en": "Consp. B4.6"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_487",
+      "prefLabel": {
+        "en": "Consp. B4.7"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_488",
+      "prefLabel": {
+        "en": "Consp. B4.8"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_489",
+      "prefLabel": {
+        "en": "Consp. B4.9"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_490",
+      "prefLabel": {
+        "en": "Consp. B4.10"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_491",
+      "prefLabel": {
+        "en": "Consp. B4.11"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_492",
+      "prefLabel": {
+        "en": "Consp. B4.12"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_493",
+      "prefLabel": {
+        "en": "Consp. B4.13"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_494",
+      "prefLabel": {
+        "en": "Consp. B4.14"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_495",
+      "prefLabel": {
+        "en": "Consp. B4.15"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_496",
+      "prefLabel": {
+        "en": "Consp. B4.16"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_497",
+      "prefLabel": {
+        "en": "Consp. B4.17"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_546",
+      "prefLabel": {
+        "en": "Consp. 23"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_548",
+      "prefLabel": {
+        "en": "Consp. 25"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_549",
+      "prefLabel": {
+        "en": "Consp. 26.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_553",
+      "prefLabel": {
+        "en": "Consp. 24"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_555",
+      "prefLabel": {
+        "en": "Consp. 26"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_557",
+      "prefLabel": {
+        "en": "Consp. 27"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_561",
+      "prefLabel": {
+        "en": "Consp. 09"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_564",
+      "prefLabel": {
+        "en": "Consp. 28"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_569",
+      "prefLabel": {
+        "en": "Consp. 29"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_570",
+      "prefLabel": {
+        "en": "Consp. 30"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_571",
+      "prefLabel": {
+        "en": "Consp. 31"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_573",
+      "prefLabel": {
+        "en": "Consp. 17"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_578",
+      "prefLabel": {
+        "en": "Consp. 22"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_579",
+      "prefLabel": {
+        "en": "Consp. 44"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_580",
+      "prefLabel": {
+        "en": "Consp. 32"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_581",
+      "prefLabel": {
+        "en": "Consp. 33"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_582",
+      "prefLabel": {
+        "en": "Consp. 34"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_583",
+      "prefLabel": {
+        "en": "Consp. 35"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_584",
+      "prefLabel": {
+        "en": "Consp. 36"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_585",
+      "prefLabel": {
+        "en": "Consp. 37"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_586",
+      "prefLabel": {
+        "en": "Consp. 38"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_591",
+      "prefLabel": {
+        "en": "Consp. 43"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_592",
+      "prefLabel": {
+        "en": "Consp. 45"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_593",
+      "prefLabel": {
+        "en": "Consp. 46"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_596",
+      "prefLabel": {
+        "en": "Consp. 49"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_640",
+      "prefLabel": {
+        "en": "Bet 018"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_658",
+      "prefLabel": {
+        "en": "Bet 037"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_662",
+      "prefLabel": {
+        "en": "Bet 041"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_673",
+      "prefLabel": {
+        "en": "Bet 050"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_830",
+      "prefLabel": {
+        "en": "Haltern 7b"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_831",
+      "prefLabel": {
+        "en": "Haltern 8a"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_833",
+      "prefLabel": {
+        "en": "Haltern 8Ab"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_834",
+      "prefLabel": {
+        "en": "Haltern 8Ab"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_839",
+      "prefLabel": {
+        "en": "Haltern 15a"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_951",
+      "prefLabel": {
+        "en": "Hayes 74"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_15",
+      "prefLabel": {
+        "en": "24"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_304",
+      "prefLabel": {
+        "en": "Consp. 07.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_306",
+      "prefLabel": {
+        "en": "Consp. 08.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_307",
+      "prefLabel": {
+        "en": "Consp. 08.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_308",
+      "prefLabel": {
+        "en": "Consp. 08.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_319",
+      "prefLabel": {
+        "en": "Consp. 13.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_320",
+      "prefLabel": {
+        "en": "Consp. 13.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_321",
+      "prefLabel": {
+        "en": "Consp. 13.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_322",
+      "prefLabel": {
+        "en": "Consp. 14.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_323",
+      "prefLabel": {
+        "en": "Consp. 14.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_324",
+      "prefLabel": {
+        "en": "Consp. 14.3"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_325",
+      "prefLabel": {
+        "en": "Consp. 14.4"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_326",
+      "prefLabel": {
+        "en": "Consp. 15.1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_327",
+      "prefLabel": {
+        "en": "Consp. 15.2"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_559",
+      "prefLabel": {
+        "en": "Consp. 07"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_560",
+      "prefLabel": {
+        "en": "Consp. 08"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_566",
+      "prefLabel": {
+        "en": "Consp. 13"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_567",
+      "prefLabel": {
+        "en": "Consp. 14"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_568",
+      "prefLabel": {
+        "en": "Consp. 15"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_634",
+      "prefLabel": {
+        "en": "Bet 014"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_670",
+      "prefLabel": {
+        "en": "Bet 048"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_663",
+      "prefLabel": {
+        "en": "Bet 042"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_621",
+      "prefLabel": {
+        "en": "Bet 001"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_75",
+      "prefLabel": {
+        "en": "R. 8"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_623",
+      "prefLabel": {
+        "en": "Bet 003"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_36",
+      "prefLabel": {
+        "en": "40"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_33",
+      "prefLabel": {
+        "en": "37"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_643",
+      "prefLabel": {
+        "en": "Bet 024"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_181",
+      "prefLabel": {
+        "en": "Vernhet E1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_648",
+      "prefLabel": {
+        "en": "Bet 028"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_18",
+      "prefLabel": {
+        "en": "27"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_656",
+      "prefLabel": {
+        "en": "Bet 035"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_28",
+      "prefLabel": {
+        "en": "33"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_657",
+      "prefLabel": {
+        "en": "Bet 036"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_660",
+      "prefLabel": {
+        "en": "Bet 039"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_83",
+      "prefLabel": {
+        "en": "R. 5"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_661",
+      "prefLabel": {
+        "en": "Bet 040"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_846",
+      "prefLabel": {
+        "en": "Haltern 6"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_836",
+      "prefLabel": {
+        "en": "Haltern 10a"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_838",
+      "prefLabel": {
+        "en": "Haltern 12"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_16",
+      "prefLabel": {
+        "en": "24b"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_17",
+      "prefLabel": {
+        "en": "25"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_318",
+      "prefLabel": {
+        "en": "Consp. 12.5"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_38",
+      "prefLabel": {
+        "en": "42sh"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_610",
+      "prefLabel": {
+        "en": "Vernhet C1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_666",
+      "prefLabel": {
+        "en": "Bet 044"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_31",
+      "prefLabel": {
+        "en": "35"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_41",
+      "prefLabel": {
+        "en": "46"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_74",
+      "prefLabel": {
+        "en": "R. 5g"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_19",
+      "prefLabel": {
+        "en": "27g"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_837",
+      "prefLabel": {
+        "en": "Haltern 11"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_76",
+      "prefLabel": {
+        "en": "R. 9"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_832",
+      "prefLabel": {
+        "en": "Haltern 8Aa"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/potform_835",
+      "prefLabel": {
+        "en": "Haltern 9"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/facet_generic_potforms",
+    "prefLabel": {
+      "en": "Generic Potforms"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/scheme",
+      "title": {
+        "en": "CeraTyOnt Terminology"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/ceratyont-terminology/scheme"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": {
+      "@id": "dct:creator",
+      "@container": "@set"
+    },
+    "contributor": {
+      "@id": "dct:contributor",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dct:subject",
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "rights": {
+      "@id": "dct:rights",
+      "@container": "@set"
+    },
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": {
+      "@id": "dct:source",
+      "@container": "@set"
+    },
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    },
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
+      "@container": "@set"
+    }
+  }
+}

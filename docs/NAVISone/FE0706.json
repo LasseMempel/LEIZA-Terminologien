@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/FE0706",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast (Main)",
     "de": "Mast (Hauptmast)",
     "dk": "Mast",
-    "en": "Mast (Main)",
     "es": "palo (mayor)",
     "fr": "Mât",
     "gr": "Ιστός, Κατάρτι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

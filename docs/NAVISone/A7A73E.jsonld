@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A7A73E",
   "type": "Concept",
   "prefLabel": {
+    "en": "false stern",
     "de": "Aussensteven (hinten)",
     "dk": "falsk agterstævn",
-    "en": "false stern",
     "es": "falsa popa",
     "fr": "faux étambot arrière",
     "it": "falsa poppa",
@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

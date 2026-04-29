@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F49B77",
   "type": "Concept",
   "prefLabel": {
-    "de": "Thioharnstoff",
-    "en": "thiourea"
+    "en": "thiourea",
+    "de": "Thioharnstoff"
   },
   "notation": [
     "F49B77"
@@ -11,8 +11,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F87124",
     "prefLabel": {
-      "de": "Komplexbildner",
-      "en": "sequestering agent"
+      "en": "sequestering agent",
+      "de": "Komplexbildner"
     }
   },
   "closeMatch": [

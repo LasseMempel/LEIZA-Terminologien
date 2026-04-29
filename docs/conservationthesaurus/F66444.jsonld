@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A946B5",
     "prefLabel": {
-      "de": "chemische Untersuchung",
-      "en": "chemical tests"
+      "en": "chemical tests",
+      "de": "chemische Untersuchung"
     }
   },
   "inScheme": [

@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A21BCC",
   "type": "Concept",
   "prefLabel": {
-    "de": "Blackfriars",
-    "en": "Blackfriars"
+    "en": "Blackfriars",
+    "de": "Blackfriars"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

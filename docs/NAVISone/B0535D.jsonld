@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/B0535D",
   "type": "Concept",
   "prefLabel": {
+    "en": "Stempost",
     "de": "Vordersteven",
     "dk": "Forstævn",
-    "en": "Stempost",
     "es": "branque",
     "fr": "Étrave",
     "gr": "Στείρα της Πλώρης",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

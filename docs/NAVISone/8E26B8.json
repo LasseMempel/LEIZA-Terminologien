@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/8E26B8",
   "type": "Concept",
   "prefLabel": {
+    "en": "Pramlike",
     "de": "prahmähnlich",
     "dk": "Pramtype",
-    "en": "Pramlike",
     "es": "barca a fondo de batea",
     "fr": "Barque",
     "gr": "Μαούνα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

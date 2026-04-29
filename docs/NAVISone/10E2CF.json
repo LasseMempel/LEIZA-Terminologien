@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/10E2CF",
   "type": "Concept",
   "prefLabel": {
+    "en": "Gangway",
     "de": "Laufplanke",
     "dk": "Gangbro",
-    "en": "Gangway",
     "es": "Pasadizo",
     "gr": "Μαδερόσκαλα",
     "it": "Passerella",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/8",
     "prefLabel": {
-      "de": "[Decks und Weger]",
-      "en": "[decks and ceilings]"
+      "en": "[decks and ceilings]",
+      "de": "[Decks und Weger]"
     }
   },
   "inScheme": [

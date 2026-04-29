@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/0D16A2",
   "type": "Concept",
   "prefLabel": {
+    "en": "Bilge Stringer",
     "de": "Kimmstringer",
     "dk": "Kimingsvæger",
-    "en": "Bilge Stringer",
     "es": "vagra de pantoques",
     "fr": "Bordage De Bouchain",
     "gr": "Λώρος της Σεντίνας",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

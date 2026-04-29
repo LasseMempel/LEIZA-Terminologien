@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73",
   "type": "Concept",
   "prefLabel": {
-    "de": "Glas",
-    "en": "glas"
+    "en": "glas",
+    "de": "Glas"
   },
   "definition": {
     "de": "anorganischer, amorpher Feststoff, der durch schnelles Abkühlen einer Schmelze ohne Kristallisation erzeugt wird. Gläser bestehen in der Regel aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3))."
@@ -45,15 +45,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BG987D",
       "prefLabel": {
-        "de": "weeping",
-        "en": "weeping glas"
+        "en": "weeping glas",
+        "de": "weeping"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DGC3A9",
       "prefLabel": {
-        "de": "Glaskorrosion",
-        "en": "sugaring"
+        "en": "sugaring",
+        "de": "Glaskorrosion"
       }
     }
   ],

@@ -27,8 +27,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD6B5",
       "prefLabel": {
-        "de": "Risikobeurteilung",
-        "en": "risk assessment"
+        "en": "risk assessment",
+        "de": "Risikobeurteilung"
       }
     },
     {
@@ -40,8 +40,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF23F",
       "prefLabel": {
-        "de": "Methodik",
-        "en": "methodology"
+        "en": "methodology",
+        "de": "Methodik"
       }
     }
   ],
@@ -55,8 +55,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
       "prefLabel": {
-        "de": "Zustandserfassung",
-        "en": "Condition assessment"
+        "en": "Condition assessment",
+        "de": "Zustandserfassung"
       }
     }
   ],

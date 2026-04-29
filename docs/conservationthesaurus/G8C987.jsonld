@@ -19,16 +19,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA6941",
     "prefLabel": {
-      "de": "[Untersuchungsgerät]",
-      "en": "analytical device"
+      "en": "analytical device",
+      "de": "[Untersuchungsgerät]"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B53C8F",
       "prefLabel": {
-        "de": "UV-Lumineszenz-Untersuchung",
-        "en": "uv fluorescence examination"
+        "en": "uv fluorescence examination",
+        "de": "UV-Lumineszenz-Untersuchung"
       }
     }
   ],

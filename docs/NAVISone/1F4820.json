@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1F4820",
   "type": "Concept",
   "prefLabel": {
+    "en": "Masthead",
     "de": "Masttopp",
     "dk": "Mastetop",
-    "en": "Masthead",
     "es": "tope del palo",
     "gr": "Λαιμός Στήλης ή Επιστηλίου, Κολομπίρι",
     "it": "Calcese",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1D1955",
   "type": "Concept",
   "prefLabel": {
+    "en": "Nail",
     "de": "Nagel",
     "dk": "Spiger, Søm",
-    "en": "Nail",
     "es": "clavo",
     "fr": "Clou",
     "gr": "Καρφί",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

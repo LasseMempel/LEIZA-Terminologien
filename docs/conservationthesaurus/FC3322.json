@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC3322",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ausstellungsentnahme",
-    "en": "exhibition withdrawal"
+    "en": "exhibition withdrawal",
+    "de": "Ausstellungsentnahme"
   },
   "definition": {
     "de": "Das Objekt war ausgestellt und wurde zur Bearbeitung aus der Ausstellung/der Vitirine entnommen."

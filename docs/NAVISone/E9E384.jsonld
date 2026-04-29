@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/E9E384",
   "type": "Concept",
   "prefLabel": {
+    "en": "prow block",
     "de": "Bugholz",
     "dk": "stævnblok",
-    "en": "prow block",
     "es": "prow block (eng)",
     "fr": "épaulure",
     "it": "blocco di prua",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

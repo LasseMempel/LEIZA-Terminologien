@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/20AB84",
   "type": "Concept",
   "prefLabel": {
+    "en": "Keelson",
     "de": "Kielschwein",
     "dk": "Kølsvin",
-    "en": "Keelson",
     "es": "sobrequilla",
     "fr": "Carlingue",
     "gr": "Κόντρα Καρένα, Σωτρόπι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

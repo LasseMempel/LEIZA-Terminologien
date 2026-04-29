@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA6941",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Untersuchungsgerät]",
-    "en": "analytical device"
+    "en": "analytical device",
+    "de": "[Untersuchungsgerät]"
   },
   "altLabel": {
     "de": [
@@ -26,22 +26,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B538AG",
       "prefLabel": {
-        "de": "Mikroskop",
-        "en": "microscope"
+        "en": "microscope",
+        "de": "Mikroskop"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G8D62A",
       "prefLabel": {
-        "de": "konventionelles Röntgengerät",
-        "en": "X-ray unit"
+        "en": "X-ray unit",
+        "de": "konventionelles Röntgengerät"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DG6841",
       "prefLabel": {
-        "de": "Computertomograph",
-        "en": "computed tomography scanner"
+        "en": "computed tomography scanner",
+        "de": "Computertomograph"
       }
     },
     {
@@ -54,8 +54,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA1BC5",
     "prefLabel": {
-      "de": "Objektuntersuchung",
-      "en": "examination"
+      "en": "examination",
+      "de": "Objektuntersuchung"
     }
   },
   "relatedMatch": [

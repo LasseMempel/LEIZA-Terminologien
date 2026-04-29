@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/FF8A47",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mould construction",
     "de": "Mallenbauweise",
     "dk": "Bygget på maller",
-    "en": "Mould construction",
     "es": "A molde",
     "fr": "Sur moules",
     "it": "Costruzione su sagoma",
@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

@@ -33,8 +33,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
     "prefLabel": {
-      "de": "[Untersuchungsergebnisse]",
-      "en": "examination results"
+      "en": "examination results",
+      "de": "[Untersuchungsergebnisse]"
     }
   },
   "related": [

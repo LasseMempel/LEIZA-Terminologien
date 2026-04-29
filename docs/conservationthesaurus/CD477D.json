@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD477D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kohlefaser",
-    "en": "carbon fibre"
+    "en": "carbon fibre",
+    "de": "Kohlefaser"
   },
   "altLabel": {
     "de": [
@@ -17,8 +17,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
     "prefLabel": {
-      "de": "Verstärkungsfaser",
-      "en": "reinforcing fiber"
+      "en": "reinforcing fiber",
+      "de": "Verstärkungsfaser"
     }
   },
   "inScheme": [

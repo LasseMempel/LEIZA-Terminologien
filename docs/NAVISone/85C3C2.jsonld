@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/85C3C2",
   "type": "Concept",
   "prefLabel": {
+    "en": "withy",
     "de": "Rute",
     "dk": "vidje",
-    "en": "withy",
     "es": "mimbre",
     "fr": "osier",
     "gr": "το βούρλο",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

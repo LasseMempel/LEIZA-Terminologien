@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCB7A5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Röntgenfluoresezenzanalyse",
-    "en": "XRF"
+    "en": "XRF",
+    "de": "Röntgenfluoresezenzanalyse"
   },
   "altLabel": {
-    "de": [
-      "RFA"
-    ],
     "en": [
       "X-ray fluorescence analysis"
+    ],
+    "de": [
+      "RFA"
     ]
   },
   "notation": [
@@ -19,8 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
     "prefLabel": {
-      "de": "Materialanalyse",
-      "en": "material analysis"
+      "en": "material analysis",
+      "de": "Materialanalyse"
     }
   },
   "relatedMatch": [

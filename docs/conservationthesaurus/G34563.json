@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G34563",
   "type": "Concept",
   "prefLabel": {
-    "de": "Siedegrenzbenzin",
-    "en": "white spirit"
+    "en": "white spirit",
+    "de": "Siedegrenzbenzin"
   },
   "altLabel": {
     "de": [
@@ -36,8 +36,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel",
-      "en": "solvent"
+      "en": "solvent",
+      "de": "Lösungsmittel"
     }
   },
   "inScheme": [

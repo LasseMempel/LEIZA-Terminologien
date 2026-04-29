@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G87B12",
   "type": "Concept",
   "prefLabel": {
-    "de": "Thermoionisations-Massenspektrometrie",
-    "en": "thermal ionization mass spectrometry"
+    "en": "thermal ionization mass spectrometry",
+    "de": "Thermoionisations-Massenspektrometrie"
   },
   "altLabel": {
     "de": [
@@ -16,8 +16,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CG676B",
     "prefLabel": {
-      "de": "Analyse der isotopischen Zusammensetzung",
-      "en": "Analysis of isotopic composition"
+      "en": "Analysis of isotopic composition",
+      "de": "Analyse der isotopischen Zusammensetzung"
     }
   },
   "inScheme": [

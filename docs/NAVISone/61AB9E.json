@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/61AB9E",
   "type": "Concept",
   "prefLabel": {
+    "en": "Deck",
     "de": "Deck",
     "dk": "Dæk",
-    "en": "Deck",
     "es": "cubierta",
     "fr": "Pont",
     "gr": "Κατάστρωμα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/8",
     "prefLabel": {
-      "de": "[Decks und Weger]",
-      "en": "[decks and ceilings]"
+      "en": "[decks and ceilings]",
+      "de": "[Decks und Weger]"
     }
   },
   "inScheme": [

@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zustandsbeschreibung",
-    "en": "physical condition"
+    "en": "physical condition",
+    "de": "Zustandsbeschreibung"
   },
   "altLabel": {
     "de": [
@@ -22,8 +22,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397",
       "prefLabel": {
-        "de": "Feuchtigkeitsgehalt",
-        "en": "moisture content"
+        "en": "moisture content",
+        "de": "Feuchtigkeitsgehalt"
       }
     },
     {
@@ -35,22 +35,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C",
       "prefLabel": {
-        "de": "Veränderung",
-        "en": "alteration"
+        "en": "alteration",
+        "de": "Veränderung"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FB6AGB",
       "prefLabel": {
-        "de": "Stabilität",
-        "en": "stability"
+        "en": "stability",
+        "de": "Stabilität"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAB799",
       "prefLabel": {
-        "de": "Vollständigkeit",
-        "en": "integrity"
+        "en": "integrity",
+        "de": "Vollständigkeit"
       }
     },
     {
@@ -63,8 +63,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
     "prefLabel": {
-      "de": "[Untersuchungsergebnisse]",
-      "en": "examination results"
+      "en": "examination results",
+      "de": "[Untersuchungsergebnisse]"
     }
   },
   "relatedMatch": [

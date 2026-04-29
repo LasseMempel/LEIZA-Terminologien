@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/0E4547",
   "type": "Concept",
   "prefLabel": {
+    "en": "Sail (Sprit)",
     "de": "Segel (Sprit)",
     "dk": "Sejl",
-    "en": "Sail (Sprit)",
     "es": "vela",
     "fr": "Voile",
     "gr": "Πανί, Ιστίο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

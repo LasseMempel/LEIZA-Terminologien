@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/40D1A3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Mainz A",
-    "en": "Mainz A"
+    "en": "Mainz A",
+    "de": "Mainz A"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

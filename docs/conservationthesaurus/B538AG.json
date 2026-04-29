@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B538AG",
   "type": "Concept",
   "prefLabel": {
-    "de": "Mikroskop",
-    "en": "microscope"
+    "en": "microscope",
+    "de": "Mikroskop"
   },
   "definition": {
     "de": "Instrument, zur detaillierten bildlichen Darstellung von mikroskopisch kleinen Strukturen, die für das menschliche Auge ohne Hilfmittel nicht erkennbar sind. Mit Hilfe von Linsen und Licht oder Elektronenstrahlen, können die Strukturen/Abbildungen vergrößert und für das menschliche Auge wahrnehmbar gemacht werden."
@@ -15,23 +15,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC2113",
       "prefLabel": {
-        "de": "Lichtmikroskop",
-        "en": "light microscope"
+        "en": "light microscope",
+        "de": "Lichtmikroskop"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B764C6",
       "prefLabel": {
-        "de": "Rasterelektronenmikroskop",
-        "en": "scanning electron microscope"
+        "en": "scanning electron microscope",
+        "de": "Rasterelektronenmikroskop"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA6941",
     "prefLabel": {
-      "de": "[Untersuchungsgerät]",
-      "en": "analytical device"
+      "en": "analytical device",
+      "de": "[Untersuchungsgerät]"
     }
   },
   "related": [

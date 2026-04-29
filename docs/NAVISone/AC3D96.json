@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/AC3D96",
   "type": "Concept",
   "prefLabel": {
+    "en": "gripe",
     "de": "Stevenschuh/Anlauf",
     "dk": "stævnknæ",
-    "en": "gripe",
     "es": "trapa",
     "fr": "brion",
     "gr": "το στειρόποδο της πλώρης",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

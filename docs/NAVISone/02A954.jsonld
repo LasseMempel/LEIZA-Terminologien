@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/02A954",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rudder wing",
     "de": "Ruderverblendung",
     "dk": "Rorvinge",
-    "en": "Rudder wing",
     "es": "armazón del timón",
     "fr": "Rudder wing",
     "gr": "Rudder wing",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/11",
     "prefLabel": {
-      "de": "[Ruderanlage]",
-      "en": "[steering gear]"
+      "en": "[steering gear]",
+      "de": "[Ruderanlage]"
     }
   },
   "inScheme": [

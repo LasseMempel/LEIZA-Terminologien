@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F71C6B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eisen",
     "en": "iron",
+    "de": "Eisen",
     "fr": "fer"
   },
   "altLabel": {
@@ -20,16 +20,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566",
     "prefLabel": {
-      "de": "Unedelmetall",
-      "en": "base metal"
+      "en": "base metal",
+      "de": "Unedelmetall"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC75G1",
       "prefLabel": {
-        "de": "Eisenlegierung",
-        "en": "iron alloy"
+        "en": "iron alloy",
+        "de": "Eisenlegierung"
       }
     }
   ],

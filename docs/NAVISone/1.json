@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Schiffsfunktion]",
-    "en": "[ship function]"
+    "en": "[ship function]",
+    "de": "[Schiffsfunktion]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/2FF7C7",
       "prefLabel": {
+        "en": "Unknown ship function",
         "de": "Funktion unbekannt",
         "dk": "Ukendt skibsfunktion",
-        "en": "Unknown ship function",
         "es": "función desconocida",
         "fr": "Fonction du bateau inconnue",
         "gr": "Άγνωστη Λειτουργία",
@@ -23,9 +23,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/8B55C4",
       "prefLabel": {
+        "en": "Military vessel",
         "de": "Militärfahrzeug",
         "dk": "Militærfartøj",
-        "en": "Military vessel",
         "es": "buque de guerra",
         "fr": "Navire de guerre",
         "gr": "Πολεμικό",
@@ -37,9 +37,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/8D23B1",
       "prefLabel": {
+        "en": "Fishing vessel",
         "de": "Fischereifahrzeug",
         "dk": "Fiskefartøj",
-        "en": "Fishing vessel",
         "es": "barca pesquero",
         "fr": "Bateau de pêche",
         "gr": "Ψαράδικο",
@@ -51,16 +51,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/C4AA6D",
       "prefLabel": {
-        "de": "Blockade",
-        "en": "blockage"
+        "en": "blockage",
+        "de": "Blockade"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/C5A0B6",
       "prefLabel": {
+        "en": "Transport vessel",
         "de": "Frachter",
         "dk": "Transportfartøj",
-        "en": "Transport vessel",
         "es": "buque mercantil o transporte",
         "fr": "Navire transport",
         "gr": "Λάντζα, Μαούνα",
@@ -72,9 +72,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D7F183",
       "prefLabel": {
+        "en": "Working boat",
         "de": "Arbeitsboot",
         "dk": "Arbejdsbåd",
-        "en": "Working boat",
         "es": "mahona",
         "fr": "Bateau de travail",
         "gr": "Εμπορικό Πλοίο",

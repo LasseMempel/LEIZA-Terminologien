@@ -14,8 +14,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B6C1A7",
       "prefLabel": {
-        "de": "Destilliertes Wasser",
-        "en": "distilled water"
+        "en": "distilled water",
+        "de": "Destilliertes Wasser"
       }
     },
     {
@@ -28,16 +28,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel",
-      "en": "solvent"
+      "en": "solvent",
+      "de": "Lösungsmittel"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532",
       "prefLabel": {
-        "de": "Entsalzung",
-        "en": "desalination"
+        "en": "desalination",
+        "de": "Entsalzung"
       }
     }
   ],

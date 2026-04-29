@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D72F3A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Aceton",
-    "en": "acetone"
+    "en": "acetone",
+    "de": "Aceton"
   },
   "definition": {
     "de": "klare, charakteristisch aromatisch-süßlich riechende Flüssigkeit, die als weitverbreitestes organisches Lösungsmittel für eine Vielzahl an Polymeren, Fetten, Wachsen und Ölen verwendet wird. Aceton ist stark flüchtig und eignet sich aufgrund seiner schnellen Verdunstung und starken Lösungskraft sehr gut für gezielte Reinigungsarbeiten, ohne das zu behandelne Material zu stark zu durchfeuchten. Darüber hinaus wird es häufig für die Herstellung von Polymerlösungen für Klebungen, Tränkungen oder Schutzüberzüge verwendet. Aceton ist akut gesundheitsgefährdend und sollte stets mit den nötigen Sicherheitsvorkehrungen verwendet werden."
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
     "prefLabel": {
-      "de": "Lösungsmittel",
-      "en": "solvent"
+      "en": "solvent",
+      "de": "Lösungsmittel"
     }
   },
   "closeMatch": [

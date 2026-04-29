@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/AF72E8",
   "type": "Concept",
   "prefLabel": {
+    "en": "Stanchion",
     "de": "Stütze",
     "dk": "Stander",
-    "en": "Stanchion",
     "es": "puntal",
     "fr": "Épontille",
     "gr": "Στυλίσκος, Πουντέλι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

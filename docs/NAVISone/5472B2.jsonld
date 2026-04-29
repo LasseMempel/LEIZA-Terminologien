@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/5472B2",
   "type": "Concept",
   "prefLabel": {
+    "en": "Hulklike",
     "de": "hulkähnlich",
     "dk": "Holktype",
-    "en": "Hulklike",
     "es": "pontón",
     "fr": "Bateau rond",
     "gr": "Τύπος “Hulklike”",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

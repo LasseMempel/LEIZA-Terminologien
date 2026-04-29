@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/8",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Decks und Weger]",
-    "en": "[decks and ceilings]"
+    "en": "[decks and ceilings]",
+    "de": "[Decks und Weger]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/0BE8C2",
       "prefLabel": {
+        "en": "Joist",
         "de": "Decksbalken",
         "dk": "Bjælke",
-        "en": "Joist",
         "es": "bao de cubierta",
         "fr": "Barrot De Pont",
         "gr": "Δοκάρι",
@@ -23,9 +23,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/10E2CF",
       "prefLabel": {
+        "en": "Gangway",
         "de": "Laufplanke",
         "dk": "Gangbro",
-        "en": "Gangway",
         "es": "Pasadizo",
         "gr": "Μαδερόσκαλα",
         "it": "Passerella",
@@ -36,9 +36,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/61AB9E",
       "prefLabel": {
+        "en": "Deck",
         "de": "Deck",
         "dk": "Dæk",
-        "en": "Deck",
         "es": "cubierta",
         "fr": "Pont",
         "gr": "Κατάστρωμα",
@@ -50,9 +50,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/817F57",
       "prefLabel": {
+        "en": "Deckplank",
         "de": "Decksplanke",
         "dk": "Dæksplanke",
-        "en": "Deckplank",
         "es": "tablazón de cubierta",
         "fr": "Bordage De Pont",
         "gr": "Μαδέρια του Καταστρώματος",
@@ -64,9 +64,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/EF0C63",
       "prefLabel": {
+        "en": "Hatch",
         "de": "Lukendeckel",
         "dk": "Luge",
-        "en": "Hatch",
         "es": "Cuartel De Escotilla",
         "fr": "Écoutille",
         "gr": "Κάθοδος, Κουβούσι",

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A00109",
   "type": "Concept",
   "prefLabel": {
+    "en": "filler",
     "de": "Futterholz",
     "dk": "fyldtræ",
-    "en": "filler",
     "es": "pieza de relleno",
     "fr": "cale de remplissage",
     "gr": "ο ζωστήρας",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

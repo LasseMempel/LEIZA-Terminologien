@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/29CBC9",
   "type": "Concept",
   "prefLabel": {
+    "en": "Garboard Strake",
     "de": "Kielgang",
     "dk": "Kølbord",
-    "en": "Garboard Strake",
     "es": "traca de aparadura",
     "fr": "Galbord",
     "gr": "Τουρέλο, Επιστρόφιον",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582",
   "type": "Concept",
   "prefLabel": {
-    "de": "Acrylharz",
-    "en": "acrylic resin"
+    "en": "acrylic resin",
+    "de": "Acrylharz"
   },
   "altLabel": {
+    "en": [
+      "polyacrylate"
+    ],
     "de": [
       "Acrylpolymere",
       "Polyacrylat"
-    ],
-    "en": [
-      "polyacrylate"
     ]
   },
   "definition": {
@@ -96,8 +96,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9F783",
       "prefLabel": {
-        "de": "Cyanacrylat",
-        "en": "cyanoacrylate"
+        "en": "cyanoacrylate",
+        "de": "Cyanacrylat"
       }
     },
     {
@@ -116,8 +116,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A1D125",
     "prefLabel": {
-      "de": "synthetisches Polymer",
-      "en": "synthetic polymer"
+      "en": "synthetic polymer",
+      "de": "synthetisches Polymer"
     }
   },
   "related": [
@@ -130,8 +130,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
-        "de": "Verstärkung",
-        "en": "reinforcement"
+        "en": "reinforcement",
+        "de": "Verstärkung"
       }
     },
     {
@@ -149,8 +149,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
       "prefLabel": {
-        "de": "Festigung",
-        "en": "consolidation"
+        "en": "consolidation",
+        "de": "Festigung"
       }
     }
   ],

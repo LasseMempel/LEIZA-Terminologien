@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/2215C5",
   "type": "Concept",
   "prefLabel": {
+    "en": "bilgerinne (ger)",
     "de": "Bilgerinne",
     "dk": "kølrende",
-    "en": "bilgerinne (ger)",
     "es": "sentina",
     "fr": "gouttière de bouchain",
     "it": "canale di sentina",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

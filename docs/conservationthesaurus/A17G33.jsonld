@@ -10,8 +10,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
     "prefLabel": {
-      "de": "Füllstoff",
-      "en": "filler"
+      "en": "filler",
+      "de": "Füllstoff"
     }
   },
   "inScheme": [

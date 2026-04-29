@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/0BE8C2",
   "type": "Concept",
   "prefLabel": {
+    "en": "Joist",
     "de": "Decksbalken",
     "dk": "Bjælke",
-    "en": "Joist",
     "es": "bao de cubierta",
     "fr": "Barrot De Pont",
     "gr": "Δοκάρι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/8",
     "prefLabel": {
-      "de": "[Decks und Weger]",
-      "en": "[decks and ceilings]"
+      "en": "[decks and ceilings]",
+      "de": "[Decks und Weger]"
     }
   },
   "inScheme": [

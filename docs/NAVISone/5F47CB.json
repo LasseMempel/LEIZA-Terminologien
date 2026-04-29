@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/5F47CB",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rudder (Stern)",
     "de": "Ruder (Heck)",
     "dk": "Hækror",
-    "en": "Rudder (Stern)",
     "es": "timón de espadilla",
     "gr": "Πρωραίο Πηδάλιο",
     "it": "Timone (Poppa)",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/11",
     "prefLabel": {
-      "de": "[Ruderanlage]",
-      "en": "[steering gear]"
+      "en": "[steering gear]",
+      "de": "[Ruderanlage]"
     }
   },
   "inScheme": [

@@ -62,8 +62,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD3858",
       "prefLabel": {
-        "de": "Acrylglas",
-        "en": "acrylic glass"
+        "en": "acrylic glass",
+        "de": "Acrylglas"
       }
     },
     {
@@ -82,8 +82,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien",
-      "en": "restoration material"
+      "en": "restoration material",
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/441BAE",
   "type": "Concept",
   "prefLabel": {
+    "en": "Sail (Lateen)",
     "de": "Segel (Lateiner)",
     "dk": "Sejl (Latiner)",
-    "en": "Sail (Lateen)",
     "es": "vela latina",
     "fr": "Voile Latine",
     "gr": "Πανί (λατίνι)",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

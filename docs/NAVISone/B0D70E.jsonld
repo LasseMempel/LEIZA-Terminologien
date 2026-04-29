@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/B0D70E",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast Support",
     "de": "Maststütze",
     "dk": "Mastestøtte",
-    "en": "Mast Support",
     "es": "puntal para el  palo",
     "gr": "Διαδοκίς, Πικεριά",
     "it": "Supporto della albero",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

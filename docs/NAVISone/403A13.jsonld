@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/403A13",
   "type": "Concept",
   "prefLabel": {
+    "en": "cleat",
     "de": "Klampe",
     "dk": "klamp",
-    "en": "cleat",
     "es": "cornamusa",
     "fr": "taquet",
     "gr": "το κοράκι,η δέστρα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

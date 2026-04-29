@@ -26,8 +26,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA4F93",
       "prefLabel": {
-        "de": "Textil",
-        "en": "textile"
+        "en": "textile",
+        "de": "Textil"
       }
     },
     {
@@ -39,8 +39,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A",
       "prefLabel": {
-        "de": "Bürste",
-        "en": "brush"
+        "en": "brush",
+        "de": "Bürste"
       }
     },
     {
@@ -70,8 +70,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CG825A",
       "prefLabel": {
-        "de": "Wattestäbchen",
-        "en": "cotton swab"
+        "en": "cotton swab",
+        "de": "Wattestäbchen"
       }
     },
     {
@@ -83,8 +83,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1A63D",
       "prefLabel": {
-        "de": "Putzholz",
-        "en": "cleaning wood stick"
+        "en": "cleaning wood stick",
+        "de": "Putzholz"
       }
     },
     {
@@ -96,29 +96,29 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F91CBB",
       "prefLabel": {
-        "de": "Radiergummi",
-        "en": "eraser"
+        "en": "eraser",
+        "de": "Radiergummi"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9",
       "prefLabel": {
-        "de": "Schwamm",
-        "en": "sponge"
+        "en": "sponge",
+        "de": "Schwamm"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ACB46G",
       "prefLabel": {
-        "de": "Stachelschweinborste",
-        "en": "porcupine bristle"
+        "en": "porcupine bristle",
+        "de": "Stachelschweinborste"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D1C67A",
       "prefLabel": {
-        "de": "Metallschaber",
-        "en": "metal scraper"
+        "en": "metal scraper",
+        "de": "Metallschaber"
       }
     },
     {
@@ -130,22 +130,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F18C56",
       "prefLabel": {
-        "de": "Holzschaber",
-        "en": "wood scraper"
+        "en": "wood scraper",
+        "de": "Holzschaber"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F71C33",
       "prefLabel": {
-        "de": "Skalpell",
-        "en": "scalpel"
+        "en": "scalpel",
+        "de": "Skalpell"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G33846",
       "prefLabel": {
-        "de": "Acrylglasschaber",
-        "en": "acrylic scraper"
+        "en": "acrylic scraper",
+        "de": "Acrylglasschaber"
       }
     }
   ],

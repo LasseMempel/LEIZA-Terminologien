@@ -14,39 +14,39 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9F6DG",
       "prefLabel": {
-        "de": "Elektrum",
         "en": "electrum",
+        "de": "Elektrum",
         "fr": "électrum"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AD789F",
       "prefLabel": {
-        "de": "Silberlegierung",
-        "en": "silver alloy"
+        "en": "silver alloy",
+        "de": "Silberlegierung"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DC5B2B",
       "prefLabel": {
-        "de": "Goldlegierung",
-        "en": "gold alloy"
+        "en": "gold alloy",
+        "de": "Goldlegierung"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13",
     "prefLabel": {
-      "de": "Metalllegierung",
-      "en": "metal alloy"
+      "en": "metal alloy",
+      "de": "Metalllegierung"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A",
       "prefLabel": {
-        "de": "Edelmetall",
-        "en": "nobel metal"
+        "en": "nobel metal",
+        "de": "Edelmetall"
       }
     }
   ],

@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341",
   "type": "Concept",
   "prefLabel": {
-    "de": "organisches Material",
-    "en": "organic"
+    "en": "organic",
+    "de": "organisches Material"
   },
   "altLabel": {
     "de": [
@@ -33,8 +33,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F",
       "prefLabel": {
-        "de": "Materialien tierischen Ursprungs",
-        "en": "animal material"
+        "en": "animal material",
+        "de": "Materialien tierischen Ursprungs"
       }
     }
   ],

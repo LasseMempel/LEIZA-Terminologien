@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4",
     "prefLabel": {
-      "de": "stabilisierende Konservierung",
-      "en": "conservation"
+      "en": "conservation",
+      "de": "stabilisierende Konservierung"
     }
   },
   "related": [

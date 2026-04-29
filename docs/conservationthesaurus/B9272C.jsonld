@@ -16,8 +16,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A",
     "prefLabel": {
-      "de": "Bürste",
-      "en": "brush"
+      "en": "brush",
+      "de": "Bürste"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/883E8D",
   "type": "Concept",
   "prefLabel": {
+    "en": "Undefined ship type",
     "de": "Unbekannter Schiffstyp",
     "dk": "Udefineret skibstype",
-    "en": "Undefined ship type",
     "es": "tipo desconocido",
     "fr": "Type du bateau inconnu",
     "gr": "Ακαθόριστος Τύπος",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

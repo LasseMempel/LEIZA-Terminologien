@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/B00683",
   "type": "Concept",
   "prefLabel": {
+    "en": "false keel",
     "de": "falscher Kiel",
     "dk": "stråkøl",
-    "en": "false keel",
     "es": "falsa quilla",
     "fr": "fausse-quille",
     "gr": "το χέλυσμα,το υποτρόπιον",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

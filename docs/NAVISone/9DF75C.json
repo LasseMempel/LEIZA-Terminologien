@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/9DF75C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Cabin",
     "de": "Kabine",
     "dk": "Kahyt",
-    "en": "Cabin",
     "es": "camarote",
     "fr": "Cabine",
     "gr": "Καμπίνα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/19",
     "prefLabel": {
-      "de": "[Aufbauten]",
-      "en": "[superstructure]"
+      "en": "[superstructure]",
+      "de": "[Aufbauten]"
     }
   },
   "inScheme": [

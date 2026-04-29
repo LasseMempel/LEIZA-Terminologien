@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/7D2D8B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Küste",
-    "en": "Coastal"
+    "en": "Coastal",
+    "de": "Küste"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/2",
     "prefLabel": {
-      "de": "[Arbeitsumgebung]",
-      "en": "[operating environment]"
+      "en": "[operating environment]",
+      "de": "[Arbeitsumgebung]"
     }
   },
   "inScheme": [

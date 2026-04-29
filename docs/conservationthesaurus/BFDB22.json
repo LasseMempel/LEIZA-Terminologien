@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFDB22",
   "type": "Concept",
   "prefLabel": {
-    "de": "Spannungsrisskorrosion",
-    "en": "stress corrosion cracking"
+    "en": "stress corrosion cracking",
+    "de": "Spannungsrisskorrosion"
   },
   "altLabel": {
     "de": [

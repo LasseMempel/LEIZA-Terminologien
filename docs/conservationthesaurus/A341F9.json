@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schwamm",
-    "en": "sponge"
+    "en": "sponge",
+    "de": "Schwamm"
   },
   "notation": [
     "A341F9"
@@ -18,8 +18,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
       "prefLabel": {
-        "de": "Reinigung",
-        "en": "cleaning"
+        "en": "cleaning",
+        "de": "Reinigung"
       }
     }
   ],

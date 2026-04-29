@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/2EA1AB",
   "type": "Concept",
   "prefLabel": {
+    "en": "Offshore",
     "de": "See",
     "dk": "Hav",
-    "en": "Offshore",
     "es": "navegación de alta mar",
     "fr": "Mer",
     "gr": "Ανοικτή Θάλασσα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/2",
     "prefLabel": {
-      "de": "[Arbeitsumgebung]",
-      "en": "[operating environment]"
+      "en": "[operating environment]",
+      "de": "[Arbeitsumgebung]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/2B8C74",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast Step",
     "de": "Mastspur",
     "dk": "Mastespor",
-    "en": "Mast Step",
     "es": "carlinga del palo",
     "fr": "Emplanture De Mât",
     "gr": "Υποπτερνίς, Σκάτσα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

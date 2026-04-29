@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/2FF7C7",
   "type": "Concept",
   "prefLabel": {
+    "en": "Unknown ship function",
     "de": "Funktion unbekannt",
     "dk": "Ukendt skibsfunktion",
-    "en": "Unknown ship function",
     "es": "función desconocida",
     "fr": "Fonction du bateau inconnue",
     "gr": "Άγνωστη Λειτουργία",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/1",
     "prefLabel": {
-      "de": "[Schiffsfunktion]",
-      "en": "[ship function]"
+      "en": "[ship function]",
+      "de": "[Schiffsfunktion]"
     }
   },
   "inScheme": [

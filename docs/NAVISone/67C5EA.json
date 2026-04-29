@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/67C5EA",
   "type": "Concept",
   "prefLabel": {
+    "en": "Igel",
     "de": "Typ Igel",
     "dk": "Igel",
-    "en": "Igel",
     "es": "tipo Igel",
     "fr": "Igel",
     "gr": "Τύπος “Ιgel”",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

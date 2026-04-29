@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/619AD3",
   "type": "Concept",
   "prefLabel": {
+    "en": "Unknown constructional feature",
     "de": "Unbekannte Konstruktion",
     "dk": "Ukendt konstruktion",
-    "en": "Unknown constructional feature",
     "es": "característica desconocida",
     "gr": "Άγνωστο Κατασκευαστικό Στοιχείο",
     "it": "Costruzione sconosciuta",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

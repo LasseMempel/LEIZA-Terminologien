@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D6F501",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zwammerdam",
-    "en": "Zwammerdam"
+    "en": "Zwammerdam",
+    "de": "Zwammerdam"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

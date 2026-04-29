@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3733A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Feuchtreinigung",
-    "en": "wet cleaning"
+    "en": "wet cleaning",
+    "de": "Feuchtreinigung"
   },
   "altLabel": {
     "de": [
@@ -19,30 +19,30 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
     "prefLabel": {
-      "de": "Reinigung",
-      "en": "cleaning"
+      "en": "cleaning",
+      "de": "Reinigung"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746",
       "prefLabel": {
-        "de": "Base",
-        "en": "alkaline solution"
+        "en": "alkaline solution",
+        "de": "Base"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF",
       "prefLabel": {
-        "de": "Lösungsmittel",
-        "en": "solvent"
+        "en": "solvent",
+        "de": "Lösungsmittel"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
       "prefLabel": {
-        "de": "Säure",
-        "en": "acidic detergent"
+        "en": "acidic detergent",
+        "de": "Säure"
       }
     },
     {

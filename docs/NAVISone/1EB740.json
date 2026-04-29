@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1EB740",
   "type": "Concept",
   "prefLabel": {
+    "en": "Decoration",
     "de": "Dekoration",
     "dk": "Dekoration",
-    "en": "Decoration",
     "es": "decoración",
     "fr": "Decoration",
     "gr": "Διακόσμηση",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/16",
     "prefLabel": {
-      "de": "[Oberflächenbehandlung]",
-      "en": "[surface treatment]"
+      "en": "[surface treatment]",
+      "de": "[Oberflächenbehandlung]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D03311",
   "type": "Concept",
   "prefLabel": {
+    "en": "Ceiling",
     "de": "Wegerung",
     "dk": "Garnering",
-    "en": "Ceiling",
     "es": "ferro interior / vagras",
     "fr": "Valgrage",
     "gr": "Εντερόνεια, Φόδρο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

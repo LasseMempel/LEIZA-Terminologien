@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A3D91B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Muschel",
-    "en": "shell"
+    "en": "shell",
+    "de": "Muschel"
   },
   "altLabel": {
     "de": [

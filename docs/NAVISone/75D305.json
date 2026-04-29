@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/75D305",
   "type": "Concept",
   "prefLabel": {
+    "en": "Paddle",
     "de": "Paddel",
     "dk": "Padle",
-    "en": "Paddle",
     "es": "pala",
     "fr": "Pagaye",
     "gr": "Κουπί φτυάρι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/12",
     "prefLabel": {
-      "de": "[Rudern und paddeln]",
-      "en": "[rowing and paddling]"
+      "en": "[rowing and paddling]",
+      "de": "[Rudern und paddeln]"
     }
   },
   "inScheme": [

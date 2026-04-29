@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A5G856",
   "type": "Concept",
   "prefLabel": {
-    "de": "Baumwolle",
-    "en": "cotton"
+    "en": "cotton",
+    "de": "Baumwolle"
   },
   "altLabel": {
     "de": [
@@ -19,8 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25",
     "prefLabel": {
-      "de": "pflanzliche Fasern",
-      "en": "plant fibres"
+      "en": "plant fibres",
+      "de": "pflanzliche Fasern"
     }
   },
   "closeMatch": [

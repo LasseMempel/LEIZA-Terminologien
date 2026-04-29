@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9F783",
   "type": "Concept",
   "prefLabel": {
-    "de": "Cyanacrylat",
-    "en": "cyanoacrylate"
+    "en": "cyanoacrylate",
+    "de": "Cyanacrylat"
   },
   "altLabel": {
     "de": [
@@ -28,8 +28,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582",
     "prefLabel": {
-      "de": "Acrylharz",
-      "en": "acrylic resin"
+      "en": "acrylic resin",
+      "de": "Acrylharz"
     }
   },
   "closeMatch": [

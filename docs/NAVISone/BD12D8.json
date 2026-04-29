@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/BD12D8",
   "type": "Concept",
   "prefLabel": {
+    "en": "Skeleton first",
     "de": "Skelettbauweise",
     "dk": "Skeletbygget",
-    "en": "Skeleton first",
     "es": "A esqueleto",
     "fr": "Construit sur couples",
     "it": "Scheletro portante",
@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

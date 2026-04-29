@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kupferlegierung",
-    "en": "copper alloy"
+    "en": "copper alloy",
+    "de": "Kupferlegierung"
   },
   "altLabel": {
     "de": [
@@ -20,22 +20,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14",
       "prefLabel": {
-        "de": "Bronze",
-        "en": "bronze"
+        "en": "bronze",
+        "de": "Bronze"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8B271",
       "prefLabel": {
-        "de": "Messing",
-        "en": "brass"
+        "en": "brass",
+        "de": "Messing"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B93G16",
       "prefLabel": {
-        "de": "Tombak",
-        "en": "tombac"
+        "en": "tombac",
+        "de": "Tombak"
       }
     }
   ],
@@ -49,8 +49,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B28FA6",
       "prefLabel": {
-        "de": "Kupfer",
-        "en": "copper"
+        "en": "copper",
+        "de": "Kupfer"
       }
     },
     {

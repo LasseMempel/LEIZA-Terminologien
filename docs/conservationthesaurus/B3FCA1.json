@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Reduktionsmittel",
-    "en": "reducing agent"
+    "en": "reducing agent",
+    "de": "Reduktionsmittel"
   },
   "definition": {
     "de": "chemische Substanz, die in der Lage ist bei einer chemischen Reaktion andere Substanzen zu reduzieren. Das Reduktionsmittel fungiert dabei als Eletronendonator (gibt Elektronen ab) und wird somit selbst oxidiert (Redoxreaktion). In der Restaurierung werden Reduktionsmittel eingesetzt, um die ungewollte Oxidation von Metallen zu reduzieren, Korrosionsprodukte zu entfernen und die ursprüngliche Erscheinung von Objekten wiederherzustellen."
@@ -46,8 +46,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien",
-      "en": "restoration material"
+      "en": "restoration material",
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
@@ -60,8 +60,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3A484",
       "prefLabel": {
-        "de": "Oxalsäure",
-        "en": "oxalic acid"
+        "en": "oxalic acid",
+        "de": "Oxalsäure"
       }
     },
     {

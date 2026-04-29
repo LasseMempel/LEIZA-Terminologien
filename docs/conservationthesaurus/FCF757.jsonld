@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757",
   "type": "Concept",
   "prefLabel": {
-    "de": "Tierhaut",
-    "en": "animal skin"
+    "en": "animal skin",
+    "de": "Tierhaut"
   },
   "definition": {
     "de": "organisches Material aus der vom Körper abgetrennten, äußersten Gewebehülle von Tieren, die durch verschiedene Verfahren haltbar und weiter verarbeitbar gemacht wurde."
@@ -15,30 +15,30 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A82C8C",
       "prefLabel": {
-        "de": "Rohhaut",
-        "en": "rawhide"
+        "en": "rawhide",
+        "de": "Rohhaut"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9C731",
       "prefLabel": {
-        "de": "Pergament",
-        "en": "parchment"
+        "en": "parchment",
+        "de": "Pergament"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D73F9B",
       "prefLabel": {
-        "de": "Leder",
-        "en": "leather"
+        "en": "leather",
+        "de": "Leder"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BA652F",
     "prefLabel": {
-      "de": "Kollagenhaltiges Material",
-      "en": "collagenous material"
+      "en": "collagenous material",
+      "de": "Kollagenhaltiges Material"
     }
   },
   "inScheme": [

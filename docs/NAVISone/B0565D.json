@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/B0565D",
   "type": "Concept",
   "prefLabel": {
+    "en": "Wale",
     "de": "Bargholz",
     "dk": "Bergholt",
-    "en": "Wale",
     "es": "cinta",
     "fr": "Préceinte",
     "gr": "Ζωστήρ",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

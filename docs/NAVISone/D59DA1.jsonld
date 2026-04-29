@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D59DA1",
   "type": "Concept",
   "prefLabel": {
+    "en": "Sheathing",
     "de": "Plankenbeschlag",
     "dk": "Forhudning",
-    "en": "Sheathing",
     "es": "revestimiento o forro",
     "fr": "Revétement, Doublage",
     "gr": "Εξωτερική Επένδυση",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/16",
     "prefLabel": {
-      "de": "[Oberflächenbehandlung]",
-      "en": "[surface treatment]"
+      "en": "[surface treatment]",
+      "de": "[Oberflächenbehandlung]"
     }
   },
   "inScheme": [

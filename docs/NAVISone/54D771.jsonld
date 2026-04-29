@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/54D771",
   "type": "Concept",
   "prefLabel": {
+    "en": "bolt",
     "de": "Bolzen",
     "dk": "bolt",
-    "en": "bolt",
     "es": "perno",
     "fr": "cheville",
     "gr": "ο ξύλινος πείρος",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

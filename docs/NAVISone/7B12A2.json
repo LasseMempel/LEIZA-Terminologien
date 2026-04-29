@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/7B12A2",
   "type": "Concept",
   "prefLabel": {
+    "en": "Oared",
     "de": "Gerudert",
     "dk": "Roet",
-    "en": "Oared",
     "es": "a remo",
     "fr": "À rames",
     "gr": "Κωπήλατο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

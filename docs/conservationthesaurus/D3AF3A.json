@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zustandsdokumentation",
-    "en": "condition documentation"
+    "en": "condition documentation",
+    "de": "Zustandsdokumentation"
   },
   "altLabel": {
-    "de": [
-      "Zustandsbericht"
-    ],
     "en": [
       "condition report"
+    ],
+    "de": [
+      "Zustandsbericht"
     ]
   },
   "definition": {
@@ -36,16 +36,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
     "prefLabel": {
-      "de": "Dokumentation",
-      "en": "documentation"
+      "en": "documentation",
+      "de": "Dokumentation"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
       "prefLabel": {
-        "de": "Zustandserfassung",
-        "en": "Condition assessment"
+        "en": "Condition assessment",
+        "de": "Zustandserfassung"
       }
     }
   ],

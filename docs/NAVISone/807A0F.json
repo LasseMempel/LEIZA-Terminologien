@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/807A0F",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rudder Beam",
     "de": "Ruderbalken",
     "dk": "Rorbjælke",
-    "en": "Rudder Beam",
     "es": "bancada de timón",
     "fr": "Poutre De Gouvernail",
     "gr": "Ζυγό του Τιμονιού",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/11",
     "prefLabel": {
-      "de": "[Ruderanlage]",
-      "en": "[steering gear]"
+      "en": "[steering gear]",
+      "de": "[Ruderanlage]"
     }
   },
   "inScheme": [

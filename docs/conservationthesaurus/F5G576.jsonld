@@ -2,15 +2,15 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576",
   "type": "Concept",
   "prefLabel": {
-    "de": "präventive Konservierung",
-    "en": "preventive conservation"
+    "en": "preventive conservation",
+    "de": "präventive Konservierung"
   },
   "altLabel": {
-    "de": [
-      "präventive Maßnahmen"
-    ],
     "en": [
       "preventive care"
+    ],
+    "de": [
+      "präventive Maßnahmen"
     ]
   },
   "definition": {

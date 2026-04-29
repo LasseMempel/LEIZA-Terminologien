@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/6491C3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kraweel (Seite)",
-    "en": "Carvel build (side)"
+    "en": "Carvel build (side)",
+    "de": "Kraweel (Seite)"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

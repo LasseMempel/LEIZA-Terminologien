@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/B61EB9",
   "type": "Concept",
   "prefLabel": {
+    "en": "Bulwark",
     "de": "Schanzkleid",
     "dk": "Skanseklædning",
-    "en": "Bulwark",
     "es": "borda ó regala",
     "gr": "Δρύφρακτο, Παραπέτο",
     "it": "Parapetto",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

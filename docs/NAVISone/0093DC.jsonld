@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/0093DC",
   "type": "Concept",
   "prefLabel": {
+    "en": "Shell",
     "de": "Schale",
     "dk": "Skal",
-    "en": "Shell",
     "es": "forro",
     "fr": "Bordé",
     "gr": "Κέλυφος",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

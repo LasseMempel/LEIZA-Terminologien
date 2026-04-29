@@ -20,16 +20,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D75514",
       "prefLabel": {
-        "de": "Rubin",
-        "en": "ruby"
+        "en": "ruby",
+        "de": "Rubin"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3",
     "prefLabel": {
-      "de": "Mineral",
-      "en": "mineral"
+      "en": "mineral",
+      "de": "Mineral"
     }
   },
   "closeMatch": [

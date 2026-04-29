@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B93G16",
   "type": "Concept",
   "prefLabel": {
-    "de": "Tombak",
-    "en": "tombac"
+    "en": "tombac",
+    "de": "Tombak"
   },
   "definition": {
     "de": "Kupfer-Zink Legierung, mit hohem Kupferanteil (> 67%) . Ähnlich dem Messing, aber durch den höheren Kupferanteil von deutlich rötlicherer Farbe."
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415",
     "prefLabel": {
-      "de": "Kupferlegierung",
-      "en": "copper alloy"
+      "en": "copper alloy",
+      "de": "Kupferlegierung"
     }
   },
   "closeMatch": [

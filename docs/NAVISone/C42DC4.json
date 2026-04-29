@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/C42DC4",
   "type": "Concept",
   "prefLabel": {
+    "en": "Navis oneraria",
     "de": "Navis oneraria",
     "dk": "Navis oneraria",
-    "en": "Navis oneraria",
     "es": "navis oneraria",
     "fr": "Navis oneraria",
     "gr": "Tύπος Oneraria",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

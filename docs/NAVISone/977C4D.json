@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/977C4D",
   "type": "Concept",
   "prefLabel": {
+    "en": "Chine",
     "de": "Kimm (Eckig)",
     "dk": "Kiming Skarp",
-    "en": "Chine",
     "es": "angular de pantoque",
     "fr": "Bouchain Vif",
     "gr": "Δούγας",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

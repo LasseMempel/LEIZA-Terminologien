@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A1B3F9",
   "type": "Concept",
   "prefLabel": {
+    "en": "Bulkhead",
     "de": "Schott",
     "dk": "Skot",
-    "en": "Bulkhead",
     "es": "mamparo",
     "fr": "Cloison",
     "gr": "Φράκτες, Μπουλμές",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

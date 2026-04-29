@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1E27F0",
   "type": "Concept",
   "prefLabel": {
+    "en": "Paddled and sailed",
     "de": "Gepaddelt und gesegelt",
     "dk": "Padlet og sejlet",
-    "en": "Paddled and sailed",
     "es": "a canalete y a vela",
     "fr": "À pagaye et à voile",
     "gr": "Κωπήλατο (ταρσοπλοϊα)  και Ιστιοφόρο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

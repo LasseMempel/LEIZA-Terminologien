@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/0B9A28",
   "type": "Concept",
   "prefLabel": {
+    "en": "stealer",
     "de": "Totgang",
     "dk": "indskudt bord",
-    "en": "stealer",
     "es": "traca perdida",
     "fr": "virure perdue",
     "it": "corso intercalato",
@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

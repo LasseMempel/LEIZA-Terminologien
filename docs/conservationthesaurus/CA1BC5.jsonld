@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA1BC5",
   "type": "Concept",
   "prefLabel": {
-    "de": "Objektuntersuchung",
-    "en": "examination"
+    "en": "examination",
+    "de": "Objektuntersuchung"
   },
   "definition": {
     "de": "Beschaffung und Sammlung von Informationen über den Zustand eines Objektes, anhand derer das Restaurierungs-/Konservierungskonzept und/oder die weiteren Lagerungs- und Handhabungsempefehlungen formuliert werden"
@@ -15,30 +15,30 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D4A13D",
       "prefLabel": {
-        "de": "[Untersuchungsmethode]",
-        "en": "examination method"
+        "en": "examination method",
+        "de": "[Untersuchungsmethode]"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AA6941",
       "prefLabel": {
-        "de": "[Untersuchungsgerät]",
-        "en": "analytical device"
+        "en": "analytical device",
+        "de": "[Untersuchungsgerät]"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57",
       "prefLabel": {
-        "de": "[Untersuchungsergebnisse]",
-        "en": "examination results"
+        "en": "examination results",
+        "de": "[Untersuchungsergebnisse]"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8",
     "prefLabel": {
-      "de": "Zustandserfassung",
-      "en": "Condition assessment"
+      "en": "Condition assessment",
+      "de": "Zustandserfassung"
     }
   },
   "relatedMatch": [

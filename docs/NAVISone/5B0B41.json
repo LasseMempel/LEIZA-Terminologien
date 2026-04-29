@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/5B0B41",
   "type": "Concept",
   "prefLabel": {
+    "en": "setting out mark",
     "de": "Anriss",
     "dk": "opridsningsmærker",
-    "en": "setting out mark",
     "es": "marcas",
     "fr": "marque",
     "gr": "το σημάδεμα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

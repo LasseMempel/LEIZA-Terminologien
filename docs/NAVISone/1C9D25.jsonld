@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1C9D25",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast Frame",
     "de": "Mastspant",
     "dk": "Mastespant",
-    "en": "Mast Frame",
     "es": "cuaderna del palo",
     "fr": "Couple De Mât",
     "gr": "Πλαίσιο του Ιστού",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

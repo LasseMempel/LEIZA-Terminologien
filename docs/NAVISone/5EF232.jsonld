@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/5EF232",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rail",
     "de": "Reling",
     "dk": "Gelænder",
-    "en": "Rail",
     "es": "barandilla",
     "gr": "Φράκτης",
     "it": "Pavese",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/19",
     "prefLabel": {
-      "de": "[Aufbauten]",
-      "en": "[superstructure]"
+      "en": "[superstructure]",
+      "de": "[Aufbauten]"
     }
   },
   "inScheme": [

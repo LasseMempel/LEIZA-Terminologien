@@ -18,8 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GD9CA3",
     "prefLabel": {
-      "de": "kondensationsvernetzender Silikonkautschuk",
-      "en": "Condensation-curing silicone rubber"
+      "en": "Condensation-curing silicone rubber",
+      "de": "kondensationsvernetzender Silikonkautschuk"
     }
   },
   "inScheme": [

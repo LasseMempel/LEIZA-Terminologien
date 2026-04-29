@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/09BEBF",
   "type": "Concept",
   "prefLabel": {
+    "en": "chine block",
     "de": "Kimmholz",
     "dk": "kimingsplanke",
-    "en": "chine block",
     "es": "curva del quiebro",
     "fr": "cornière de bouchain",
     "gr": "η καμπύλη της καρένας",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

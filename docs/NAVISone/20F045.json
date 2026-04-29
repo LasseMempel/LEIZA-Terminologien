@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/20F045",
   "type": "Concept",
   "prefLabel": {
+    "en": "Keel",
     "de": "Kiel",
     "dk": "Køl",
-    "en": "Keel",
     "es": "quilla",
     "fr": "Quille",
     "gr": "Καρένα, Τρόπις",
@@ -13,14 +13,14 @@
     "pl": "Stępka"
   },
   "definition": {
-    "de": "wichtigster, mittschiffs im Boden angebrachte Längsverband eines Schiffes oder Bootes. (Wikidata)",
-    "en": "Main structural members running for and aft along the bottom of a ship or boat, to which the frame of the vessel is attached. (Getty AAT)"
+    "en": "Main structural members running for and aft along the bottom of a ship or boat, to which the frame of the vessel is attached. (Getty AAT)",
+    "de": "wichtigster, mittschiffs im Boden angebrachte Längsverband eines Schiffes oder Bootes. (Wikidata)"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "exactMatch": [

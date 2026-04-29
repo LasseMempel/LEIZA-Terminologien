@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FFAF3C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Röntgendiffraktion",
-    "en": "X-ray diffraction"
+    "en": "X-ray diffraction",
+    "de": "Röntgendiffraktion"
   },
   "altLabel": {
     "de": [
@@ -17,8 +17,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G13A7B",
     "prefLabel": {
-      "de": "Strukturanalyse",
-      "en": "structural analysis"
+      "en": "structural analysis",
+      "de": "Strukturanalyse"
     }
   },
   "inScheme": [

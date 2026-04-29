@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/130F84",
   "type": "Concept",
   "prefLabel": {
+    "en": "Side Stempost",
     "de": "Seitensteven",
     "dk": "Sidestævn",
-    "en": "Side Stempost",
     "es": "roda lateral",
     "fr": "Proue Latérale",
     "gr": "Πλαϊνό της Πλώρης",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

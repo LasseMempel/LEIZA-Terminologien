@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D10A1D",
   "type": "Concept",
   "prefLabel": {
+    "en": "Figurehead",
     "de": "Stevendekoration",
     "dk": "Stævnfigur",
-    "en": "Figurehead",
     "es": "decoración de roda",
     "fr": "Figure De Proue",
     "gr": "Ακρόπρωρον",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

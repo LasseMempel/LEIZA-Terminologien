@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/3A4334",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rudder Fitting",
     "de": "Ruderfassung",
     "dk": "Rorfæste",
-    "en": "Rudder Fitting",
     "es": "guarnición del timón",
     "gr": "Rudder Fitting",
     "it": "Impianto del timone",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/11",
     "prefLabel": {
-      "de": "[Ruderanlage]",
-      "en": "[steering gear]"
+      "en": "[steering gear]",
+      "de": "[Ruderanlage]"
     }
   },
   "inScheme": [

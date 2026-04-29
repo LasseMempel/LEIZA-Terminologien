@@ -14,8 +14,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2B583",
       "prefLabel": {
-        "de": "Plastilin",
-        "en": "plasticine"
+        "en": "plasticine",
+        "de": "Plastilin"
       }
     },
     {
@@ -33,8 +33,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84",
       "prefLabel": {
-        "de": "Wachs",
-        "en": "wax"
+        "en": "wax",
+        "de": "Wachs"
       }
     }
   ],

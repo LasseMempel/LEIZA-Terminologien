@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/644D77",
   "type": "Concept",
   "prefLabel": {
+    "en": "Aftcastle",
     "de": "Achterkastell",
     "dk": "Agerkastel",
-    "en": "Aftcastle",
     "es": "castillo de popa",
     "gr": "Επίστεγον, Κάσσαρο",
     "it": "Castello di poppa",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/19",
     "prefLabel": {
-      "de": "[Aufbauten]",
-      "en": "[superstructure]"
+      "en": "[superstructure]",
+      "de": "[Aufbauten]"
     }
   },
   "inScheme": [

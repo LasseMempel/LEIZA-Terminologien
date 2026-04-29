@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FG3BCD",
   "type": "Concept",
   "prefLabel": {
-    "de": "Eichenholz",
-    "en": "oak"
+    "en": "oak",
+    "de": "Eichenholz"
   },
   "altLabel": {
     "de": [

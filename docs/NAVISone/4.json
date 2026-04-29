@@ -2,37 +2,37 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Schiffstyp]",
-    "en": "[ship type]"
+    "en": "[ship type]",
+    "de": "[Schiffstyp]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/0234D3",
       "prefLabel": {
-        "de": "Utrecht 3",
-        "en": "Utrecht 3"
+        "en": "Utrecht 3",
+        "de": "Utrecht 3"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/239F9C",
       "prefLabel": {
-        "de": "Brigg",
-        "en": "Brigg"
+        "en": "Brigg",
+        "de": "Brigg"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/26941E",
       "prefLabel": {
-        "de": "Dover",
-        "en": "Dover"
+        "en": "Dover",
+        "de": "Dover"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/3323FF",
       "prefLabel": {
+        "en": "Navis caudicaria",
         "de": "Navis caudicaria",
         "dk": "Navis caudicaria",
-        "en": "Navis caudicaria",
         "es": "navis caudicaria",
         "fr": "Navis caudicaria",
         "gr": "Tύπος Caudicaria",
@@ -44,30 +44,30 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/40D1A3",
       "prefLabel": {
-        "de": "Mainz A",
-        "en": "Mainz A"
+        "en": "Mainz A",
+        "de": "Mainz A"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/4EC602",
       "prefLabel": {
-        "de": "North Ferriby",
-        "en": "North Ferriby"
+        "en": "North Ferriby",
+        "de": "North Ferriby"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/51C929",
       "prefLabel": {
-        "de": "Zwammerdam 5",
-        "en": "Zwammerdam 5"
+        "en": "Zwammerdam 5",
+        "de": "Zwammerdam 5"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/5472B2",
       "prefLabel": {
+        "en": "Hulklike",
         "de": "hulkähnlich",
         "dk": "Holktype",
-        "en": "Hulklike",
         "es": "pontón",
         "fr": "Bateau rond",
         "gr": "Τύπος “Hulklike”",
@@ -79,9 +79,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/54E32C",
       "prefLabel": {
+        "en": "Viking ship like",
         "de": "wikingerschiffähnlich",
         "dk": "Vikingeskibslignende",
-        "en": "Viking ship like",
         "es": "nave vicinga",
         "fr": "Bateau viking",
         "gr": "Τύπος Βίκινγκς",
@@ -93,9 +93,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/63A6E4",
       "prefLabel": {
+        "en": "Coglike",
         "de": "koggenähnlich",
         "dk": "Koggetype",
-        "en": "Coglike",
         "es": "coca",
         "fr": "Cogue",
         "gr": "Τύπος “Cog”",
@@ -107,16 +107,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/679A09",
       "prefLabel": {
-        "de": "Woerden 1",
-        "en": "Woerden 1"
+        "en": "Woerden 1",
+        "de": "Woerden 1"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/67C5EA",
       "prefLabel": {
+        "en": "Igel",
         "de": "Typ Igel",
         "dk": "Igel",
-        "en": "Igel",
         "es": "tipo Igel",
         "fr": "Igel",
         "gr": "Τύπος “Ιgel”",
@@ -128,16 +128,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/6A2A87",
       "prefLabel": {
-        "de": "Utrecht 1",
-        "en": "Utrecht 1"
+        "en": "Utrecht 1",
+        "de": "Utrecht 1"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/883E8D",
       "prefLabel": {
+        "en": "Undefined ship type",
         "de": "Unbekannter Schiffstyp",
         "dk": "Udefineret skibstype",
-        "en": "Undefined ship type",
         "es": "tipo desconocido",
         "fr": "Type du bateau inconnu",
         "gr": "Ακαθόριστος Τύπος",
@@ -149,9 +149,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/8E26B8",
       "prefLabel": {
+        "en": "Pramlike",
         "de": "prahmähnlich",
         "dk": "Pramtype",
-        "en": "Pramlike",
         "es": "barca a fondo de batea",
         "fr": "Barque",
         "gr": "Μαούνα",
@@ -163,23 +163,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/96911B",
       "prefLabel": {
-        "de": "Zwammerdam 3",
-        "en": "Zwammerdam 3"
+        "en": "Zwammerdam 3",
+        "de": "Zwammerdam 3"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/A21BCC",
       "prefLabel": {
-        "de": "Blackfriars",
-        "en": "Blackfriars"
+        "en": "Blackfriars",
+        "de": "Blackfriars"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/AB5CBB",
       "prefLabel": {
+        "en": "Galley",
         "de": "galeerenähnlich",
         "dk": "Galej",
-        "en": "Galley",
         "es": "galera",
         "fr": "Galère",
         "gr": "Κέλης",
@@ -191,16 +191,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/ABFB76",
       "prefLabel": {
-        "de": "Mainz B",
-        "en": "Mainz B"
+        "en": "Mainz B",
+        "de": "Mainz B"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/AC906A",
       "prefLabel": {
+        "en": "Neumagen",
         "de": "Typ Neumagen",
         "dk": "Neumagen",
-        "en": "Neumagen",
         "es": "tipo Neumagen",
         "fr": "Neumagen",
         "gr": "Tύπος “Neumagen”",
@@ -212,16 +212,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B02E91",
       "prefLabel": {
-        "de": "Woerden 2",
-        "en": "Woerden 2"
+        "en": "Woerden 2",
+        "de": "Woerden 2"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B0F013",
       "prefLabel": {
+        "en": "Portus",
         "de": "Typ Portus",
         "dk": "Portus",
-        "en": "Portus",
         "es": "tipo portus",
         "fr": "Portus",
         "gr": "Τύπος “Portus”",
@@ -233,9 +233,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B2CF95",
       "prefLabel": {
+        "en": "Papyrus boat",
         "de": "Papyrusboot",
         "dk": "Papyrus boot",
-        "en": "Papyrus boat",
         "es": "nave de papiro",
         "fr": "Bateau en papyrus",
         "gr": "Παπυρένιο Σκάφος",
@@ -247,9 +247,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/C42DC4",
       "prefLabel": {
+        "en": "Navis oneraria",
         "de": "Navis oneraria",
         "dk": "Navis oneraria",
-        "en": "Navis oneraria",
         "es": "navis oneraria",
         "fr": "Navis oneraria",
         "gr": "Tύπος Oneraria",
@@ -261,23 +261,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/C8BE01",
       "prefLabel": {
-        "de": "Pommeroeul 1",
-        "en": "Pommeroeul 1"
+        "en": "Pommeroeul 1",
+        "de": "Pommeroeul 1"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D6F501",
       "prefLabel": {
-        "de": "Zwammerdam",
-        "en": "Zwammerdam"
+        "en": "Zwammerdam",
+        "de": "Zwammerdam"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/DC89EB",
       "prefLabel": {
+        "en": "Longship",
         "de": "Langschiff",
         "dk": "Langskib",
-        "en": "Longship",
         "es": "navis lunga",
         "fr": "Bateau long",
         "gr": "Μακρό Πλοίο",
@@ -289,9 +289,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/EAD7A9",
       "prefLabel": {
+        "en": "Extended Dugout",
         "de": "Erweiterter Einbaum",
         "dk": "Udspændt stammebåd",
-        "en": "Extended Dugout",
         "es": "piragua ampliada",
         "fr": "Canoé rehaussée",
         "gr": "Σκαφτό με Προεκτάσεις",
@@ -303,16 +303,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/ED5180",
       "prefLabel": {
-        "de": "Oberstimm",
-        "en": "Oberstimm"
+        "en": "Oberstimm",
+        "de": "Oberstimm"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/F48592",
       "prefLabel": {
+        "en": "Blussus",
         "de": "Typ Blussus",
         "dk": "Blussus",
-        "en": "Blussus",
         "es": "tipo Blussus",
         "fr": "Blussus",
         "gr": "Τύπος “Blussus”",
@@ -324,8 +324,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/FD7D75",
       "prefLabel": {
-        "de": "Nordic",
-        "en": "Nordic"
+        "en": "Nordic",
+        "de": "Nordic"
       }
     }
   ],

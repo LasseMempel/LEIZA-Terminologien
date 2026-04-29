@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D060C4",
   "type": "Concept",
   "prefLabel": {
+    "en": "Shield Holder",
     "de": "Schildhalterung",
     "dk": "Skjoldliste",
-    "en": "Shield Holder",
     "es": "montaje del escudo",
     "fr": "Support De Bouclier",
     "gr": "Στήριγμα Ασπίδας",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/15",
     "prefLabel": {
-      "de": "[Kriegsführung]",
-      "en": "[warfare]"
+      "en": "[warfare]",
+      "de": "[Kriegsführung]"
     }
   },
   "inScheme": [

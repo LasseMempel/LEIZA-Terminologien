@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C8CG15",
   "type": "Concept",
   "prefLabel": {
-    "de": "Dokumentation",
-    "en": "documentation"
+    "en": "documentation",
+    "de": "Dokumentation"
   },
   "altLabel": {
     "en": [
@@ -26,8 +26,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3AF3A",
       "prefLabel": {
-        "de": "Zustandsdokumentation",
-        "en": "condition documentation"
+        "en": "condition documentation",
+        "de": "Zustandsdokumentation"
       }
     },
     {

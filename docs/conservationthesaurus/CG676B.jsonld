@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CG676B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Analyse der isotopischen Zusammensetzung",
-    "en": "Analysis of isotopic composition"
+    "en": "Analysis of isotopic composition",
+    "de": "Analyse der isotopischen Zusammensetzung"
   },
   "notation": [
     "CG676B"
@@ -24,16 +24,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G87B12",
       "prefLabel": {
-        "de": "Thermoionisations-Massenspektrometrie",
-        "en": "thermal ionization mass spectrometry"
+        "en": "thermal ionization mass spectrometry",
+        "de": "Thermoionisations-Massenspektrometrie"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
     "prefLabel": {
-      "de": "Materialanalyse",
-      "en": "material analysis"
+      "en": "material analysis",
+      "de": "Materialanalyse"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1149D5",
   "type": "Concept",
   "prefLabel": {
+    "en": "Yard",
     "de": "Rah",
     "dk": "Rå",
-    "en": "Yard",
     "es": "verga",
     "fr": "Vergue",
     "gr": "Κεραία, Αντένα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

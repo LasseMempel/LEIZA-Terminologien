@@ -39,8 +39,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996",
     "prefLabel": {
-      "de": "Schadensphänomen",
-      "en": "Damage type"
+      "en": "Damage type",
+      "de": "Schadensphänomen"
     }
   },
   "inScheme": [

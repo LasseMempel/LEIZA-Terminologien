@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/3323FF",
   "type": "Concept",
   "prefLabel": {
+    "en": "Navis caudicaria",
     "de": "Navis caudicaria",
     "dk": "Navis caudicaria",
-    "en": "Navis caudicaria",
     "es": "navis caudicaria",
     "fr": "Navis caudicaria",
     "gr": "Tύπος Caudicaria",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

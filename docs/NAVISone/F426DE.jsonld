@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/F426DE",
   "type": "Concept",
   "prefLabel": {
+    "en": "Keel-Plank",
     "de": "Kielplanke",
     "dk": "Kølplanke",
-    "en": "Keel-Plank",
     "es": "tablón de aparadura",
     "fr": "Bordage de Quille",
     "gr": "Μαδέρι δίπλα στην Καρένα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

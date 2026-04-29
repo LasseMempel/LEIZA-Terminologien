@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84",
   "type": "Concept",
   "prefLabel": {
-    "de": "Wachs",
-    "en": "wax"
+    "en": "wax",
+    "de": "Wachs"
   },
   "definition": {
     "de": "weich, plastisches Material aus unterschiedlichen Stoffgemischen mit niedrigem Schmelzpunkt und guter Adhäsionsfähigkeit. In der Konservierung und Restaurierung wird Wachs unter anderem für die Ergänzung von Fehlstellen, als Abformmaterial bzw. als Manschette oder als Material für das freie Modellieren des fehlenden Teils, verwendet. Darüber hinaus werden modifizierte Wachse als Trennschicht bzw. Absperrschicht zwischen Materialien und als Versiegelung poröser Materialien eingesetzt."
@@ -21,8 +21,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F777B3",
       "prefLabel": {
-        "de": "Bienenwachs",
-        "en": "bees wax"
+        "en": "bees wax",
+        "de": "Bienenwachs"
       }
     }
   ],

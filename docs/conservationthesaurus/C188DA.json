@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C188DA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Substanzverlust",
-    "en": "Loss of substance"
+    "en": "Loss of substance",
+    "de": "Substanzverlust"
   },
   "definition": {
     "de": "Material bzw. Teile des Objektes fehlen teilweise oder vollständig infolge physikalischer, chemischer, biologischer oder mechanischer Prozesse."

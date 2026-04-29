@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/B3B8F9",
   "type": "Concept",
   "prefLabel": {
+    "en": "Sailed",
     "de": "Gesegelt",
     "dk": "Sejlet",
-    "en": "Sailed",
     "es": "a vela",
     "fr": "À voile",
     "gr": "Ιστιοφόρο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B77128",
   "type": "Concept",
   "prefLabel": {
-    "de": "Koralle",
-    "en": "coral"
+    "en": "coral",
+    "de": "Koralle"
   },
   "notation": [
     "B77128"

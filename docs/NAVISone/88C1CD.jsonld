@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/88C1CD",
   "type": "Concept",
   "prefLabel": {
+    "en": "Caulking",
     "de": "Kalfat",
     "dk": "Kalfatring",
-    "en": "Caulking",
     "es": "calafateado",
     "fr": "Calfatage",
     "gr": "Διάναξη, Καλαφάτισμα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/16",
     "prefLabel": {
-      "de": "[Oberflächenbehandlung]",
-      "en": "[surface treatment]"
+      "en": "[surface treatment]",
+      "de": "[Oberflächenbehandlung]"
     }
   },
   "inScheme": [

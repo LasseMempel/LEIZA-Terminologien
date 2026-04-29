@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/EF0C63",
   "type": "Concept",
   "prefLabel": {
+    "en": "Hatch",
     "de": "Lukendeckel",
     "dk": "Luge",
-    "en": "Hatch",
     "es": "Cuartel De Escotilla",
     "fr": "Écoutille",
     "gr": "Κάθοδος, Κουβούσι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/8",
     "prefLabel": {
-      "de": "[Decks und Weger]",
-      "en": "[decks and ceilings]"
+      "en": "[decks and ceilings]",
+      "de": "[Decks und Weger]"
     }
   },
   "inScheme": [

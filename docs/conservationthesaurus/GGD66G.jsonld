@@ -19,8 +19,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG",
     "prefLabel": {
-      "de": "Schadenssursache",
-      "en": "Cause of damage"
+      "en": "Cause of damage",
+      "de": "Schadenssursache"
     }
   },
   "inScheme": [

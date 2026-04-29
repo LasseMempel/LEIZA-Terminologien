@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8272G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Japanpapier",
-    "en": "japanese paper"
+    "en": "japanese paper",
+    "de": "Japanpapier"
   },
   "notation": [
     "A8272G"
@@ -11,8 +11,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
     "prefLabel": {
-      "de": "Verstärkungsfaser",
-      "en": "reinforcing fiber"
+      "en": "reinforcing fiber",
+      "de": "Verstärkungsfaser"
     }
   },
   "closeMatch": [

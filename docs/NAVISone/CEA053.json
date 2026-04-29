@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/CEA053",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bolzen (Bronze)",
-    "en": "Bolt (bronze)"
+    "en": "Bolt (bronze)",
+    "de": "Bolzen (Bronze)"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

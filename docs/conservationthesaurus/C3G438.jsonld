@@ -10,8 +10,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG",
     "prefLabel": {
-      "de": "Epoxidharz",
-      "en": "epoxy resin"
+      "en": "epoxy resin",
+      "de": "Epoxidharz"
     }
   },
   "inScheme": [

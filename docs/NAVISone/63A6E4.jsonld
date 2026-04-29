@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/63A6E4",
   "type": "Concept",
   "prefLabel": {
+    "en": "Coglike",
     "de": "koggenähnlich",
     "dk": "Koggetype",
-    "en": "Coglike",
     "es": "coca",
     "fr": "Cogue",
     "gr": "Τύπος “Cog”",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D1CB84",
   "type": "Concept",
   "prefLabel": {
+    "en": "Gunwale",
     "de": "Dollbord",
     "dk": "Essing",
-    "en": "Gunwale",
     "es": "regala o borda",
     "fr": "Plat-Bord",
     "gr": "Κουπαστή",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/690B73",
   "type": "Concept",
   "prefLabel": {
+    "en": "Shell first",
     "de": "Schalenbauweise",
     "dk": "Skalbygget",
-    "en": "Shell first",
     "es": "A casco",
     "fr": "Bordé dabord",
     "it": "Scafo portante",
@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

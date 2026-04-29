@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566",
   "type": "Concept",
   "prefLabel": {
-    "de": "Unedelmetall",
-    "en": "base metal"
+    "en": "base metal",
+    "de": "Unedelmetall"
   },
   "altLabel": {
     "de": [
@@ -21,15 +21,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF",
       "prefLabel": {
-        "de": "Buntmetall",
-        "en": "nonferrous metal"
+        "en": "nonferrous metal",
+        "de": "Buntmetall"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F71C6B",
       "prefLabel": {
-        "de": "Eisen",
         "en": "iron",
+        "de": "Eisen",
         "fr": "fer"
       }
     }

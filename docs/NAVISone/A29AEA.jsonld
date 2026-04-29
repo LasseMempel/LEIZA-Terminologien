@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A29AEA",
   "type": "Concept",
   "prefLabel": {
+    "en": "lashed / bound",
     "de": "gebunden",
     "dk": "surret / Bundet sammen",
-    "en": "lashed / bound",
     "es": "ligadura / ligado",
     "fr": "boutonné",
     "gr": "Δετό",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

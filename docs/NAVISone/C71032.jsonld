@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/C71032",
   "type": "Concept",
   "prefLabel": {
+    "en": "Plank",
     "de": "Planke",
     "dk": "Planke",
-    "en": "Plank",
     "es": "tablón",
     "fr": "Bordage",
     "gr": "Σανίδα, Μαδέρι, Επηγκενίς",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

@@ -20,15 +20,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G899F5",
       "prefLabel": {
-        "de": "Haar",
-        "en": "hair"
+        "en": "hair",
+        "de": "Haar"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B6443F",
       "prefLabel": {
-        "de": "Feder",
-        "en": "feather"
+        "en": "feather",
+        "de": "Feder"
       }
     },
     {
@@ -41,8 +41,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F",
     "prefLabel": {
-      "de": "Materialien tierischen Ursprungs",
-      "en": "animal material"
+      "en": "animal material",
+      "de": "Materialien tierischen Ursprungs"
     }
   },
   "closeMatch": [

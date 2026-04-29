@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/FB341B",
   "type": "Concept",
   "prefLabel": {
+    "en": "Pulley",
     "de": "Block",
     "dk": "Blok",
-    "en": "Pulley",
     "es": "polea",
     "fr": "Poulie",
     "gr": "Τροχαλία, Μακαράς",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/14",
     "prefLabel": {
-      "de": "[Handhabung]",
-      "en": "[handling]"
+      "en": "[handling]",
+      "de": "[Handhabung]"
     }
   },
   "inScheme": [

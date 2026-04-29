@@ -39,8 +39,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
-        "de": "Verstärkung",
-        "en": "reinforcement"
+        "en": "reinforcement",
+        "de": "Verstärkung"
       }
     },
     {
@@ -52,8 +52,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG",
       "prefLabel": {
-        "de": "Festigung",
-        "en": "consolidation"
+        "en": "consolidation",
+        "de": "Festigung"
       }
     }
   ],

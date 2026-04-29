@@ -69,8 +69,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
     "prefLabel": {
-      "de": "Zustandsbeschreibung",
-      "en": "physical condition"
+      "en": "physical condition",
+      "de": "Zustandsbeschreibung"
     }
   },
   "inScheme": [

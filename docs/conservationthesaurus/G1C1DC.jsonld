@@ -20,15 +20,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BG987D",
       "prefLabel": {
-        "de": "weeping",
-        "en": "weeping glas"
+        "en": "weeping glas",
+        "de": "weeping"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DGC3A9",
       "prefLabel": {
-        "de": "Glaskorrosion",
-        "en": "sugaring"
+        "en": "sugaring",
+        "de": "Glaskorrosion"
       }
     }
   ],

@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DC5B2B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Goldlegierung",
-    "en": "gold alloy"
+    "en": "gold alloy",
+    "de": "Goldlegierung"
   },
   "altLabel": {
     "de": [
@@ -26,8 +26,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149",
       "prefLabel": {
-        "de": "Gold",
-        "en": "gold"
+        "en": "gold",
+        "de": "Gold"
       }
     }
   ],

@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Innenkonstruktion]",
-    "en": "[internal construction]"
+    "en": "[internal construction]",
+    "de": "[Innenkonstruktion]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/06BE5F",
       "prefLabel": {
+        "en": "Frame",
         "de": "Spant",
         "dk": "Spant",
-        "en": "Frame",
         "es": "cuaderna",
         "fr": "Couple",
         "gr": "Νομέας, Στραβόξυλο",
@@ -23,9 +23,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/0D16A2",
       "prefLabel": {
+        "en": "Bilge Stringer",
         "de": "Kimmstringer",
         "dk": "Kimingsvæger",
-        "en": "Bilge Stringer",
         "es": "vagra de pantoques",
         "fr": "Bordage De Bouchain",
         "gr": "Λώρος της Σεντίνας",
@@ -37,9 +37,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/130F84",
       "prefLabel": {
+        "en": "Side Stempost",
         "de": "Seitensteven",
         "dk": "Sidestævn",
-        "en": "Side Stempost",
         "es": "roda lateral",
         "fr": "Proue Latérale",
         "gr": "Πλαϊνό της Πλώρης",
@@ -51,9 +51,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/20AB84",
       "prefLabel": {
+        "en": "Keelson",
         "de": "Kielschwein",
         "dk": "Kølsvin",
-        "en": "Keelson",
         "es": "sobrequilla",
         "fr": "Carlingue",
         "gr": "Κόντρα Καρένα, Σωτρόπι",
@@ -65,9 +65,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/2215C5",
       "prefLabel": {
+        "en": "bilgerinne (ger)",
         "de": "Bilgerinne",
         "dk": "kølrende",
-        "en": "bilgerinne (ger)",
         "es": "sentina",
         "fr": "gouttière de bouchain",
         "it": "canale di sentina",
@@ -78,9 +78,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/3FBE29",
       "prefLabel": {
+        "en": "Longitudinal Stiffener",
         "de": "Längsversteifung",
         "dk": "Langsgående forstærkning",
-        "en": "Longitudinal Stiffener",
         "es": "refuerzo longitudinal",
         "fr": "Renfort Longitudinal",
         "gr": "Πλάγια Όψη",
@@ -92,9 +92,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/434F04",
       "prefLabel": {
+        "en": "Knee",
         "de": "Knie",
         "dk": "Knæ",
-        "en": "Knee",
         "es": "curvatón",
         "fr": "Courbe",
         "gr": "Αγκών, Μπρατσόλι",
@@ -106,9 +106,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/5EEC61",
       "prefLabel": {
+        "en": "Floor Timber",
         "de": "Wrange",
         "dk": "Bundstok",
-        "en": "Floor Timber",
         "es": "varenga",
         "fr": "Varangue",
         "gr": "Έδρα, Στρώση",
@@ -120,9 +120,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/5F88DE",
       "prefLabel": {
+        "en": "Side Frame",
         "de": "Seitenspant",
         "dk": "Sidespant",
-        "en": "Side Frame",
         "es": "ligazón de revés",
         "fr": "Couple De Côté",
         "gr": "Πλευρικοί Νομείς",
@@ -134,9 +134,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/7ED321",
       "prefLabel": {
+        "en": "Beam",
         "de": "Balken",
         "dk": "Bjælke",
-        "en": "Beam",
         "es": "viga",
         "fr": "Bau. Barrot",
         "gr": "Ζυγός, Καμάρι",
@@ -148,9 +148,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/8AFF10",
       "prefLabel": {
+        "en": "Inwale",
         "de": "Dollbaum",
         "dk": "Essingstringer",
-        "en": "Inwale",
         "es": "galón interno de la regala",
         "fr": "Préceinte Interne",
         "gr": "Λώρος, Λούρος",
@@ -162,9 +162,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/A1B3F9",
       "prefLabel": {
+        "en": "Bulkhead",
         "de": "Schott",
         "dk": "Skot",
-        "en": "Bulkhead",
         "es": "mamparo",
         "fr": "Cloison",
         "gr": "Φράκτες, Μπουλμές",
@@ -176,9 +176,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/AF72E8",
       "prefLabel": {
+        "en": "Stanchion",
         "de": "Stütze",
         "dk": "Stander",
-        "en": "Stanchion",
         "es": "puntal",
         "fr": "Épontille",
         "gr": "Στυλίσκος, Πουντέλι",
@@ -190,9 +190,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B5BA3D",
       "prefLabel": {
+        "en": "Fish well",
         "de": "Bünte",
         "dk": "Dam",
-        "en": "Fish well",
         "es": "bodega de peces",
         "fr": "Cale de poisson",
         "gr": "Ιχθυοδεξαμενή",
@@ -204,9 +204,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/C4B24F",
       "prefLabel": {
+        "en": "Half Frame",
         "de": "Halbspant",
         "dk": "Halvspant",
-        "en": "Half Frame",
         "es": "media cuaderna",
         "fr": "Demi-Couple",
         "gr": "Σκέλια",
@@ -218,9 +218,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D03311",
       "prefLabel": {
+        "en": "Ceiling",
         "de": "Wegerung",
         "dk": "Garnering",
-        "en": "Ceiling",
         "es": "ferro interior / vagras",
         "fr": "Valgrage",
         "gr": "Εντερόνεια, Φόδρο",
@@ -232,9 +232,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D81709",
       "prefLabel": {
+        "en": "limber hole",
         "de": "nüstergatt",
         "dk": "lænsehul",
-        "en": "limber hole",
         "es": "groeras",
         "fr": "anguillier",
         "gr": "το μιξούδι",
@@ -245,9 +245,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/EB04DC",
       "prefLabel": {
+        "en": "Stringer",
         "de": "Stringer",
         "dk": "Stringer",
-        "en": "Stringer",
         "es": "palmejar / trancanín",
         "fr": "Serre",
         "gr": "Λώρος, Λούρος",
@@ -259,9 +259,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/F0F917",
       "prefLabel": {
+        "en": "Futtock",
         "de": "Auflanger",
         "dk": "Oplænger",
-        "en": "Futtock",
         "es": "ligazón",
         "fr": "Allonge",
         "gr": "Μαντάλι, Σκαρμός της Πόστας",
@@ -273,9 +273,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/FE767B",
       "prefLabel": {
+        "en": "Transverse Timber",
         "de": "Querriegel",
         "dk": "Tvårtømmer",
-        "en": "Transverse Timber",
         "es": "traversa",
         "fr": "Barrot",
         "gr": "Διαμήκης Δοκός",

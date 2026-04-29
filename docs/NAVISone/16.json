@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/16",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Oberflächenbehandlung]",
-    "en": "[surface treatment]"
+    "en": "[surface treatment]",
+    "de": "[Oberflächenbehandlung]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/1EB740",
       "prefLabel": {
+        "en": "Decoration",
         "de": "Dekoration",
         "dk": "Dekoration",
-        "en": "Decoration",
         "es": "decoración",
         "fr": "Decoration",
         "gr": "Διακόσμηση",
@@ -23,9 +23,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/88C1CD",
       "prefLabel": {
+        "en": "Caulking",
         "de": "Kalfat",
         "dk": "Kalfatring",
-        "en": "Caulking",
         "es": "calafateado",
         "fr": "Calfatage",
         "gr": "Διάναξη, Καλαφάτισμα",
@@ -37,9 +37,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D59DA1",
       "prefLabel": {
+        "en": "Sheathing",
         "de": "Plankenbeschlag",
         "dk": "Forhudning",
-        "en": "Sheathing",
         "es": "revestimiento o forro",
         "fr": "Revétement, Doublage",
         "gr": "Εξωτερική Επένδυση",

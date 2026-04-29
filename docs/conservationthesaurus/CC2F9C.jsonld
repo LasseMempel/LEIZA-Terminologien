@@ -18,8 +18,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C",
     "prefLabel": {
-      "de": "Veränderung",
-      "en": "alteration"
+      "en": "alteration",
+      "de": "Veränderung"
     }
   },
   "inScheme": [

@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/19",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Aufbauten]",
-    "en": "[superstructure]"
+    "en": "[superstructure]",
+    "de": "[Aufbauten]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/5EF232",
       "prefLabel": {
+        "en": "Rail",
         "de": "Reling",
         "dk": "Gelænder",
-        "en": "Rail",
         "es": "barandilla",
         "gr": "Φράκτης",
         "it": "Pavese",
@@ -22,9 +22,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/644D77",
       "prefLabel": {
+        "en": "Aftcastle",
         "de": "Achterkastell",
         "dk": "Agerkastel",
-        "en": "Aftcastle",
         "es": "castillo de popa",
         "gr": "Επίστεγον, Κάσσαρο",
         "it": "Castello di poppa",
@@ -35,9 +35,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/9DF75C",
       "prefLabel": {
+        "en": "Cabin",
         "de": "Kabine",
         "dk": "Kahyt",
-        "en": "Cabin",
         "es": "camarote",
         "fr": "Cabine",
         "gr": "Καμπίνα",
@@ -49,9 +49,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B6D026",
       "prefLabel": {
+        "en": "Forecastle",
         "de": "Vorderkastell",
         "dk": "Forkastel",
-        "en": "Forecastle",
         "es": "castillo de proa",
         "gr": "Πρόστεγον, Καμπούνι",
         "it": "Castello di prua",

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/8AFF10",
   "type": "Concept",
   "prefLabel": {
+    "en": "Inwale",
     "de": "Dollbaum",
     "dk": "Essingstringer",
-    "en": "Inwale",
     "es": "galón interno de la regala",
     "fr": "Préceinte Interne",
     "gr": "Λώρος, Λούρος",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

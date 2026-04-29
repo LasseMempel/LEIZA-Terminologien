@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A6A046",
   "type": "Concept",
   "prefLabel": {
+    "en": "repair",
     "de": "Flickung",
     "dk": "reparation",
-    "en": "repair",
     "es": "reparacion",
     "fr": "réparation",
     "gr": "η επισκευή",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

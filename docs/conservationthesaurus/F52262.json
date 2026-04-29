@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F52262",
   "type": "Concept",
   "prefLabel": {
-    "de": "Depotlagerung",
-    "en": "depot storage"
+    "en": "depot storage",
+    "de": "Depotlagerung"
   },
   "definition": {
     "de": "Das Objekt wurde bis zur Einlieferung in die Restaurierungswerkstatt im Museumsdepot aufbewahrt"

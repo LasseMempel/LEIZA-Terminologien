@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Konstruktionsmerkmale]",
-    "en": "[constructional features]"
+    "en": "[constructional features]",
+    "de": "[Konstruktionsmerkmale]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/03297B",
       "prefLabel": {
+        "en": "Fitting",
         "de": "Beschlag",
         "dk": "Beslag",
-        "en": "Fitting",
         "es": "forro",
         "fr": "Armature",
         "gr": "Εξαρτισμός, Ξάρτια",
@@ -23,9 +23,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/1C41AC",
       "prefLabel": {
+        "en": "Carvel Build",
         "de": "Kraweel Beplankt",
         "dk": "Kravel bygget",
-        "en": "Carvel Build",
         "es": "construcción a tope",
         "fr": "Construction à Franc-Bord",
         "gr": "Πέτσωμα Λείο, Κρόταφο με Κρόταφο",
@@ -37,9 +37,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/1D1955",
       "prefLabel": {
+        "en": "Nail",
         "de": "Nagel",
         "dk": "Spiger, Søm",
-        "en": "Nail",
         "es": "clavo",
         "fr": "Clou",
         "gr": "Καρφί",
@@ -51,9 +51,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/1F8C94",
       "prefLabel": {
+        "en": "Clinker Build",
         "de": "Geklinkert",
         "dk": "Klinkbygget",
-        "en": "Clinker Build",
         "es": "construcción a tingladillo",
         "fr": "Construction à Clin",
         "gr": "Πέτσωμα με Καβαλικευτά Μαδέρια",
@@ -65,23 +65,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/2A2031",
       "prefLabel": {
-        "de": "Bolzen (Eisen)",
-        "en": "Bolt (iron)"
+        "en": "Bolt (iron)",
+        "de": "Bolzen (Eisen)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/2C6BDB",
       "prefLabel": {
-        "de": "Kraweel (Beplankung)",
-        "en": "Carvel build (planking)"
+        "en": "Carvel build (planking)",
+        "de": "Kraweel (Beplankung)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/3DE001",
       "prefLabel": {
+        "en": "rebate",
         "de": "Sponung",
         "dk": "spunding",
-        "en": "rebate",
         "es": "alefriz",
         "fr": "râblure",
         "gr": "ο κανθός",
@@ -92,9 +92,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/403A13",
       "prefLabel": {
+        "en": "cleat",
         "de": "Klampe",
         "dk": "klamp",
-        "en": "cleat",
         "es": "cornamusa",
         "fr": "taquet",
         "gr": "το κοράκι,η δέστρα",
@@ -106,16 +106,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/427FCF",
       "prefLabel": {
-        "de": "Einbaum (mit Gesamtdeck)",
-        "en": "Dugout (with overall deck)"
+        "en": "Dugout (with overall deck)",
+        "de": "Einbaum (mit Gesamtdeck)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/431A1E",
       "prefLabel": {
+        "en": "lath",
         "de": "Nahtspant",
         "dk": "liste",
-        "en": "lath",
         "es": "liston",
         "fr": "latte",
         "gr": "ο τόρνος",
@@ -127,9 +127,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/4744EE",
       "prefLabel": {
+        "en": "Stitch Hole",
         "de": "Bohrung",
         "dk": "Syhul",
-        "en": "Stitch Hole",
         "es": "ojal",
         "fr": "Trou De Piqûre",
         "gr": "Οπή της Ραφής",
@@ -141,9 +141,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/49AA0C",
       "prefLabel": {
+        "en": "Scarf",
         "de": "Schäftung",
         "dk": "Lask",
-        "en": "Scarf",
         "es": "escarpe",
         "fr": "Écart",
         "gr": "Παρέλα, Σόκορα",
@@ -155,9 +155,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/54D771",
       "prefLabel": {
+        "en": "bolt",
         "de": "Bolzen",
         "dk": "bolt",
-        "en": "bolt",
         "es": "perno",
         "fr": "cheville",
         "gr": "ο ξύλινος πείρος",
@@ -169,9 +169,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/5601F3",
       "prefLabel": {
+        "en": "recess",
         "de": "Aussparung",
         "dk": "udsparing",
-        "en": "recess",
         "es": "nicho",
         "fr": "niche",
         "gr": "η εσοχή",
@@ -183,9 +183,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/5B0B41",
       "prefLabel": {
+        "en": "setting out mark",
         "de": "Anriss",
         "dk": "opridsningsmærker",
-        "en": "setting out mark",
         "es": "marcas",
         "fr": "marque",
         "gr": "το σημάδεμα",
@@ -197,16 +197,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/610FD3",
       "prefLabel": {
-        "de": "Boden zuerst",
-        "en": "Bottom first"
+        "en": "Bottom first",
+        "de": "Boden zuerst"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/619AD3",
       "prefLabel": {
+        "en": "Unknown constructional feature",
         "de": "Unbekannte Konstruktion",
         "dk": "Ukendt konstruktion",
-        "en": "Unknown constructional feature",
         "es": "característica desconocida",
         "gr": "Άγνωστο Κατασκευαστικό Στοιχείο",
         "it": "Costruzione sconosciuta",
@@ -217,9 +217,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/6471C5",
       "prefLabel": {
+        "en": "Seam",
         "de": "Naht",
         "dk": "Nåd",
-        "en": "Seam",
         "es": "costura",
         "fr": "Couture",
         "gr": "Αρμός",
@@ -231,16 +231,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/6491C3",
       "prefLabel": {
-        "de": "Kraweel (Seite)",
-        "en": "Carvel build (side)"
+        "en": "Carvel build (side)",
+        "de": "Kraweel (Seite)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/690B73",
       "prefLabel": {
+        "en": "Shell first",
         "de": "Schalenbauweise",
         "dk": "Skalbygget",
-        "en": "Shell first",
         "es": "A casco",
         "fr": "Bordé dabord",
         "it": "Scafo portante",
@@ -250,23 +250,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/6C1C1D",
       "prefLabel": {
-        "de": "Klinker (Seite)",
-        "en": "Clinker build (side)"
+        "en": "Clinker build (side)",
+        "de": "Klinker (Seite)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/7393C9",
       "prefLabel": {
-        "de": "Nagel (Baum)",
-        "en": "Nail (tree)"
+        "en": "Nail (tree)",
+        "de": "Nagel (Baum)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/85C3C2",
       "prefLabel": {
+        "en": "withy",
         "de": "Rute",
         "dk": "vidje",
-        "en": "withy",
         "es": "mimbre",
         "fr": "osier",
         "gr": "το βούρλο",
@@ -277,16 +277,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/8FCA50",
       "prefLabel": {
-        "de": "Nagel (Kupfer)",
-        "en": "Nail (copper)"
+        "en": "Nail (copper)",
+        "de": "Nagel (Kupfer)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/A29AEA",
       "prefLabel": {
+        "en": "lashed / bound",
         "de": "gebunden",
         "dk": "surret / Bundet sammen",
-        "en": "lashed / bound",
         "es": "ligadura / ligado",
         "fr": "boutonné",
         "gr": "Δετό",
@@ -298,9 +298,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/A46547",
       "prefLabel": {
+        "en": "Stitch",
         "de": "Schnur",
         "dk": "Sting",
-        "en": "Stitch",
         "es": "cordel",
         "fr": "Point",
         "gr": "Ραφή",
@@ -312,9 +312,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/A6A046",
       "prefLabel": {
+        "en": "repair",
         "de": "Flickung",
         "dk": "reparation",
-        "en": "repair",
         "es": "reparacion",
         "fr": "réparation",
         "gr": "η επισκευή",
@@ -326,9 +326,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/AB357C",
       "prefLabel": {
+        "en": "carpenters mark",
         "de": "Zimmermannszeichen",
         "dk": "tømrermærke",
-        "en": "carpenters mark",
         "es": "marcas de carpintero",
         "fr": "marque de charpentier",
         "it": "marchio di carpenteria",
@@ -339,9 +339,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/AFF00C",
       "prefLabel": {
+        "en": "tool mark",
         "de": "Werkzeugspur",
         "dk": "værktøjsspor",
-        "en": "tool mark",
         "es": "marca de herramienta",
         "fr": "trace doutil",
         "gr": "ίχνος εργαλείου",
@@ -353,9 +353,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B8ECB5",
       "prefLabel": {
+        "en": "treenail",
         "de": "Holznagel",
         "dk": "trænagle",
-        "en": "treenail",
         "es": "cabilla",
         "fr": "gournable (cheville)",
         "gr": "η καβίλια,ο γόμφος",
@@ -367,23 +367,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/BAED73",
       "prefLabel": {
-        "de": "Einbaum (erweitert)",
-        "en": "Dugout (extended)"
+        "en": "Dugout (extended)",
+        "de": "Einbaum (erweitert)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/BC332F",
       "prefLabel": {
-        "de": "Nagel (Bronze)",
-        "en": "Nail (bronze)"
+        "en": "Nail (bronze)",
+        "de": "Nagel (Bronze)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/BD12D8",
       "prefLabel": {
+        "en": "Skeleton first",
         "de": "Skelettbauweise",
         "dk": "Skeletbygget",
-        "en": "Skeleton first",
         "es": "A esqueleto",
         "fr": "Construit sur couples",
         "it": "Scheletro portante",
@@ -393,16 +393,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/C0B0E1",
       "prefLabel": {
-        "de": "Einbaum (Boden)",
-        "en": "Dugout (bottom)"
+        "en": "Dugout (bottom)",
+        "de": "Einbaum (Boden)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/C11F67",
       "prefLabel": {
+        "en": "Rivet",
         "de": "Niet",
         "dk": "Klinknagle",
-        "en": "Rivet",
         "es": "remache",
         "fr": "Rivet",
         "gr": "Δίκαρφο, Γουδέλα",
@@ -414,16 +414,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/CEA053",
       "prefLabel": {
-        "de": "Bolzen (Bronze)",
-        "en": "Bolt (bronze)"
+        "en": "Bolt (bronze)",
+        "de": "Bolzen (Bronze)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/CFCC18",
       "prefLabel": {
+        "en": "Sewn",
         "de": "Genäht",
         "dk": "Syet",
-        "en": "Sewn",
         "es": "cosido",
         "fr": "Cousu",
         "gr": "Ραμμένο",
@@ -435,9 +435,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D3FF82",
       "prefLabel": {
+        "en": "Mortice and Tenon",
         "de": "Nut und Feder",
         "dk": "Tap-i-hul-samling",
-        "en": "Mortice and Tenon",
         "es": "a rebajo / Unión a Espiga",
         "fr": "Mortice and Tenon",
         "gr": "Μόρσα και Τένοντες",
@@ -449,9 +449,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D88694",
       "prefLabel": {
+        "en": "Dugout",
         "de": "Einbaum",
         "dk": "Stammebåd",
-        "en": "Dugout",
         "es": "Canoa",
         "fr": "Monoxyle",
         "it": "Monossile",
@@ -461,23 +461,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/E0BC8C",
       "prefLabel": {
-        "de": "Einbaum (mit Vorunter)",
-        "en": "Dugout (with foredeck)"
+        "en": "Dugout (with foredeck)",
+        "de": "Einbaum (mit Vorunter)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/EAC98D",
       "prefLabel": {
-        "de": "Kraweel (Boden)",
-        "en": "Carvel build (bottom)"
+        "en": "Carvel build (bottom)",
+        "de": "Kraweel (Boden)"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/EB6A4F",
       "prefLabel": {
+        "en": "peg",
         "de": "Holzstift",
         "dk": "pind",
-        "en": "peg",
         "es": "espiga",
         "fr": "cheville (gournable)",
         "gr": "ο πείρος.,- το βλήτρον",
@@ -489,9 +489,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/FF8A47",
       "prefLabel": {
+        "en": "Mould construction",
         "de": "Mallenbauweise",
         "dk": "Bygget på maller",
-        "en": "Mould construction",
         "es": "A molde",
         "fr": "Sur moules",
         "it": "Costruzione su sagoma",

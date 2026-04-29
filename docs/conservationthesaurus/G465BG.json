@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G465BG",
   "type": "Concept",
   "prefLabel": {
-    "de": "Samen",
-    "en": "seed"
+    "en": "seed",
+    "de": "Samen"
   },
   "definition": {
     "de": "organisches Material aus der für die Ausbreitung dienenden Gebewebestruktur von Pflanzen, bestehend aus Samenschale, Embryo und Nährgewebe."

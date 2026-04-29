@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BG987D",
   "type": "Concept",
   "prefLabel": {
-    "de": "weeping",
-    "en": "weeping glas"
+    "en": "weeping glas",
+    "de": "weeping"
   },
   "altLabel": {
     "de": [
@@ -28,8 +28,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73",
       "prefLabel": {
-        "de": "Glas",
-        "en": "glas"
+        "en": "glas",
+        "de": "Glas"
       }
     }
   ],

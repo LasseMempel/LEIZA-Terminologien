@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/54E32C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Viking ship like",
     "de": "wikingerschiffähnlich",
     "dk": "Vikingeskibslignende",
-    "en": "Viking ship like",
     "es": "nave vicinga",
     "fr": "Bateau viking",
     "gr": "Τύπος Βίκινγκς",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

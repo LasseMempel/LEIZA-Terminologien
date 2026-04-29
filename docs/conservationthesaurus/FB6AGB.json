@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FB6AGB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Stabilität",
-    "en": "stability"
+    "en": "stability",
+    "de": "Stabilität"
   },
   "definition": {
     "de": "Fahigkeit eines Objektes auch bei physischer Einwirkung seine Form oder Struktur bei zu behalten"
@@ -15,23 +15,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D79DA6",
       "prefLabel": {
-        "de": "stabil",
-        "en": "stable"
+        "en": "stable",
+        "de": "stabil"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FBA99A",
       "prefLabel": {
-        "de": "instabil",
-        "en": "instable"
+        "en": "instable",
+        "de": "instabil"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2",
     "prefLabel": {
-      "de": "Zustandsbeschreibung",
-      "en": "physical condition"
+      "en": "physical condition",
+      "de": "Zustandsbeschreibung"
     }
   },
   "inScheme": [

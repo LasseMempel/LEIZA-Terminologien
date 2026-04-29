@@ -115,8 +115,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAF8AF",
       "prefLabel": {
-        "de": "gewebt",
-        "en": "weave"
+        "en": "weave",
+        "de": "gewebt"
       }
     },
     {
@@ -128,8 +128,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9165B",
       "prefLabel": {
-        "de": "verzwirnt",
-        "en": "twist"
+        "en": "twist",
+        "de": "verzwirnt"
       }
     },
     {
@@ -141,8 +141,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D9G8B5",
       "prefLabel": {
-        "de": "verdrillt",
-        "en": "twist"
+        "en": "twist",
+        "de": "verdrillt"
       }
     },
     {
@@ -178,8 +178,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G859A7",
       "prefLabel": {
-        "de": "gesponnen",
-        "en": "spinning"
+        "en": "spinning",
+        "de": "gesponnen"
       }
     },
     {

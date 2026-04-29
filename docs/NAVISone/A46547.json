@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A46547",
   "type": "Concept",
   "prefLabel": {
+    "en": "Stitch",
     "de": "Schnur",
     "dk": "Sting",
-    "en": "Stitch",
     "es": "cordel",
     "fr": "Point",
     "gr": "Ραφή",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

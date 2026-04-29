@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/BAED73",
   "type": "Concept",
   "prefLabel": {
-    "de": "Einbaum (erweitert)",
-    "en": "Dugout (extended)"
+    "en": "Dugout (extended)",
+    "de": "Einbaum (erweitert)"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

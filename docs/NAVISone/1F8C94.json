@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/1F8C94",
   "type": "Concept",
   "prefLabel": {
+    "en": "Clinker Build",
     "de": "Geklinkert",
     "dk": "Klinkbygget",
-    "en": "Clinker Build",
     "es": "construcción a tingladillo",
     "fr": "Construction à Clin",
     "gr": "Πέτσωμα με Καβαλικευτά Μαδέρια",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

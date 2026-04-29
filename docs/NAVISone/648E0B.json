@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/648E0B",
   "type": "Concept",
   "prefLabel": {
+    "en": "Sail (Top)",
     "de": "Toppsegel",
     "dk": "Sejl (Top)",
-    "en": "Sail (Top)",
     "es": "escandalosa",
     "gr": "Δόλων, Γάμπια",
     "it": "Vela (Superiore)",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/AB5CBB",
   "type": "Concept",
   "prefLabel": {
+    "en": "Galley",
     "de": "galeerenähnlich",
     "dk": "Galej",
-    "en": "Galley",
     "es": "galera",
     "fr": "Galère",
     "gr": "Κέλης",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

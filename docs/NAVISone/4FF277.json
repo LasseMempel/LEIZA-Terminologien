@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/4FF277",
   "type": "Concept",
   "prefLabel": {
+    "en": "Punting Pole",
     "de": "Stakstange",
     "dk": "Stage",
-    "en": "Punting Pole",
     "es": "percha para fincar",
     "fr": "Perche",
     "gr": "Κουρίτα, Πριάρι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/13",
     "prefLabel": {
-      "de": "[Staken und treideln]",
-      "en": "[punting and towing]"
+      "en": "[punting and towing]",
+      "de": "[Staken und treideln]"
     }
   },
   "inScheme": [

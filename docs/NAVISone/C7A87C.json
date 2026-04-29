@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/C7A87C",
   "type": "Concept",
   "prefLabel": {
+    "en": "Oared, punted and sailed",
     "de": "Gerudert, gestakt und gesegelt",
     "dk": "Roet, staget og sejlet",
-    "en": "Oared, punted and sailed",
     "es": "a remo, a pértiga y a vela",
     "fr": "À rames, à la perche et à voile",
     "gr": "Κωπήλατο, με Κοντάρι  και Ιστιοφόρο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

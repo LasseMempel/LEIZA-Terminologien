@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FF8792",
   "type": "Concept",
   "prefLabel": {
-    "de": "Trockenreinigung",
-    "en": "dry cleaning"
+    "en": "dry cleaning",
+    "de": "Trockenreinigung"
   },
   "altLabel": {
     "de": [
@@ -20,8 +20,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
     "prefLabel": {
-      "de": "Reinigung",
-      "en": "cleaning"
+      "en": "cleaning",
+      "de": "Reinigung"
     }
   },
   "closeMatch": [

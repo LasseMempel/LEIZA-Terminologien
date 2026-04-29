@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verstärkungsfaser",
-    "en": "reinforcing fiber"
+    "en": "reinforcing fiber",
+    "de": "Verstärkungsfaser"
   },
   "definition": {
     "de": "Oberbegriff für fasrige Materialien, die zur Verstärkung anderer Materialien eingesetzt werden. Sie erhöhen deren Festigkeit, Steifigkeit und Stabilität, indem sie die mechanischen Eigenschaften des Materials verbessern. Die Verstärkungsfasern werden dafür in der Regel in eine Matrix (z.B. aus Polymeren) eingebettet."
@@ -15,22 +15,22 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A8272G",
       "prefLabel": {
-        "de": "Japanpapier",
-        "en": "japanese paper"
+        "en": "japanese paper",
+        "de": "Japanpapier"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD477D",
       "prefLabel": {
-        "de": "Kohlefaser",
-        "en": "carbon fibre"
+        "en": "carbon fibre",
+        "de": "Kohlefaser"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F61BGA",
       "prefLabel": {
-        "de": "Glasfasergewebe",
-        "en": "glass fibre fabric"
+        "en": "glass fibre fabric",
+        "de": "Glasfasergewebe"
       }
     },
     {
@@ -42,24 +42,24 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GF1639",
       "prefLabel": {
-        "de": "Goldschlägerhaut",
-        "en": "goldbeater skin"
+        "en": "goldbeater skin",
+        "de": "Goldschlägerhaut"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien",
-      "en": "restoration material"
+      "en": "restoration material",
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C",
       "prefLabel": {
-        "de": "Verstärkung",
-        "en": "reinforcement"
+        "en": "reinforcement",
+        "de": "Verstärkung"
       }
     }
   ],

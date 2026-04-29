@@ -17,8 +17,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C5BD13",
     "prefLabel": {
-      "de": "Datierung",
-      "en": "dating"
+      "en": "dating",
+      "de": "Datierung"
     }
   },
   "inScheme": [

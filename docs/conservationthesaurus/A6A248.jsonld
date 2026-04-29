@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
     "prefLabel": {
-      "de": "Freilegung",
-      "en": "uncovering"
+      "en": "uncovering",
+      "de": "Freilegung"
     }
   },
   "related": [
@@ -33,8 +33,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2642A",
       "prefLabel": {
-        "de": "Oberflächenbeschichtungen entfernt",
-        "en": "removal of surface coatings"
+        "en": "removal of surface coatings",
+        "de": "Oberflächenbeschichtungen entfernt"
       }
     },
     {
@@ -46,8 +46,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA59C2",
       "prefLabel": {
-        "de": "Klebungen entfernt",
-        "en": "removal of adhesives"
+        "en": "removal of adhesives",
+        "de": "Klebungen entfernt"
       }
     },
     {
@@ -59,8 +59,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGBB54",
       "prefLabel": {
-        "de": "Ergänzungsmaterialien entfernt",
-        "en": "removal of filling materials"
+        "en": "removal of filling materials",
+        "de": "Ergänzungsmaterialien entfernt"
       }
     },
     {

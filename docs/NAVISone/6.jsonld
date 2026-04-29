@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Rumpf]",
-    "en": "[hull]"
+    "en": "[hull]",
+    "de": "[Rumpf]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/0093DC",
       "prefLabel": {
+        "en": "Shell",
         "de": "Schale",
         "dk": "Skal",
-        "en": "Shell",
         "es": "forro",
         "fr": "Bordé",
         "gr": "Κέλυφος",
@@ -23,9 +23,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/09BEBF",
       "prefLabel": {
+        "en": "chine block",
         "de": "Kimmholz",
         "dk": "kimingsplanke",
-        "en": "chine block",
         "es": "curva del quiebro",
         "fr": "cornière de bouchain",
         "gr": "η καμπύλη της καρένας",
@@ -37,9 +37,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/09DF17",
       "prefLabel": {
+        "en": "Bottom Plank",
         "de": "Bodenplanke",
         "dk": "Bundplanke",
-        "en": "Bottom Plank",
         "es": "tablazón de la carena",
         "fr": "Bordage De Caràne",
         "gr": "Σανίδα του Πυθμένα",
@@ -51,9 +51,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/0B9A28",
       "prefLabel": {
+        "en": "stealer",
         "de": "Totgang",
         "dk": "indskudt bord",
-        "en": "stealer",
         "es": "traca perdida",
         "fr": "virure perdue",
         "it": "corso intercalato",
@@ -63,9 +63,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/20F045",
       "prefLabel": {
+        "en": "Keel",
         "de": "Kiel",
         "dk": "Køl",
-        "en": "Keel",
         "es": "quilla",
         "fr": "Quille",
         "gr": "Καρένα, Τρόπις",
@@ -77,9 +77,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/29CBC9",
       "prefLabel": {
+        "en": "Garboard Strake",
         "de": "Kielgang",
         "dk": "Kølbord",
-        "en": "Garboard Strake",
         "es": "traca de aparadura",
         "fr": "Galbord",
         "gr": "Τουρέλο, Επιστρόφιον",
@@ -91,9 +91,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/3A3C90",
       "prefLabel": {
+        "en": "Bottom",
         "de": "Boden",
         "dk": "Bund",
-        "en": "Bottom",
         "es": "fondo o carena",
         "fr": "Caràne",
         "gr": "Πυθμένας",
@@ -105,9 +105,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/4277CC",
       "prefLabel": {
+        "en": "Aft",
         "de": "Achterschiff",
         "dk": "Agterskib",
-        "en": "Aft",
         "es": "a popa",
         "fr": "Poupè Arrière Du Navire",
         "gr": "Πρυμναίο Τμήμα του Πλοίου",
@@ -119,9 +119,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/45B061",
       "prefLabel": {
+        "en": "Cutwater",
         "de": "Bugsporn",
         "dk": "Krigen",
-        "en": "Cutwater",
         "es": "espolón",
         "gr": "Κυματόμος, Θαλασσοτόμος",
         "it": "Tagliamare",
@@ -132,9 +132,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/47191C",
       "prefLabel": {
+        "en": "Strake",
         "de": "Gang",
         "dk": "Bordgang",
-        "en": "Strake",
         "es": "traca o hilada",
         "fr": "Virure",
         "gr": "Μαδέρι",
@@ -146,9 +146,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/5E0D28",
       "prefLabel": {
+        "en": "Bilge",
         "de": "Kimm (Rund)",
         "dk": "Kiming",
-        "en": "Bilge",
         "es": "pantoque",
         "fr": "Bouchain",
         "gr": "Σεντίνα",
@@ -160,9 +160,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/7F16E0",
       "prefLabel": {
+        "en": "Swim-Head",
         "de": "Kaffe",
         "dk": "Kaff",
-        "en": "Swim-Head",
         "es": "popa / proa a rampa",
         "fr": "Élancement",
         "gr": "Swim-Head",
@@ -174,9 +174,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/80B562",
       "prefLabel": {
+        "en": "Fore",
         "de": "Vorschiff",
         "dk": "Forskib",
-        "en": "Fore",
         "es": "escobenes",
         "fr": "Avant Du Navire",
         "gr": "Πρώραθεν, Κατάπρωρα",
@@ -188,9 +188,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/87FFFB",
       "prefLabel": {
+        "en": "Bow",
         "de": "Bug",
         "dk": "Bov",
-        "en": "Bow",
         "es": "proa",
         "fr": "Proue",
         "gr": "Πλώρη",
@@ -202,9 +202,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/8CA594",
       "prefLabel": {
+        "en": "Middle Stempost",
         "de": "Mittelsteven",
         "dk": "Midterstævn",
-        "en": "Middle Stempost",
         "es": "roda central",
         "fr": "Proue Centrale",
         "gr": "Μέγιστος Νομεύς, Μάστορης",
@@ -216,9 +216,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/938B4F",
       "prefLabel": {
+        "en": "Sternpost",
         "de": "Achtersteven",
         "dk": "Agterstævn",
-        "en": "Sternpost",
         "es": "codaste popel",
         "fr": "Étambot",
         "gr": "Ποδόστημα",
@@ -230,9 +230,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/977C4D",
       "prefLabel": {
+        "en": "Chine",
         "de": "Kimm (Eckig)",
         "dk": "Kiming Skarp",
-        "en": "Chine",
         "es": "angular de pantoque",
         "fr": "Bouchain Vif",
         "gr": "Δούγας",
@@ -244,9 +244,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/A00109",
       "prefLabel": {
+        "en": "filler",
         "de": "Futterholz",
         "dk": "fyldtræ",
-        "en": "filler",
         "es": "pieza de relleno",
         "fr": "cale de remplissage",
         "gr": "ο ζωστήρας",
@@ -257,9 +257,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/A7A73E",
       "prefLabel": {
+        "en": "false stern",
         "de": "Aussensteven (hinten)",
         "dk": "falsk agterstævn",
-        "en": "false stern",
         "es": "falsa popa",
         "fr": "faux étambot arrière",
         "it": "falsa poppa",
@@ -269,9 +269,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/A9FE4D",
       "prefLabel": {
+        "en": "Fender",
         "de": "Scheuerleiste",
         "dk": "Fenderliste",
-        "en": "Fender",
         "es": "defensa",
         "fr": "Préceinte",
         "gr": "Περίζωμα",
@@ -283,9 +283,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/AC3D96",
       "prefLabel": {
+        "en": "gripe",
         "de": "Stevenschuh/Anlauf",
         "dk": "stævnknæ",
-        "en": "gripe",
         "es": "trapa",
         "fr": "brion",
         "gr": "το στειρόποδο της πλώρης",
@@ -296,9 +296,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B00683",
       "prefLabel": {
+        "en": "false keel",
         "de": "falscher Kiel",
         "dk": "stråkøl",
-        "en": "false keel",
         "es": "falsa quilla",
         "fr": "fausse-quille",
         "gr": "το χέλυσμα,το υποτρόπιον",
@@ -310,9 +310,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B0535D",
       "prefLabel": {
+        "en": "Stempost",
         "de": "Vordersteven",
         "dk": "Forstævn",
-        "en": "Stempost",
         "es": "branque",
         "fr": "Étrave",
         "gr": "Στείρα της Πλώρης",
@@ -324,9 +324,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B0565D",
       "prefLabel": {
+        "en": "Wale",
         "de": "Bargholz",
         "dk": "Bergholt",
-        "en": "Wale",
         "es": "cinta",
         "fr": "Préceinte",
         "gr": "Ζωστήρ",
@@ -338,9 +338,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/B61EB9",
       "prefLabel": {
+        "en": "Bulwark",
         "de": "Schanzkleid",
         "dk": "Skanseklædning",
-        "en": "Bulwark",
         "es": "borda ó regala",
         "gr": "Δρύφρακτο, Παραπέτο",
         "it": "Parapetto",
@@ -351,9 +351,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/BCE269",
       "prefLabel": {
+        "en": "Sheer",
         "de": "Sprung",
         "dk": "Spring",
-        "en": "Sheer",
         "es": "arrufo",
         "fr": "Torture",
         "gr": "Σιμότης, Λουνάδα",
@@ -365,9 +365,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/C71032",
       "prefLabel": {
+        "en": "Plank",
         "de": "Planke",
         "dk": "Planke",
-        "en": "Plank",
         "es": "tablón",
         "fr": "Bordage",
         "gr": "Σανίδα, Μαδέρι, Επηγκενίς",
@@ -379,9 +379,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/CDC760",
       "prefLabel": {
+        "en": "Mirror",
         "de": "Spiegel",
         "dk": "Spejl.",
-        "en": "Mirror",
         "es": "popa de espejo",
         "fr": "Miroir",
         "gr": "Καθρέφτης",
@@ -393,9 +393,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D10A1D",
       "prefLabel": {
+        "en": "Figurehead",
         "de": "Stevendekoration",
         "dk": "Stævnfigur",
-        "en": "Figurehead",
         "es": "decoración de roda",
         "fr": "Figure De Proue",
         "gr": "Ακρόπρωρον",
@@ -407,9 +407,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D1CB84",
       "prefLabel": {
+        "en": "Gunwale",
         "de": "Dollbord",
         "dk": "Essing",
-        "en": "Gunwale",
         "es": "regala o borda",
         "fr": "Plat-Bord",
         "gr": "Κουπαστή",
@@ -421,9 +421,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/DB6446",
       "prefLabel": {
+        "en": "Stern",
         "de": "Heck",
         "dk": "Hæk",
-        "en": "Stern",
         "es": "popa",
         "fr": "Poupe",
         "gr": "Πρύμνη",
@@ -435,9 +435,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/DC8396",
       "prefLabel": {
+        "en": "covering board",
         "de": "Schandeckel",
         "dk": "skandæk",
-        "en": "covering board",
         "es": "regala",
         "fr": "plat bord",
         "it": "bordo",
@@ -447,9 +447,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/E9E384",
       "prefLabel": {
+        "en": "prow block",
         "de": "Bugholz",
         "dk": "stævnblok",
-        "en": "prow block",
         "es": "prow block (eng)",
         "fr": "épaulure",
         "it": "blocco di prua",
@@ -460,9 +460,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/F426DE",
       "prefLabel": {
+        "en": "Keel-Plank",
         "de": "Kielplanke",
         "dk": "Kølplanke",
-        "en": "Keel-Plank",
         "es": "tablón de aparadura",
         "fr": "Bordage de Quille",
         "gr": "Μαδέρι δίπλα στην Καρένα",
@@ -474,9 +474,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/F71E8E",
       "prefLabel": {
+        "en": "Planking",
         "de": "Beplankung",
         "dk": "Bordlægning",
-        "en": "Planking",
         "es": "tablón",
         "fr": "Bordé",
         "gr": "Πέτσωμα",

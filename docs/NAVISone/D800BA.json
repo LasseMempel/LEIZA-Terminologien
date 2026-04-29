@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/D800BA",
   "type": "Concept",
   "prefLabel": {
+    "en": "Unknown operating environment",
     "de": "Unbekannt",
     "dk": "Ukendt anvendelsesområde",
-    "en": "Unknown operating environment",
     "es": "uso desconocido",
     "fr": "Environnement d´operation inconnu",
     "gr": "Άγνωστο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/2",
     "prefLabel": {
-      "de": "[Arbeitsumgebung]",
-      "en": "[operating environment]"
+      "en": "[operating environment]",
+      "de": "[Arbeitsumgebung]"
     }
   },
   "inScheme": [

@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/6A2A87",
   "type": "Concept",
   "prefLabel": {
-    "de": "Utrecht 1",
-    "en": "Utrecht 1"
+    "en": "Utrecht 1",
+    "de": "Utrecht 1"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

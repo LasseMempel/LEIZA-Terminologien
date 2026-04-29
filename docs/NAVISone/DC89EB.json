@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/DC89EB",
   "type": "Concept",
   "prefLabel": {
+    "en": "Longship",
     "de": "Langschiff",
     "dk": "Langskib",
-    "en": "Longship",
     "es": "navis lunga",
     "fr": "Bateau long",
     "gr": "Μακρό Πλοίο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/8D23B1",
   "type": "Concept",
   "prefLabel": {
+    "en": "Fishing vessel",
     "de": "Fischereifahrzeug",
     "dk": "Fiskefartøj",
-    "en": "Fishing vessel",
     "es": "barca pesquero",
     "fr": "Bateau de pêche",
     "gr": "Ψαράδικο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/1",
     "prefLabel": {
-      "de": "[Schiffsfunktion]",
-      "en": "[ship function]"
+      "en": "[ship function]",
+      "de": "[Schiffsfunktion]"
     }
   },
   "inScheme": [

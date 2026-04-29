@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G13A7B",
   "type": "Concept",
   "prefLabel": {
-    "de": "Strukturanalyse",
-    "en": "structural analysis"
+    "en": "structural analysis",
+    "de": "Strukturanalyse"
   },
   "definition": {
     "de": "Sammelbegriff für Analysen, die die innere Struktur eines Objektes sichtbar machen bzw. diese auf spezifische Eigenschaften untersuchen"
@@ -21,8 +21,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FFAF3C",
       "prefLabel": {
-        "de": "Röntgendiffraktion",
-        "en": "X-ray diffraction"
+        "en": "X-ray diffraction",
+        "de": "Röntgendiffraktion"
       }
     },
     {
@@ -34,16 +34,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D3BFFF",
       "prefLabel": {
-        "de": "Rasterelektronenmikroskopie",
-        "en": "scanning electron microscopy"
+        "en": "scanning electron microscopy",
+        "de": "Rasterelektronenmikroskopie"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G9B788",
     "prefLabel": {
-      "de": "Materialanalyse",
-      "en": "material analysis"
+      "en": "material analysis",
+      "de": "Materialanalyse"
     }
   },
   "inScheme": [

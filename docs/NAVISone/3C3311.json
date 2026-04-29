@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/3C3311",
   "type": "Concept",
   "prefLabel": {
+    "en": "Outrigger dugout",
     "de": "Kanuausleger",
     "dk": "Udrigger (Dugout)",
-    "en": "Outrigger dugout",
     "es": "arbotante",
     "gr": "Προώστης, Αργανέλο, Βαρδαφόγος (σκαφτός)",
     "it": "Buttafuori di canoa",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/12",
     "prefLabel": {
-      "de": "[Rudern und paddeln]",
-      "en": "[rowing and paddling]"
+      "en": "[rowing and paddling]",
+      "de": "[Rudern und paddeln]"
     }
   },
   "inScheme": [

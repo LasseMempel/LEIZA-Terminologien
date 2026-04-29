@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AD789F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Silberlegierung",
-    "en": "silver alloy"
+    "en": "silver alloy",
+    "de": "Silberlegierung"
   },
   "altLabel": {
     "de": [
@@ -26,8 +26,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F135A8",
       "prefLabel": {
-        "de": "Silber",
-        "en": "silver"
+        "en": "silver",
+        "de": "Silber"
       }
     }
   ],

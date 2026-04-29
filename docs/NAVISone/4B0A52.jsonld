@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/4B0A52",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rowlock",
     "de": "Keipe",
     "dk": "Kejpe",
-    "en": "Rowlock",
     "es": "chumacera de remo",
     "fr": "-Dame De Nage",
     "gr": "Στήριγξ, Φουρκαδέλα, Σκαλμός",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/12",
     "prefLabel": {
-      "de": "[Rudern und paddeln]",
-      "en": "[rowing and paddling]"
+      "en": "[rowing and paddling]",
+      "de": "[Rudern und paddeln]"
     }
   },
   "inScheme": [

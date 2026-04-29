@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/EB04DC",
   "type": "Concept",
   "prefLabel": {
+    "en": "Stringer",
     "de": "Stringer",
     "dk": "Stringer",
-    "en": "Stringer",
     "es": "palmejar / trancanín",
     "fr": "Serre",
     "gr": "Λώρος, Λούρος",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

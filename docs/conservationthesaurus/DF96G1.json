@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DF96G1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Wolle",
-    "en": "wool"
+    "en": "wool",
+    "de": "Wolle"
   },
   "definition": {
     "de": "tierische Faser (Stapelfaser) aus dem charakteristischen Haarkleid des Schafes. Die Bezeichnung Wolle wird im allgemeinem Sprachgebrauch auch für die Haare anderer Tierarten verwendet, allerdings sollte zur Differenzierung deren Namen hinzugefügt werden."

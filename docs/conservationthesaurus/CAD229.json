@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CAD229",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ahornholz",
-    "en": "maple"
+    "en": "maple",
+    "de": "Ahornholz"
   },
   "altLabel": {
     "de": [

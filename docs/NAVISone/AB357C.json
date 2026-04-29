@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/AB357C",
   "type": "Concept",
   "prefLabel": {
+    "en": "carpenters mark",
     "de": "Zimmermannszeichen",
     "dk": "tømrermærke",
-    "en": "carpenters mark",
     "es": "marcas de carpintero",
     "fr": "marque de charpentier",
     "it": "marchio di carpenteria",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

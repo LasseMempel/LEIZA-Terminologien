@@ -2,16 +2,16 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/2",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Arbeitsumgebung]",
-    "en": "[operating environment]"
+    "en": "[operating environment]",
+    "de": "[Arbeitsumgebung]"
   },
   "narrower": [
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/2EA1AB",
       "prefLabel": {
+        "en": "Offshore",
         "de": "See",
         "dk": "Hav",
-        "en": "Offshore",
         "es": "navegación de alta mar",
         "fr": "Mer",
         "gr": "Ανοικτή Θάλασσα",
@@ -23,16 +23,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/7D2D8B",
       "prefLabel": {
-        "de": "Küste",
-        "en": "Coastal"
+        "en": "Coastal",
+        "de": "Küste"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/D800BA",
       "prefLabel": {
+        "en": "Unknown operating environment",
         "de": "Unbekannt",
         "dk": "Ukendt anvendelsesområde",
-        "en": "Unknown operating environment",
         "es": "uso desconocido",
         "fr": "Environnement d´operation inconnu",
         "gr": "Άγνωστο",
@@ -44,9 +44,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/NAVISone/E0984E",
       "prefLabel": {
+        "en": "Inland",
         "de": "Binnenland",
         "dk": "Indland",
-        "en": "Inland",
         "es": "navegación en aguas continentales",
         "fr": "Intérieur",
         "gr": "Εσωτερικά Ύδατα",

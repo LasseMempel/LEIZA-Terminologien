@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14",
   "type": "Concept",
   "prefLabel": {
-    "de": "Bronze",
-    "en": "bronze"
+    "en": "bronze",
+    "de": "Bronze"
   },
   "altLabel": {
     "de": [
@@ -39,16 +39,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415",
     "prefLabel": {
-      "de": "Kupferlegierung",
-      "en": "copper alloy"
+      "en": "copper alloy",
+      "de": "Kupferlegierung"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9C457",
       "prefLabel": {
-        "de": "Bronzekrankheit",
-        "en": "bronze disease"
+        "en": "bronze disease",
+        "de": "Bronzekrankheit"
       }
     }
   ],

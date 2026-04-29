@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/3DE001",
   "type": "Concept",
   "prefLabel": {
+    "en": "rebate",
     "de": "Sponung",
     "dk": "spunding",
-    "en": "rebate",
     "es": "alefriz",
     "fr": "râblure",
     "gr": "ο κανθός",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

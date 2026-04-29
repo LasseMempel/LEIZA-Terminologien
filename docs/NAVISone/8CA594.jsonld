@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/8CA594",
   "type": "Concept",
   "prefLabel": {
+    "en": "Middle Stempost",
     "de": "Mittelsteven",
     "dk": "Midterstævn",
-    "en": "Middle Stempost",
     "es": "roda central",
     "fr": "Proue Centrale",
     "gr": "Μέγιστος Νομεύς, Μάστορης",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

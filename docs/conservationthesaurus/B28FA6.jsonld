@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B28FA6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kupfer",
-    "en": "copper"
+    "en": "copper",
+    "de": "Kupfer"
   },
   "altLabel": {
     "de": [
@@ -20,16 +20,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF",
     "prefLabel": {
-      "de": "Buntmetall",
-      "en": "nonferrous metal"
+      "en": "nonferrous metal",
+      "de": "Buntmetall"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415",
       "prefLabel": {
-        "de": "Kupferlegierung",
-        "en": "copper alloy"
+        "en": "copper alloy",
+        "de": "Kupferlegierung"
       }
     },
     {

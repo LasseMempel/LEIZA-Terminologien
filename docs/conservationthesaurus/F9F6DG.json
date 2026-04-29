@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9F6DG",
   "type": "Concept",
   "prefLabel": {
-    "de": "Elektrum",
     "en": "electrum",
+    "de": "Elektrum",
     "fr": "électrum"
   },
   "altLabel": {
@@ -27,15 +27,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F135A8",
       "prefLabel": {
-        "de": "Silber",
-        "en": "silver"
+        "en": "silver",
+        "de": "Silber"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149",
       "prefLabel": {
-        "de": "Gold",
-        "en": "gold"
+        "en": "gold",
+        "de": "Gold"
       }
     }
   ],

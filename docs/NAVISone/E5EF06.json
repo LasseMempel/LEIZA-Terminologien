@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/E5EF06",
   "type": "Concept",
   "prefLabel": {
+    "en": "Towed and sailed",
     "de": "Getreidelt und gesegelt",
     "dk": "Trukket og sejlet",
-    "en": "Towed and sailed",
     "es": "a la sirga y a vela",
     "fr": "Tiré et à voile",
     "gr": "Ρυμουλκούμενο και Ιστιοφόρο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

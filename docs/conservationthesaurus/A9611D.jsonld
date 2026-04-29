@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A9611D",
   "type": "Concept",
   "prefLabel": {
-    "de": "Durchlichtmikroskop",
-    "en": "transmitted light microscope"
+    "en": "transmitted light microscope",
+    "de": "Durchlichtmikroskop"
   },
   "definition": {
     "de": "Lichtmikroskop, bei dem sich die Lichtquelle unterhalb des Objekttisches befindet und das Licht somit durch das Präperat hindurch geleitet wird, bevor es vom Objektiv eingefangen und weiter zum Okular und schließlich auf das menschliche Auge bzw. auf eine Kamera gelenkt wird. Auf diese Weise können die inneren Strukturen durchsichtiger/durchscheinender bzw. dünn geschnittener Präperate vergrößert sichtbar gemacht werden."
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC2113",
     "prefLabel": {
-      "de": "Lichtmikroskop",
-      "en": "light microscope"
+      "en": "light microscope",
+      "de": "Lichtmikroskop"
     }
   },
   "inScheme": [

@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/6471C5",
   "type": "Concept",
   "prefLabel": {
+    "en": "Seam",
     "de": "Naht",
     "dk": "Nåd",
-    "en": "Seam",
     "es": "costura",
     "fr": "Couture",
     "gr": "Αρμός",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [

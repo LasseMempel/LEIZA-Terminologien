@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/ABFB76",
   "type": "Concept",
   "prefLabel": {
-    "de": "Mainz B",
-    "en": "Mainz B"
+    "en": "Mainz B",
+    "de": "Mainz B"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/4",
     "prefLabel": {
-      "de": "[Schiffstyp]",
-      "en": "[ship type]"
+      "en": "[ship type]",
+      "de": "[Schiffstyp]"
     }
   },
   "inScheme": [

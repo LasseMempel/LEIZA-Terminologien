@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/C5A0B6",
   "type": "Concept",
   "prefLabel": {
+    "en": "Transport vessel",
     "de": "Frachter",
     "dk": "Transportfartøj",
-    "en": "Transport vessel",
     "es": "buque mercantil o transporte",
     "fr": "Navire transport",
     "gr": "Λάντζα, Μαούνα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/1",
     "prefLabel": {
-      "de": "[Schiffsfunktion]",
-      "en": "[ship function]"
+      "en": "[ship function]",
+      "de": "[Schiffsfunktion]"
     }
   },
   "inScheme": [

@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G8AG1C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zink",
-    "en": "zinc"
+    "en": "zinc",
+    "de": "Zink"
   },
   "definition": {
     "de": "bläulich-weißes Metall mit dem chemischen Symbol Zn und der Ordnungszahl 30. Zink wurde in der Antike hauptsächlich als Erz bei der Kupferverhüttung bzw. -legierung verarbeitet. Erst im späten Mittelalter wird Zink gezielt als reines Metall hergestellt."
@@ -14,16 +14,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF",
     "prefLabel": {
-      "de": "Buntmetall",
-      "en": "nonferrous metal"
+      "en": "nonferrous metal",
+      "de": "Buntmetall"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F15DFD",
       "prefLabel": {
-        "de": "Zinklegierung",
-        "en": "zinc alloy"
+        "en": "zinc alloy",
+        "de": "Zinklegierung"
       }
     }
   ],

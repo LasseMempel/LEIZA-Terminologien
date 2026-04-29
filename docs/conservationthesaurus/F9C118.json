@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9C118",
   "type": "Concept",
   "prefLabel": {
-    "de": "Lochkorrosion",
-    "en": "pitting corrosion"
+    "en": "pitting corrosion",
+    "de": "Lochkorrosion"
   },
   "altLabel": {
     "de": [

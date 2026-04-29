@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A75779",
   "type": "Concept",
   "prefLabel": {
-    "de": "Stereomikroskop",
-    "en": "stereomicroscop"
+    "en": "stereomicroscop",
+    "de": "Stereomikroskop"
   },
   "definition": {
     "de": "optisches Lichtmikroskop, das zwei getrennte Strahlengänge verwendet um ein dreidimensionales Bild eines Objektes zu erzeugen. Dadurch können detaillierte Oberflächenstrukturen besser untersucht werden. Es bietet eine geringere Vergrößerung im Vergleich zu anderen Mikroskopen aber eine größerer Tiefenschärfe."
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC2113",
     "prefLabel": {
-      "de": "Lichtmikroskop",
-      "en": "light microscope"
+      "en": "light microscope",
+      "de": "Lichtmikroskop"
     }
   },
   "inScheme": [

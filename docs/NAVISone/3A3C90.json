@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/3A3C90",
   "type": "Concept",
   "prefLabel": {
+    "en": "Bottom",
     "de": "Boden",
     "dk": "Bund",
-    "en": "Bottom",
     "es": "fondo o carena",
     "fr": "Caràne",
     "gr": "Πυθμένας",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

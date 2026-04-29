@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Füllstoff",
-    "en": "filler"
+    "en": "filler",
+    "de": "Füllstoff"
   },
   "definition": {
     "de": "verhältnismäßig inerter fester Stoff, der einem Kunststoff oder einem Klebstoff beigemischt wird, um dessen Festigkeit, Beständigkeit, Verarbeitungseigenschaften oder andere Eigenschaften zu verbessern oder um die Kosten zu senken."
@@ -21,36 +21,36 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B9D357",
       "prefLabel": {
-        "de": "Hohlglaskügelchen",
-        "en": "hollow glass balls"
+        "en": "hollow glass balls",
+        "de": "Hohlglaskügelchen"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BFB3B9",
       "prefLabel": {
-        "de": "Talkum",
-        "en": "talcum powder"
+        "en": "talcum powder",
+        "de": "Talkum"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C1BBFB",
       "prefLabel": {
-        "de": "Metallpulver",
-        "en": "metal powder"
+        "en": "metal powder",
+        "de": "Metallpulver"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA86F8",
       "prefLabel": {
-        "de": "pyrogene Kieselsäure",
-        "en": "fumed silica"
+        "en": "fumed silica",
+        "de": "pyrogene Kieselsäure"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FC6F82",
       "prefLabel": {
-        "de": "Graphit",
-        "en": "graphite"
+        "en": "graphite",
+        "de": "Graphit"
       }
     },
     {
@@ -63,8 +63,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
     "prefLabel": {
-      "de": "Konservierungs- und Restaurierungsmaterialien",
-      "en": "restoration material"
+      "en": "restoration material",
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "inScheme": [

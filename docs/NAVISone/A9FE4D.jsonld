@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/A9FE4D",
   "type": "Concept",
   "prefLabel": {
+    "en": "Fender",
     "de": "Scheuerleiste",
     "dk": "Fenderliste",
-    "en": "Fender",
     "es": "defensa",
     "fr": "Préceinte",
     "gr": "Περίζωμα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

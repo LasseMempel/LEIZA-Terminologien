@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/2D4862",
   "type": "Concept",
   "prefLabel": {
+    "en": "Rudder",
     "de": "Steuerruder",
     "dk": "Ror",
-    "en": "Rudder",
     "es": "timón",
     "fr": "Gouvernail",
     "gr": "Πηδάλιο, Τιμόνι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/11",
     "prefLabel": {
-      "de": "[Ruderanlage]",
-      "en": "[steering gear]"
+      "en": "[steering gear]",
+      "de": "[Ruderanlage]"
     }
   },
   "inScheme": [

@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BA652F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kollagenhaltiges Material",
-    "en": "collagenous material"
+    "en": "collagenous material",
+    "de": "Kollagenhaltiges Material"
   },
   "definition": {
     "de": "Kollagenhaltiges tierisches Material"
@@ -15,23 +15,23 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757",
       "prefLabel": {
-        "de": "Tierhaut",
-        "en": "animal skin"
+        "en": "animal skin",
+        "de": "Tierhaut"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/GG2137",
       "prefLabel": {
-        "de": "Tierfell",
-        "en": "fur"
+        "en": "fur",
+        "de": "Tierfell"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F",
     "prefLabel": {
-      "de": "Materialien tierischen Ursprungs",
-      "en": "animal material"
+      "en": "animal material",
+      "de": "Materialien tierischen Ursprungs"
     }
   },
   "closeMatch": [

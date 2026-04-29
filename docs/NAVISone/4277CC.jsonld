@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/4277CC",
   "type": "Concept",
   "prefLabel": {
+    "en": "Aft",
     "de": "Achterschiff",
     "dk": "Agterskib",
-    "en": "Aft",
     "es": "a popa",
     "fr": "Poupè Arrière Du Navire",
     "gr": "Πρυμναίο Τμήμα του Πλοίου",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

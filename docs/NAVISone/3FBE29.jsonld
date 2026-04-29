@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/3FBE29",
   "type": "Concept",
   "prefLabel": {
+    "en": "Longitudinal Stiffener",
     "de": "Längsversteifung",
     "dk": "Langsgående forstærkning",
-    "en": "Longitudinal Stiffener",
     "es": "refuerzo longitudinal",
     "fr": "Renfort Longitudinal",
     "gr": "Πλάγια Όψη",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

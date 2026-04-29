@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DGC3A9",
   "type": "Concept",
   "prefLabel": {
-    "de": "Glaskorrosion",
-    "en": "sugaring"
+    "en": "sugaring",
+    "de": "Glaskorrosion"
   },
   "altLabel": {
     "de": [
@@ -27,8 +27,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73",
       "prefLabel": {
-        "de": "Glas",
-        "en": "glas"
+        "en": "glas",
+        "de": "Glas"
       }
     }
   ],

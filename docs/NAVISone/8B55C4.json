@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/8B55C4",
   "type": "Concept",
   "prefLabel": {
+    "en": "Military vessel",
     "de": "Militärfahrzeug",
     "dk": "Militærfartøj",
-    "en": "Military vessel",
     "es": "buque de guerra",
     "fr": "Navire de guerre",
     "gr": "Πολεμικό",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/1",
     "prefLabel": {
-      "de": "[Schiffsfunktion]",
-      "en": "[ship function]"
+      "en": "[ship function]",
+      "de": "[Schiffsfunktion]"
     }
   },
   "inScheme": [

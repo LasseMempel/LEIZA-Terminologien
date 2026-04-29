@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/947F7A",
   "type": "Concept",
   "prefLabel": {
+    "en": "Oared and sailed",
     "de": "Gerudert und gesegelt",
     "dk": "Roet og sejlet",
-    "en": "Oared and sailed",
     "es": "a remo y a vela",
     "fr": "À rames et à voile",
     "gr": "Κωπήλατο και Ιστιοφόρο",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/3",
     "prefLabel": {
-      "de": "[Antrieb]",
-      "en": "[propulsion]"
+      "en": "[propulsion]",
+      "de": "[Antrieb]"
     }
   },
   "inScheme": [

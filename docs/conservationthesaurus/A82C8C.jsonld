@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A82C8C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Rohhaut",
-    "en": "rawhide"
+    "en": "rawhide",
+    "de": "Rohhaut"
   },
   "definition": {
     "de": "Von Fleisch und Haaren befreite und getrocknete, ungegerbte Tierhaut"
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757",
     "prefLabel": {
-      "de": "Tierhaut",
-      "en": "animal skin"
+      "en": "animal skin",
+      "de": "Tierhaut"
     }
   },
   "inScheme": [

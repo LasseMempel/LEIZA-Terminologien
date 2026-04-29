@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/9A4CAE",
   "type": "Concept",
   "prefLabel": {
+    "en": "Thwart Stanchion",
     "de": "Duchtstütze",
     "dk": "Toftestander",
-    "en": "Thwart Stanchion",
     "es": "puntal de bancada",
     "fr": "Montant De Banc De Nage",
     "gr": "Υπόσελμα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/12",
     "prefLabel": {
-      "de": "[Rudern und paddeln]",
-      "en": "[rowing and paddling]"
+      "en": "[rowing and paddling]",
+      "de": "[Rudern und paddeln]"
     }
   },
   "inScheme": [

@@ -13,51 +13,51 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
     "prefLabel": {
-      "de": "Freilegung",
-      "en": "uncovering"
+      "en": "uncovering",
+      "de": "Freilegung"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746",
       "prefLabel": {
-        "de": "Base",
-        "en": "alkaline solution"
+        "en": "alkaline solution",
+        "de": "Base"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575",
       "prefLabel": {
-        "de": "Säure",
-        "en": "acidic detergent"
+        "en": "acidic detergent",
+        "de": "Säure"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B2642A",
       "prefLabel": {
-        "de": "Oberflächenbeschichtungen entfernt",
-        "en": "removal of surface coatings"
+        "en": "removal of surface coatings",
+        "de": "Oberflächenbeschichtungen entfernt"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1",
       "prefLabel": {
-        "de": "Reduktionsmittel",
-        "en": "reducing agent"
+        "en": "reducing agent",
+        "de": "Reduktionsmittel"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CA59C2",
       "prefLabel": {
-        "de": "Klebungen entfernt",
-        "en": "removal of adhesives"
+        "en": "removal of adhesives",
+        "de": "Klebungen entfernt"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F87124",
       "prefLabel": {
-        "de": "Komplexbildner",
-        "en": "sequestering agent"
+        "en": "sequestering agent",
+        "de": "Komplexbildner"
       }
     },
     {
@@ -69,8 +69,8 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGBB54",
       "prefLabel": {
-        "de": "Ergänzungsmaterialien entfernt",
-        "en": "removal of filling materials"
+        "en": "removal of filling materials",
+        "de": "Ergänzungsmaterialien entfernt"
       }
     }
   ],

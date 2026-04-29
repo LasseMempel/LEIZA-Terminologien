@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/FGBB54",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ergänzungsmaterialien entfernt",
-    "en": "removal of filling materials"
+    "en": "removal of filling materials",
+    "de": "Ergänzungsmaterialien entfernt"
   },
   "definition": {
     "de": "Methode, bei der zu einem früheren Zeitpunkt ausgeführte Ergänzungsarbeiten aus dem Objekt heraus gelöst und entfernt werden."
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF",
     "prefLabel": {
-      "de": "frühere Restaurierungsmaterialien entfernt",
-      "en": "removal of previous restoration materials"
+      "en": "removal of previous restoration materials",
+      "de": "frühere Restaurierungsmaterialien entfernt"
     }
   },
   "related": [

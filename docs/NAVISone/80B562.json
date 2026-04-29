@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/80B562",
   "type": "Concept",
   "prefLabel": {
+    "en": "Fore",
     "de": "Vorschiff",
     "dk": "Forskib",
-    "en": "Fore",
     "es": "escobenes",
     "fr": "Avant Du Navire",
     "gr": "Πρώραθεν, Κατάπρωρα",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

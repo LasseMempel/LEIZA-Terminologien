@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/45B061",
   "type": "Concept",
   "prefLabel": {
+    "en": "Cutwater",
     "de": "Bugsporn",
     "dk": "Krigen",
-    "en": "Cutwater",
     "es": "espolón",
     "gr": "Κυματόμος, Θαλασσοτόμος",
     "it": "Tagliamare",
@@ -14,8 +14,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

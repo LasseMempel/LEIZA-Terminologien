@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/5EEC61",
   "type": "Concept",
   "prefLabel": {
+    "en": "Floor Timber",
     "de": "Wrange",
     "dk": "Bundstok",
-    "en": "Floor Timber",
     "es": "varenga",
     "fr": "Varangue",
     "gr": "Έδρα, Στρώση",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

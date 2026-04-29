@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/DC8396",
   "type": "Concept",
   "prefLabel": {
+    "en": "covering board",
     "de": "Schandeckel",
     "dk": "skandæk",
-    "en": "covering board",
     "es": "regala",
     "fr": "plat bord",
     "it": "bordo",
@@ -13,8 +13,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/6",
     "prefLabel": {
-      "de": "[Rumpf]",
-      "en": "[hull]"
+      "en": "[hull]",
+      "de": "[Rumpf]"
     }
   },
   "inScheme": [

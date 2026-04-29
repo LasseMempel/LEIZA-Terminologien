@@ -14,15 +14,15 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25",
       "prefLabel": {
-        "de": "pflanzliche Fasern",
-        "en": "plant fibres"
+        "en": "plant fibres",
+        "de": "pflanzliche Fasern"
       }
     },
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2FCA7",
       "prefLabel": {
-        "de": "Rinde",
-        "en": "bark"
+        "en": "bark",
+        "de": "Rinde"
       }
     },
     {
@@ -34,16 +34,16 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G465BG",
       "prefLabel": {
-        "de": "Samen",
-        "en": "seed"
+        "en": "seed",
+        "de": "Samen"
       }
     }
   ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341",
     "prefLabel": {
-      "de": "organisches Material",
-      "en": "organic"
+      "en": "organic",
+      "de": "organisches Material"
     }
   },
   "inScheme": [

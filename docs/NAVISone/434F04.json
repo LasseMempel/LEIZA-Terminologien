@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/434F04",
   "type": "Concept",
   "prefLabel": {
+    "en": "Knee",
     "de": "Knie",
     "dk": "Knæ",
-    "en": "Knee",
     "es": "curvatón",
     "fr": "Courbe",
     "gr": "Αγκών, Μπρατσόλι",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

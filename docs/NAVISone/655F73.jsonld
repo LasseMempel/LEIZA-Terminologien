@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/655F73",
   "type": "Concept",
   "prefLabel": {
+    "en": "Mast (Mizzen)",
     "de": "Mast (Besanmast)",
     "dk": "Mast (Mesan)",
-    "en": "Mast (Mizzen)",
     "es": "palo de mesana",
     "fr": "Mat D´artimon",
     "gr": "Ιστός του Επιδρόμου, Πρυμναίος Ιστός",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/10",
     "prefLabel": {
-      "de": "[Besegelung]",
-      "en": "[sailing gear]"
+      "en": "[sailing gear]",
+      "de": "[Besegelung]"
     }
   },
   "inScheme": [

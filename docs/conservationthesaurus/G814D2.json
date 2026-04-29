@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Freilegung",
-    "en": "uncovering"
+    "en": "uncovering",
+    "de": "Freilegung"
   },
   "altLabel": {
     "de": [
@@ -39,16 +39,16 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
     "prefLabel": {
-      "de": "Restaurierung",
-      "en": "restoration"
+      "en": "restoration",
+      "de": "Restaurierung"
     }
   },
   "related": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613",
       "prefLabel": {
-        "de": "Reinigung",
-        "en": "cleaning"
+        "en": "cleaning",
+        "de": "Reinigung"
       }
     }
   ],

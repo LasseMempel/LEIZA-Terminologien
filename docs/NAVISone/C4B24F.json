@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/C4B24F",
   "type": "Concept",
   "prefLabel": {
+    "en": "Half Frame",
     "de": "Halbspant",
     "dk": "Halvspant",
-    "en": "Half Frame",
     "es": "media cuaderna",
     "fr": "Demi-Couple",
     "gr": "Σκέλια",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

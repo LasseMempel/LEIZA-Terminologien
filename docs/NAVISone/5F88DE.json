@@ -2,9 +2,9 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/5F88DE",
   "type": "Concept",
   "prefLabel": {
+    "en": "Side Frame",
     "de": "Seitenspant",
     "dk": "Sidespant",
-    "en": "Side Frame",
     "es": "ligazón de revés",
     "fr": "Couple De Côté",
     "gr": "Πλευρικοί Νομείς",
@@ -15,8 +15,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/7",
     "prefLabel": {
-      "de": "[Innenkonstruktion]",
-      "en": "[internal construction]"
+      "en": "[internal construction]",
+      "de": "[Innenkonstruktion]"
     }
   },
   "inScheme": [

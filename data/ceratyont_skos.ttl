@@ -1,4 +1,4 @@
-@prefix ceratyont: <http://www.w3id.org/archlink/terms/ceratyont-terminology/> .
+@prefix ceratyont: <https://www.w3id.org/archlink/terms/ceratyont-terminology/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix lado: <http://www.w3id.org/lado/> .

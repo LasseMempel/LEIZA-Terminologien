@@ -2,8 +2,8 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Klebung",
-    "en": "bonding"
+    "en": "bonding",
+    "de": "Klebung"
   },
   "altLabel": {
     "de": [
@@ -47,8 +47,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
     "prefLabel": {
-      "de": "Restaurierung",
-      "en": "restoration"
+      "en": "restoration",
+      "de": "Restaurierung"
     }
   },
   "related": [

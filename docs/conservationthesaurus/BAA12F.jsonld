@@ -10,8 +10,8 @@
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D4A13D",
     "prefLabel": {
-      "de": "[Untersuchungsmethode]",
-      "en": "examination method"
+      "en": "examination method",
+      "de": "[Untersuchungsmethode]"
     }
   },
   "inScheme": [

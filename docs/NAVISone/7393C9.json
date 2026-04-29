@@ -2,14 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/NAVISone/7393C9",
   "type": "Concept",
   "prefLabel": {
-    "de": "Nagel (Baum)",
-    "en": "Nail (tree)"
+    "en": "Nail (tree)",
+    "de": "Nagel (Baum)"
   },
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/NAVISone/9",
     "prefLabel": {
-      "de": "[Konstruktionsmerkmale]",
-      "en": "[constructional features]"
+      "en": "[constructional features]",
+      "de": "[Konstruktionsmerkmale]"
     }
   },
   "inScheme": [
