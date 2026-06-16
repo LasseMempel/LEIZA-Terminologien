@@ -1,49 +1,97 @@
 import requests
-import csv
 import json
-import os
-import sys
+from rdflib import Graph, BNode, Literal, URIRef
+from rdflib.namespace import SKOS, DCTERMS, RDF
 
-checksumFileLink = "https://api.dante.gbv.de/export/download/leiza_archlink/Standardexport/checksums.txt"
-vocabularyFileLink = "https://api.dante.gbv.de/export/download/leiza_archlink/Standardexport/leiza_archlink__Standardexport.turtle.ttl"
+voc = "archlink_conservationthesaurus"
+searchQuery = f"http://api.dante.gbv.de/search?voc={voc}&limit=5000&query=*&properties=*&cache=0&format=jskos"
 
-def readChecksumFile(file):
-    with open(file, "r") as f:
-        checksumTable = list(csv.reader(f))
-        ttlRow = checksumTable[9][0]
-        ttlColumns = ttlRow.split()
-        if ttlColumns[0] == "leiza_archlink__Standardexport.turtle.ttl":
-            ttlChecksum = ttlColumns[2]
-            return ttlChecksum
-        else:
-            raise ValueError("Unexspected data in checksums.txt")
+response = requests.get(searchQuery)
+with open("archlink_conservationthesaurus.json", "w", encoding="utf-8") as f:
+    json.dump(response.json(), f, ensure_ascii=False, indent=2)
 
-# Check if checksum file exists
-if os.path.exists("checksums.txt"):
-    originalChecksum = readChecksumFile("checksums.txt")
-else:
-    print("No existing checksum file found - will download new files")
-    originalChecksum = None
+g = Graph()
+g.parse("archlink_conservationthesaurus.json", format="json-ld")
+g.serialize("archlink_conservationthesaurus.ttl", format="turtle")
 
-checkSumFile = requests.get(checksumFileLink)
-checkSumFileContent = checkSumFile.text
-with open("newChecksums.txt", "w") as file:
-    file.write(checkSumFileContent)
+FLATTEN_PROPS = {DCTERMS.publisher, DCTERMS.source}
+OLD_URI = URIRef("http://uri.gbv.de/terminology/archlink_conservationthesaurus/")
+NEW_URI = URIRef("https://www.w3id.org/archlink/terms/conservationthesaurus")
+OLD_PRED = URIRef("http://uri.gbv.de/terminology/ontologic_relation/ce8215a4-17ad-433c-a3e6-0c941de67abc")
+_uri_cache: dict[str, URIRef | None] = {}
 
-newChecksum = readChecksumFile("newChecksums.txt")
+for prop in FLATTEN_PROPS:
+    # list() because we mutate the graph inside the loop
+    for s, p, o in list(g.triples((None, prop, None))):
+        if not isinstance(o, BNode):
+            continue
 
-if newChecksum == originalChecksum:
-    print("No changes in vocabulary file")
-    os.remove("newChecksums.txt")
-else:
-    print("Vocabulary file has changed or no original checksum found")
-    print("Replacing checksum.txt with newChecksum.txt")
-    os.replace("newChecksums.txt", "checksums.txt")
+        labels = list(g.objects(o, SKOS.prefLabel))
+        if not labels:
+            continue  # blank node has no prefLabel — leave it alone
 
-    # Always download the vocabulary file when checksum changed or was missing
-    print("Downloading new vocabulary file")
-    vocabularyFile = requests.get(vocabularyFileLink)
-    vocabularyFileContent = vocabularyFile.text
-    with open("vocabulary.ttl", "w") as file:
-        file.write(vocabularyFileContent)
+        # Remove the original triple pointing to the blank node
+        g.remove((s, p, o))
 
+        # Remove all triples *about* the blank node (clean up orphans)
+        for pred, obj in list(g.predicate_objects(o)):
+            g.remove((o, pred, obj))
+
+        # Add one direct triple per label (handles multiple values naturally)
+        for label in labels:
+            g.add((s, p, Literal(str(label))))
+
+for scheme in g.subjects(RDF.type, SKOS.ConceptScheme):
+    for label in list(g.objects(scheme, SKOS.prefLabel)):
+        g.remove((scheme, SKOS.prefLabel, label))
+        g.add((scheme, DCTERMS.title, label))
+
+for s, p, o in list(g):
+    ns = NEW_URI if s == OLD_URI else s
+    no = NEW_URI if o == OLD_URI else o
+    if ns is not s or no is not o:
+        g.remove((s, p, o))
+        g.add((ns, p, no))
+
+def resolve_jskos_uri(dante_uri: str) -> URIRef | None:
+    if dante_uri in _uri_cache:
+        return _uri_cache[dante_uri]
+    try:
+        resp = requests.get(dante_uri, headers={"Accept": "application/json"}, timeout=10)
+        resp.raise_for_status()
+        data = resp.json()
+        if isinstance(data, list):
+            data = data[0]
+        canonical = data.get("uri")
+        result = URIRef(canonical) if canonical else None
+    except Exception as e:
+        print(f"Warning: could not resolve {dante_uri}: {e}")
+        result = None
+    _uri_cache[dante_uri] = result
+    return result
+
+
+for s, p, o in list(g.triples((None, OLD_PRED, None))):
+    if not isinstance(o, BNode):
+        continue
+
+    # Extract the actual target URI from the blank node's rdf:object
+    rdf_objects = list(g.objects(o, RDF.object))
+    if not rdf_objects:
+        print(f"Warning: blank node for {s} has no rdf:object — skipping")
+        continue
+
+    canonical_uri = resolve_jskos_uri(str(rdf_objects[0]))
+    if not canonical_uri:
+        continue
+
+    # Remove old triple and clean up blank node
+    g.remove((s, p, o))
+    for pred, obj in list(g.predicate_objects(o)):
+        g.remove((o, pred, obj))
+
+    g.add((s, SKOS.related, canonical_uri))
+
+g.serialize("archlink_conservationthesaurus_flattened.ttl", format="turtle")
+
+print(f"Number of triples in the graph: {len(g)}")

@@ -1,0 +1,13 @@
+Filename                                          Algorithm      Checksum                                                              
+archlink_conservationthesaurus__Standardexport.jskos.jsonldsha256         651a7c3837455733df1394f7328e0a5d735e2ab2eb9de16c92857bfbdc08a83c      
+archlink_conservationthesaurus__Standardexport.jskos.jsonldmd5            8df9c3d73e4fe576a2b986bf369ce623                                      
+archlink_conservationthesaurus__Standardexport.jskos.ndjsonsha256         fe018f1d79ae248669a4df648066606f36e5ffd6741c5d6b108da9f2463dc3de      
+archlink_conservationthesaurus__Standardexport.jskos.ndjsonmd5            5722b29156e63232a13d58d7645860ec                                      
+archlink_conservationthesaurus__Standardexport.jskos.ndjson.gzsha256         fc45e2419660ac497c968ea78c38e23a4849a9b79b320c0527ebded8471fe8ce      
+archlink_conservationthesaurus__Standardexport.jskos.ndjson.gzmd5            a79bee011a95e02f0a472c6eeb5743a3                                      
+archlink_conservationthesaurus__Standardexport.jskos.jsonld.gzsha256         7f9ecfe50648e345b500017588c86dbc3ff404cf81232f82696a5e29250ac042      
+archlink_conservationthesaurus__Standardexport.jskos.jsonld.gzmd5            cad0b3fa59dc9e3a5477c669fc5ae8cb                                      
+archlink_conservationthesaurus__Standardexport.turtle.ttlsha256         2306cad00ad8d5d038dffc6974edfbff88872c9cbfa483e126970e7b9dc19b5c      
+archlink_conservationthesaurus__Standardexport.turtle.ttlmd5            6c6bfb55dc75aed7c0ccb5c50d2c2805                                      
+archlink_conservationthesaurus__Standardexport.turtle.ttl.gzsha256         3df0e3f6e5f9a2dcb2fc4bc7ae3e2e8bff6e236921fcf2eb80e72973abb372bd      
+archlink_conservationthesaurus__Standardexport.turtle.ttl.gzmd5            d80f15e8f09f97bb86191f1e78ca8612                                      

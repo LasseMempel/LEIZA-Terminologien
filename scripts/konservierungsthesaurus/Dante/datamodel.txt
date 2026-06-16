@@ -1,0 +1,46 @@
+# Scheme
+
+<http://uri.gbv.de/terminology/archlink_conservationthesaurus/> a <http://w3id.org/nkos/nkostype#list>, skos:ConceptScheme ;
+  skos:notation "archlink_conservationthesaurus" ;
+  skos:prefLabel "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"@de, "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"@en ;
+  dct:created "2026-01-13"^^<xsd:date> ;
+  dct:identifier "http://uri.gbv.de/terminology/leiza_archlink" ;
+  dct:issued "2026-01-13"^^<xsd:date> ;
+  dct:language "de" ;
+  dct:license <http://creativecommons.org/licenses/by/4.0/> ;
+  dct:modified "2026-03-24"^^<xsd:date> ;
+  dct:publisher [
+    skos:prefLabel "Leibniz-Zentrum für Archäologie (LEIZA)"@de
+  ] ;
+
+uri: http://uri.gbv.de/terminology/archlink_conservationthesaurus 
+vs
+https://www.w3id.org/archlink/terms/conservationthesaurus
+
+prefLabel: Nur Deutsch?
+publisher mit skos:prefLabel
+
+kein dcterms:contributor
+kein dcterms:creator
+kein dcterms:description
+kein dcterms:rights
+kein dcterms: subject
+
+skos:prefLabel statt dcterms:title
+kein skos:hasTopConcept
+
+# Concepts
+
+skos notation: zusätzliche http://uri.gbv.de/terminology/signature_type/1c03ea24-f28a-4c69-9121-bb0e67e4b166 Angabe???
+created, issued, modified als explizite xsd dates
+
+dct:source mit skos:prefLabel 
+skos:broaderTransitive statt skos:broader
+
+skos:definition zusätzlich als skosxl:literalForm
+
+zusätzliches skosxl:prefLabel 
+
+kein rdfs:seeAlso
+
+keinerlei Mappings? 
