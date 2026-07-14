@@ -12,6 +12,12 @@
   ],
   "narrower": [
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/DG2995",
+      "prefLabel": {
+        "de": "Form"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A7FC45",
       "prefLabel": {
         "de": "Kopie"

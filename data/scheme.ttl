@@ -1326,6 +1326,15 @@
     skos:notation "B28GC7" ;
     skos:prefLabel "Zellstoff"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B2913C> a skos:Concept ;
+    dcterms:creator "Leslie Pluntke/ LEIZA" ;
+    skos:altLabel "Silikonform"@de,
+        "Silikonhaut"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG2995> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "B2913C" ;
+    skos:prefLabel "Hautform"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/B2ADB6> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:altLabel "anthropogene Schädigung"@de ;
@@ -3351,6 +3360,14 @@
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "CGCD82" ;
     skos:prefLabel "Hammerschlagstruktur"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CGF1B9> a skos:Concept ;
+    dcterms:creator "Leslie Pluntke/ LEIZA" ;
+    skos:altLabel "Kapsel"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG2995> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "CGF1B9" ;
+    skos:prefLabel "Stützkapsel"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/CGGB4G> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -7209,6 +7226,15 @@
     skos:notation "G51749" ;
     skos:prefLabel "Glanzstelle"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G52378> a skos:Concept ;
+    dcterms:creator "Waldemar Muskalla/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAG2A8> ;
+    skos:definition "Methode, bei der Abformmaterialien auf das Original aufgetragen werden, um das zu kopierende Objekt als Negativform abzubilden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A2G7B9> ;
+    skos:notation "G52378" ;
+    skos:prefLabel "analoge Abformung"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/G56866> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S.16/17." ;
@@ -8013,7 +8039,7 @@
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/FBGFC2> a skos:Concept ;
     dcterms:creator "Waldemar Muskalla/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G52378> ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG2995> ;
     skos:definition "strukturierender Sammelbegriff, für die Aufbauarten von Formen, d.h. aus wie vielen Teilen sie bestehend."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B2D9C9>,
@@ -8645,17 +8671,6 @@
     skos:prefLabel "Edelmetalllegierung"@de ;
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/G52378> a skos:Concept ;
-    dcterms:creator "Waldemar Muskalla/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAG2A8> ;
-    skos:definition "Methode, bei der Abformmaterialien auf das Original aufgetragen werden, um das zu kopierende Objekt als Negativform abzubilden."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A2G7B9>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FBGFC2>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FFA16B> ;
-    skos:notation "G52378" ;
-    skos:prefLabel "analoge Abformung"@de .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GG6A8B> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Wolfgang Knobloch, Ergänzungen und Rekonstruktionen an historischen Objekten aus Metall. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, S. 93." ;
@@ -8874,18 +8889,6 @@
     skos:notation "B7B8B6" ;
     skos:prefLabel "[Adhäsivstoff]"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C11192> a skos:Concept ;
-    dcterms:creator "Waldemar Muskalla/ Kristina Fischer/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C3A182> ;
-    skos:definition "struktureller Sammelbegriff für die bei der Nachbildungstätigkeit entstehenden Objekte"@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A7FC45>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C5GA26>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D532GF>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F9549F> ;
-    skos:notation "C11192" ;
-    skos:prefLabel "[Nachbildungsergebnisse]"@de .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung." ;
@@ -9035,6 +9038,19 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/CG154B> ;
     skos:notation "DG279C" ;
     skos:prefLabel "Feinkeramik"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DG2995> a skos:Concept ;
+    dcterms:creator "Leslie Pluntke/ LEIZA" ;
+    skos:altLabel "Negativform"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C11192> ;
+    skos:definition "Zum Zweck der Abformung erstellte Negativform des abzuformenden Objektes"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B2913C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CGF1B9>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FBGFC2>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FFA16B> ;
+    skos:notation "DG2995" ;
+    skos:prefLabel "Form"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1> a skos:Concept ;
     dcterms:creator "LEIZA" ;
@@ -9342,6 +9358,19 @@
     skos:prefLabel "[Untersuchungsergebnisse]"@de,
         "examination results"@en ;
     skos:relatedMatch <https://vocab.getty.edu/aat/300137593> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C11192> a skos:Concept ;
+    dcterms:creator "Waldemar Muskalla/ Kristina Fischer/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C3A182> ;
+    skos:definition "struktureller Sammelbegriff für die bei der Nachbildungstätigkeit entstehenden Objekte"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A7FC45>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C5GA26>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D532GF>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DG2995>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F9549F> ;
+    skos:notation "C11192" ;
+    skos:prefLabel "[Nachbildungsergebnisse]"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -9938,7 +9967,7 @@
 <https://www.w3id.org/archlink/terms/conservationthesaurus/FFA16B> a skos:Concept ;
     dcterms:creator "Waldemar Muskalla/ Kristina Fischer/ LEIZA" ;
     skos:altLabel "[Formart]"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G52378> ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG2995> ;
     skos:definition "strukturierender Sammelbegriff, der die unterschiedlichen Typen von Formen beinhaltet"@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A15D7G>,
