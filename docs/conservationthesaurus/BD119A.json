@@ -7,20 +7,19 @@
   "altLabel": {
     "de": [
       "Färben",
-      "Kolorieren"
+      "Kolorieren (Restaurierungsmethode)"
     ]
   },
   "definition": {
-    "de": "Methode zur farbigen Nachfassung ergänzter Bereiche um sie, im Vergleich zum originalen Material, weniger stark in den Vordergrund treten zu lassen. In der Regel werden die Ergänzungen im gleichen Farbton, aber eine Nuance heller als das original Material, eingefärbt."
+    "de": "Methode zur farbigen Nachfassung bearbeiteter Bereiche um sie, im Vergleich zum originalen Material, weniger stark in den Vordergrund treten zu lassen. In der Regel werden rezent eingefügte Materialien (Ergänzungen, Klebefugen, etc.) im gleichen Farbton, aber eine Nuance heller als das original Material, eingefärbt, um eine ehrliche Unterscheidung zwischen originalem Erhaltungszustand und rekonstruiertem Bereich deutlich zu machen."
   },
   "notation": [
     "BD119A"
   ],
   "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A45RG2",
     "prefLabel": {
-      "en": "filling",
-      "de": "Ergänzung (Restaurierungsmethode)"
+      "de": "Oberflächenbehandlung (Restaurierungsmethode)"
     }
   },
   "related": [
@@ -29,6 +28,13 @@
       "prefLabel": {
         "en": "colourant",
         "de": "Farbstoff"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/RE09FD",
+      "prefLabel": {
+        "en": "patination",
+        "de": "Patinieren"
       }
     }
   ],

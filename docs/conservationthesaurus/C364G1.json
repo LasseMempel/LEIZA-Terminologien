@@ -104,6 +104,12 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/W2E45F",
+      "prefLabel": {
+        "de": "Feuchtehaltemittel"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/B7B8B6",
       "prefLabel": {
         "de": "[Adhäsivstoff]"

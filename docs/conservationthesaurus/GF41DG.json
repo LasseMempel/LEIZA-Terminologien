@@ -11,16 +11,16 @@
     ]
   },
   "definition": {
-    "de": "Methode zum Schutz der Objektoberfläche vor negativer Einwirkung von außen durch Auftrag eines schützenden Materials"
+    "de": "Methode, bei der ein Material (z.B. Lack, Wachs, Öl) auf die Objektoberfläche aufgebracht wird, das einen schützenden Film erzeugt ohne dauerhaft mit dem Objektmaterial zu reagieren."
   },
   "notation": [
     "GF41DG"
   ],
   "broader": {
-    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4",
+    "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/KW34BM",
     "prefLabel": {
-      "en": "conservation",
-      "de": "stabilisierende Konservierung"
+      "en": "protective treatment",
+      "de": "Schutzbehandlung"
     }
   },
   "related": [

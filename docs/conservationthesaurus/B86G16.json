@@ -45,7 +45,7 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F473B6",
       "prefLabel": {
-        "de": "abgelagert"
+        "de": "belegt"
       }
     },
     {
@@ -64,6 +64,12 @@
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G57G31",
       "prefLabel": {
         "de": "biologisch bewachsen"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/RT4D3W",
+      "prefLabel": {
+        "de": "versintert"
       }
     }
   ],

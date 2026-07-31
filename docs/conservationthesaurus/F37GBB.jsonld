@@ -9,16 +9,16 @@
   ],
   "narrower": [
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26",
-      "prefLabel": {
-        "de": "Konservierung"
-      }
-    },
-    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C79561",
       "prefLabel": {
         "en": "restoration",
         "de": "Restaurierung"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26",
+      "prefLabel": {
+        "de": "Konservierung"
       }
     }
   ],

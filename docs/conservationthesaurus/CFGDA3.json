@@ -19,6 +19,13 @@
   ],
   "narrower": [
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
+      "prefLabel": {
+        "en": "restoration material",
+        "de": "Konservierungs- und Restaurierungsmaterialien"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C3A182",
       "prefLabel": {
         "de": "Nachbildung für wissenschaftliche Zwecke"
@@ -34,13 +41,6 @@
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB",
       "prefLabel": {
         "de": "[Behandlungsmethode]"
-      }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1",
-      "prefLabel": {
-        "en": "restoration material",
-        "de": "Konservierungs- und Restaurierungsmaterialien"
       }
     }
   ],

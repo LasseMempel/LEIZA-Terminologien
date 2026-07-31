@@ -55,6 +55,12 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A45RG2",
+      "prefLabel": {
+        "de": "Oberflächenbehandlung (Restaurierungsmethode)"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2",
       "prefLabel": {
         "en": "uncovering",

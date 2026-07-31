@@ -25,6 +25,12 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/AC4G35",
+      "prefLabel": {
+        "de": "Araldit M CY 212"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/BB9249",
       "prefLabel": {
         "de": "EPO-TEK 301"
@@ -46,6 +52,12 @@
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D38147",
       "prefLabel": {
         "de": "Hxtal NYL-1"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D424C4",
+      "prefLabel": {
+        "de": "Araldit XW 396"
       }
     },
     {
@@ -73,9 +85,21 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F9DB2D",
+      "prefLabel": {
+        "de": "Araldit AV 138"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G12F98",
       "prefLabel": {
         "de": "UHU Plus Endfest 300"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G26ABA",
+      "prefLabel": {
+        "de": "Araldit Häter HY 956"
       }
     }
   ],

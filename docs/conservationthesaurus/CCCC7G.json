@@ -25,6 +25,12 @@
       "prefLabel": {
         "de": "Leinöl"
       }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/RE4FS2",
+      "prefLabel": {
+        "de": "Ballistol"
+      }
     }
   ],
   "broader": {

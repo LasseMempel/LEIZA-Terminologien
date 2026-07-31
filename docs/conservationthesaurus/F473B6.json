@@ -2,12 +2,14 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/F473B6",
   "type": "Concept",
   "prefLabel": {
-    "de": "abgelagert"
+    "de": "belegt"
   },
   "altLabel": {
     "de": [
       "Ablagerung",
-      "Anlagerung"
+      "Anlagerung",
+      "ablagerungsbehaftet",
+      "bedeckt"
     ]
   },
   "definition": {
