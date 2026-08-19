@@ -104,6 +104,13 @@
       }
     },
     {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84",
+      "prefLabel": {
+        "en": "wax",
+        "de": "Wachs"
+      }
+    },
+    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/W2E45F",
       "prefLabel": {
         "de": "Feuchtehaltemittel"

@@ -983,6 +983,7 @@
         "drilling"@en .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/AC4G35> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG> ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "AC4G35" ;
@@ -3617,6 +3618,7 @@
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/D424C4> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG> ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "D424C4" ;
@@ -5133,6 +5135,7 @@
         "pitting corrosion"@en .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/F9DB2D> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG> ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "F9DB2D" ;
@@ -5696,10 +5699,11 @@
     skos:prefLabel "Technovit 5071"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/G26ABA> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG> ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "G26ABA" ;
-    skos:prefLabel "Araldit Häter HY 956"@de .
+    skos:prefLabel "Araldit Härter HY 956"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/G2944B> a skos:Concept ;
     dcterms:creator "Markus Wittköpper, LEIZA" ;
@@ -7748,7 +7752,7 @@
     dcterms:source "Hermann Kühn, Conservation and Restoration of Works of Art and Antiquities. Volume 1 (London 1986), S. 232- 234.",
         "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 220.",
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 196." ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG8FG3> ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1> ;
     skos:definition "weich, plastisches Material aus unterschiedlichen Stoffgemischen mit niedrigem Schmelzpunkt und guter Adhäsionsfähigkeit. In der Konservierung und Restaurierung wird Wachs unter anderem für die Ergänzung von Fehlstellen, als Abformmaterial bzw. als Manschette oder als Material für das freie Modellieren des fehlenden Teils, verwendet. Darüber hinaus werden modifizierte Wachse als Trennschicht bzw. Absperrschicht zwischen Materialien und als Versiegelung poröser Materialien eingesetzt."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C9AFG9>,
@@ -9157,6 +9161,17 @@
     skos:notation "DG2995" ;
     skos:prefLabel "Form"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DG8FG3> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FBFFF5> ;
+    skos:definition "Oberbegriff für leicht formbares Material, welches in der Restaurierung hauptsächlich für die Einbettung von Objekten, die Herstellung von Manschetten bzw. Formen und/oder die Erstellung von dreidimensionalen Modellen verwendet wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A2B583>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A8245D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GD5FG6> ;
+    skos:notation "DG8FG3" ;
+    skos:prefLabel "Modelliermasse"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1> a skos:Concept ;
     dcterms:creator "LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341> ;
@@ -9576,18 +9591,6 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/F646B4> ;
     skos:notation "DF7826" ;
     skos:prefLabel "Magmatit"@de .
-
-<https://www.w3id.org/archlink/terms/conservationthesaurus/DG8FG3> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FBFFF5> ;
-    skos:definition "Oberbegriff für leicht formbares Material, welches in der Restaurierung hauptsächlich für die Einbettung von Objekten, die Herstellung von Manschetten bzw. Formen und/oder die Erstellung von dreidimensionalen Modellen verwendet wird."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A2B583>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/A8245D>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GD5FG6> ;
-    skos:notation "DG8FG3" ;
-    skos:prefLabel "Modelliermasse"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
@@ -10510,6 +10513,7 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/BB78D2>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/CCCC7G>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/D9G356>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/F87124>,

@@ -27,6 +27,9 @@
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
   ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
+  ],
   "@context": {
     "@version": 1.1,
     "id": "@id",

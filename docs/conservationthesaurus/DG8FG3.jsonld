@@ -29,13 +29,6 @@
       "prefLabel": {
         "de": "Ton <Restaurierungsmaterial>"
       }
-    },
-    {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/CB4G84",
-      "prefLabel": {
-        "en": "wax",
-        "de": "Wachs"
-      }
     }
   ],
   "broader": {

@@ -2,7 +2,7 @@
   "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/G26ABA",
   "type": "Concept",
   "prefLabel": {
-    "de": "Araldit Häter HY 956"
+    "de": "Araldit Härter HY 956"
   },
   "notation": [
     "G26ABA"
@@ -26,6 +26,9 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus"
     }
+  ],
+  "creator": [
+    "Kristina Fischer/ LEIZA"
   ],
   "@context": {
     "@version": 1.1,
