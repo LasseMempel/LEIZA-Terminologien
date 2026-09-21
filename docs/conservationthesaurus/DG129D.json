@@ -24,6 +24,7 @@
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
       "title": {
+        "en": "LEIZA Conservation Thesaurus for archaeological Objects",
         "de": "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"
       }
     }

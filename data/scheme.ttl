@@ -10862,7 +10862,8 @@
         "archeology"@en,
         "conservation"@en,
         "restoration"@en ;
-    dcterms:title "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"@de ;
+    dcterms:title "Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter"@de,
+        "LEIZA Conservation Thesaurus for archaeological Objects"@en ;
     vann:preferredNamespaceUri "https://www.w3id.org/archlink/terms/conservationthesaurus/" ;
     skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/A18D95>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/C4BCF8>,
