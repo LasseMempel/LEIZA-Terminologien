@@ -632,9 +632,6 @@
     dcterms:source "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000).",
         "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 88/89." ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415> ;
-    skos:closeMatch <https://cameo.mfa.org/wiki/Brass>,
-        <https://vocab.getty.edu/aat/300010946>,
-        <https://www.wikidata.org/wiki/Q39782> ;
     skos:definition "Kupferlegierung mit mindestens 50% Kupfer und Zink als zweiten Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile (z.B. Blei) können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen. Aus diesem Grund wird es unter anderem für Goldimitationen verwendet. Messing lässt sich sehr gut gießen, ebenso gut kalt verformen sowie spanlos und spanabhebend bearbeiten, wodurch es entsprechend für die Herstellung von gegossenen Gegenständen als auch getriebenen Gefäßen verwendet wird. Messing zeigt, ebenso wie Bronze, hauptsächlich Korrosionserscheinungen entsprechend des Hauptbestandteiles Kupfer."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:notation "A8B271" ;
@@ -6927,6 +6924,7 @@
         "Wilhelm P. Bauer, Grundzüge der Metallkorrosion. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, 63–67." ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FAG415> ;
     skos:closeMatch <http://d-nb.info/gnd/4014081-7>,
+        <http://lvr.vocnet.org/wnk/wk005807>,
         <https://vocab.getty.edu/aat/30001090> ;
     skos:definition "Legierung mit Eisen als Hauptbestandteil, die aufgrund ihrer Härte und Verfügbarkeit seit der Antike weit verbreitet für die Herstellung von Werkzeugen, Waffen und landwirtschaftlichen Geräten genutzt wurde. Die Entdeckung der Eisenherstellung (Verhüttung) stellt einen wichtigen Fortschritt in der technologischen Metallverarbeitung der Menschheitsgeschichte dar und beeinflusste maßgeblich die Entwicklung und Expansion antiker Kulturen. Eisenlegierungen sind äußerst korrosionsanfällig, wobei das Korrosionsgeschehen stark von der Legierungszusammensetzung und der Gefügestruktur abhängig ist."@de ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
@@ -7603,6 +7601,7 @@
         <https://d-nb.info/gnd/4038860-8>,
         <https://vocab.getty.edu/aat/300010900> ;
     skos:definition "chemisches Element, das durch eine gute elektrische und thermische Leitfähigkeit, einen typischen Glanz sowie gute Formbarkeit mit spanlosen oder spangebenden Methoden gekennzeichnet ist. Die typischen metallischen Eigenschaften ergeben sich aus der charakteristischen Gitterstruktur des Atomaufbaus. Metalle werden bereits seit Jahrhunderten von Menschen systematisch gewonnen, bearbeitet und für Werkzeuge, Schmuck, Waffen und andere Zwecke verwendet. Sie spielen eine zentrale Rolle in der technologischen und kulturellen Entwicklung der Menschheit."@de ;
+    skos:exactMatch <http://lvr.vocnet.org/wnk/wk000101> ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/F7D3DB>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13> ;
@@ -8439,6 +8438,7 @@
     skos:closeMatch <https://cameo.mfa.org/wiki/Bronze>,
         <https://vocab.getty.edu/aat/300010957> ;
     skos:definition "Kupferlegierung mit Zinn als zweiter Hauptbestandteil. Moderne Bronzen weisen in der Regel genormte Zusammensetzungen und gezielte Legierungsbestandteile auf. In historischen Bronzen finden sich, je nach Zeitstellung und Kultur, unter Umständen sehr unterschiedliche Zusammetzungen und andere Bestandteile, wie Zink, Silber, Blei, Antimon, Arsen, etc. Zur eindeutigen metallurgischen Bestimmung wird der Begriff Bronze häufig zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet (Bleibronze, Arsenbronze, usw.). Bronze kann, je nach Legierungszusammensetzung, eine gelb-golde, rötliche bis weißliche Färbung aufweisen. Ebenso hängt die Verarbeitbarkeit maßgeblich von den Legierungszusammensetzten ab. Die Korrosionsanfälligkeit von Bronze entspricht im Wesentlichen der des Kupfers, wobei entsprechend der anderen Bestandteile weitere Korrosionserscheinungen auftreten können."@de ;
+    skos:exactMatch <http://lvr.vocnet.org/wnk/wk000557> ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A6D8BF>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/C1DGG5>,
@@ -10451,7 +10451,10 @@
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995)." ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> ;
+    skos:closeMatch <http://lvr.vocnet.org/wnk/wk000346> ;
     skos:definition "anorganischer, chemisch und physikalisch homogener Festkörper, mit meist kristalliner Struktur. Minerale entstehend durch natürliche, geologische Prozesse und zeichnen sich durch unterschiedliche charakterisierende Eigenschaften aus."@de ;
+    skos:exactMatch <http://d-nb.info/gnd/4074836-4>,
+        <http://vocab.getty.edu/aat/300011068> ;
     skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
     skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A42FG3>,
         <https://www.w3id.org/archlink/terms/conservationthesaurus/AD3B58>,

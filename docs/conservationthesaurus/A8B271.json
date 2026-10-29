@@ -18,17 +18,6 @@
       "de": "Kupferlegierung"
     }
   },
-  "closeMatch": [
-    {
-      "id": "https://cameo.mfa.org/wiki/Brass"
-    },
-    {
-      "id": "https://vocab.getty.edu/aat/300010946"
-    },
-    {
-      "id": "https://www.wikidata.org/wiki/Q39782"
-    }
-  ],
   "inScheme": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",

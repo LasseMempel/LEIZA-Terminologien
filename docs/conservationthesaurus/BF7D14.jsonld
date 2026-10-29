@@ -65,6 +65,11 @@
       "id": "https://vocab.getty.edu/aat/300010957"
     }
   ],
+  "exactMatch": [
+    {
+      "id": "http://lvr.vocnet.org/wnk/wk000557"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus",
