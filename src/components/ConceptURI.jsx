@@ -15,7 +15,10 @@ const ConceptURI = ({ id }) => {
 
   return (
     <div className="conceptURI">
-      <h2>{id}</h2>
+      <h2>
+        <strong>PID: </strong>
+        {id}
+      </h2>
       <div className="tooltip">
         <span className="tooltiptext">
           {!isCopied ? "Copy URI" : "Copied!"}
