@@ -8,6 +8,14 @@
   "notation": [
     "A341F9"
   ],
+  "narrower": [
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/C2BC6C",
+      "prefLabel": {
+        "de": "Latexschwamm"
+      }
+    }
+  ],
   "broader": {
     "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB",
     "prefLabel": {

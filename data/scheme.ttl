@@ -547,6 +547,15 @@
     skos:notation "A77283" ;
     skos:prefLabel "durchwurzelt"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A77D84> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    dcterms:source "https://deffner-johann.de/media/datasheets/2264000/DE/2264000_Technisches%20Datenblatt_Wallmaster%20Spezial-Reinigungsschwamm_DE_DJ.pdf (Zugriff: 30.10.2026)" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C2BC6C> ;
+    skos:definition "Produktname eines elastischen Reinigungsschwamms aus 100 % reinem Naturlatex ohne chemische Zusätze oder Lösemittel, vertrieben u. a. von Deffner & Johann, zur Trocken- und Nassreinigung von Oberflächen. Laut Herstellerangaben besonders zur schonenden Abnahme von Schmutz, Staub und anderen Partikeln geeignet sowie nach Reinigung in pH-neutraler Lösung wiederverwendbar; empfindlich gegenüber UV-Licht und Trockenheit, daher dunkel und leicht feucht zu lagern."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "A77D84" ;
+    skos:prefLabel "Wallmaster Spezial-Reinigungsschwamm"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A7824C> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BB8D78> ;
@@ -4509,6 +4518,17 @@
     skos:notation "DFDG2A" ;
     skos:prefLabel "Givul MR"@de .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DFF5D1> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    dcterms:source "https://deffner-johann.de/media/datasheets/2253000/DE/2253000_Technisches%20Datenblatt_akapad%20weiss%20hart%20Trockenreinigungsschwamm_DE_DJ.PDF (Zugriff: 30.10.2026)" ;
+    skos:altLabel "Wishab-Schwamm"@de,
+        "Wishab-Trockenreinigungsschwamm"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C2BC6C> ;
+    skos:definition "Produktname eines pH-neutralen, nicht abrasiven Trockenreinigungsschwamms aus synthetischem Latex und Faktis (vernetztes Raps- bzw. Rizinusöl) der Marke aka (vormals Wishab) zur schonenden Oberflächenreinigung. Laut Herstellerangaben durch Krümelbildung selbstreinigend und streifenfrei, jedoch nur für trockene, nicht abfärbende oder kreidende Oberflächen geeignet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:notation "DFF5D1" ;
+    skos:prefLabel "akapad Trockenreinigungsschwamm"@de .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/DG129D> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     dcterms:source "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007)." ;
@@ -6706,14 +6726,6 @@
     skos:prefLabel "konventionelle Radiographie"@de ;
     skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/G8D62A> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9> a skos:Concept ;
-    dcterms:creator "Kristina Fischer/ LEIZA" ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
-    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
-    skos:notation "A341F9" ;
-    skos:prefLabel "Schwamm"@de,
-        "sponge"@en .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A3CFA1> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CD1GA3> ;
@@ -7478,6 +7490,15 @@
     skos:prefLabel "Keramik"@de,
         "ceramic"@en .
 
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C2BC6C> ;
+    skos:notation "A341F9" ;
+    skos:prefLabel "Schwamm"@de,
+        "sponge"@en .
+
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A41BGB> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;
     skos:altLabel "Eindrückung"@de ;
@@ -7665,6 +7686,19 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/DD6G2G> ;
     skos:notation "BGFD79" ;
     skos:prefLabel "gebrannt"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C2BC6C> a skos:Concept ;
+    dcterms:creator "Kristina Fischer/ LEIZA" ;
+    skos:altLabel "Latex Reinigungsschwamm"@de,
+        "Latexschwämmchen"@de,
+        "Trockenreinigungsschwamm"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9> ;
+    skos:definition "Schwamm aus natürlichem oder synthetischem Latex, teils mit Zusätzen wie Faktis, zur mechanischen, nicht abrasiven Oberflächenreinigung. Lose aufliegende Verschmutzungen wie Staub, Ruß oder Schmutzfilme werden durch Haften am Schwammmaterial aufgenommen. Je nach Produkt geschieht das unter Krümelbildung (Radierschwamm) oder ohne Materialabgabe, wobei der Schwamm dann auswaschbar und wiederverwendbar ist. Überwiegend in der Trockenreinigung eingesetzt, teils auch feucht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/conservationthesaurus> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A77D84>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DFF5D1> ;
+    skos:notation "C2BC6C" ;
+    skos:prefLabel "Latexschwamm"@de .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C38B35> a skos:Concept ;
     dcterms:creator "Kristina Fischer/ LEIZA" ;

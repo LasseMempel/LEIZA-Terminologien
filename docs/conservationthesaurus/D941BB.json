@@ -101,13 +101,6 @@
       }
     },
     {
-      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9",
-      "prefLabel": {
-        "en": "sponge",
-        "de": "Schwamm"
-      }
-    },
-    {
       "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/ACB46G",
       "prefLabel": {
         "en": "porcupine bristle",
@@ -146,6 +139,13 @@
       "prefLabel": {
         "en": "acrylic scraper",
         "de": "Acrylglasschaber"
+      }
+    },
+    {
+      "id": "https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9",
+      "prefLabel": {
+        "en": "sponge",
+        "de": "Schwamm"
       }
     }
   ],
